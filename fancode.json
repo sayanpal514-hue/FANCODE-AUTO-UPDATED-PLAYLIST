@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:24:57 AM 06-04-2026",
+    "last update time": "03:05:39 AM 06-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves vs CA Osasuna",
-            "match_id": 131123,
-            "startTime": "12:30:00 AM 06-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/131123_english_hls_d08e9900cb27379_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/131123_english_hls_d08e9900cb27379_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Groups - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)",
@@ -30,48 +16,6 @@
             "startTime": "06:15:00 PM 05-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Marquee Feed - Day 4",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Marquee Feed - Day 4",
-            "match_id": 141794,
-            "startTime": "06:15:00 PM 05-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Holes - Day 4",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Holes - Day 4",
-            "match_id": 141793,
-            "startTime": "06:15:00 PM 05-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 141792,
-            "startTime": "06:15:00 PM 05-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -102,18 +46,18 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Ettifaq vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg",
-            "team_1": "Al-Ettifaq",
-            "team_2": "Al-Qadsiah FC",
+            "event_category": "Golf",
+            "title": "Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 4",
+            "team_2": "Shadow Creek Golf Club",
             "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Ettifaq vs Al-Qadsiah FC",
-            "match_id": 140724,
-            "startTime": "11:30:00 PM 05-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/index.m3u8"
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 4",
+            "match_id": 141639,
+            "startTime": "02:30:00 AM 06-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -234,18 +178,6 @@
             "match_name": "Lesotho Women vs Malawi Women",
             "match_id": 141889,
             "startTime": "01:00:00 PM 06-04-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 4",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "UPCOMING",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 4",
-            "match_id": 141639,
-            "startTime": "02:30:00 AM 06-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -498,6 +430,66 @@
             "match_name": "Chennaiyin FC vs Inter Kashi FC",
             "match_id": 141805,
             "startTime": "07:30:00 PM 07-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Vietnam U20 vs Bangladesh U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
+            "team_1": "Vietnam U20",
+            "team_2": "Bangladesh U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Vietnam U20 vs Bangladesh U20",
+            "match_id": 141624,
+            "startTime": "06:30:00 PM 07-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Thailand U20 vs China PR U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
+            "team_1": "Thailand U20",
+            "team_2": "China PR U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Thailand U20 vs China PR U20",
+            "match_id": 141623,
+            "startTime": "06:30:00 PM 07-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bromley vs Shrewsbury Town (League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "Bromley",
+            "team_2": "Shrewsbury Town",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "Bromley vs Shrewsbury Town",
+            "match_id": 141427,
+            "startTime": "12:30:00 AM 08-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Nashville SC",
+            "team_2": "Club Am\u00e9rica",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Nashville SC vs Club Am\u00e9rica",
+            "match_id": 141880,
+            "startTime": "05:30:00 AM 08-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
+            "team_1": "Malaysia A",
+            "team_2": "Hong Kong, China-A",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
+            "match_name": "Malaysia A vs Hong Kong, China-A",
+            "match_id": 141775,
+            "startTime": "07:00:00 AM 08-04-2026"
         }
     ]
 }
