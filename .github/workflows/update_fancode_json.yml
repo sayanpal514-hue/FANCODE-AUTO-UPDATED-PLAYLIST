@@ -22,7 +22,7 @@ jobs:
 
       - name: Configure Git User
         run: |
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name "sayanpal514-hue"
           git config --global user.email "223531683+sayanpal514-hue@users.noreply.github.com"
 
       - name: Sync and Update Log
