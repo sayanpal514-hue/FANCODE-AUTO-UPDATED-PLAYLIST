@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:34:01 AM 06-04-2026",
+    "last update time": "01:25:43 PM 06-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,17 +19,31 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Iconic Super Knights vs Sydney Kangaroos (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg",
-            "team_1": "Iconic Super Knights",
-            "team_2": "Sydney Kangaroos",
+            "title": "Botswana Women vs Brazil Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Botswana Women",
+            "team_2": "Brazil Women",
             "status": "LIVE",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Iconic Super Knights vs Sydney Kangaroos",
-            "match_id": 141745,
-            "startTime": "08:30:00 AM 06-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141745_english_hls_cbaeb9215243478_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141745_english_hls_cbaeb9215243478_1ta-di_h264/index.m3u8"
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Botswana Women vs Brazil Women",
+            "match_id": 141888,
+            "startTime": "12:45:00 PM 06-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/141888_english_hls_59202edd9186379_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/141888_english_hls_59202edd9186379_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lesotho Women vs Malawi Women (Kalahari Women's T20 2026)",
+            "src": "https://images.fancode.com/aig/match/v1775460202141/141889_CASACARDS_APP.png",
+            "team_1": "Lesotho Women",
+            "team_2": "Malawi Women",
+            "status": "LIVE",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Lesotho Women vs Malawi Women",
+            "match_id": 141889,
+            "startTime": "01:00:00 PM 06-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/141889_english_hls_d3cccef47651125_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/141889_english_hls_d3cccef47651125_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -37,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg",
             "team_1": "Namibia",
             "team_2": "Scotland",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC CWC League 2, Namibia",
             "match_name": "Namibia vs Scotland",
             "match_id": 141648,
-            "startTime": "01:00:00 PM 06-04-2026"
+            "startTime": "01:00:00 PM 06-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -49,11 +65,37 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141746_6028_BRS_BNA_FC-WEB.jpg",
             "team_1": "Brisbane Stars",
             "team_2": "Brisbane Napoleans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Brisbane Stars vs Brisbane Napoleans",
             "match_id": 141746,
-            "startTime": "01:30:00 PM 06-04-2026"
+            "startTime": "01:30:00 PM 06-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141746_english_hls_6300f1227691104_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141746_english_hls_6300f1227691104_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mozambique Women vs Zambia Women (Kalahari Women's T20 2026)",
+            "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
+            "team_1": "Mozambique Women",
+            "team_2": "Zambia Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Mozambique Women vs Zambia Women",
+            "match_id": 141890,
+            "startTime": "05:30:00 PM 06-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Botswana Women vs Lesotho Women (Kalahari Women's T20 2026)",
+            "src": "https://images.fancode.com/aig/match/v1775460202141/141891_CASACARDS_APP.png",
+            "team_1": "Botswana Women",
+            "team_2": "Lesotho Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Botswana Women vs Lesotho Women",
+            "match_id": 141891,
+            "startTime": "05:45:00 PM 06-04-2026"
         },
         {
             "event_category": "Football",
@@ -141,51 +183,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Botswana Women vs Brazil Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Botswana Women",
-            "team_2": "Brazil Women",
+            "title": "Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
+            "team_1": "Everest Falcons",
+            "team_2": "Perth United Warriors",
             "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Botswana Women vs Brazil Women",
-            "match_id": 141888,
-            "startTime": "12:45:00 PM 06-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lesotho Women vs Malawi Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Lesotho Women",
-            "team_2": "Malawi Women",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Lesotho Women vs Malawi Women",
-            "match_id": 141889,
-            "startTime": "01:00:00 PM 06-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mozambique Women vs Zambia Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Mozambique Women",
-            "team_2": "Zambia Women",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Mozambique Women vs Zambia Women",
-            "match_id": 141890,
-            "startTime": "05:30:00 PM 06-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Botswana Women vs Lesotho Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Botswana Women",
-            "team_2": "Lesotho Women",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Botswana Women vs Lesotho Women",
-            "match_id": 141891,
-            "startTime": "05:45:00 PM 06-04-2026"
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Everest Falcons vs Perth United Warriors",
+            "match_id": 141747,
+            "startTime": "09:30:00 AM 07-04-2026"
         },
         {
             "event_category": "Football",
@@ -201,15 +207,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
-            "team_1": "Everest Falcons",
-            "team_2": "Perth United Warriors",
+            "title": "Brazil Women vs Malawi Women (Kalahari Women's T20 2026)",
+            "src": "https://images.fancode.com/aig/match/v1775460202143/141892_CASACARDS_APP.png",
+            "team_1": "Brazil Women",
+            "team_2": "Malawi Women",
             "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Everest Falcons vs Perth United Warriors",
-            "match_id": 141747,
-            "startTime": "09:30:00 AM 07-04-2026"
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Brazil Women vs Malawi Women",
+            "match_id": 141892,
+            "startTime": "12:45:00 PM 07-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Botswana Women vs Mozambique Women (Kalahari Women's T20 2026)",
+            "src": "https://images.fancode.com/aig/match/v1775460202138/141893_CASACARDS_APP.png",
+            "team_1": "Botswana Women",
+            "team_2": "Mozambique Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Botswana Women vs Mozambique Women",
+            "match_id": 141893,
+            "startTime": "01:00:00 PM 07-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -261,32 +279,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Brazil Women vs Malawi Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Brazil Women",
-            "team_2": "Malawi Women",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women vs Malawi Women",
-            "match_id": 141892,
-            "startTime": "12:45:00 PM 07-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Botswana Women vs Mozambique Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Botswana Women",
-            "team_2": "Mozambique Women",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Botswana Women vs Mozambique Women",
-            "match_id": 141893,
-            "startTime": "01:00:00 PM 07-04-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Lesotho Women vs Zambia Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://images.fancode.com/aig/match/v1775460202131/141894_CASACARDS_APP.png",
             "team_1": "Lesotho Women",
             "team_2": "Zambia Women",
             "status": "UPCOMING",
@@ -298,7 +292,7 @@
         {
             "event_category": "Cricket",
             "title": "Brazil Women vs Mozambique Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://images.fancode.com/aig/match/v1775460202137/141895_CASACARDS_APP.png",
             "team_1": "Brazil Women",
             "team_2": "Mozambique Women",
             "status": "UPCOMING",
@@ -474,6 +468,18 @@
             "match_name": "Sri Lanka A vs New Zealand A",
             "match_id": 141799,
             "startTime": "10:00:00 AM 08-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Botswana Women vs Malawi Women (Kalahari Women's T20 2026)",
+            "src": "https://images.fancode.com/aig/match/v1775460202130/141896_CASACARDS_APP.png",
+            "team_1": "Botswana Women",
+            "team_2": "Malawi Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Botswana Women vs Malawi Women",
+            "match_id": 141896,
+            "startTime": "12:45:00 PM 08-04-2026"
         },
         {
             "event_category": "Cricket",
