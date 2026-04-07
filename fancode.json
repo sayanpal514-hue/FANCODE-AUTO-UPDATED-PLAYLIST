@@ -1,21 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:56:21 PM 07-04-2026",
+    "last update time": "06:07:18 PM 07-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
-            "team_1": "Everest Falcons",
-            "team_2": "Perth United Warriors",
+            "title": "Lesotho Women vs Zambia Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
+            "team_1": "Lesotho Women",
+            "team_2": "Zambia Women",
             "status": "LIVE",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Everest Falcons vs Perth United Warriors",
-            "match_id": 141747,
-            "startTime": "01:30:00 PM 07-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141747_english_hls_20df4d0dd660812_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141747_english_hls_20df4d0dd660812_1ta-di_h264/index.m3u8"
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Lesotho Women vs Zambia Women",
+            "match_id": 141894,
+            "startTime": "05:30:00 PM 07-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141894_english_hls_6c82b32aff15066_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141894_english_hls_6c82b32aff15066_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brazil Women vs Mozambique Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
+            "team_1": "Brazil Women",
+            "team_2": "Mozambique Women",
+            "status": "LIVE",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Brazil Women vs Mozambique Women",
+            "match_id": 141895,
+            "startTime": "05:45:00 PM 07-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141895_english_hls_dfb922a04866200_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141895_english_hls_dfb922a04866200_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -88,28 +102,28 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141946_english_hls_eb943eb8de6727_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Lesotho Women vs Zambia Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
-            "team_1": "Lesotho Women",
-            "team_2": "Zambia Women",
+            "event_category": "Football",
+            "title": "Vietnam U20 vs Bangladesh U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
+            "team_1": "Vietnam U20",
+            "team_2": "Bangladesh U20",
             "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Lesotho Women vs Zambia Women",
-            "match_id": 141894,
-            "startTime": "05:30:00 PM 07-04-2026"
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Vietnam U20 vs Bangladesh U20",
+            "match_id": 141624,
+            "startTime": "06:30:00 PM 07-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Brazil Women vs Mozambique Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
-            "team_1": "Brazil Women",
-            "team_2": "Mozambique Women",
+            "event_category": "Football",
+            "title": "Thailand U20 vs China PR U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
+            "team_1": "Thailand U20",
+            "team_2": "China PR U20",
             "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women vs Mozambique Women",
-            "match_id": 141895,
-            "startTime": "05:45:00 PM 07-04-2026"
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Thailand U20 vs China PR U20",
+            "match_id": 141623,
+            "startTime": "06:30:00 PM 07-04-2026"
         },
         {
             "event_category": "Football",
@@ -172,42 +186,6 @@
             "startTime": "10:00:00 AM 08-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Vietnam U20 vs Bangladesh U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
-            "team_1": "Vietnam U20",
-            "team_2": "Bangladesh U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Vietnam U20 vs Bangladesh U20",
-            "match_id": 141624,
-            "startTime": "06:30:00 PM 07-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Thailand U20 vs China PR U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
-            "team_1": "Thailand U20",
-            "team_2": "China PR U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Thailand U20 vs China PR U20",
-            "match_id": 141623,
-            "startTime": "06:30:00 PM 07-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bromley vs Shrewsbury Town (League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-            "team_1": "Bromley",
-            "team_2": "Shrewsbury Town",
-            "status": "UPCOMING",
-            "event_name": "League Two 2025-26",
-            "match_name": "Bromley vs Shrewsbury Town",
-            "match_id": 141427,
-            "startTime": "12:30:00 AM 08-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Botswana Women vs Malawi Women (Kalahari Women's T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
@@ -244,18 +222,6 @@
             "startTime": "01:00:00 PM 08-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Nashville SC",
-            "team_2": "Club Am\u00e9rica",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Nashville SC vs Club Am\u00e9rica",
-            "match_id": 141880,
-            "startTime": "05:30:00 AM 08-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sydney Kangaroos vs Brisbane Napoleans (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg",
@@ -269,8 +235,32 @@
         },
         {
             "event_category": "Football",
+            "title": "Bromley vs Shrewsbury Town (League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "Bromley",
+            "team_2": "Shrewsbury Town",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "Bromley vs Shrewsbury Town",
+            "match_id": 141427,
+            "startTime": "12:30:00 AM 08-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+            "src": "https://images.fancode.com/aig/match/v1775564775429/141880_CASACARDS_APP.png",
+            "team_1": "Nashville SC",
+            "team_2": "Club Am\u00e9rica",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Nashville SC vs Club Am\u00e9rica",
+            "match_id": 141880,
+            "startTime": "05:30:00 AM 08-04-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1775564775425/141881_CASACARDS_APP.png",
             "team_1": "Los Angeles FC",
             "team_2": "Cruz Azul",
             "status": "UPCOMING",
@@ -290,6 +280,18 @@
             "match_name": "Lesotho Women vs Mozambique Women",
             "match_id": 141898,
             "startTime": "05:30:00 PM 08-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Botswana Women vs Zambia Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Botswana Women",
+            "team_2": "Zambia Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Botswana Women vs Zambia Women",
+            "match_id": 141899,
+            "startTime": "05:45:00 PM 08-04-2026"
         },
         {
             "event_category": "Football",
@@ -316,21 +318,9 @@
             "startTime": "02:30:00 PM 08-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Botswana Women vs Zambia Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Botswana Women",
-            "team_2": "Zambia Women",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Botswana Women vs Zambia Women",
-            "match_id": 141899,
-            "startTime": "05:45:00 PM 08-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Gamba Osaka vs Bangkok United (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1775564673919/140871_CASACARDS_APP.png",
             "team_1": "Gamba Osaka",
             "team_2": "Bangkok United",
             "status": "UPCOMING",
@@ -438,7 +428,7 @@
         {
             "event_category": "Football",
             "title": "Tigres vs Seattle Sounders FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1775564775430/141882_CASACARDS_APP.png",
             "team_1": "Tigres",
             "team_2": "Seattle Sounders FC",
             "status": "UPCOMING",
@@ -462,7 +452,7 @@
         {
             "event_category": "Football",
             "title": "Toluca vs LA Galaxy (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1775564775424/141883_CASACARDS_APP.png",
             "team_1": "Toluca",
             "team_2": "LA Galaxy",
             "status": "UPCOMING",
@@ -482,6 +472,18 @@
             "match_name": "Malawi Women vs Mozambique Women",
             "match_id": 141900,
             "startTime": "12:45:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brazil Women vs Lesotho Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Brazil Women",
+            "team_2": "Lesotho Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Brazil Women vs Lesotho Women",
+            "match_id": 141901,
+            "startTime": "01:00:00 PM 09-04-2026"
         }
     ]
 }
