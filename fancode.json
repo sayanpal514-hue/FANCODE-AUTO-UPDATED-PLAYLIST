@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:28:26 AM 07-04-2026",
+    "last update time": "09:30:32 AM 07-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141749_6028_GER_NYL_FC-WEB.jpg",
             "team_1": "Genid Royals",
             "team_2": "New York Liberty XI",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Genid Royals vs New York Liberty XI",
             "match_id": 141749,
-            "startTime": "08:30:00 AM 07-04-2026"
+            "startTime": "08:30:00 AM 07-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141749_english_hls_f9b743a08d77850_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141749_english_hls_f9b743a08d77850_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -148,6 +150,18 @@
             "startTime": "07:00:00 AM 08-04-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Genid Royals vs Everest Falcons (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141742_6028_GER_EVF_FC-WEB.jpg",
+            "team_1": "Genid Royals",
+            "team_2": "Everest Falcons",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Genid Royals vs Everest Falcons",
+            "match_id": 141742,
+            "startTime": "08:30:00 AM 08-04-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -161,15 +175,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Genid Royals vs Everest Falcons (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141742_6028_GER_EVF_FC-WEB.jpg",
-            "team_1": "Genid Royals",
-            "team_2": "Everest Falcons",
+            "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
+            "team_1": "Sri Lanka A",
+            "team_2": "New Zealand A",
             "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Genid Royals vs Everest Falcons",
-            "match_id": 141742,
-            "startTime": "08:30:00 AM 08-04-2026"
+            "event_name": "New Zealand A Tour of Sri Lanka 2026",
+            "match_name": "Sri Lanka A vs New Zealand A",
+            "match_id": 141799,
+            "startTime": "10:00:00 AM 08-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Los Angeles FC",
+            "team_2": "Cruz Azul",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Los Angeles FC vs Cruz Azul",
+            "match_id": 141881,
+            "startTime": "07:30:00 AM 08-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -218,30 +244,6 @@
             "match_name": "Court des Princes",
             "match_id": 141663,
             "startTime": "02:30:00 PM 07-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Los Angeles FC",
-            "team_2": "Cruz Azul",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles FC vs Cruz Azul",
-            "match_id": 141881,
-            "startTime": "07:30:00 AM 08-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
-            "team_1": "Sri Lanka A",
-            "team_2": "New Zealand A",
-            "status": "UPCOMING",
-            "event_name": "New Zealand A Tour of Sri Lanka 2026",
-            "match_name": "Sri Lanka A vs New Zealand A",
-            "match_id": 141799,
-            "startTime": "10:00:00 AM 08-04-2026"
         },
         {
             "event_category": "Cricket",
