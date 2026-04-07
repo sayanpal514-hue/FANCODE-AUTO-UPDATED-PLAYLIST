@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:38:30 PM 07-04-2026",
+    "last update time": "09:09:42 PM 07-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Lesotho Women vs Zambia Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
-            "team_1": "Lesotho Women",
-            "team_2": "Zambia Women",
-            "status": "LIVE",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Lesotho Women vs Zambia Women",
-            "match_id": 141894,
-            "startTime": "05:30:00 PM 07-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141894_english_hls_6c82b32aff15066_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141894_english_hls_6c82b32aff15066_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brazil Women vs Mozambique Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
-            "team_1": "Brazil Women",
-            "team_2": "Mozambique Women",
-            "status": "LIVE",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women vs Mozambique Women",
-            "match_id": 141895,
-            "startTime": "05:45:00 PM 07-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141895_english_hls_dfb922a04866200_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141895_english_hls_dfb922a04866200_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Chennaiyin FC vs Inter Kashi (ISL 2025-26)",
@@ -58,48 +30,6 @@
             "startTime": "07:30:00 PM 07-04-2026",
             "dai_url": "https://dai-partner.fancode.com/primary/141805_tamil_hls_d5280afba171364_1ta-di_h264/index.m3u8",
             "adfree_url": "https://dai-partner.fancode.com/primary/141805_tamil_hls_d5280afba171364_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vietnam U20 vs Bangladesh U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
-            "team_1": "Vietnam U20",
-            "team_2": "Bangladesh U20",
-            "status": "LIVE",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Vietnam U20 vs Bangladesh U20",
-            "match_id": 141624,
-            "startTime": "06:30:00 PM 07-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141624_english_hls_b4922472f031833_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141624_english_hls_b4922472f031833_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Thailand U20 vs China PR U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
-            "team_1": "Thailand U20",
-            "team_2": "China PR U20",
-            "status": "LIVE",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Thailand U20 vs China PR U20",
-            "match_id": 141623,
-            "startTime": "06:30:00 PM 07-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141623_english_hls_3b3b4ef30145979_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141623_english_hls_3b3b4ef30145979_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court EA de Massy",
-            "team_2": "Monte-Carlo",
-            "status": "LIVE",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court EA de Massy",
-            "match_id": 141666,
-            "startTime": "02:30:00 PM 07-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141666_english_hls_62dfe1360970694_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141666_english_hls_62dfe1360970694_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -480,6 +410,66 @@
             "match_name": "Malawi Women vs Mozambique Women",
             "match_id": 141900,
             "startTime": "12:45:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brazil Women vs Lesotho Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Brazil Women",
+            "team_2": "Lesotho Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Brazil Women vs Lesotho Women",
+            "match_id": 141901,
+            "startTime": "01:00:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sydney Kangaroos vs Brisbane Stars (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg",
+            "team_1": "Sydney Kangaroos",
+            "team_2": "Brisbane Stars",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Sydney Kangaroos vs Brisbane Stars",
+            "match_id": 141750,
+            "startTime": "01:30:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malawi Women vs Zambia Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Malawi Women",
+            "team_2": "Zambia Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Malawi Women vs Zambia Women",
+            "match_id": 141902,
+            "startTime": "05:30:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 141903,
+            "startTime": "05:45:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court des Princes vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Court des Princes",
+            "team_2": "Monaco",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court des Princes",
+            "match_id": 141914,
+            "startTime": "02:30:00 PM 09-04-2026"
         }
     ]
 }
