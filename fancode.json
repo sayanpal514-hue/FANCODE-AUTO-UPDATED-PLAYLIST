@@ -1,61 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:14 PM 08-04-2026",
+    "last update time": "12:21:11 AM 09-04-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Monte-Carlo",
-            "status": "LIVE",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "World Feed",
-            "match_id": 141670,
-            "startTime": "02:30:00 PM 08-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141670_english_hls_405235b21c67435_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141670_english_hls_405235b21c67435_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court Ranier III",
-            "team_2": "Monte-Carlo",
-            "status": "LIVE",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court Ranier III",
-            "match_id": 141669,
-            "startTime": "02:30:00 PM 08-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141669_english_hls_b05cdbd5fd30470_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141669_english_hls_b05cdbd5fd30470_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court EA de Massy",
-            "team_2": "Monte-Carlo",
-            "status": "LIVE",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court EA de Massy",
-            "match_id": 141668,
-            "startTime": "02:30:00 PM 08-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141668_english_hls_b00e126fa09178_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141668_english_hls_b00e126fa09178_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al Hilal SFC vs Al-Kholood Club (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140725_5655_AHS_ALK_fc-web.jpg",
             "team_1": "Al Hilal SFC",
             "team_2": "Al-Kholood Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Roshn Saudi League 2025-2026",
             "match_name": "Al Hilal SFC vs Al-Kholood Club",
             "match_id": 140725,
-            "startTime": "11:30:00 PM 08-04-2026"
+            "startTime": "11:30:00 PM 08-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140725_english_hls_359f44fc0b39544_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140725_english_hls_359f44fc0b39544_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -155,18 +115,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Toluca vs LA Galaxy (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141883_5954_TOL_LAG_FC-Web.png",
-            "team_1": "Toluca",
-            "team_2": "LA Galaxy",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Toluca vs LA Galaxy",
-            "match_id": 141883,
-            "startTime": "08:30:00 AM 09-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Jamshedpur FC vs Mumbai City FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140479_5956_JFC_MCFC_FC-Web_1772460771796.jpg",
             "team_1": "Jamshedpur FC",
@@ -176,6 +124,18 @@
             "match_name": "Jamshedpur FC vs Mumbai City FC",
             "match_id": 140479,
             "startTime": "07:30:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Toluca vs LA Galaxy (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141883_5954_TOL_LAG_FC-Web.png",
+            "team_1": "Toluca",
+            "team_2": "LA Galaxy",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Toluca vs LA Galaxy",
+            "match_id": 141883,
+            "startTime": "08:30:00 AM 09-04-2026"
         },
         {
             "event_category": "Football",
@@ -464,6 +424,42 @@
             "match_name": "Sri Lanka A vs New Zealand A",
             "match_id": 141800,
             "startTime": "10:00:00 AM 11-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Melbourne Victory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland vs Melbourne Victory",
+            "match_id": 140930,
+            "startTime": "10:30:00 AM 11-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 141908,
+            "startTime": "01:00:00 PM 11-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Iconic Super Knights vs Melbourne Tuskers (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Melbourne Tuskers",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Iconic Super Knights vs Melbourne Tuskers",
+            "match_id": 141754,
+            "startTime": "01:30:00 PM 11-04-2026"
         }
     ]
 }
