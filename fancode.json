@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:23:06 PM 08-04-2026",
+    "last update time": "03:44:10 PM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -100,6 +100,20 @@
             "startTime": "02:30:00 PM 08-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141625_english_hls_5bb12f4bd765686_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141625_english_hls_5bb12f4bd765686_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs Bangkok United (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140871_5648_OSK_BU_FC-WEB.jpg",
+            "team_1": "Gamba Osaka",
+            "team_2": "Bangkok United",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Gamba Osaka vs Bangkok United",
+            "match_id": 140871,
+            "startTime": "03:30:00 PM 08-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140871_english_hls_2e5aaf409842962_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140871_english_hls_2e5aaf409842962_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -219,18 +233,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Gamba Osaka vs Bangkok United (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140871_5648_OSK_BU_FC-WEB.jpg",
-            "team_1": "Gamba Osaka",
-            "team_2": "Bangkok United",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Gamba Osaka vs Bangkok United",
-            "match_id": 140871,
-            "startTime": "03:30:00 PM 08-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Uzbekistan U20 vs Jordan U20 (AFC U20 Women's Asian Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141628_6021_UZ-U20_JOR-U20_FC-Web.png",
             "team_1": "Uzbekistan U20",
@@ -254,18 +256,6 @@
             "startTime": "06:30:00 PM 08-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Tigres vs Seattle Sounders FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141882_5954_TIG_SS_FC-Web.png",
-            "team_1": "Tigres",
-            "team_2": "Seattle Sounders FC",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Tigres vs Seattle Sounders FC",
-            "match_id": 141882,
-            "startTime": "06:30:00 AM 09-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malawi Women vs Mozambique Women (Kalahari Women's T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
@@ -276,6 +266,18 @@
             "match_name": "Malawi Women vs Mozambique Women",
             "match_id": 141900,
             "startTime": "12:45:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tigres vs Seattle Sounders FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141882_5954_TIG_SS_FC-Web.png",
+            "team_1": "Tigres",
+            "team_2": "Seattle Sounders FC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Tigres vs Seattle Sounders FC",
+            "match_id": 141882,
+            "startTime": "06:30:00 AM 09-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -290,18 +292,6 @@
             "startTime": "01:00:00 PM 09-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Toluca vs LA Galaxy (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141883_5954_TOL_LAG_FC-Web.png",
-            "team_1": "Toluca",
-            "team_2": "LA Galaxy",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Toluca vs LA Galaxy",
-            "match_id": 141883,
-            "startTime": "08:30:00 AM 09-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sydney Kangaroos vs Brisbane Stars (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg",
@@ -312,6 +302,18 @@
             "match_name": "Sydney Kangaroos vs Brisbane Stars",
             "match_id": 141750,
             "startTime": "01:30:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Toluca vs LA Galaxy (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141883_5954_TOL_LAG_FC-Web.png",
+            "team_1": "Toluca",
+            "team_2": "LA Galaxy",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Toluca vs LA Galaxy",
+            "match_id": 141883,
+            "startTime": "08:30:00 AM 09-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -348,6 +350,18 @@
             "match_name": "Jamshedpur FC vs Mumbai City FC",
             "match_id": 140479,
             "startTime": "07:30:00 PM 09-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Damac vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140727_5655_DAM_ALQ_fc-web.jpg",
+            "team_1": "Damac",
+            "team_2": "Al-Qadsiah FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Damac vs Al-Qadsiah FC",
+            "match_id": 140727,
+            "startTime": "09:30:00 PM 09-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -396,18 +410,6 @@
             "match_name": "World Feed",
             "match_id": 141911,
             "startTime": "02:30:00 PM 09-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Damac vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140727_5655_DAM_ALQ_fc-web.jpg",
-            "team_1": "Damac",
-            "team_2": "Al-Qadsiah FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Damac vs Al-Qadsiah FC",
-            "match_id": 140727,
-            "startTime": "09:30:00 PM 09-04-2026"
         },
         {
             "event_category": "Golf",
