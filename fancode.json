@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:19:37 PM 09-04-2026",
+    "last update time": "01:40:39 PM 09-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
             "team_1": "Malawi Women",
             "team_2": "Mozambique Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Kalahari Women's T20 2026",
             "match_name": "Malawi Women vs Mozambique Women",
             "match_id": 141900,
-            "startTime": "12:45:00 PM 09-04-2026"
+            "startTime": "12:45:00 PM 09-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141900_english_hls_ce173111b177897_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141900_english_hls_ce173111b177897_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
             "team_1": "Brazil Women",
             "team_2": "Lesotho Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Kalahari Women's T20 2026",
             "match_name": "Brazil Women vs Lesotho Women",
             "match_id": 141901,
-            "startTime": "01:00:00 PM 09-04-2026"
+            "startTime": "01:00:00 PM 09-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141901_english_hls_860b77901375949_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141901_english_hls_860b77901375949_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -47,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg",
             "team_1": "Sydney Kangaroos",
             "team_2": "Brisbane Stars",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Sydney Kangaroos vs Brisbane Stars",
             "match_id": 141750,
-            "startTime": "01:30:00 PM 09-04-2026"
+            "startTime": "01:30:00 PM 09-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -114,54 +120,6 @@
             "startTime": "08:30:00 AM 10-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141904,
-            "startTime": "12:45:00 PM 10-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Oman (ICC CWC League 2, Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Oman",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Namibia vs Oman",
-            "match_id": 141650,
-            "startTime": "01:00:00 PM 10-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141905,
-            "startTime": "01:00:00 PM 10-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg",
-            "team_1": "Iconic Super Knights",
-            "team_2": "Brisbane Stars",
-            "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Iconic Super Knights vs Brisbane Stars",
-            "match_id": 141752,
-            "startTime": "01:30:00 PM 10-04-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "Court des Princes vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -210,6 +168,54 @@
             "startTime": "02:30:00 PM 09-04-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 141904,
+            "startTime": "12:45:00 PM 10-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Oman (ICC CWC League 2, Namibia)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Oman",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Namibia vs Oman",
+            "match_id": 141650,
+            "startTime": "01:00:00 PM 10-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 141905,
+            "startTime": "01:00:00 PM 10-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Brisbane Stars",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Iconic Super Knights vs Brisbane Stars",
+            "match_id": 141752,
+            "startTime": "01:30:00 PM 10-04-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 1 vs Georgia, USA (The Augusta Masters 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
@@ -223,18 +229,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Central Coast Mariners vs Brisbane Roar (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Brisbane Roar",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Central Coast Mariners vs Brisbane Roar",
-            "match_id": 140929,
-            "startTime": "03:05:00 PM 10-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "NorthEast United FC vs Sporting Club Delhi (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg",
             "team_1": "NorthEast United FC",
@@ -244,6 +238,18 @@
             "match_name": "NorthEast United FC vs Sporting Club Delhi",
             "match_id": 140480,
             "startTime": "05:00:00 PM 10-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Central Coast Mariners vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Central Coast Mariners vs Brisbane Roar",
+            "match_id": 140929,
+            "startTime": "03:05:00 PM 10-04-2026"
         },
         {
             "event_category": "Cricket",
