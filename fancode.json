@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:22:42 AM 11-04-2026",
+    "last update time": "09:04:41 AM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141756_6028_PUW_MEP_FC-WEB.jpg",
             "team_1": "Perth United Warriors",
             "team_2": "Melbourne Pirates",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Perth United Warriors vs Melbourne Pirates",
             "match_id": 141756,
-            "startTime": "08:30:00 AM 11-04-2026"
+            "startTime": "08:30:00 AM 11-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141756_english_hls_0a6a135fa620783_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141756_english_hls_0a6a135fa620783_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -26,6 +28,18 @@
             "match_name": "Sri Lanka A vs New Zealand A",
             "match_id": 141800,
             "startTime": "10:00:00 AM 11-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Botswana Women vs Mozambique Women (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Botswana Women",
+            "team_2": "Mozambique Women",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Botswana Women vs Mozambique Women",
+            "match_id": 141903,
+            "startTime": "12:45:00 PM 11-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -389,18 +403,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140728_5655_AKH_AHS_fc-web.jpg",
-            "team_1": "Al-Khaleej",
-            "team_2": "Al Hilal SFC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Khaleej vs Al Hilal SFC",
-            "match_id": 140728,
-            "startTime": "09:10:00 PM 11-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Perth Glory vs Macarthur (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg",
             "team_1": "Perth Glory",
@@ -445,6 +447,18 @@
             "event_name": "ISL 2025-26",
             "match_name": "Inter Kashi vs Mohammedan SC",
             "match_id": 140484,
+            "startTime": "05:00:00 PM 12-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional)",
+            "src": "https://images.fancode.com/aig/match/v1775535874179/141810_CASACARDS_APP.png",
+            "team_1": "Inter Kashi",
+            "team_2": "Mohammedan SC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Inter Kashi vs Mohammedan SC",
+            "match_id": 141810,
             "startTime": "05:00:00 PM 12-04-2026"
         }
     ]
