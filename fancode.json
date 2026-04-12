@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:29:10 PM 12-04-2026",
+    "last update time": "05:09:46 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 PM 12-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
-            "team_1": "Melbourne Pirates",
-            "team_2": "Everest Falcons",
-            "status": "LIVE",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Pirates vs Everest Falcons",
-            "match_id": 141753,
-            "startTime": "01:30:00 PM 12-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141753_english_hls_65ac4e962c17903_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141753_english_hls_65ac4e962c17903_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -47,31 +33,45 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory vs Macarthur (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Macarthur",
+            "title": "Inter Kashi vs Mohammedan SC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg",
+            "team_1": "Inter Kashi",
+            "team_2": "Mohammedan SC",
             "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory vs Macarthur",
-            "match_id": 140934,
-            "startTime": "02:30:00 PM 12-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140934_english_hls_cf7169261a18110_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140934_english_hls_cf7169261a18110_1ta-di_h264/index.m3u8"
+            "event_name": "ISL 2025-26",
+            "match_name": "Inter Kashi vs Mohammedan SC",
+            "match_id": 140484,
+            "startTime": "05:00:00 PM 12-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/140484_english_hls_d7caf30be032030_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/140484_english_hls_d7caf30be032030_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
-            "title": "DPR Korea U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-            "team_1": "DPR Korea U20",
-            "team_2": "Australia U20",
+            "title": "Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141810_5973_KSHI_MSC_fc-web.jpg",
+            "team_1": "Inter Kashi",
+            "team_2": "Mohammedan SC",
             "status": "LIVE",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "DPR Korea U20 vs Australia U20",
-            "match_id": 141631,
-            "startTime": "02:30:00 PM 12-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141631_english_hls_b13f921dd060222_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141631_english_hls_b13f921dd060222_1ta-di_h264/index.m3u8"
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Inter Kashi vs Mohammedan SC",
+            "match_id": 141810,
+            "startTime": "05:00:00 PM 12-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/141810_bengali_hls_4557b951c531826_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/141810_bengali_hls_4557b951c531826_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "CA Osasuna vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131139_5427_OSN_RB_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Real Betis",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs Real Betis",
+            "match_id": 131139,
+            "startTime": "05:30:00 PM 12-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/131139_english_hls_dc5475fa8184179_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/131139_english_hls_dc5475fa8184179_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -86,42 +86,6 @@
             "startTime": "03:30:00 PM 12-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141923_english_hls_abe257e47c94881_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141923_english_hls_abe257e47c94881_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Inter Kashi vs Mohammedan SC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg",
-            "team_1": "Inter Kashi",
-            "team_2": "Mohammedan SC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Inter Kashi vs Mohammedan SC",
-            "match_id": 140484,
-            "startTime": "05:00:00 PM 12-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141810_5973_KSHI_MSC_fc-web.jpg",
-            "team_1": "Inter Kashi",
-            "team_2": "Mohammedan SC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "Inter Kashi vs Mohammedan SC",
-            "match_id": 141810,
-            "startTime": "05:00:00 PM 12-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "CA Osasuna vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131139_5427_OSN_RB_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Real Betis",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Real Betis",
-            "match_id": 131139,
-            "startTime": "05:30:00 PM 12-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -470,6 +434,42 @@
             "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
             "match_id": 141826,
             "startTime": "05:30:00 PM 14-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - BMW Open by Bitpanda 2026 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "ATP 500 - BMW Open by Bitpanda 2026",
+            "team_2": "Munich, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_id": 141841,
+            "startTime": "05:30:00 PM 14-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - BMW Open by Bitpanda 2026 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "ATP 500 - BMW Open by Bitpanda 2026",
+            "team_2": "Munich, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_id": 141840,
+            "startTime": "05:30:00 PM 14-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Qadsiah FC vs Al-Shabab FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140730_5655_ALQ_ASF_fc-web.jpg",
+            "team_1": "Al-Qadsiah FC",
+            "team_2": "Al-Shabab FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Qadsiah FC vs Al-Shabab FC",
+            "match_id": 140730,
+            "startTime": "11:30:00 PM 14-04-2026"
         }
     ]
 }
