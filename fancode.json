@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:59 PM 13-04-2026",
+    "last update time": "12:23:56 AM 14-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al-Ahli Saudi FC vs Al Duhail (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140854_5647_AAS_ADH_FC-WEB.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Al Duhail",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al-Ahli Saudi FC vs Al Duhail",
-            "match_id": 140854,
-            "startTime": "08:15:00 PM 13-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140854_english_hls_9ab1941657296_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140854_english_hls_9ab1941657296_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Al Hilal SFC vs Al Sadd (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140858_5647_AHS_SDD_FC-WEB_1772186883531.png",
             "team_1": "Al Hilal SFC",
@@ -74,18 +60,18 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140858_english_hls_e7ac0fa75220228_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "World Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Barcelona",
+            "event_category": "Football",
+            "title": "Levante vs Getafe CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131130_5427_LE_GEF_FC-Web.png",
+            "team_1": "Levante",
+            "team_2": "Getafe CF",
             "status": "LIVE",
-            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-            "match_name": "World Feed",
-            "match_id": 141825,
-            "startTime": "02:30:00 PM 13-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141825_english_hls_e1f9fcb2993640_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141825_english_hls_e1f9fcb2993640_1ta-di_h264/index.m3u8"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Levante vs Getafe CF",
+            "match_id": 131130,
+            "startTime": "12:30:00 AM 14-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/131130_english_hls_321ada65c958682_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/131130_english_hls_321ada65c958682_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -93,23 +79,13 @@
             "src": "https://images.fancode.com/aig/match/v1776063278979/141690_CASACARDS_APP.png",
             "team_1": "Real Valladolid",
             "team_2": "Eibar",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Real Valladolid vs Eibar",
             "match_id": 141690,
-            "startTime": "12:00:00 AM 14-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Levante vs Getafe CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131130_5427_LE_GEF_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Getafe CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs Getafe CF",
-            "match_id": 131130,
-            "startTime": "12:30:00 AM 14-04-2026"
+            "startTime": "12:00:00 AM 14-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141690_english_hls_3e89bb3b9e11860_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141690_english_hls_3e89bb3b9e11860_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +434,30 @@
             "match_name": "TBC vs TBC",
             "match_id": 141764,
             "startTime": "01:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs Bengaluru FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Bengaluru FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal FC vs Bengaluru FC",
+            "match_id": 140487,
+            "startTime": "07:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs Bengaluru FC (ISL 2025-26  - Regional)",
+            "src": "https://images.fancode.com/aig/match/v1775535874214/141813_CASACARDS_APP.png",
+            "team_1": "East Bengal FC",
+            "team_2": "Bengaluru FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "East Bengal FC vs Bengaluru FC",
+            "match_id": 141813,
+            "startTime": "07:30:00 PM 16-04-2026"
         }
     ]
 }
