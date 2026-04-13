@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:35:46 AM 14-04-2026",
+    "last update time": "03:26:26 AM 14-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force",
-            "match_id": 141947,
-            "startTime": "07:30:00 PM 12-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141947_english_hls_bcd49d97e744545_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141947_english_hls_bcd49d97e744545_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026)",
@@ -46,46 +32,16 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141948_english_hls_81e187044a8694_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al Sadd (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140858_5647_AHS_SDD_FC-WEB_1772186883531.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al Sadd",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al Hilal SFC vs Al Sadd",
-            "match_id": 140858,
-            "startTime": "11:30:00 PM 13-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140858_english_hls_e7ac0fa75220228_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140858_english_hls_e7ac0fa75220228_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Valladolid vs Eibar (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1776063278979/141690_CASACARDS_APP.png",
-            "team_1": "Real Valladolid",
-            "team_2": "Eibar",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Valladolid vs Eibar",
-            "match_id": 141690,
-            "startTime": "12:00:00 AM 14-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141690_english_hls_3e89bb3b9e11860_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141690_english_hls_3e89bb3b9e11860_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Levante vs Getafe CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131130_5427_LE_GEF_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Getafe CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs Getafe CF",
-            "match_id": 131130,
-            "startTime": "12:30:00 AM 14-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/131130_english_hls_321ada65c958682_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/131130_english_hls_321ada65c958682_1ta-di_h264/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force",
+            "match_id": 141947,
+            "startTime": "07:30:00 PM 12-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -208,18 +164,6 @@
             "startTime": "02:30:00 PM 14-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Cruz Azul vs Los Angeles FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141884_5954_CRU_LAF_FC-Web.png",
-            "team_1": "Cruz Azul",
-            "team_2": "Los Angeles FC",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Cruz Azul vs Los Angeles FC",
-            "match_id": 141884,
-            "startTime": "06:30:00 AM 15-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -230,6 +174,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 141761,
             "startTime": "08:30:00 AM 15-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cruz Azul vs Los Angeles FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141884_5954_CRU_LAF_FC-Web.png",
+            "team_1": "Cruz Azul",
+            "team_2": "Los Angeles FC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Cruz Azul vs Los Angeles FC",
+            "match_id": 141884,
+            "startTime": "06:30:00 AM 15-04-2026"
         },
         {
             "event_category": "Football",
@@ -458,6 +414,42 @@
             "match_name": "East Bengal FC vs Bengaluru FC",
             "match_id": 141813,
             "startTime": "07:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+            "team_1": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "team_2": "Barcelona",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_id": 141831,
+            "startTime": "05:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+            "team_1": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "team_2": "Barcelona",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_id": 141830,
+            "startTime": "05:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - BMW Open by Bitpanda 2026 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "ATP 500 - BMW Open by Bitpanda 2026",
+            "team_2": "Munich, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_id": 141845,
+            "startTime": "05:30:00 PM 16-04-2026"
         }
     ]
 }
