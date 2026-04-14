@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:40:31 PM 14-04-2026",
+    "last update time": "09:01:44 PM 14-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,34 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141949_english_hls_16bf057d1866957_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "LIVE",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions vs Barbados Pride",
+            "match_id": 141948,
+            "startTime": "08:30:00 PM 12-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141948_english_hls_81e187044a67116_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141948_english_hls_81e187044a67116_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tractor vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140855_5647_TFC_SAA_FC-WEB.png",
+            "team_1": "Tractor",
+            "team_2": "Shabab Al Ahli",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Tractor vs Shabab Al Ahli",
+            "match_id": 140855,
+            "startTime": "08:15:00 PM 14-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140855_english_hls_7e656e054555675_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140855_english_hls_7e656e054555675_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "Alcaraz vs Virtanen vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Carlos-Alcaraz-vs-Otto-Virtanen_FC-WEB.jpg",
@@ -58,30 +86,6 @@
             "startTime": "02:30:00 PM 14-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "PAUSED",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions vs Barbados Pride",
-            "match_id": 141948,
-            "startTime": "08:30:00 PM 12-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tractor vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140855_5647_TFC_SAA_FC-WEB.png",
-            "team_1": "Tractor",
-            "team_2": "Shabab Al Ahli",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Tractor vs Shabab Al Ahli",
-            "match_id": 140855,
-            "startTime": "08:15:00 PM 14-04-2026"
         },
         {
             "event_category": "Football",
@@ -133,25 +137,25 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Brisbane Champions League 2026)",
+            "title": "Iconic Super Knights vs Genid Royals (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Genid Royals",
             "status": "UPCOMING",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Iconic Super Knights vs Genid Royals",
             "match_id": 141761,
             "startTime": "08:30:00 AM 15-04-2026"
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Brisbane Champions League 2026)",
+            "title": "Everest Falcons vs Brisbane Stars (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Everest Falcons",
+            "team_2": "Brisbane Stars",
             "status": "UPCOMING",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Everest Falcons vs Brisbane Stars",
             "match_id": 141762,
             "startTime": "01:30:00 PM 15-04-2026"
         },
