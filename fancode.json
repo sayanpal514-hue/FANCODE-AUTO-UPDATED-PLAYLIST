@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:14:37 AM 16-04-2026",
+    "last update time": "01:15:22 AM 16-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Windward Islands Volcanoes",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
-            "match_id": 141949,
-            "startTime": "07:30:00 PM 12-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141949_english_hls_16bf057d1834275_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141949_english_hls_16bf057d1834275_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
@@ -46,20 +32,6 @@
             "adfree_url": "https://dai-partner.fancode.com/primary/140731_english_hls_8250238c9753513_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "World Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Barcelona",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-            "match_name": "World Feed",
-            "match_id": 141828,
-            "startTime": "02:30:00 PM 15-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141828_english_hls_0cf4c73c2698960_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141828_english_hls_0cf4c73c2698960_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Genid Royals vs Melbourne Tuskers (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -85,18 +57,6 @@
         },
         {
             "event_category": "Football",
-            "title": "LA Galaxy vs Toluca (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141886_5954_LAG_TOL_FC-Web.png",
-            "team_1": "LA Galaxy",
-            "team_2": "Toluca",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "LA Galaxy vs Toluca",
-            "match_id": 141886,
-            "startTime": "06:30:00 AM 16-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "East Bengal FC vs Bengaluru FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg",
             "team_1": "East Bengal FC",
@@ -118,6 +78,18 @@
             "match_name": "East Bengal FC vs Bengaluru FC",
             "match_id": 141813,
             "startTime": "07:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "LA Galaxy vs Toluca (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141886_5954_LAG_TOL_FC-Web.png",
+            "team_1": "LA Galaxy",
+            "team_2": "Toluca",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "LA Galaxy vs Toluca",
+            "match_id": 141886,
+            "startTime": "06:30:00 AM 16-04-2026"
         },
         {
             "event_category": "Football",
@@ -466,6 +438,30 @@
             "match_name": "Day 2",
             "match_id": 142043,
             "startTime": "07:30:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
+            "team_1": "Blackburn Rovers F.C.",
+            "team_2": "Coventry City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Blackburn Rovers F.C. vs Coventry City F.C.",
+            "match_id": 141526,
+            "startTime": "12:30:00 AM 18-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Racing Club (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Racing Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad vs Racing Club",
+            "match_id": 141959,
+            "startTime": "12:00:00 AM 18-04-2026"
         }
     ]
 }
