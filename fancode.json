@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:57 AM 16-04-2026",
+    "last update time": "12:44:12 PM 16-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Genid Royals vs Melbourne Tuskers (Brisbane Champions League 2026)",
-            "src": "https://images.fancode.com/aig/match/v1776285447656/141763_CASACARDS_APP.png",
-            "team_1": "Genid Royals",
-            "team_2": "Melbourne Tuskers",
-            "status": "LIVE",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Genid Royals vs Melbourne Tuskers",
-            "match_id": 141763,
-            "startTime": "08:30:00 AM 16-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141763_english_hls_9138b85da221999_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141763_english_hls_9138b85da221999_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Seattle Sounders FC vs Tigres (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141887_5954_SS_TIG_FC-Web.png",
-            "team_1": "Seattle Sounders FC",
-            "team_2": "Tigres",
-            "status": "LIVE",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Seattle Sounders FC vs Tigres",
-            "match_id": 141887,
-            "startTime": "09:00:00 AM 16-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141887_english_hls_9b85e6f7a282099_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141887_english_hls_9b85e6f7a282099_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026)",
@@ -42,6 +14,18 @@
             "match_name": "Melbourne Pirates vs Everest Falcons",
             "match_id": 141764,
             "startTime": "01:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs New Zealand",
+            "match_id": 142066,
+            "startTime": "10:30:00 AM 17-04-2026"
         },
         {
             "event_category": "Football",
@@ -70,7 +54,7 @@
         {
             "event_category": "Football",
             "title": "Al Sadd vs Vissel Kobe (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1776321743537/141673_CASACARDS_APP.png",
             "team_1": "Al Sadd",
             "team_2": "Vissel Kobe",
             "status": "UPCOMING",
@@ -78,18 +62,6 @@
             "match_name": "Al Sadd vs Vissel Kobe",
             "match_id": 141673,
             "startTime": "09:45:00 PM 16-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs New Zealand",
-            "match_id": 142066,
-            "startTime": "10:30:00 AM 17-04-2026"
         },
         {
             "event_category": "Football",
@@ -201,18 +173,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Melbourne Victory vs Newcastle Jets (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Newcastle Jets",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Newcastle Jets",
-            "match_id": 140935,
-            "startTime": "03:05:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Chennaiyin FC vs Sporting Club Delhi (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg",
             "team_1": "Chennaiyin FC",
@@ -234,6 +194,18 @@
             "match_name": "Chennaiyin FC vs Sporting Club Delhi",
             "match_id": 141814,
             "startTime": "05:00:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Newcastle Jets (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Newcastle Jets",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Newcastle Jets",
+            "match_id": 140935,
+            "startTime": "03:05:00 PM 17-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -274,7 +246,7 @@
         {
             "event_category": "Football",
             "title": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png",
             "team_1": "Al-Ahli Saudi FC",
             "team_2": "Johor Darul Ta'zim",
             "status": "UPCOMING",
@@ -346,7 +318,7 @@
         {
             "event_category": "Football",
             "title": "Machida Zelvia vs Al-Ittihad (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png",
             "team_1": "Machida Zelvia",
             "team_2": "Al-Ittihad",
             "status": "UPCOMING",
@@ -368,6 +340,18 @@
             "startTime": "07:00:00 PM 17-04-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
+            "team_1": "Blackburn Rovers F.C.",
+            "team_2": "Coventry City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Blackburn Rovers F.C. vs Coventry City F.C.",
+            "match_id": 141526,
+            "startTime": "12:30:00 AM 18-04-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Marquee Group - Day 2 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
@@ -382,7 +366,7 @@
         {
             "event_category": "Golf",
             "title": "Day 2 vs Concession Golf Course (Senior PGA Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
             "team_1": "Day 2",
             "team_2": "Concession Golf Course",
             "status": "UPCOMING",
@@ -390,18 +374,6 @@
             "match_name": "Day 2",
             "match_id": 142043,
             "startTime": "07:30:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
-            "team_1": "Blackburn Rovers F.C.",
-            "team_2": "Coventry City F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Blackburn Rovers F.C. vs Coventry City F.C.",
-            "match_id": 141526,
-            "startTime": "12:30:00 AM 18-04-2026"
         },
         {
             "event_category": "Football",
@@ -462,6 +434,30 @@
             "match_name": "TBC vs TBC",
             "match_id": 141765,
             "startTime": "01:30:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Melbourne City (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar vs Melbourne City",
+            "match_id": 140937,
+            "startTime": "12:30:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nepal Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "USA Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Nepal Women vs USA Women",
+            "match_id": 142047,
+            "startTime": "05:20:00 PM 18-04-2026"
         }
     ]
 }
