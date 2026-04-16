@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:44:12 PM 16-04-2026",
+    "last update time": "02:25:22 PM 16-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,55 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
             "team_1": "Melbourne Pirates",
             "team_2": "Everest Falcons",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Melbourne Pirates vs Everest Falcons",
             "match_id": 141764,
-            "startTime": "01:30:00 PM 16-04-2026"
+            "startTime": "01:30:00 PM 16-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141764_english_hls_1656e1162c14502_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141764_english_hls_1656e1162c14502_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Barcelona",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "World Feed",
+            "match_id": 141830,
+            "startTime": "02:30:00 PM 16-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Munich, Germany",
+            "status": "LIVE",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "World Feed",
+            "match_id": 141845,
+            "startTime": "02:30:00 PM 16-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141845_english_hls_e32a4cffca78407_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141845_english_hls_e32a4cffca78407_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 1 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "Court 1",
+            "team_2": "Munich, Germany",
+            "status": "LIVE",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "Court 1",
+            "match_id": 141844,
+            "startTime": "02:30:00 PM 16-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -76,42 +120,6 @@
             "startTime": "12:30:00 AM 17-04-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "World Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Barcelona",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-            "match_name": "World Feed",
-            "match_id": 141830,
-            "startTime": "02:30:00 PM 16-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Munich, Germany",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
-            "match_name": "World Feed",
-            "match_id": 141845,
-            "startTime": "02:30:00 PM 16-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court 1 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
-            "team_1": "Court 1",
-            "team_2": "Munich, Germany",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
-            "match_name": "Court 1",
-            "match_id": 141844,
-            "startTime": "02:30:00 PM 16-04-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Main Feed - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
@@ -122,6 +130,30 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 141934,
             "startTime": "05:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin FC vs Sporting Club Delhi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg",
+            "team_1": "Chennaiyin FC",
+            "team_2": "Sporting Club Delhi",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Chennaiyin FC vs Sporting Club Delhi",
+            "match_id": 140488,
+            "startTime": "05:00:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
+            "src": "https://images.fancode.com/aig/match/v1775535874219/141814_CASACARDS_APP.png",
+            "team_1": "Chennaiyin FC",
+            "team_2": "Sporting Club Delhi",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Chennaiyin FC vs Sporting Club Delhi",
+            "match_id": 141814,
+            "startTime": "05:00:00 PM 17-04-2026"
         },
         {
             "event_category": "Golf",
@@ -172,28 +204,16 @@
             "startTime": "12:30:00 AM 17-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Chennaiyin FC vs Sporting Club Delhi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg",
-            "team_1": "Chennaiyin FC",
-            "team_2": "Sporting Club Delhi",
+            "event_category": "Cricket",
+            "title": "Namibia vs Scotland (Scotland tour of Namibia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
             "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Chennaiyin FC vs Sporting Club Delhi",
-            "match_id": 140488,
-            "startTime": "05:00:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chennaiyin FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
-            "src": "https://images.fancode.com/aig/match/v1775535874219/141814_CASACARDS_APP.png",
-            "team_1": "Chennaiyin FC",
-            "team_2": "Sporting Club Delhi",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "Chennaiyin FC vs Sporting Club Delhi",
-            "match_id": 141814,
-            "startTime": "05:00:00 PM 17-04-2026"
+            "event_name": "Scotland tour of Namibia, 2026",
+            "match_name": "Namibia vs Scotland",
+            "match_id": 142016,
+            "startTime": "05:30:00 PM 17-04-2026"
         },
         {
             "event_category": "Football",
@@ -206,18 +226,6 @@
             "match_name": "Melbourne Victory vs Newcastle Jets",
             "match_id": 140935,
             "startTime": "03:05:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Scotland (Scotland tour of Namibia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "UPCOMING",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Namibia vs Scotland",
-            "match_id": 142016,
-            "startTime": "05:30:00 PM 17-04-2026"
         },
         {
             "event_category": "Football",
