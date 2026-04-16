@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:57:18 PM 16-04-2026",
+    "last update time": "06:08:20 PM 16-04-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -44,6 +44,20 @@
             "startTime": "02:30:00 PM 16-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "Main Feed - Day 1",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "LIVE",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "Main Feed - Day 1",
+            "match_id": 141934,
+            "startTime": "05:30:00 PM 16-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141934_english_hls_0dec590cf33158_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141934_english_hls_0dec590cf33158_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -106,18 +120,6 @@
             "startTime": "12:30:00 AM 17-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "UPCOMING",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 141934,
-            "startTime": "05:30:00 PM 16-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Chennaiyin FC vs Sporting Club Delhi (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg",
@@ -166,18 +168,6 @@
             "startTime": "03:05:00 PM 17-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "Featured Groups - Day 1",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "UPCOMING",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "Featured Groups - Day 1",
-            "match_id": 141936,
-            "startTime": "07:15:00 PM 16-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Odisha FC vs Mohammedan SC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg",
@@ -200,6 +190,30 @@
             "match_name": "Odisha FC vs Mohammedan SC",
             "match_id": 141815,
             "startTime": "07:30:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim",
+            "match_id": 141674,
+            "startTime": "08:15:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "UPCOMING",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 141936,
+            "startTime": "07:15:00 PM 16-04-2026"
         },
         {
             "event_category": "Golf",
@@ -239,18 +253,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Johor Darul Ta'zim",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim",
-            "match_id": 141674,
-            "startTime": "08:15:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Machida Zelvia vs Al-Ittihad (AFC Champions League Elite 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png",
             "team_1": "Machida Zelvia",
@@ -260,6 +262,18 @@
             "match_name": "Machida Zelvia vs Al-Ittihad",
             "match_id": 141675,
             "startTime": "11:30:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
+            "team_1": "Blackburn Rovers F.C.",
+            "team_2": "Coventry City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Blackburn Rovers F.C. vs Coventry City F.C.",
+            "match_id": 141526,
+            "startTime": "12:30:00 AM 18-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -322,18 +336,6 @@
             "startTime": "05:30:00 PM 17-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
-            "team_1": "Blackburn Rovers F.C.",
-            "team_2": "Coventry City F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Blackburn Rovers F.C. vs Coventry City F.C.",
-            "match_id": 141526,
-            "startTime": "12:30:00 AM 18-04-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 2 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
@@ -344,6 +346,18 @@
             "match_name": "Featured Groups - Day 2",
             "match_id": 141939,
             "startTime": "07:00:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Racing Club (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Racing Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad vs Racing Club",
+            "match_id": 141959,
+            "startTime": "12:00:00 AM 18-04-2026"
         },
         {
             "event_category": "Golf",
@@ -368,18 +382,6 @@
             "match_name": "Day 2",
             "match_id": 142043,
             "startTime": "07:30:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Racing Club (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Racing Club",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad vs Racing Club",
-            "match_id": 141959,
-            "startTime": "12:00:00 AM 18-04-2026"
         },
         {
             "event_category": "Golf",
