@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:33:46 PM 17-04-2026",
+    "last update time": "03:04:52 PM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,48 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Newcastle Jets (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Newcastle Jets",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Newcastle Jets",
+            "match_id": 140935,
+            "startTime": "03:05:00 PM 17-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140935_english_hls_bc041978b272934_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140935_english_hls_bc041978b272934_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+            "team_1": "Day 7",
+            "team_2": "Barcelona",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "Day 7",
+            "match_id": 141833,
+            "startTime": "02:30:00 PM 17-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141833_english_hls_ba54b080cf77273_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141833_english_hls_ba54b080cf77273_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "Day 7",
+            "team_2": "Munich, Germany",
+            "status": "LIVE",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "Day 7",
+            "match_id": 141847,
+            "startTime": "02:30:00 PM 17-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141847_english_hls_046f19928693379_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141847_english_hls_046f19928693379_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Namibia vs Scotland (Scotland tour of Namibia, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
@@ -28,6 +70,18 @@
             "match_name": "Namibia vs Scotland",
             "match_id": 142016,
             "startTime": "05:30:00 PM 17-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rwanda Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
+            "team_1": "Rwanda Women",
+            "team_2": "Italy Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Rwanda Women vs Italy Women",
+            "match_id": 142046,
+            "startTime": "12:30:00 PM 18-04-2026"
         },
         {
             "event_category": "Football",
@@ -114,30 +168,6 @@
             "startTime": "12:30:00 AM 18-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Rwanda Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
-            "team_1": "Rwanda Women",
-            "team_2": "Italy Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women vs Italy Women",
-            "match_id": 142046,
-            "startTime": "12:30:00 PM 18-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Newcastle Jets (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Newcastle Jets",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Newcastle Jets",
-            "match_id": 140935,
-            "startTime": "03:05:00 PM 17-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Real Sociedad B vs Racing Club (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
@@ -150,42 +180,6 @@
             "startTime": "12:00:00 AM 18-04-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 7 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
-            "team_1": "Day 7",
-            "team_2": "Barcelona",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-            "match_name": "Day 7",
-            "match_id": 141833,
-            "startTime": "02:30:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
-            "team_1": "Day 7",
-            "team_2": "Munich, Germany",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
-            "match_name": "Day 7",
-            "match_id": 141847,
-            "startTime": "02:30:00 PM 17-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Tuskers vs Everest Falcons (Brisbane Champions League 2026)",
-            "src": "https://images.fancode.com/aig/match/v1776400770484/141765_CASACARDS_APP.png",
-            "team_1": "Melbourne Tuskers",
-            "team_2": "Everest Falcons",
-            "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Tuskers vs Everest Falcons",
-            "match_id": 141765,
-            "startTime": "01:30:00 PM 18-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Nepal Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg",
@@ -196,6 +190,18 @@
             "match_name": "Nepal Women vs USA Women",
             "match_id": 142047,
             "startTime": "05:20:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Tuskers vs Everest Falcons (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg",
+            "team_1": "Melbourne Tuskers",
+            "team_2": "Everest Falcons",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Tuskers vs Everest Falcons",
+            "match_id": 141765,
+            "startTime": "01:30:00 PM 18-04-2026"
         },
         {
             "event_category": "Football",
@@ -220,6 +226,66 @@
             "match_name": "Brisbane Roar vs Melbourne City",
             "match_id": 140937,
             "startTime": "12:30:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kerala Blasters FC vs Jamshedpur FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg",
+            "team_1": "Kerala Blasters FC",
+            "team_2": "Jamshedpur FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Kerala Blasters FC vs Jamshedpur FC",
+            "match_id": 140490,
+            "startTime": "05:00:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Portsmouth F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg",
+            "team_1": "Portsmouth F.C.",
+            "team_2": "Leicester City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Portsmouth F.C. vs Leicester City F.C.",
+            "match_id": 141527,
+            "startTime": "05:00:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kerala Blasters FC vs Jamshedpur FC (ISL 2025-26  - Regional)",
+            "src": "https://images.fancode.com/aig/match/v1775535874220/141816_CASACARDS_APP.png",
+            "team_1": "Kerala Blasters FC",
+            "team_2": "Jamshedpur FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Kerala Blasters FC vs Jamshedpur FC",
+            "match_id": 141816,
+            "startTime": "05:00:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Scotland (Scotland tour of Namibia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
+            "status": "UPCOMING",
+            "event_name": "Scotland tour of Namibia, 2026",
+            "match_name": "Namibia vs Scotland",
+            "match_id": 142017,
+            "startTime": "05:30:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Perth Glory",
+            "match_id": 140938,
+            "startTime": "03:05:00 PM 18-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -292,66 +358,6 @@
             "match_name": "World Feed - Day 2",
             "match_id": 141931,
             "startTime": "12:30:00 AM 18-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kerala Blasters FC vs Jamshedpur FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg",
-            "team_1": "Kerala Blasters FC",
-            "team_2": "Jamshedpur FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Kerala Blasters FC vs Jamshedpur FC",
-            "match_id": 140490,
-            "startTime": "05:00:00 PM 18-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Portsmouth F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg",
-            "team_1": "Portsmouth F.C.",
-            "team_2": "Leicester City F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Portsmouth F.C. vs Leicester City F.C.",
-            "match_id": 141527,
-            "startTime": "05:00:00 PM 18-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kerala Blasters FC vs Jamshedpur FC (ISL 2025-26  - Regional)",
-            "src": "https://images.fancode.com/aig/match/v1775535874220/141816_CASACARDS_APP.png",
-            "team_1": "Kerala Blasters FC",
-            "team_2": "Jamshedpur FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "Kerala Blasters FC vs Jamshedpur FC",
-            "match_id": 141816,
-            "startTime": "05:00:00 PM 18-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Perth Glory",
-            "match_id": 140938,
-            "startTime": "03:05:00 PM 18-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Scotland (Scotland tour of Namibia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "UPCOMING",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Namibia vs Scotland",
-            "match_id": 142017,
-            "startTime": "05:30:00 PM 18-04-2026"
         },
         {
             "event_category": "Football",
