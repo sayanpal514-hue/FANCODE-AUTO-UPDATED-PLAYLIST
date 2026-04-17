@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:35:49 AM 18-04-2026",
+    "last update time": "05:16:43 AM 18-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -149,18 +149,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney FC vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Perth Glory",
-            "match_id": 140938,
-            "startTime": "03:05:00 PM 18-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Atletico de Madrid vs Real Sociedad (Copa del Rey, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid_vs_Real-Sociedad_FC-WEB.jpg",
             "team_1": "Atletico de Madrid",
@@ -170,6 +158,18 @@
             "match_name": "Atletico de Madrid vs Real Sociedad",
             "match_id": 141270,
             "startTime": "12:30:00 AM 19-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Perth Glory",
+            "match_id": 140938,
+            "startTime": "03:05:00 PM 18-04-2026"
         },
         {
             "event_category": "Football",
@@ -304,18 +304,6 @@
             "startTime": "11:30:00 PM 18-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Concession Golf Course (Senior PGA Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
-            "team_1": "Day 3",
-            "team_2": "Concession Golf Course",
-            "status": "UPCOMING",
-            "event_name": "Senior PGA Championship 2026",
-            "match_name": "Day 3",
-            "match_id": 142044,
-            "startTime": "12:30:00 AM 19-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
@@ -326,6 +314,18 @@
             "match_name": "Rwanda Women vs Vanuatu Women",
             "match_id": 142048,
             "startTime": "12:30:00 PM 19-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Concession Golf Course (Senior PGA Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
+            "team_1": "Day 3",
+            "team_2": "Concession Golf Course",
+            "status": "UPCOMING",
+            "event_name": "Senior PGA Championship 2026",
+            "match_name": "Day 3",
+            "match_id": 142044,
+            "startTime": "12:30:00 AM 19-04-2026"
         },
         {
             "event_category": "Football",
