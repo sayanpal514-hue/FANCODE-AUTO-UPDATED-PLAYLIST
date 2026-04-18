@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:24:53 AM 19-04-2026",
+    "last update time": "04:15:30 AM 19-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs Real Sociedad (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid_vs_Real-Sociedad_FC-WEB.jpg",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Real Sociedad",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Atletico de Madrid vs Real Sociedad",
-            "match_id": 141270,
-            "startTime": "12:30:00 AM 19-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "LIVE",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 141932,
-            "startTime": "11:30:00 PM 18-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141932_english_hls_e640689a1022239_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141932_english_hls_e640689a1022239_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 3 vs Concession Golf Course (Senior PGA Championship 2026)",
@@ -44,6 +16,20 @@
             "startTime": "12:30:00 AM 19-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Real Sociedad (Copa del Rey, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid_vs_Real-Sociedad_FC-WEB.jpg",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Real Sociedad",
+            "status": "LIVE",
+            "event_name": "Copa del Rey, 2025-26",
+            "match_name": "Atletico de Madrid vs Real Sociedad",
+            "match_id": 141270,
+            "startTime": "12:30:00 AM 19-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -298,6 +284,18 @@
             "startTime": "05:30:00 PM 19-04-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs New Zealand",
+            "match_id": 142067,
+            "startTime": "10:30:00 AM 20-04-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 4 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
@@ -320,18 +318,6 @@
             "match_name": "Marquee Group - Day 4",
             "match_id": 141944,
             "startTime": "06:30:00 PM 19-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs New Zealand",
-            "match_id": 142067,
-            "startTime": "10:30:00 AM 20-04-2026"
         },
         {
             "event_category": "Golf",
@@ -439,6 +425,18 @@
             "event_name": "ISL 2025-26  - Regional",
             "match_name": "Chennaiyin FC vs Mohammedan SC",
             "match_id": 141174,
+            "startTime": "07:30:00 PM 21-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin FC vs Mohammedan SC (ISL 2025-26  - Regional)",
+            "src": "https://images.fancode.com/aig/match/v1775535874210/141173_CASACARDS_APP.png",
+            "team_1": "Chennaiyin FC",
+            "team_2": "Mohammedan SC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Chennaiyin FC vs Mohammedan SC",
+            "match_id": 141173,
             "startTime": "07:30:00 PM 21-04-2026"
         }
     ]
