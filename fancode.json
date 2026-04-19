@@ -1,33 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:40:52 AM 19-04-2026",
+    "last update time": "12:22:23 PM 19-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Auckland vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140939_5802_AFC_CCM_fc-web.jpg",
-            "team_1": "Auckland",
-            "team_2": "Central Coast Mariners",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland vs Central Coast Mariners",
-            "match_id": 140939,
-            "startTime": "08:30:00 AM 19-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140939_english_hls_edf140f58288196_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140939_english_hls_edf140f58288196_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
             "team_1": "Rwanda Women",
             "team_2": "Vanuatu Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
             "match_name": "Rwanda Women vs Vanuatu Women",
             "match_id": 142048,
-            "startTime": "12:30:00 PM 19-04-2026"
+            "startTime": "12:30:00 PM 19-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142048_english_hls_4afd19309042525_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142048_english_hls_4afd19309042525_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140940_5802_ADL_MAC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Macarthur",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Macarthur",
+            "match_id": 140940,
+            "startTime": "11:00:00 AM 19-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,16 +44,16 @@
             "startTime": "04:30:00 PM 19-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Adelaide United vs Macarthur (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140940_5802_ADL_MAC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Macarthur",
+            "event_category": "Cricket",
+            "title": "Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "Sri Lanka Women",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Macarthur",
-            "match_id": 140940,
-            "startTime": "11:00:00 AM 19-04-2026"
+            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Women vs Sri Lanka Women",
+            "match_id": 142072,
+            "startTime": "09:00:00 AM 20-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -78,18 +80,6 @@
             "startTime": "07:30:00 PM 19-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
-            "team_1": "Ipswich Town F.C.",
-            "team_2": "Middlesbrough F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Ipswich Town F.C. vs Middlesbrough F.C.",
-            "match_id": 141529,
-            "startTime": "04:30:00 PM 19-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -100,6 +90,18 @@
             "match_name": "Jamaica Scorpions vs Barbados Pride",
             "match_id": 141951,
             "startTime": "08:30:00 PM 19-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
+            "team_1": "Ipswich Town F.C.",
+            "team_2": "Middlesbrough F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Ipswich Town F.C. vs Middlesbrough F.C.",
+            "match_id": 141529,
+            "startTime": "04:30:00 PM 19-04-2026"
         },
         {
             "event_category": "Football",
@@ -124,18 +126,6 @@
             "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
             "match_id": 141817,
             "startTime": "07:30:00 PM 19-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Women vs Sri Lanka Women",
-            "match_id": 142072,
-            "startTime": "09:00:00 AM 20-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -435,6 +425,18 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "RCD Mallorca vs Valencia CF",
             "match_id": 131154,
+            "startTime": "10:30:00 PM 21-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs CA Osasuna (LALIGA 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/131151_CASACARDS_APP.png",
+            "team_1": "Athletic Club",
+            "team_2": "CA Osasuna",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs CA Osasuna",
+            "match_id": 131151,
             "startTime": "10:30:00 PM 21-04-2026"
         }
     ]
