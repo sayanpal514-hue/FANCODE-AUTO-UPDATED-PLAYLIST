@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:15:14 AM 23-04-2026",
+    "last update time": "11:16:59 AM 23-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
             "team_1": "Bangladesh",
             "team_2": "New Zealand",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "New Zealand tour of Bangladesh, 2026",
             "match_name": "Bangladesh vs New Zealand",
             "match_id": 142068,
-            "startTime": "10:30:00 AM 23-04-2026"
+            "startTime": "10:30:00 AM 23-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142068_english_hls_29d319152e29161_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142068_english_hls_29d319152e29161_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -100,6 +102,18 @@
             "startTime": "01:00:00 AM 24-04-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Nepal Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142054_6045_NP-W_VANW_fc-web.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "Vanuatu Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Nepal Women vs Vanuatu Women",
+            "match_id": 142054,
+            "startTime": "12:30:00 PM 24-04-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Salford City vs Bromley (League Two 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png",
@@ -113,15 +127,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Nepal Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142054_6045_NP-W_VANW_fc-web.jpg",
-            "team_1": "Nepal Women",
-            "team_2": "Vanuatu Women",
+            "title": "Italy Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg",
+            "team_1": "Italy Women",
+            "team_2": "USA Women",
             "status": "UPCOMING",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Nepal Women vs Vanuatu Women",
-            "match_id": 142054,
-            "startTime": "12:30:00 PM 24-04-2026"
+            "match_name": "Italy Women vs USA Women",
+            "match_id": 142055,
+            "startTime": "04:30:00 PM 24-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
+            "team_1": "Day 2 - Main Feed",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Mutua Madrid Open 2026",
+            "match_name": "Day 2 - Main Feed",
+            "match_id": 141854,
+            "startTime": "02:30:00 PM 23-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -133,19 +159,7 @@
             "event_name": "ATP Masters Mutua Madrid Open 2026",
             "match_name": "Day 2 - Arantxa Sanchez Stadium",
             "match_id": 141855,
-            "startTime": "05:30:00 PM 23-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 1 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-            "team_1": "Day 1 - Main Feed",
-            "team_2": "Madrid, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Mutua Madrid Open 2026",
-            "match_name": "Day 1 - Main Feed",
-            "match_id": 141854,
-            "startTime": "05:30:00 PM 23-04-2026"
+            "startTime": "03:30:00 PM 23-04-2026"
         },
         {
             "event_category": "Golf",
@@ -208,18 +222,6 @@
             "startTime": "01:30:00 AM 24-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Italy Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg",
-            "team_1": "Italy Women",
-            "team_2": "USA Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Italy Women vs USA Women",
-            "match_id": 142055,
-            "startTime": "04:30:00 PM 24-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Macarthur vs Wellington Phoenix (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140941_5802_MAC_WEL_fc-web.jpg",
@@ -244,18 +246,6 @@
             "startTime": "05:00:00 PM 24-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Royal Cape Golf Club",
-            "status": "UPCOMING",
-            "event_name": "Investec South African Women's Open 2026",
-            "match_name": "Day 1",
-            "match_id": 141642,
-            "startTime": "05:00:00 PM 23-04-2026"
-        },
-        {
             "event_category": "MotoGP",
             "title": "Day 1 vs Circuito de Jerez - \u00c1ngel Nieto (ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg",
@@ -266,6 +256,30 @@
             "match_name": "Spain GP",
             "match_id": 139936,
             "startTime": "12:30:00 PM 24-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - Court 3 vs Madrid (ATP Masters Mutua Madrid Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
+            "team_1": "Day 2 - Court 3",
+            "team_2": "Madrid",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Mutua Madrid Open 2026",
+            "match_name": "Day 2 - Court 3",
+            "match_id": 142206,
+            "startTime": "04:30:00 PM 23-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Royal Cape Golf Club",
+            "status": "UPCOMING",
+            "event_name": "Investec South African Women's Open 2026",
+            "match_name": "Day 1",
+            "match_id": 141642,
+            "startTime": "05:00:00 PM 23-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -328,18 +342,6 @@
             "startTime": "07:15:00 PM 24-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "UPCOMING",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 142012,
-            "startTime": "07:45:00 PM 24-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Real Betis vs Real Madrid (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png",
@@ -362,6 +364,18 @@
             "match_name": "Leicester City F.C. vs Millwall F.C.",
             "match_id": 141925,
             "startTime": "12:30:00 AM 25-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "UPCOMING",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 142012,
+            "startTime": "07:45:00 PM 24-04-2026"
         },
         {
             "event_category": "Golf",
@@ -410,6 +424,18 @@
             "match_name": "Bangladesh Women vs Sri Lanka Women",
             "match_id": 142074,
             "startTime": "09:00:00 AM 25-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nepal vs United Arab Emirates (ICC CWC League 2, Nepal 2026)",
+            "src": "https://images.fancode.com/aig/match/v1776838876233/141976_CASACARDS_APP.png",
+            "team_1": "Nepal",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2, Nepal 2026",
+            "match_name": "Nepal vs United Arab Emirates",
+            "match_id": 141976,
+            "startTime": "09:15:00 AM 25-04-2026"
         }
     ]
 }
