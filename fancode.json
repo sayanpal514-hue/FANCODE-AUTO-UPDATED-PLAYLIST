@@ -1,31 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:43:32 PM 24-04-2026",
+    "last update time": "09:04:43 PM 24-04-2026",
     "matches": [
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Circuito de Jerez - \u00c1ngel Nieto (ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Circuito de Jerez - \u00c1ngel Nieto",
-            "status": "LIVE",
-            "event_name": "ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026",
-            "match_name": "Spain GP",
-            "match_id": 139936,
-            "startTime": "12:30:00 PM 24-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139936_english_hls_eaec628eef82203_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139936_english_hls_eaec628eef82203_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Tennis",
-            "title": "Day 3 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-            "team_1": "Day 3 - Main Feed",
+            "title": "Sinner vs Bonzi vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Benjamin-Bonzi-old-player-vs-player.png",
+            "team_1": "Sinner vs Bonzi",
             "team_2": "Madrid, Spain",
             "status": "LIVE",
             "event_name": "ATP Masters Mutua Madrid Open 2026",
-            "match_name": "Day 3 - Main Feed",
+            "match_name": "Sinner vs Bonzi",
             "match_id": 141856,
             "startTime": "02:30:00 PM 24-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141856_english_hls_77d920a64816841_1ta-di_h264/index.m3u8",
@@ -46,20 +32,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Motorsports",
-            "title": "Day 1 - Red Bull Ring vs Red Bull Ring (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
-            "team_1": "Day 1 - Red Bull Ring",
-            "team_2": "Red Bull Ring",
-            "status": "LIVE",
-            "event_name": "DTM 2026",
-            "match_name": "Day 1 - Red Bull Ring",
-            "match_id": 142277,
-            "startTime": "03:00:00 PM 24-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142277_english_hls_886cce7d5c49249_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142277_english_hls_886cce7d5c49249_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Tennis",
             "title": "Day 3 - Arantxa Sanchez Stadium vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
@@ -72,20 +44,6 @@
             "startTime": "04:00:00 PM 24-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141857_english_hls_c6424b1ae513458_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141857_english_hls_c6424b1ae513458_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Royal Cape Golf Club",
-            "status": "LIVE",
-            "event_name": "Investec South African Women's Open 2026",
-            "match_name": "Day 2",
-            "match_id": 141643,
-            "startTime": "05:00:00 PM 24-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141643_english_hls_d7e43de69a14524_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141643_english_hls_d7e43de69a14524_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -255,18 +213,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Newcastle Jets vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140942_5802_NJ_CCM_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Central Coast Mariners",
-            "match_id": 140942,
-            "startTime": "12:30:00 PM 25-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Deportivo Alaves vs RCD Mallorca (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131141_5427_ALA_MRC_FC-Web.png",
             "team_1": "Deportivo Alaves",
@@ -276,6 +222,18 @@
             "match_name": "Deportivo Alaves vs RCD Mallorca",
             "match_id": 131141,
             "startTime": "05:30:00 PM 25-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140942_5802_NJ_CCM_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Central Coast Mariners",
+            "match_id": 140942,
+            "startTime": "12:30:00 PM 25-04-2026"
         },
         {
             "event_category": "Football",
@@ -410,6 +368,18 @@
             "startTime": "09:10:00 AM 25-04-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131146_5427_ATL_ATH_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs Athletic Club",
+            "match_id": 131146,
+            "startTime": "12:30:00 AM 26-04-2026"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Day 2 vs Circuito de Jerez - \u00c1ngel Nieto (ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg",
@@ -432,18 +402,6 @@
             "match_name": "Day 2 - Red Bull Ring",
             "match_id": 142108,
             "startTime": "01:10:00 PM 25-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131146_5427_ATL_ATH_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Athletic Club",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Atletico de Madrid vs Athletic Club",
-            "match_id": 131146,
-            "startTime": "12:30:00 AM 26-04-2026"
         },
         {
             "event_category": "Golf",
@@ -480,6 +438,42 @@
             "match_name": "ATP Masters Mutua Madrid Open 2026",
             "match_id": 141859,
             "startTime": "05:30:00 PM 25-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP Masters Mutua Madrid Open 2026 vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
+            "team_1": "ATP Masters Mutua Madrid Open 2026",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Mutua Madrid Open 2026",
+            "match_name": "ATP Masters Mutua Madrid Open 2026",
+            "match_id": 141858,
+            "startTime": "05:30:00 PM 25-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "M\u00e1laga vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776063278981/142039_CASACARDS_APP.png",
+            "team_1": "M\u00e1laga",
+            "team_2": "Castell\u00f3n",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "M\u00e1laga vs Castell\u00f3n",
+            "match_id": 142039,
+            "startTime": "12:30:00 AM 26-04-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "World Fencing League 2026 vs The Shrine, Los Angeles  (World Fencing League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
+            "team_1": "World Fencing League 2026",
+            "team_2": "The Shrine, Los Angeles ",
+            "status": "UPCOMING",
+            "event_name": "World Fencing League 2026",
+            "match_name": "World Fencing League 2026",
+            "match_id": 142163,
+            "startTime": "06:00:00 PM 25-04-2026"
         }
     ]
 }
