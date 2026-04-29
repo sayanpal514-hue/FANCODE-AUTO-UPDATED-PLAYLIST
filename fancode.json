@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:30:28 AM 29-04-2026",
+    "last update time": "09:23:36 AM 29-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Nepal vs Oman (ICC CWC League 2, Nepal 2026)",
+            "title": "Oman vs Nepal (ICC CWC League 2, Nepal 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-            "team_1": "Nepal",
-            "team_2": "Oman",
-            "status": "UPCOMING",
+            "team_1": "Oman",
+            "team_2": "Nepal",
+            "status": "LIVE",
             "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "Nepal vs Oman",
+            "match_name": "Oman vs Nepal",
             "match_id": 141978,
-            "startTime": "09:15:00 AM 29-04-2026"
+            "startTime": "09:15:00 AM 29-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141978_english_hls_18f20d620735745_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141978_english_hls_18f20d620735745_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -53,20 +55,8 @@
         },
         {
             "event_category": "Football",
-            "title": "Nashville SC vs Tigres (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142156_5954_NSH_TIG_FC-Web.png",
-            "team_1": "Nashville SC",
-            "team_2": "Tigres",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Nashville SC vs Tigres",
-            "match_id": 142156,
-            "startTime": "06:00:00 AM 29-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Al-Taawoun FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1776758603867/142142_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-FC-vs-Al-Ittihad_fc-web.jpg",
             "team_1": "Al-Taawoun FC",
             "team_2": "Al-Ittihad",
             "status": "UPCOMING",
@@ -78,7 +68,7 @@
         {
             "event_category": "Football",
             "title": "Al-Nassr FC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1776758603892/142143_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Ahli-Saudi-FC_fc-web.jpg",
             "team_1": "Al-Nassr FC",
             "team_2": "Al-Ahli Saudi FC",
             "status": "UPCOMING",
@@ -98,30 +88,6 @@
             "match_name": "Arsenal Women vs Leicester City Women",
             "match_id": 142169,
             "startTime": "11:30:00 PM 29-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP Masters vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
-            "team_1": "ATP Masters",
-            "team_2": "Madrid, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Mutua Madrid Open 2026",
-            "match_name": "ATP Masters",
-            "match_id": 141867,
-            "startTime": "05:30:00 PM 29-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP Masters vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
-            "team_1": "ATP Masters",
-            "team_2": "Madrid, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Mutua Madrid Open 2026",
-            "match_name": "ATP Masters",
-            "match_id": 141866,
-            "startTime": "05:30:00 PM 29-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -157,7 +123,31 @@
             "event_name": "CONCACAF Champions Cup 2026",
             "match_name": "Los Angeles FC vs Toluca",
             "match_id": 142157,
-            "startTime": "09:00:00 AM 30-04-2026"
+            "startTime": "08:00:00 AM 30-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Sinner vs Jodar vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
+            "team_1": "Sinner vs Jodar",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Mutua Madrid Open 2026",
+            "match_name": "Sinner vs Jodar",
+            "match_id": 141866,
+            "startTime": "07:30:00 PM 29-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Fils vs Lehecka vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
+            "team_1": "Fils vs Lehecka",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Mutua Madrid Open 2026",
+            "match_name": "Fils vs Lehecka",
+            "match_id": 141867,
+            "startTime": "01:00:00 AM 30-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -421,6 +411,18 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Girona FC vs RCD Mallorca",
             "match_id": 131167,
+            "startTime": "12:30:00 AM 02-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Zaragoza vs Granada (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776595838848/142138_CASACARDS_APP.png",
+            "team_1": "Real Zaragoza",
+            "team_2": "Granada",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza vs Granada",
+            "match_id": 142138,
             "startTime": "12:30:00 AM 02-05-2026"
         }
     ]
