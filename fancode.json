@@ -1,47 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:09:40 AM 03-05-2026",
+    "last update time": "10:42:29 AM 03-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Kansai Chargers vs South Kanto Super Kings (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "Kansai Chargers",
-            "team_2": "South Kanto Super Kings",
-            "status": "LIVE",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "Kansai Chargers vs South Kanto Super Kings",
-            "match_id": 142395,
-            "startTime": "06:30:00 AM 03-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142395_english_hls_c067f26d4e28340_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142395_english_hls_c067f26d4e28340_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Kanto Hurricanes vs East Kanto Sunrisers (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
-            "team_1": "West Kanto Hurricanes",
-            "team_2": "East Kanto Sunrisers",
-            "status": "LIVE",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "West Kanto Hurricanes vs East Kanto Sunrisers",
-            "match_id": 142394,
-            "startTime": "06:30:00 AM 03-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142394_english_hls_6df547f4e442884_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142394_english_hls_6df547f4e442884_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "United Arab Emirates vs Oman (ICC CWC League 2, Nepal 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
             "team_1": "United Arab Emirates",
             "team_2": "Oman",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC CWC League 2, Nepal 2026",
             "match_name": "United Arab Emirates vs Oman",
             "match_id": 141980,
-            "startTime": "09:15:00 AM 03-05-2026"
+            "startTime": "09:15:00 AM 03-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141980_english_hls_11e94660f549049_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141980_english_hls_11e94660f549049_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -49,11 +23,41 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
             "team_1": "Boost Region",
             "team_2": "Mis-e-Ainak Region",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Super Cola National T20 Cup, 2026",
             "match_name": "Boost Region vs Mis-e-Ainak Region",
             "match_id": 142405,
-            "startTime": "10:00:00 AM 03-05-2026"
+            "startTime": "10:00:00 AM 03-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142405_english_hls_9597416b7918295_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142405_english_hls_9597416b7918295_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Kanto Super Kings vs West Kanto Hurricanes (Japan Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
+            "team_1": "South Kanto Super Kings",
+            "team_2": "West Kanto Hurricanes",
+            "status": "LIVE",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "South Kanto Super Kings vs West Kanto Hurricanes",
+            "match_id": 142397,
+            "startTime": "10:30:00 AM 03-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142397_english_hls_3c22183cd699533_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142397_english_hls_3c22183cd699533_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kansai Chargers vs North Kanto Lions (Japan Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
+            "team_1": "Kansai Chargers",
+            "team_2": "North Kanto Lions",
+            "status": "LIVE",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "Kansai Chargers vs North Kanto Lions",
+            "match_id": 142396,
+            "startTime": "10:30:00 AM 03-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142396_english_hls_2463277dbd69050_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142396_english_hls_2463277dbd69050_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -65,7 +69,7 @@
             "event_name": "Austria tour of Germany, 2026",
             "match_name": "Germany vs Austria",
             "match_id": 142345,
-            "startTime": "02:30:00 PM 03-05-2026"
+            "startTime": "02:00:00 PM 03-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -81,27 +85,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Kanto Super Kings vs West Kanto Hurricanes (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "South Kanto Super Kings",
-            "team_2": "West Kanto Hurricanes",
+            "title": "Malaysia vs Indonesia (Indonesia tour of Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
+            "team_1": "Malaysia",
+            "team_2": "Indonesia",
             "status": "UPCOMING",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "South Kanto Super Kings vs West Kanto Hurricanes",
-            "match_id": 142397,
-            "startTime": "10:30:00 AM 03-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kansai Chargers vs North Kanto Lions (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
-            "team_1": "Kansai Chargers",
-            "team_2": "North Kanto Lions",
-            "status": "UPCOMING",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "Kansai Chargers vs North Kanto Lions",
-            "match_id": 142396,
-            "startTime": "10:30:00 AM 03-05-2026"
+            "event_name": "Indonesia tour of Malaysia, 2026",
+            "match_name": "Malaysia vs Indonesia",
+            "match_id": 142339,
+            "startTime": "07:30:00 AM 04-05-2026"
         },
         {
             "event_category": "Football",
@@ -213,30 +205,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Bengaluru Football Club vs Jamshedpur FC Junior (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
-            "team_1": "Bengaluru Football Club",
-            "team_2": "Jamshedpur FC Junior",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Bengaluru Football Club vs Jamshedpur FC Junior",
-            "match_id": 142332,
-            "startTime": "07:30:00 AM 03-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Minerva Academy FC vs Sesa Football Academy (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
-            "team_1": "Minerva Academy FC",
-            "team_2": "Sesa Football Academy",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Minerva Academy FC vs Sesa Football Academy",
-            "match_id": 142331,
-            "startTime": "07:30:00 AM 03-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "RCD Espanyol vs Real Madrid (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131165_5427_ESL_RM_FC-Web.png",
             "team_1": "RCD Espanyol",
@@ -249,15 +217,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malaysia vs Indonesia (Indonesia tour of Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
-            "team_1": "Malaysia",
-            "team_2": "Indonesia",
+            "title": "Amo Region vs Boost Region (Super Cola National T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Amo Region",
+            "team_2": "Boost Region",
             "status": "UPCOMING",
-            "event_name": "Indonesia tour of Malaysia, 2026",
-            "match_name": "Malaysia vs Indonesia",
-            "match_id": 142339,
-            "startTime": "07:30:00 AM 04-05-2026"
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Amo Region vs Boost Region",
+            "match_id": 142407,
+            "startTime": "10:00:00 AM 04-05-2026"
         },
         {
             "event_category": "Football",
@@ -270,18 +238,6 @@
             "match_name": "Racing Club vs Huesca",
             "match_id": 142136,
             "startTime": "05:30:00 PM 03-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Amo Region vs Boost Region (Super Cola National T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Amo Region",
-            "team_2": "Boost Region",
-            "status": "UPCOMING",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Amo Region vs Boost Region",
-            "match_id": 142407,
-            "startTime": "10:00:00 AM 04-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -308,6 +264,30 @@
             "startTime": "06:30:00 AM 04-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "East Kanto Sunrisers vs Kansai Chargers (Japan Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
+            "team_1": "East Kanto Sunrisers",
+            "team_2": "Kansai Chargers",
+            "status": "UPCOMING",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "East Kanto Sunrisers vs Kansai Chargers",
+            "match_id": 142391,
+            "startTime": "10:30:00 AM 04-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "North Kanto Lions vs South Kanto Super Kings (Japan Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
+            "team_1": "North Kanto Lions",
+            "team_2": "South Kanto Super Kings",
+            "status": "UPCOMING",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "North Kanto Lions vs South Kanto Super Kings",
+            "match_id": 142390,
+            "startTime": "10:30:00 AM 04-05-2026"
+        },
+        {
             "event_category": "Football",
             "title": "East Bengal FC Junior vs Football 4 Change Academy (Dream Sports Championship Football 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
@@ -330,6 +310,18 @@
             "match_name": "Sreenidi Deccan FC vs SSE BFC Soccer School",
             "match_id": 142334,
             "startTime": "04:00:00 PM 03-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Region vs Mis-e-Ainak Region (Super Cola National T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Band-e-Amir Region",
+            "team_2": "Mis-e-Ainak Region",
+            "status": "UPCOMING",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Band-e-Amir Region vs Mis-e-Ainak Region",
+            "match_id": 142408,
+            "startTime": "03:00:00 PM 04-05-2026"
         },
         {
             "event_category": "Golf",
@@ -416,28 +408,16 @@
             "startTime": "06:00:00 PM 03-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "East Kanto Sunrisers vs Kansai Chargers (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "East Kanto Sunrisers",
-            "team_2": "Kansai Chargers",
+            "event_category": "Motorsports",
+            "title": "Feature Race vs Miami International Autodrome (F2 MIAMI 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Miami International Autodrome",
             "status": "UPCOMING",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "East Kanto Sunrisers vs Kansai Chargers",
-            "match_id": 142391,
-            "startTime": "10:30:00 AM 04-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "North Kanto Lions vs South Kanto Super Kings (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
-            "team_1": "North Kanto Lions",
-            "team_2": "South Kanto Super Kings",
-            "status": "UPCOMING",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "North Kanto Lions vs South Kanto Super Kings",
-            "match_id": 142390,
-            "startTime": "10:30:00 AM 04-05-2026"
+            "event_name": "F2 MIAMI 2026",
+            "match_name": "Feature Race",
+            "match_id": 142086,
+            "startTime": "07:00:00 PM 03-05-2026"
         },
         {
             "event_category": "Golf",
@@ -452,16 +432,40 @@
             "startTime": "09:30:00 PM 03-05-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Feature Race vs Miami International Autodrome (F2 MIAMI 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Miami International Autodrome",
+            "event_category": "Formula 1",
+            "title": "Race vs Miami (F1 CRYPTO COM MIAMI GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
+            "team_1": "Race",
+            "team_2": "Miami",
             "status": "UPCOMING",
-            "event_name": "F2 MIAMI 2026",
-            "match_name": "Feature Race",
-            "match_id": 142086,
-            "startTime": "10:00:00 PM 03-05-2026"
+            "event_name": "F1 CRYPTO COM MIAMI GRAND PRIX 2026",
+            "match_name": "Race",
+            "match_id": 139441,
+            "startTime": "10:30:00 PM 03-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Goa Junior vs Corbett FC (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
+            "team_1": "FC Goa Junior",
+            "team_2": "Corbett FC",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "FC Goa Junior vs Corbett FC",
+            "match_id": 142347,
+            "startTime": "07:30:00 AM 04-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Reliance Foundation Young Champs vs Punjab FC (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
+            "team_1": "Reliance Foundation Young Champs",
+            "team_2": "Punjab FC",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Reliance Foundation Young Champs vs Punjab FC",
+            "match_id": 142346,
+            "startTime": "07:30:00 AM 04-05-2026"
         }
     ]
 }
