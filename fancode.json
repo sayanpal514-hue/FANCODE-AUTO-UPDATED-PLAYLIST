@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:11:37 PM 05-05-2026",
+    "last update time": "06:22:36 PM 05-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,34 +18,6 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142410_english_hls_f9945aae8146494_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "SSE BFC Soccer School vs Bengaluru Football Club (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "SSE BFC Soccer School",
-            "team_2": "Bengaluru Football Club",
-            "status": "LIVE",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "SSE BFC Soccer School vs Bengaluru Football Club",
-            "match_id": 142354,
-            "startTime": "04:00:00 PM 05-05-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/142354_english_hls_d032831f5483584_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/142354_english_hls_d032831f5483584_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Football 4 Change Academy vs Minerva Academy FC (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Football 4 Change Academy",
-            "team_2": "Minerva Academy FC",
-            "status": "LIVE",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Football 4 Change Academy vs Minerva Academy FC",
-            "match_id": 142353,
-            "startTime": "04:00:00 PM 05-05-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/142353_english_hls_2a8786f6e982132_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/142353_english_hls_2a8786f6e982132_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Speen Ghar Region vs Amo Region (Super Cola National T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
@@ -58,18 +30,6 @@
             "startTime": "10:00:00 AM 06-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Mumbai City FC vs East Bengal FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg",
-            "team_1": "Mumbai City FC",
-            "team_2": "East Bengal FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mumbai City FC vs East Bengal FC",
-            "match_id": 140509,
-            "startTime": "07:30:00 PM 05-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Band-e-Amir Region vs Boost Region (Super Cola National T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
@@ -80,6 +40,18 @@
             "match_name": "Band-e-Amir Region vs Boost Region",
             "match_id": 142412,
             "startTime": "03:00:00 PM 06-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mumbai City FC vs East Bengal FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg",
+            "team_1": "Mumbai City FC",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Mumbai City FC vs East Bengal FC",
+            "match_id": 140509,
+            "startTime": "07:30:00 PM 05-05-2026"
         },
         {
             "event_category": "Football",
@@ -440,6 +412,42 @@
             "match_name": "Mis-e-Ainak Region vs Amo Region",
             "match_id": 142413,
             "startTime": "10:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cook Islands vs South Korea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Cook Islands",
+            "team_2": "South Korea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Cook Islands vs South Korea",
+            "match_id": 142305,
+            "startTime": "10:30:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Goa Junior vs Classic Football Academy (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "FC Goa Junior",
+            "team_2": "Classic Football Academy",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "FC Goa Junior vs Classic Football Academy",
+            "match_id": 142364,
+            "startTime": "07:30:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Reliance Foundation Young Champs vs Alchemy International FA (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Reliance Foundation Young Champs",
+            "team_2": "Alchemy International FA",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Reliance Foundation Young Champs vs Alchemy International FA",
+            "match_id": 142363,
+            "startTime": "07:30:00 AM 08-05-2026"
         }
     ]
 }
