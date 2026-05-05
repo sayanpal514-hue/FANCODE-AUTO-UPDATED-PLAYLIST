@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:26:52 PM 05-05-2026",
+    "last update time": "01:18:19 AM 06-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,62 +16,6 @@
             "startTime": "11:30:00 PM 05-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142147_english_hls_e84f5f8c425359_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142147_english_hls_e84f5f8c425359_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan vs Qatar (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777999652487/142540_CASACARDS_APP.png",
-            "team_1": "Japan",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Japan vs Qatar",
-            "match_id": 142540,
-            "startTime": "09:30:00 PM 05-05-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/s3/ef1b0003-591c-49eb-868b-7753dea39ee5/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/s3/ef1b0003-591c-49eb-868b-7753dea39ee5/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Indonesia vs China PR (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png",
-            "team_1": "Indonesia",
-            "team_2": "China PR",
-            "status": "LIVE",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Indonesia vs China PR",
-            "match_id": 142541,
-            "startTime": "10:00:00 PM 05-05-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/s3/15f95be3-731d-4122-a962-41017c770ac3/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/s3/15f95be3-731d-4122-a962-41017c770ac3/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Saudi Arabia vs Myanmar (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777999652490/142538_CASACARDS_APP.png",
-            "team_1": "Saudi Arabia",
-            "team_2": "Myanmar",
-            "status": "LIVE",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Saudi Arabia vs Myanmar",
-            "match_id": 142538,
-            "startTime": "10:30:00 PM 05-05-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/142538_english_hls_4ba7ec88ab63182_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/142538_english_hls_4ba7ec88ab63182_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tajikistan vs Thailand (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777999652490/142539_CASACARDS_APP.png",
-            "team_1": "Tajikistan",
-            "team_2": "Thailand",
-            "status": "LIVE",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Tajikistan vs Thailand",
-            "match_id": 142539,
-            "startTime": "11:00:00 PM 05-05-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/142539_english_hls_52f2d6fc8568926_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/142539_english_hls_52f2d6fc8568926_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -99,6 +43,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Punjab FC vs Chennaiyin FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg",
+            "team_1": "Punjab FC",
+            "team_2": "Chennaiyin FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Punjab FC vs Chennaiyin FC",
+            "match_id": 140508,
+            "startTime": "07:30:00 PM 06-05-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Tigres vs Nashville SC (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142158_5954_TIG_NSH_FC-Web.png",
             "team_1": "Tigres",
@@ -111,15 +67,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Punjab FC vs Chennaiyin FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg",
-            "team_1": "Punjab FC",
-            "team_2": "Chennaiyin FC",
+            "title": "Brighton and Hove Albion Women vs Arsenal Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "Arsenal Women",
             "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Punjab FC vs Chennaiyin FC",
-            "match_id": 140508,
-            "startTime": "07:30:00 PM 06-05-2026"
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Brighton and Hove Albion Women vs Arsenal Women",
+            "match_id": 142176,
+            "startTime": "12:15:00 AM 07-05-2026"
         },
         {
             "event_category": "Football",
@@ -144,18 +100,6 @@
             "match_name": "Punjab FC Junior vs Alchemy International FA",
             "match_id": 142355,
             "startTime": "07:30:00 AM 06-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brighton and Hove Albion Women vs Arsenal Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg",
-            "team_1": "Brighton and Hove Albion Women",
-            "team_2": "Arsenal Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Brighton and Hove Albion Women vs Arsenal Women",
-            "match_id": 142176,
-            "startTime": "12:15:00 AM 07-05-2026"
         },
         {
             "event_category": "Football",
@@ -194,6 +138,18 @@
             "startTime": "09:30:00 PM 06-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Yemen vs Vietnam (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1777999652489/142542_CASACARDS_APP.png",
+            "team_1": "Yemen",
+            "team_2": "Vietnam",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Yemen vs Vietnam",
+            "match_id": 142542,
+            "startTime": "10:30:00 PM 06-05-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -216,18 +172,6 @@
             "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
             "match_id": 142218,
             "startTime": "05:30:00 PM 06-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Yemen vs Vietnam (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777999652489/142542_CASACARDS_APP.png",
-            "team_1": "Yemen",
-            "team_2": "Vietnam",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Yemen vs Vietnam",
-            "match_id": 142542,
-            "startTime": "10:30:00 PM 06-05-2026"
         },
         {
             "event_category": "Football",
@@ -444,6 +388,54 @@
             "match_name": "Philippines vs Indonesia",
             "match_id": 142303,
             "startTime": "06:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "China Women vs Malaysia Women (CHK Women's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "China Women",
+            "team_2": "Malaysia Women",
+            "status": "UPCOMING",
+            "event_name": "CHK Women's T20I Series 2026",
+            "match_name": "China Women vs Malaysia Women",
+            "match_id": 142297,
+            "startTime": "06:30:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
+            "team_1": "Bangladesh",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Pakistan tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs Pakistan",
+            "match_id": 142160,
+            "startTime": "09:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mis-e-Ainak Region vs Amo Region (Super Cola National T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Mis-e-Ainak Region",
+            "team_2": "Amo Region",
+            "status": "UPCOMING",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Mis-e-Ainak Region vs Amo Region",
+            "match_id": 142413,
+            "startTime": "10:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cook Islands vs South Korea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Cook Islands",
+            "team_2": "South Korea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Cook Islands vs South Korea",
+            "match_id": 142305,
+            "startTime": "10:30:00 AM 08-05-2026"
         }
     ]
 }
