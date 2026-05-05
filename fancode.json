@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:55:46 AM 05-05-2026",
+    "last update time": "11:57:22 AM 05-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia vs Indonesia (Indonesia tour of Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
-            "team_1": "Malaysia",
-            "team_2": "Indonesia",
-            "status": "LIVE",
-            "event_name": "Indonesia tour of Malaysia, 2026",
-            "match_name": "Malaysia vs Indonesia",
-            "match_id": 142340,
-            "startTime": "07:30:00 AM 05-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142340_english_hls_5bfacb8a0d22554_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142340_english_hls_5bfacb8a0d22554_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Nepal vs Oman (ICC CWC League 2, Nepal 2026)",
@@ -33,31 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Amo Region vs Band-e-Amir Region (Super Cola National T20 Cup, 2026)",
+            "title": "Band-e-Amir Region vs Amo Region (Super Cola National T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Amo Region",
-            "team_2": "Band-e-Amir Region",
+            "team_1": "Band-e-Amir Region",
+            "team_2": "Amo Region",
             "status": "LIVE",
             "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Amo Region vs Band-e-Amir Region",
+            "match_name": "Band-e-Amir Region vs Amo Region",
             "match_id": 142409,
             "startTime": "10:00:00 AM 05-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142409_english_hls_3b9dd4428f64790_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142409_english_hls_3b9dd4428f64790_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "North Kanto Lions vs West Kanto Hurricanes (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "North Kanto Lions",
-            "team_2": "West Kanto Hurricanes",
-            "status": "LIVE",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "North Kanto Lions vs West Kanto Hurricanes",
-            "match_id": 142401,
-            "startTime": "06:30:00 AM 05-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142401_english_hls_379d440a9749876_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142401_english_hls_379d440a9749876_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -84,18 +56,6 @@
             "startTime": "07:30:00 PM 05-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Al Khaleej FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Khaleej-FC-vs-Al-Hilal-SFC_FC-web.jpg",
-            "team_1": "Al Khaleej FC",
-            "team_2": "Al Hilal SFC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Khaleej FC vs Al Hilal SFC",
-            "match_id": 142147,
-            "startTime": "11:30:00 PM 05-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Speen Ghar Region vs Amo Region (Super Cola National T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
@@ -109,6 +69,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Al Khaleej FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Khaleej-FC-vs-Al-Hilal-SFC_FC-web.jpg",
+            "team_1": "Al Khaleej FC",
+            "team_2": "Al Hilal SFC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Khaleej FC vs Al Hilal SFC",
+            "match_id": 142147,
+            "startTime": "11:30:00 PM 05-05-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Tigres vs Nashville SC (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142158_5954_TIG_NSH_FC-Web.png",
             "team_1": "Tigres",
@@ -118,6 +90,18 @@
             "match_name": "Tigres vs Nashville SC",
             "match_id": 142158,
             "startTime": "07:00:00 AM 06-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Region vs Boost Region (Super Cola National T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Band-e-Amir Region",
+            "team_2": "Boost Region",
+            "status": "UPCOMING",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Band-e-Amir Region vs Boost Region",
+            "match_id": 142412,
+            "startTime": "03:00:00 PM 06-05-2026"
         },
         {
             "event_category": "Football",
@@ -142,18 +126,6 @@
             "match_name": "Football 4 Change Academy vs Minerva Academy FC",
             "match_id": 142353,
             "startTime": "04:00:00 PM 05-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Band-e-Amir Region vs Boost Region (Super Cola National T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Band-e-Amir Region",
-            "team_2": "Boost Region",
-            "status": "UPCOMING",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Band-e-Amir Region vs Boost Region",
-            "match_id": 142412,
-            "startTime": "03:00:00 PM 06-05-2026"
         },
         {
             "event_category": "Football",
@@ -442,6 +414,30 @@
             "match_name": "Fiji vs Vanuatu",
             "match_id": 142304,
             "startTime": "06:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Philippines vs Indonesia (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Philippines",
+            "team_2": "Indonesia",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Philippines vs Indonesia",
+            "match_id": 142303,
+            "startTime": "06:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "China Women vs Malaysia Women (CHK Women's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "China Women",
+            "team_2": "Malaysia Women",
+            "status": "UPCOMING",
+            "event_name": "CHK Women's T20I Series 2026",
+            "match_name": "China Women vs Malaysia Women",
+            "match_id": 142297,
+            "startTime": "06:30:00 AM 08-05-2026"
         }
     ]
 }
