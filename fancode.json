@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:54:17 AM 07-05-2026",
+    "last update time": "06:45:51 AM 07-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
             "team_1": "Malaysia Women",
             "team_2": "China Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CHK Women's T20I Series 2026",
             "match_name": "Malaysia Women vs China Women",
             "match_id": 142295,
-            "startTime": "06:30:00 AM 07-05-2026"
+            "startTime": "06:30:00 AM 07-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142295_english_hls_ac06c2edfc93952_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142295_english_hls_ac06c2edfc93952_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Toluca vs Los Angeles FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142157_5954_TOL_LAF_FC-Web.png",
+            "team_1": "Toluca",
+            "team_2": "Los Angeles FC",
+            "status": "LIVE",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Toluca vs Los Angeles FC",
+            "match_id": 142159,
+            "startTime": "07:00:00 AM 07-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142159_english_hls_c8137e3a8a9433_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142159_english_hls_c8137e3a8a9433_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -38,18 +54,6 @@
             "match_name": "Al-Shabab FC vs Al-Nassr FC",
             "match_id": 142148,
             "startTime": "11:30:00 PM 07-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Toluca vs Los Angeles FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142157_5954_TOL_LAF_FC-Web.png",
-            "team_1": "Toluca",
-            "team_2": "Los Angeles FC",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Toluca vs Los Angeles FC",
-            "match_id": 142159,
-            "startTime": "07:00:00 AM 07-05-2026"
         },
         {
             "event_category": "Football",
@@ -88,30 +92,6 @@
             "startTime": "09:00:00 AM 08-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "SSE BFC Soccer School vs Jamshedpur FC Junior (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "SSE BFC Soccer School",
-            "team_2": "Jamshedpur FC Junior",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "SSE BFC Soccer School vs Jamshedpur FC Junior",
-            "match_id": 142362,
-            "startTime": "04:00:00 PM 07-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Football 4 Change Academy vs Sesa Football Academy (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "Football 4 Change Academy",
-            "team_2": "Sesa Football Academy",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Football 4 Change Academy vs Sesa Football Academy",
-            "match_id": 142361,
-            "startTime": "04:00:00 PM 07-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Fiji vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -137,6 +117,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Mis-e-Ainak Region vs Amo Region (Super Cola National T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Mis-e-Ainak Region",
+            "team_2": "Amo Region",
+            "status": "UPCOMING",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Mis-e-Ainak Region vs Amo Region",
+            "match_id": 142413,
+            "startTime": "10:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "China Women vs Malaysia Women (CHK Women's T20I Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
             "team_1": "China Women",
@@ -148,16 +140,28 @@
             "startTime": "06:30:00 AM 08-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Mis-e-Ainak Region vs Amo Region (Super Cola National T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Mis-e-Ainak Region",
-            "team_2": "Amo Region",
+            "event_category": "Football",
+            "title": "SSE BFC Soccer School vs Jamshedpur FC Junior (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "SSE BFC Soccer School",
+            "team_2": "Jamshedpur FC Junior",
             "status": "UPCOMING",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Mis-e-Ainak Region vs Amo Region",
-            "match_id": 142413,
-            "startTime": "10:00:00 AM 08-05-2026"
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "SSE BFC Soccer School vs Jamshedpur FC Junior",
+            "match_id": 142362,
+            "startTime": "04:00:00 PM 07-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Football 4 Change Academy vs Sesa Football Academy (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "Football 4 Change Academy",
+            "team_2": "Sesa Football Academy",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Football 4 Change Academy vs Sesa Football Academy",
+            "match_id": 142361,
+            "startTime": "04:00:00 PM 07-05-2026"
         },
         {
             "event_category": "Golf",
@@ -220,6 +224,18 @@
             "startTime": "06:00:00 PM 07-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Cook Islands vs South Korea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Cook Islands",
+            "team_2": "South Korea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Cook Islands vs South Korea",
+            "match_id": 142305,
+            "startTime": "10:30:00 AM 08-05-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed - Day 1 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
@@ -233,18 +249,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Cook Islands vs South Korea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Cook Islands",
-            "team_2": "South Korea",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Cook Islands vs South Korea",
-            "match_id": 142305,
-            "startTime": "10:30:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "China Women vs Hong Kong, China Women (CHK Women's T20I Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
             "team_1": "China Women",
@@ -254,6 +258,18 @@
             "match_name": "China Women vs Hong Kong, China Women",
             "match_id": 142298,
             "startTime": "11:00:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Boost Region vs Speen Ghar Region (Super Cola National T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Boost Region",
+            "team_2": "Speen Ghar Region",
+            "status": "UPCOMING",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Boost Region vs Speen Ghar Region",
+            "match_id": 142414,
+            "startTime": "03:00:00 PM 08-05-2026"
         },
         {
             "event_category": "Football",
@@ -278,18 +294,6 @@
             "match_name": "Reliance Foundation Young Champs vs Alchemy International FA",
             "match_id": 142363,
             "startTime": "07:30:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Boost Region vs Speen Ghar Region (Super Cola National T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Boost Region",
-            "team_2": "Speen Ghar Region",
-            "status": "UPCOMING",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Boost Region vs Speen Ghar Region",
-            "match_id": 142414,
-            "startTime": "03:00:00 PM 08-05-2026"
         },
         {
             "event_category": "Golf",
