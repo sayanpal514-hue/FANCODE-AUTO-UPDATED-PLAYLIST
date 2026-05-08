@@ -1,50 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:07:26 AM 09-05-2026",
+    "last update time": "03:08:19 AM 09-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Levante vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs CA Osasuna",
-            "match_id": 131174,
-            "startTime": "12:30:00 AM 09-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Hull City vs Millwall F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg",
-            "team_1": "Hull City",
-            "team_2": "Millwall F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Hull City vs Millwall F.C.",
-            "match_id": 142497,
-            "startTime": "12:30:00 AM 09-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00e1diz vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1778266475991/142376_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "Deportivo La Coruna",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz vs Deportivo La Coruna",
-            "match_id": 142376,
-            "startTime": "12:00:00 AM 09-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142376_english_hls_d75e04a0e273141_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142376_english_hls_d75e04a0e273141_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 3 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
@@ -291,18 +249,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Auckland vs Adelaide United (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg",
-            "team_1": "Auckland",
-            "team_2": "Adelaide United",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland vs Adelaide United",
-            "match_id": 142504,
-            "startTime": "11:30:00 AM 09-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Atletico de Madrid vs RC Celta (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png",
             "team_1": "Atletico de Madrid",
@@ -312,6 +258,18 @@
             "match_name": "Atletico de Madrid vs RC Celta",
             "match_id": 131172,
             "startTime": "10:00:00 PM 09-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Adelaide United (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg",
+            "team_1": "Auckland",
+            "team_2": "Adelaide United",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland vs Adelaide United",
+            "match_id": 142504,
+            "startTime": "11:30:00 AM 09-05-2026"
         },
         {
             "event_category": "Football",
@@ -446,6 +404,30 @@
             "startTime": "07:30:00 PM 09-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Japan vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Japan",
+            "team_2": "Fiji",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Japan vs Fiji",
+            "match_id": 142310,
+            "startTime": "06:00:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Philippines",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Samoa vs Philippines",
+            "match_id": 142309,
+            "startTime": "06:00:00 AM 10-05-2026"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Australia - Day 1 vs Australia (Ferrari Challenge Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
@@ -468,6 +450,18 @@
             "match_name": "France GP",
             "match_id": 139940,
             "startTime": "12:10:00 PM 09-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia Women vs Hong Kong, China Women (CHK Women's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
+            "team_1": "Malaysia Women",
+            "team_2": "Hong Kong, China Women",
+            "status": "UPCOMING",
+            "event_name": "CHK Women's T20I Series 2026",
+            "match_name": "Malaysia Women vs Hong Kong, China Women",
+            "match_id": 142299,
+            "startTime": "06:30:00 AM 10-05-2026"
         },
         {
             "event_category": "Golf",
