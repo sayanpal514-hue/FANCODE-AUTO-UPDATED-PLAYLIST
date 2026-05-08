@@ -1,8 +1,50 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:56:40 AM 08-05-2026",
+    "last update time": "06:48:15 AM 08-05-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Fiji vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Fiji",
+            "team_2": "Vanuatu",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Fiji vs Vanuatu",
+            "match_id": 142304,
+            "startTime": "06:00:00 AM 08-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142304_english_hls_8912373bd540172_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142304_english_hls_8912373bd540172_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Indonesia",
+            "team_2": "Philippines",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Indonesia vs Philippines",
+            "match_id": 142303,
+            "startTime": "06:00:00 AM 08-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142303_english_hls_7355c853e212541_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142303_english_hls_7355c853e212541_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "China Women vs Malaysia Women (CHK Women's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
+            "team_1": "China Women",
+            "team_2": "Malaysia Women",
+            "status": "LIVE",
+            "event_name": "CHK Women's T20I Series 2026",
+            "match_name": "China Women vs Malaysia Women",
+            "match_id": 142297,
+            "startTime": "06:30:00 AM 08-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142297_english_hls_354a8ae92156576_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142297_english_hls_354a8ae92156576_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
@@ -38,42 +80,6 @@
             "match_name": "Boost Region vs Speen Ghar Region",
             "match_id": 142414,
             "startTime": "03:00:00 PM 08-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fiji vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Fiji",
-            "team_2": "Vanuatu",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Fiji vs Vanuatu",
-            "match_id": 142304,
-            "startTime": "06:00:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Philippines vs Indonesia (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Philippines",
-            "team_2": "Indonesia",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Philippines vs Indonesia",
-            "match_id": 142303,
-            "startTime": "06:00:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "China Women vs Malaysia Women (CHK Women's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
-            "team_1": "China Women",
-            "team_2": "Malaysia Women",
-            "status": "UPCOMING",
-            "event_name": "CHK Women's T20I Series 2026",
-            "match_name": "China Women vs Malaysia Women",
-            "match_id": 142297,
-            "startTime": "06:30:00 AM 08-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -125,6 +131,30 @@
         },
         {
             "event_category": "Football",
+            "title": "FC Goa Junior vs Classic Football Academy (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "FC Goa Junior",
+            "team_2": "Classic Football Academy",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "FC Goa Junior vs Classic Football Academy",
+            "match_id": 142364,
+            "startTime": "07:30:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Reliance Foundation Young Champs vs Alchemy International FA (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Reliance Foundation Young Champs",
+            "team_2": "Alchemy International FA",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Reliance Foundation Young Champs vs Alchemy International FA",
+            "match_id": 142363,
+            "startTime": "07:30:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Levante vs CA Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png",
             "team_1": "Levante",
@@ -158,54 +188,6 @@
             "match_name": "C\u00e1diz vs Deportivo La Coruna",
             "match_id": 142376,
             "startTime": "12:00:00 AM 09-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Goa Junior vs Classic Football Academy (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "FC Goa Junior",
-            "team_2": "Classic Football Academy",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "FC Goa Junior vs Classic Football Academy",
-            "match_id": 142364,
-            "startTime": "07:30:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Reliance Foundation Young Champs vs Alchemy International FA (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Reliance Foundation Young Champs",
-            "team_2": "Alchemy International FA",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Reliance Foundation Young Champs vs Alchemy International FA",
-            "match_id": 142363,
-            "startTime": "07:30:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Madras vs Corbett FC (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "FC Madras",
-            "team_2": "Corbett FC",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "FC Madras vs Corbett FC",
-            "match_id": 142367,
-            "startTime": "04:00:00 PM 08-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mohun Bagan Super Giants vs Punjab FC Junior (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Mohun Bagan Super Giants",
-            "team_2": "Punjab FC Junior",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Mohun Bagan Super Giants vs Punjab FC Junior",
-            "match_id": 142365,
-            "startTime": "04:00:00 PM 08-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -242,6 +224,30 @@
             "match_name": "Amo Region vs Speen Ghar Region",
             "match_id": 142415,
             "startTime": "10:00:00 AM 09-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Madras vs Corbett FC (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "FC Madras",
+            "team_2": "Corbett FC",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "FC Madras vs Corbett FC",
+            "match_id": 142367,
+            "startTime": "04:00:00 PM 08-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mohun Bagan Super Giants vs Punjab FC Junior (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Mohun Bagan Super Giants",
+            "team_2": "Punjab FC Junior",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Mohun Bagan Super Giants vs Punjab FC Junior",
+            "match_id": 142365,
+            "startTime": "04:00:00 PM 08-05-2026"
         },
         {
             "event_category": "MotoGP",
@@ -352,18 +358,6 @@
             "startTime": "10:30:00 AM 09-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 142368,
-            "startTime": "07:30:00 AM 09-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mis-e-Ainak Region vs Band-e-Amir Region (Super Cola National T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
@@ -374,6 +368,18 @@
             "match_name": "Mis-e-Ainak Region vs Band-e-Amir Region",
             "match_id": 142416,
             "startTime": "03:00:00 PM 09-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 142368,
+            "startTime": "07:30:00 AM 09-05-2026"
         },
         {
             "event_category": "Football",
@@ -424,18 +430,6 @@
             "startTime": "03:15:00 PM 09-05-2026"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "River Ranger vs Jungle Panthers (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-            "team_1": "River Ranger",
-            "team_2": "Jungle Panthers",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "River Ranger vs Jungle Panthers",
-            "match_id": 142457,
-            "startTime": "01:30:00 PM 09-05-2026"
-        },
-        {
             "event_category": "Football",
             "title": "FC Goa vs Mohun Bagan Super Giant (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140510_5956_FCG_MBSG_FC-Web_1772475227847.jpg",
@@ -458,6 +452,18 @@
             "match_name": "Middlesbrough F.C. vs Southampton F.C.",
             "match_id": 142498,
             "startTime": "05:00:00 PM 09-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "River Ranger vs Jungle Panthers (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
+            "team_1": "River Ranger",
+            "team_2": "Jungle Panthers",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "River Ranger vs Jungle Panthers",
+            "match_id": 142457,
+            "startTime": "01:30:00 PM 09-05-2026"
         },
         {
             "event_category": "MotoGP",
