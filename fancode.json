@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:59:50 AM 09-05-2026",
+    "last update time": "06:41:12 AM 09-05-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Samoa (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Indonesia",
+            "team_2": "Samoa",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Indonesia vs Samoa",
+            "match_id": 142307,
+            "startTime": "06:00:00 AM 09-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142307_english_hls_ab635f91b575726_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142307_english_hls_ab635f91b575726_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Japan vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Japan",
+            "team_2": "Vanuatu",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Japan vs Vanuatu",
+            "match_id": 142306,
+            "startTime": "06:00:00 AM 09-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142306_english_hls_9913a9b0a269669_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142306_english_hls_9913a9b0a269669_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
@@ -38,30 +66,6 @@
             "match_name": "Mis-e-Ainak Region vs Band-e-Amir Region",
             "match_id": 142416,
             "startTime": "03:00:00 PM 09-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Indonesia vs Samoa (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Indonesia",
-            "team_2": "Samoa",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Indonesia vs Samoa",
-            "match_id": 142307,
-            "startTime": "06:00:00 AM 09-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Japan vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Japan",
-            "team_2": "Vanuatu",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Japan vs Vanuatu",
-            "match_id": 142306,
-            "startTime": "06:00:00 AM 09-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -149,15 +153,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Auckland vs Adelaide United (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg",
-            "team_1": "Auckland",
-            "team_2": "Adelaide United",
+            "title": "Minerva Academy FC vs Sreenidi Deccan FC (Dream Sports Championship Football 2026)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Minerva Academy FC",
+            "team_2": "Sreenidi Deccan FC",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland vs Adelaide United",
-            "match_id": 142504,
-            "startTime": "11:30:00 AM 09-05-2026"
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Minerva Academy FC vs Sreenidi Deccan FC",
+            "match_id": 142368,
+            "startTime": "07:30:00 AM 09-05-2026"
         },
         {
             "event_category": "Football",
@@ -170,6 +174,18 @@
             "match_name": "Real Sociedad vs Real Betis",
             "match_id": 131177,
             "startTime": "12:30:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Adelaide United (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg",
+            "team_1": "Auckland",
+            "team_2": "Adelaide United",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland vs Adelaide United",
+            "match_id": 142504,
+            "startTime": "11:30:00 AM 09-05-2026"
         },
         {
             "event_category": "Football",
@@ -196,16 +212,52 @@
             "startTime": "10:00:00 PM 09-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "event_category": "Cricket",
+            "title": "Japan vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Japan",
+            "team_2": "Fiji",
             "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 142368,
-            "startTime": "07:30:00 AM 09-05-2026"
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Japan vs Fiji",
+            "match_id": 142310,
+            "startTime": "06:00:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Philippines",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Samoa vs Philippines",
+            "match_id": 142309,
+            "startTime": "06:00:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Amo Region vs Boost Region (Super Cola National T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Amo Region",
+            "team_2": "Boost Region",
+            "status": "UPCOMING",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Amo Region vs Boost Region",
+            "match_id": 142417,
+            "startTime": "10:00:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia Women vs Hong Kong, China Women (CHK Women's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
+            "team_1": "Malaysia Women",
+            "team_2": "Hong Kong, China Women",
+            "status": "UPCOMING",
+            "event_name": "CHK Women's T20I Series 2026",
+            "match_name": "Malaysia Women vs Hong Kong, China Women",
+            "match_id": 142299,
+            "startTime": "06:30:00 AM 10-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -257,13 +309,13 @@
         },
         {
             "event_category": "Football",
-            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
+            "title": "Bengaluru Football Club vs Football 4 Change Academy (Dream Sports Championship Football 2026)",
             "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Bengaluru Football Club",
+            "team_2": "Football 4 Change Academy",
             "status": "UPCOMING",
             "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Bengaluru Football Club vs Football 4 Change Academy",
             "match_id": 142369,
             "startTime": "04:00:00 PM 09-05-2026"
         },
@@ -280,30 +332,6 @@
             "startTime": "04:20:00 PM 09-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Japan vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Japan",
-            "team_2": "Fiji",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Japan vs Fiji",
-            "match_id": 142310,
-            "startTime": "06:00:00 AM 10-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Samoa vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Samoa",
-            "team_2": "Philippines",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Samoa vs Philippines",
-            "match_id": 142309,
-            "startTime": "06:00:00 AM 10-05-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Stevenage vs Stockport County (League One 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -316,28 +344,16 @@
             "startTime": "07:30:00 PM 09-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Malaysia Women vs Hong Kong, China Women (CHK Women's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
-            "team_1": "Malaysia Women",
-            "team_2": "Hong Kong, China Women",
+            "event_category": "Football",
+            "title": "Bolton Wanderers vs Bradford City (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Bolton Wanderers",
+            "team_2": "Bradford City",
             "status": "UPCOMING",
-            "event_name": "CHK Women's T20I Series 2026",
-            "match_name": "Malaysia Women vs Hong Kong, China Women",
-            "match_id": 142299,
-            "startTime": "06:30:00 AM 10-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Amo Region vs Boost Region (Super Cola National T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Amo Region",
-            "team_2": "Boost Region",
-            "status": "UPCOMING",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Amo Region vs Boost Region",
-            "match_id": 142417,
-            "startTime": "10:00:00 AM 10-05-2026"
+            "event_name": "League One 2025-26",
+            "match_name": "Bolton Wanderers vs Bradford City",
+            "match_id": 142490,
+            "startTime": "12:30:00 AM 10-05-2026"
         },
         {
             "event_category": "Motorsports",
@@ -362,18 +378,6 @@
             "match_name": "France GP",
             "match_id": 139940,
             "startTime": "12:10:00 PM 09-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bolton Wanderers vs Bradford City (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Bolton Wanderers",
-            "team_2": "Bradford City",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Bolton Wanderers vs Bradford City",
-            "match_id": 142490,
-            "startTime": "12:30:00 AM 10-05-2026"
         },
         {
             "event_category": "Golf",
@@ -436,6 +440,18 @@
             "startTime": "06:00:00 PM 09-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Papua New Guinea vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Papua New Guinea",
+            "team_2": "Cook Islands",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Papua New Guinea vs Cook Islands",
+            "match_id": 142311,
+            "startTime": "10:30:00 AM 10-05-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
@@ -446,18 +462,6 @@
             "match_name": "World Feed - Day 3",
             "match_id": 142099,
             "startTime": "10:30:00 PM 09-05-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs Dunes Golf and Beach Club - Myrtle Beach, South Ca (ONEflight Myrtle Beach Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Dunes Golf and Beach Club - Myrtle Beach, South Ca",
-            "status": "UPCOMING",
-            "event_name": "ONEflight Myrtle Beach Classic 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 142112,
-            "startTime": "12:30:00 AM 10-05-2026"
         }
     ]
 }
