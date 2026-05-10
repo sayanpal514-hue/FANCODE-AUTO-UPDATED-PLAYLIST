@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:33:40 AM 11-05-2026",
+    "last update time": "02:55:51 AM 11-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,76 +16,6 @@
             "startTime": "07:30:00 PM 10-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb20268_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb20268_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Barbados Pride",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
-            "match_id": 141956,
-            "startTime": "07:30:00 PM 10-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8667708_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8667708_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Damac FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Damac-FC_FC-web.jpg",
-            "team_1": "Al-Ittihad",
-            "team_2": "Damac FC",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Ittihad vs Damac FC",
-            "match_id": 142149,
-            "startTime": "11:30:00 PM 10-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142149_english_hls_9df2c0093c74583_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142149_english_hls_9df2c0093c74583_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Barcelona vs Real Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Real Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "FC Barcelona vs Real Madrid",
-            "match_id": 131173,
-            "startTime": "12:30:00 AM 11-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131173_english_hls_45a66a7a2f64087_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131173_english_hls_45a66a7a2f64087_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 5 - Main Feed",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 5 - Main Feed",
-            "match_id": 142226,
-            "startTime": "02:30:00 PM 10-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142226_english_hls_1107196c7429776_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142226_english_hls_1107196c7429776_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
-            "status": "LIVE",
-            "event_name": "Truist Championship 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 142104,
-            "startTime": "05:00:00 PM 10-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142104_english_hls_c4c6d95f0d29521_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142104_english_hls_c4c6d95f0d29521_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -103,20 +33,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Marquee Group - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
-            "team_1": "Marquee Group - Day 4",
-            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
-            "status": "LIVE",
-            "event_name": "Truist Championship 2026",
-            "match_name": "Marquee Group - Day 4",
-            "match_id": 142105,
-            "startTime": "07:30:00 PM 10-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142105_english_hls_63b237ec8295516_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142105_english_hls_63b237ec8295516_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "World Feed - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
             "team_1": "World Feed - Day 4",
@@ -130,18 +46,18 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142103_english_hls_1e46e68b6223786_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 4 vs Dunes Golf and Beach Club - Myrtle Beach, South Ca (ONEflight Myrtle Beach Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png",
-            "team_1": "World Feed - Day 4",
-            "team_2": "Dunes Golf and Beach Club - Myrtle Beach, South Ca",
+            "event_category": "Football",
+            "title": "FC Barcelona vs Real Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Real Madrid",
             "status": "LIVE",
-            "event_name": "ONEflight Myrtle Beach Classic 2026",
-            "match_name": "World Feed - Day 4",
-            "match_id": 142113,
+            "event_name": "LALIGA 2025-26",
+            "match_name": "FC Barcelona vs Real Madrid",
+            "match_id": 131173,
             "startTime": "12:30:00 AM 11-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142113_english_hls_fdfe7ad75953974_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142113_english_hls_fdfe7ad75953974_1ta-di_h264/index.m3u8"
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131173_english_hls_45a66a7a2f64087_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131173_english_hls_45a66a7a2f64087_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -166,6 +82,18 @@
             "match_name": "Boost Region vs Band-e-Amir Region",
             "match_id": 142419,
             "startTime": "10:00:00 AM 11-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Barbados Pride",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
+            "match_id": 141956,
+            "startTime": "07:30:00 PM 10-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -336,6 +264,18 @@
             "startTime": "12:00:00 AM 12-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Samoa vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Vanuatu",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Samoa vs Vanuatu",
+            "match_id": 142312,
+            "startTime": "06:00:00 AM 12-05-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -370,18 +310,6 @@
             "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
             "match_id": 142228,
             "startTime": "05:30:00 PM 11-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Samoa vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Samoa",
-            "team_2": "Vanuatu",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Samoa vs Vanuatu",
-            "match_id": 142312,
-            "startTime": "06:00:00 AM 12-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -468,6 +396,18 @@
             "startTime": "03:00:00 PM 12-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Alaknanda Aces vs Himalayan Hurricanes (Platinum T20 Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142570_6081_ALA_HIM_fc-web.jpg",
+            "team_1": "Alaknanda Aces",
+            "team_2": "Himalayan Hurricanes",
+            "status": "UPCOMING",
+            "event_name": "Platinum T20 Cup 2026",
+            "match_name": "Alaknanda Aces vs Himalayan Hurricanes",
+            "match_id": 142570,
+            "startTime": "01:30:00 PM 12-05-2026"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Roaring Rhinos vs Goat Warriors (Young Star Kabaddi League 2026)",
             "src": "https://images.fancode.com/aig/match/v1778306880662/142471_CASACARDS_APP.png",
@@ -478,6 +418,54 @@
             "match_name": "Roaring Rhinos vs Goat Warriors",
             "match_id": 142471,
             "startTime": "12:00:00 PM 12-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Jungle Panthers vs River Ranger (Young Star Kabaddi League 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778306880663/142472_CASACARDS_APP.png",
+            "team_1": "Jungle Panthers",
+            "team_2": "River Ranger",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Jungle Panthers vs River Ranger",
+            "match_id": 142472,
+            "startTime": "01:30:00 PM 12-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Roaring Rhinos vs Raging Bulls (Young Star Kabaddi League 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778306880651/142473_CASACARDS_APP.png",
+            "team_1": "Roaring Rhinos",
+            "team_2": "Raging Bulls",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Roaring Rhinos vs Raging Bulls",
+            "match_id": 142473,
+            "startTime": "03:00:00 PM 12-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Jungle Panthers vs Lightning Lions (Young Star Kabaddi League 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778306880658/142474_CASACARDS_APP.png",
+            "team_1": "Jungle Panthers",
+            "team_2": "Lightning Lions",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Jungle Panthers vs Lightning Lions",
+            "match_id": 142474,
+            "startTime": "04:20:00 PM 12-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 142373,
+            "startTime": "04:00:00 PM 12-05-2026"
         }
     ]
 }
