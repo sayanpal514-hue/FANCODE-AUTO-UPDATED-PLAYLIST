@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:05:42 AM 12-05-2026",
+    "last update time": "04:06:21 AM 12-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "West Indies Academy",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Guyana Harpy Eagles vs West Indies Academy",
-            "match_id": 141957,
-            "startTime": "07:30:00 PM 10-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb19725_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb19725_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Barbados Pride",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
-            "match_id": 141956,
-            "startTime": "07:30:00 PM 10-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8645704_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8645704_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
@@ -54,6 +26,30 @@
             "match_name": "Boost Region vs Mis-e-Ainak Region",
             "match_id": 142421,
             "startTime": "10:00:00 AM 12-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Guyana Harpy Eagles",
+            "team_2": "West Indies Academy",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Guyana Harpy Eagles vs West Indies Academy",
+            "match_id": 141957,
+            "startTime": "07:30:00 PM 10-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Barbados Pride",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
+            "match_id": 141956,
+            "startTime": "07:30:00 PM 10-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -128,6 +124,18 @@
             "startTime": "07:30:00 PM 12-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "RC Celta vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Levante",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RC Celta vs Levante",
+            "match_id": 131182,
+            "startTime": "10:30:00 PM 12-05-2026"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Lightning Lions vs Raging Bulls (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -153,15 +161,27 @@
         },
         {
             "event_category": "Football",
-            "title": "RC Celta vs Levante (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Levante",
+            "title": "Real Betis vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131181_5427_RB_ELC_FC-Web.png",
+            "team_1": "Real Betis",
+            "team_2": "Elche CF",
             "status": "UPCOMING",
             "event_name": "LALIGA 2025-26",
-            "match_name": "RC Celta vs Levante",
-            "match_id": 131182,
-            "startTime": "10:30:00 PM 12-05-2026"
+            "match_name": "Real Betis vs Elche CF",
+            "match_id": 131181,
+            "startTime": "11:30:00 PM 12-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+            "src": "https://images.fancode.com/aig/match/v1776758579466/142151_CASACARDS_APP.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Al Hilal SFC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Nassr FC vs Al Hilal SFC",
+            "match_id": 142151,
+            "startTime": "11:30:00 PM 12-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -198,30 +218,6 @@
             "match_name": "Jungle Panthers vs Lightning Lions",
             "match_id": 142474,
             "startTime": "04:20:00 PM 12-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Betis vs Elche CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131181_5427_RB_ELC_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Elche CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Betis vs Elche CF",
-            "match_id": 131181,
-            "startTime": "11:30:00 PM 12-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1776758579466/142151_CASACARDS_APP.png",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Al Hilal SFC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Nassr FC vs Al Hilal SFC",
-            "match_id": 142151,
-            "startTime": "11:30:00 PM 12-05-2026"
         },
         {
             "event_category": "Football",
