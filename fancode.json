@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:37:53 PM 12-05-2026",
+    "last update time": "05:39:32 PM 12-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-            "team_1": "Bangladesh",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs Pakistan",
-            "match_id": 142160,
-            "startTime": "09:30:00 AM 08-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Amo Region vs Band-e-Amir Region (Super Cola National T20 Cup, 2026)",
@@ -46,18 +32,18 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Roaring Rhinos vs Raging Bulls (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Roaring Rhinos",
-            "team_2": "Raging Bulls",
+            "event_category": "Football",
+            "title": "Bengaluru Football Club vs Punjab FC Junior (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "Bengaluru Football Club",
+            "team_2": "Punjab FC Junior",
             "status": "LIVE",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Roaring Rhinos vs Raging Bulls",
-            "match_id": 142473,
-            "startTime": "03:00:00 PM 12-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8"
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Bengaluru Football Club vs Punjab FC Junior",
+            "match_id": 142373,
+            "startTime": "04:00:00 PM 12-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -136,18 +122,6 @@
             "match_name": "Mis-e-Ainak Region vs Boost Region",
             "match_id": 142423,
             "startTime": "10:00:00 AM 13-05-2026"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Jungle Panthers vs Lightning Lions (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Jungle Panthers",
-            "team_2": "Lightning Lions",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Jungle Panthers vs Lightning Lions",
-            "match_id": 142474,
-            "startTime": "04:20:00 PM 12-05-2026"
         },
         {
             "event_category": "Football",
@@ -234,18 +208,6 @@
             "startTime": "06:00:00 AM 13-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Bengaluru Football Club vs Punjab FC Junior (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "Bengaluru Football Club",
-            "team_2": "Punjab FC Junior",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Bengaluru Football Club vs Punjab FC Junior",
-            "match_id": 142373,
-            "startTime": "04:00:00 PM 12-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Vanuatu vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
@@ -256,6 +218,18 @@
             "match_name": "Vanuatu vs Cook Islands",
             "match_id": 142315,
             "startTime": "10:30:00 AM 13-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7 - Pietrangeli vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Day 7 - Pietrangeli",
+            "team_2": "Rome",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Day 7 - Pietrangeli",
+            "match_id": 142641,
+            "startTime": "06:30:00 PM 12-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -306,16 +280,16 @@
             "startTime": "03:00:00 PM 13-05-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 7 - Pietrangeli vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - Pietrangeli",
-            "team_2": "Rome",
+            "event_category": "Kabaddi",
+            "title": "Lightning Lions vs Roaring Rhinos (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Lightning Lions",
+            "team_2": "Roaring Rhinos",
             "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7 - Pietrangeli",
-            "match_id": 142641,
-            "startTime": "06:30:00 PM 12-05-2026"
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Lightning Lions vs Roaring Rhinos",
+            "match_id": 142479,
+            "startTime": "04:20:00 PM 13-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -328,18 +302,6 @@
             "match_name": "Day 7 - T A Tirante vs D Medvedev",
             "match_id": 142640,
             "startTime": "11:30:00 PM 12-05-2026"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Lightning Lions vs Roaring Rhinos (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Lightning Lions",
-            "team_2": "Roaring Rhinos",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Lightning Lions vs Roaring Rhinos",
-            "match_id": 142479,
-            "startTime": "04:20:00 PM 13-05-2026"
         },
         {
             "event_category": "Football",
@@ -378,6 +340,30 @@
             "startTime": "09:30:00 PM 13-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Vietnam vs United Arab Emirates (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
+            "team_1": "Vietnam",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Vietnam vs United Arab Emirates",
+            "match_id": 142258,
+            "startTime": "10:30:00 PM 13-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Korea Republic vs Yemen (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
+            "team_1": "Korea Republic",
+            "team_2": "Yemen",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Korea Republic vs Yemen",
+            "match_id": 142257,
+            "startTime": "10:30:00 PM 13-05-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -403,30 +389,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Vietnam vs United Arab Emirates (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
-            "team_1": "Vietnam",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Vietnam vs United Arab Emirates",
-            "match_id": 142258,
-            "startTime": "10:30:00 PM 13-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Korea Republic vs Yemen (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
-            "team_1": "Korea Republic",
-            "team_2": "Yemen",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Korea Republic vs Yemen",
-            "match_id": 142257,
-            "startTime": "10:30:00 PM 13-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Getafe CF vs RCD Mallorca (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png",
             "team_1": "Getafe CF",
@@ -448,6 +410,54 @@
             "match_name": "Deportivo Alaves vs FC Barcelona",
             "match_id": 131180,
             "startTime": "01:00:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stockport County vs Stevenage (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Stockport County",
+            "team_2": "Stevenage",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Stockport County vs Stevenage",
+            "match_id": 142491,
+            "startTime": "12:30:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Indonesia",
+            "team_2": "Papua New Guinea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Indonesia vs Papua New Guinea",
+            "match_id": 142316,
+            "startTime": "06:00:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scotland vs USA (ICC CWC League 2 Nepal, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+            "team_1": "Scotland",
+            "team_2": "USA",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2 Nepal, 2026",
+            "match_name": "Scotland vs USA",
+            "match_id": 142290,
+            "startTime": "09:15:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cook Islands vs Japan (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Cook Islands",
+            "team_2": "Japan",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Cook Islands vs Japan",
+            "match_id": 142317,
+            "startTime": "10:30:00 AM 14-05-2026"
         }
     ]
 }
