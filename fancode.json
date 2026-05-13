@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:37:53 AM 13-05-2026",
+    "last update time": "09:40:38 AM 13-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
             "team_1": "Mis-e-Ainak Region",
             "team_2": "Boost Region",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Super Cola National T20 Cup, 2026",
             "match_name": "Mis-e-Ainak Region vs Boost Region",
             "match_id": 142423,
-            "startTime": "10:00:00 AM 13-05-2026"
+            "startTime": "10:00:00 AM 13-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142423_english_hls_3656954ba730009_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142423_english_hls_3656954ba730009_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Papua New Guinea",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Samoa vs Papua New Guinea",
+            "match_id": 142314,
+            "startTime": "06:00:00 AM 13-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142314_english_hls_72c9d3538c11416_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142314_english_hls_72c9d3538c11416_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -41,18 +57,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Papua New Guinea vs Samoa (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Papua New Guinea",
-            "team_2": "Samoa",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Papua New Guinea vs Samoa",
-            "match_id": 142314,
-            "startTime": "06:00:00 AM 13-05-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Vanuatu vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
             "team_1": "Vanuatu",
@@ -61,6 +65,18 @@
             "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
             "match_name": "Vanuatu vs Cook Islands",
             "match_id": 142315,
+            "startTime": "10:30:00 AM 13-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "River Ranger vs Goat Warriors (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "River Ranger",
+            "team_2": "Goat Warriors",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "River Ranger vs Goat Warriors",
+            "match_id": 142475,
             "startTime": "10:30:00 AM 13-05-2026"
         },
         {
@@ -88,16 +104,28 @@
             "startTime": "10:30:00 PM 13-05-2026"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "River Ranger vs Goat Warriors (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "River Ranger",
-            "team_2": "Goat Warriors",
+            "event_category": "Football",
+            "title": "Getafe CF vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "RCD Mallorca",
             "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "River Ranger vs Goat Warriors",
-            "match_id": 142475,
-            "startTime": "10:30:00 AM 13-05-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe CF vs RCD Mallorca",
+            "match_id": 131183,
+            "startTime": "01:00:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs FC Barcelona (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "FC Barcelona",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves vs FC Barcelona",
+            "match_id": 131180,
+            "startTime": "01:00:00 AM 14-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -124,30 +152,6 @@
             "startTime": "01:30:00 PM 13-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Getafe CF vs RCD Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Getafe CF vs RCD Mallorca",
-            "match_id": 131183,
-            "startTime": "01:00:00 AM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "FC Barcelona",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves vs FC Barcelona",
-            "match_id": 131180,
-            "startTime": "01:00:00 AM 14-05-2026"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Goat Warriors vs Lightning Lions (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -170,6 +174,18 @@
             "match_name": "Lightning Lions vs Roaring Rhinos",
             "match_id": 142479,
             "startTime": "04:20:00 PM 13-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Indonesia",
+            "team_2": "Papua New Guinea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Indonesia vs Papua New Guinea",
+            "match_id": 142316,
+            "startTime": "06:00:00 AM 14-05-2026"
         },
         {
             "event_category": "Football",
@@ -209,15 +225,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Indonesia vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "title": "Scotland vs USA (ICC CWC League 2 Nepal, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+            "team_1": "Scotland",
+            "team_2": "USA",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2 Nepal, 2026",
+            "match_name": "Scotland vs USA",
+            "match_id": 142290,
+            "startTime": "09:15:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cook Islands vs Japan (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Indonesia",
-            "team_2": "Papua New Guinea",
+            "team_1": "Cook Islands",
+            "team_2": "Japan",
             "status": "UPCOMING",
             "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Indonesia vs Papua New Guinea",
-            "match_id": 142316,
-            "startTime": "06:00:00 AM 14-05-2026"
+            "match_name": "Cook Islands vs Japan",
+            "match_id": 142317,
+            "startTime": "10:30:00 AM 14-05-2026"
         },
         {
             "event_category": "Football",
@@ -256,30 +284,6 @@
             "startTime": "05:30:00 PM 13-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Scotland vs USA (ICC CWC League 2 Nepal, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
-            "team_1": "Scotland",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2 Nepal, 2026",
-            "match_name": "Scotland vs USA",
-            "match_id": 142290,
-            "startTime": "09:15:00 AM 14-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cook Islands vs Japan (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Cook Islands",
-            "team_2": "Japan",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Cook Islands vs Japan",
-            "match_id": 142317,
-            "startTime": "10:30:00 AM 14-05-2026"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Goat Warriors vs Jungle Panthers (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -316,18 +320,6 @@
             "startTime": "01:30:00 PM 14-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Japan Women vs Australia Women (AFC U17 Women's Asian Cup China 2026)",
-            "src": "https://images.fancode.com/aig/match/v1778498139185/142254_CASACARDS_APP.png",
-            "team_1": "Japan Women",
-            "team_2": "Australia Women",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Women's Asian Cup China 2026",
-            "match_name": "Japan Women vs Australia Women",
-            "match_id": 142254,
-            "startTime": "12:30:00 PM 14-05-2026"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Lightning Lions vs River Ranger (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -338,6 +330,18 @@
             "match_name": "Lightning Lions vs River Ranger",
             "match_id": 142483,
             "startTime": "03:00:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan Women vs Australia Women (AFC U17 Women's Asian Cup China 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778498139185/142254_CASACARDS_APP.png",
+            "team_1": "Japan Women",
+            "team_2": "Australia Women",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Women's Asian Cup China 2026",
+            "match_name": "Japan Women vs Australia Women",
+            "match_id": 142254,
+            "startTime": "12:30:00 PM 14-05-2026"
         },
         {
             "event_category": "Kabaddi",
