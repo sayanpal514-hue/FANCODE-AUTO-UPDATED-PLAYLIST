@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:47:27 AM 14-05-2026",
+    "last update time": "01:29:13 PM 14-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,18 +32,32 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142317_english_hls_834021c14359094_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Japan Women vs Australia Women (AFC U17 Women's Asian Cup China 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778730864517/142254_CASACARDS_APP.png",
+            "team_1": "Japan Women",
+            "team_2": "Australia Women",
+            "status": "LIVE",
+            "event_name": "AFC U17 Women's Asian Cup China 2026",
+            "match_name": "Japan Women vs Australia Women",
+            "match_id": 142254,
+            "startTime": "12:30:00 PM 14-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142254_english_hls_2489bfefb614232_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142254_english_hls_2489bfefb614232_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Kabaddi",
-            "title": "Goat Warriors vs Jungle Panthers (Young Star Kabaddi League 2026)",
+            "title": "Roaring Rhinos vs Jungle Panthers (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Goat Warriors",
+            "team_1": "Roaring Rhinos",
             "team_2": "Jungle Panthers",
             "status": "LIVE",
             "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Goat Warriors vs Jungle Panthers",
-            "match_id": 142480,
-            "startTime": "10:30:00 AM 14-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142480_english_hls_2aa974c43027917_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142480_english_hls_2aa974c43027917_1ta-di_h264/index.m3u8"
+            "match_name": "Roaring Rhinos vs Jungle Panthers",
+            "match_id": 142482,
+            "startTime": "01:30:00 PM 14-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142482_english_hls_66ceca653c2387_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142482_english_hls_66ceca653c2387_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -83,42 +97,6 @@
         },
         {
             "event_category": "Kabaddi",
-            "title": "River Ranger vs Raging Bulls (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "River Ranger",
-            "team_2": "Raging Bulls",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "River Ranger vs Raging Bulls",
-            "match_id": 142481,
-            "startTime": "12:00:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan Women vs Australia Women (AFC U17 Women's Asian Cup China 2026)",
-            "src": "https://images.fancode.com/aig/match/v1778730864517/142254_CASACARDS_APP.png",
-            "team_1": "Japan Women",
-            "team_2": "Australia Women",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Women's Asian Cup China 2026",
-            "match_name": "Japan Women vs Australia Women",
-            "match_id": 142254,
-            "startTime": "12:30:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Roaring Rhinos vs Jungle Panthers (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Roaring Rhinos",
-            "team_2": "Jungle Panthers",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Roaring Rhinos vs Jungle Panthers",
-            "match_id": 142482,
-            "startTime": "01:30:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Kabaddi",
             "title": "Lightning Lions vs River Ranger (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
             "team_1": "Lightning Lions",
@@ -152,6 +130,18 @@
             "match_name": "China PR Women vs DPR Korea Women",
             "match_id": 142255,
             "startTime": "05:00:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka A Women vs New Zealand A Women (New Zealand Women\u2019s A tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
+            "team_1": "Sri Lanka A Women",
+            "team_2": "New Zealand A Women",
+            "status": "UPCOMING",
+            "event_name": "New Zealand Women\u2019s A tour of Sri Lanka, 2026",
+            "match_name": "Sri Lanka A Women vs New Zealand A Women",
+            "match_id": 142510,
+            "startTime": "10:00:00 AM 15-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -202,18 +192,6 @@
             "startTime": "05:30:00 AM 15-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Sri Lanka A Women vs New Zealand A Women (New Zealand Women\u2019s A tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-            "team_1": "Sri Lanka A Women",
-            "team_2": "New Zealand A Women",
-            "status": "UPCOMING",
-            "event_name": "New Zealand Women\u2019s A tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka A Women vs New Zealand A Women",
-            "match_id": 142510,
-            "startTime": "10:00:00 AM 15-05-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Minerva Academy FC vs Punjab FC Junior (Dream Sports Championship Football 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
@@ -228,7 +206,7 @@
         {
             "event_category": "Football",
             "title": "Bradford City vs Bolton Wanderers (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1778743493092/142492_CASACARDS_APP.png",
             "team_1": "Bradford City",
             "team_2": "Bolton Wanderers",
             "status": "UPCOMING",
@@ -239,27 +217,15 @@
         },
         {
             "event_category": "Tennis",
-            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
+            "title": "QF: J. Sinner vs A. Rublev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg",
+            "team_1": "QF: J. Sinner vs A. Rublev",
             "team_2": "Rome",
             "status": "UPCOMING",
             "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "QF: J. Sinner vs A. Rublev",
             "match_id": 142236,
-            "startTime": "05:30:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
-            "team_2": "Rome",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_id": 142235,
-            "startTime": "05:30:00 PM 14-05-2026"
+            "startTime": "04:30:00 PM 14-05-2026"
         },
         {
             "event_category": "Golf",
@@ -272,6 +238,30 @@
             "match_name": "Day 1",
             "match_id": 142325,
             "startTime": "05:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Men's Doubles QF's vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Men's Doubles QF's",
+            "team_2": "Rome, Italy",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Men's Doubles QF's",
+            "match_id": 142676,
+            "startTime": "06:00:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "QF: M. Landaluce vs D. Medvedev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "QF: M. Landaluce vs D. Medvedev",
+            "team_2": "Rome",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "QF: M. Landaluce vs D. Medvedev",
+            "match_id": 142235,
+            "startTime": "10:30:00 PM 14-05-2026"
         },
         {
             "event_category": "Golf",
@@ -298,6 +288,18 @@
             "startTime": "03:05:00 PM 15-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Mohammedan SC vs Mumbai City FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140505_5956_MSC_MCFC_FC-Web_1772473605941.jpg",
+            "team_1": "Mohammedan SC",
+            "team_2": "Mumbai City FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Mohammedan SC vs Mumbai City FC",
+            "match_id": 140505,
+            "startTime": "07:30:00 PM 15-05-2026"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Day 1 vs Barcelona (MONSTER ENERGY GRAND PRIX OF CATALUNYA 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg",
@@ -311,15 +313,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Mohammedan SC vs Mumbai City FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140505_5956_MSC_MCFC_FC-Web_1772473605941.jpg",
-            "team_1": "Mohammedan SC",
-            "team_2": "Mumbai City FC",
+            "title": "Japan vs Tajikistan (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Japan",
+            "team_2": "Tajikistan",
             "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mohammedan SC vs Mumbai City FC",
-            "match_id": 140505,
-            "startTime": "07:30:00 PM 15-05-2026"
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Japan vs Tajikistan",
+            "match_id": 142549,
+            "startTime": "09:30:00 PM 15-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -356,18 +358,6 @@
             "match_name": "Day 2",
             "match_id": 142326,
             "startTime": "05:30:00 PM 15-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan vs Tajikistan (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Japan",
-            "team_2": "Tajikistan",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Japan vs Tajikistan",
-            "match_id": 142549,
-            "startTime": "09:30:00 PM 15-05-2026"
         },
         {
             "event_category": "Football",
@@ -476,6 +466,18 @@
             "match_name": "Japan vs Samoa",
             "match_id": 142319,
             "startTime": "10:30:00 AM 16-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guernsey vs Sweden (ICC Men's T20 WC Europe Sub Regional Qualifier A)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142426_6076_GSY_SWE_fc-web.jpg",
+            "team_1": "Guernsey",
+            "team_2": "Sweden",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "Guernsey vs Sweden",
+            "match_id": 142426,
+            "startTime": "01:00:00 PM 16-05-2026"
         }
     ]
 }
