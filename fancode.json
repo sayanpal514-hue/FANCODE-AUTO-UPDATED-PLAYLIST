@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:08:48 PM 16-05-2026",
+    "last update time": "07:29:58 PM 16-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "06:00:00 PM 16-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142427_english_hls_ff4eff117b99431_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142427_english_hls_ff4eff117b99431_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chennaiyin FC vs Bengaluru FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg",
-            "team_1": "Chennaiyin FC",
-            "team_2": "Bengaluru FC",
-            "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "Chennaiyin FC vs Bengaluru FC",
-            "match_id": 140521,
-            "startTime": "05:00:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140521_english_hls_81e81e136a66605_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140521_english_hls_81e81e136a66605_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -131,73 +117,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Newcastle Jets vs Sydney FC (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Sydney FC",
+            "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg",
+            "team_1": "Odisha FC",
+            "team_2": "Punjab FC",
             "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Sydney FC",
-            "match_id": 142507,
-            "startTime": "03:20:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142507_english_hls_7401464f2d74824_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142507_english_hls_7401464f2d74824_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Barcelona (MONSTER ENERGY GRAND PRIX OF CATALUNYA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Barcelona",
-            "status": "LIVE",
-            "event_name": "MONSTER ENERGY GRAND PRIX OF CATALUNYA 2026",
-            "match_name": "Catalonia GP",
-            "match_id": 139943,
-            "startTime": "12:10:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "SF: Krajicek/Mektic vs Granollers/Zeballos vs Stade Roland Garros Paris, France (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "SF: Krajicek/Mektic vs Granollers/Zeballos",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "SF: Krajicek/Mektic vs Granollers/Zeballos",
-            "match_id": 142737,
-            "startTime": "03:30:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142737_english_hls_f936ff110199210_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142737_english_hls_f936ff110199210_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "SF: Bolelli/Vavassori vs Harrison/Skupski vs Stade Roland Garros Paris, France (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "SF: Bolelli/Vavassori vs Harrison/Skupski",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "SF: Bolelli/Vavassori vs Harrison/Skupski",
-            "match_id": 142738,
-            "startTime": "04:30:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142738_english_hls_4bac41947115573_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142738_english_hls_4bac41947115573_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Spielberg - Day 1 vs Spielberg, Austria (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Spielberg - Day 1",
-            "team_2": "Spielberg, Austria",
-            "status": "LIVE",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Spielberg - Day 1",
-            "match_id": 142635,
-            "startTime": "05:05:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142635_english_hls_25a27b7c8d8299_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142635_english_hls_25a27b7c8d8299_1ta-di_h264/index.m3u8"
+            "event_name": "ISL 2025-26",
+            "match_name": "Odisha FC vs Punjab FC",
+            "match_id": 140435,
+            "startTime": "07:30:00 PM 16-05-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Golf",
@@ -212,6 +142,20 @@
             "startTime": "05:30:00 PM 16-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142327_english_hls_ff1d493b1394682_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142327_english_hls_ff1d493b1394682_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "SF: J. Sinner vs D. Medvedev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web_1778907587882.jpg",
+            "team_1": "SF: J. Sinner vs D. Medvedev",
+            "team_2": "Rome",
+            "status": "LIVE",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "SF: J. Sinner vs D. Medvedev",
+            "match_id": 142239,
+            "startTime": "06:30:00 PM 16-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142239_english_hls_03c417900b86056_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142239_english_hls_03c417900b86056_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -263,18 +207,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg",
-            "team_1": "Odisha FC",
-            "team_2": "Punjab FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Odisha FC vs Punjab FC",
-            "match_id": 140435,
-            "startTime": "07:30:00 PM 16-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Al Hilal SFC vs Neom SC (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142152_5655_AHS_NEOM_fc-web_1778594602210.jpg",
             "team_1": "Al Hilal SFC",
@@ -311,18 +243,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Vanuatu vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Vanuatu",
-            "team_2": "Papua New Guinea",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Vanuatu vs Papua New Guinea",
-            "match_id": 142321,
-            "startTime": "10:30:00 AM 17-05-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Cyprus vs Jersey (ICC Men's T20 WC Europe Sub Regional Qualifier A)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142432_6076_CYP_JER_fc-web.jpg",
             "team_1": "Cyprus",
@@ -344,6 +264,18 @@
             "match_name": "Slovenia vs Austria",
             "match_id": 142431,
             "startTime": "06:00:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vanuatu vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Vanuatu",
+            "team_2": "Papua New Guinea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Vanuatu vs Papua New Guinea",
+            "match_id": 142321,
+            "startTime": "10:30:00 AM 17-05-2026"
         },
         {
             "event_category": "Football",
@@ -404,18 +336,6 @@
             "match_name": "Al-Nassr FC vs Gamba Osaka",
             "match_id": 140874,
             "startTime": "11:15:00 PM 16-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "SF: J. Sinner vs D. Medvedev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web_1778907587882.jpg",
-            "team_1": "SF: J. Sinner vs D. Medvedev",
-            "team_2": "Rome",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "SF: J. Sinner vs D. Medvedev",
-            "match_id": 142239,
-            "startTime": "06:30:00 PM 16-05-2026"
         },
         {
             "event_category": "Football",
@@ -487,6 +407,102 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Sevilla FC vs Real Madrid",
             "match_id": 131199,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "CA Osasuna vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "RCD Espanyol",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs RCD Espanyol",
+            "match_id": 131198,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Oviedo vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131197_5427_RO_ALA_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Deportivo Alaves",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Oviedo vs Deportivo Alaves",
+            "match_id": 131197,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131196_5427_RS_VAL_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Valencia CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Sociedad vs Valencia CF",
+            "match_id": 131196,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Villarreal CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131195_5427_RVL_VIL_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Villarreal CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano vs Villarreal CF",
+            "match_id": 131195,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Levante vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131194_5427_LE_MRC_FC-Web.png",
+            "team_1": "Levante",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Levante vs RCD Mallorca",
+            "match_id": 131194,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Elche CF vs Getafe CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131193_5427_ELC_GEF_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "Getafe CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs Getafe CF",
+            "match_id": 131193,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Girona FC (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131191_5427_ATL_GIR_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Girona FC",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs Girona FC",
+            "match_id": 131191,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs RC Celta (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "RC Celta",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs RC Celta",
+            "match_id": 131190,
             "startTime": "10:30:00 PM 17-05-2026"
         }
     ]
