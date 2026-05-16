@@ -1,33 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:40:45 AM 16-05-2026",
+    "last update time": "10:13:03 AM 16-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Vanuatu vs Indonesia (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Vanuatu",
-            "team_2": "Indonesia",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Vanuatu vs Indonesia",
-            "match_id": 142318,
-            "startTime": "06:00:00 AM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142318_english_hls_9d16efb51d49798_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142318_english_hls_9d16efb51d49798_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
             "team_1": "Bangladesh",
             "team_2": "Pakistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Pakistan tour of Bangladesh, 2026",
             "match_name": "Bangladesh vs Pakistan",
             "match_id": 142161,
-            "startTime": "09:30:00 AM 16-05-2026"
+            "startTime": "09:30:00 AM 16-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235970990_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235970990_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "USA vs Nepal (ICC CWC League 2 Nepal, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+            "team_1": "USA",
+            "team_2": "Nepal",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2 Nepal, 2026",
+            "match_name": "USA vs Nepal",
+            "match_id": 142291,
+            "startTime": "09:15:00 AM 16-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142291_english_hls_ff8a0c3ef280931_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142291_english_hls_ff8a0c3ef280931_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -79,25 +81,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Nepal vs USA (ICC CWC League 2 Nepal, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
-            "team_1": "Nepal",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2 Nepal, 2026",
-            "match_name": "Nepal vs USA",
-            "match_id": 142291,
-            "startTime": "09:15:00 AM 16-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Japan vs Samoa (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "title": "Samoa vs Japan (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Japan",
-            "team_2": "Samoa",
+            "team_1": "Samoa",
+            "team_2": "Japan",
             "status": "UPCOMING",
             "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Japan vs Samoa",
+            "match_name": "Samoa vs Japan",
             "match_id": 142319,
             "startTime": "10:30:00 AM 16-05-2026"
         },
@@ -234,6 +224,18 @@
             "startTime": "03:20:00 PM 16-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Cook Islands vs Indonesia (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Cook Islands",
+            "team_2": "Indonesia",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Cook Islands vs Indonesia",
+            "match_id": 142320,
+            "startTime": "06:00:00 AM 17-05-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Uzbekistan vs Korea Republic (AFC U17 Asian Cup Saudi Arabia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -295,15 +297,39 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Cook Islands vs Indonesia (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "title": "Croatia vs France (ICC Men's T20 WC Europe Sub Regional Qualifier A)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142430_6076_CRO_FRA_fc-web.jpg",
+            "team_1": "Croatia",
+            "team_2": "France",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "Croatia vs France",
+            "match_id": 142430,
+            "startTime": "01:00:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malta vs Guernsey (ICC Men's T20 WC Europe Sub Regional Qualifier A)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142429_6076_MAL_GSY_fc-web.jpg",
+            "team_1": "Malta",
+            "team_2": "Guernsey",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "Malta vs Guernsey",
+            "match_id": 142429,
+            "startTime": "01:00:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vanuatu vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Cook Islands",
-            "team_2": "Indonesia",
+            "team_1": "Vanuatu",
+            "team_2": "Papua New Guinea",
             "status": "UPCOMING",
             "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Cook Islands vs Indonesia",
-            "match_id": 142320,
-            "startTime": "06:00:00 AM 17-05-2026"
+            "match_name": "Vanuatu vs Papua New Guinea",
+            "match_id": 142321,
+            "startTime": "10:30:00 AM 17-05-2026"
         },
         {
             "event_category": "MotoGP",
@@ -342,42 +368,6 @@
             "startTime": "05:30:00 PM 16-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Croatia vs France (ICC Men's T20 WC Europe Sub Regional Qualifier A)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142430_6076_CRO_FRA_fc-web.jpg",
-            "team_1": "Croatia",
-            "team_2": "France",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "Croatia vs France",
-            "match_id": 142430,
-            "startTime": "01:00:00 PM 17-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malta vs Guernsey (ICC Men's T20 WC Europe Sub Regional Qualifier A)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142429_6076_MAL_GSY_fc-web.jpg",
-            "team_1": "Malta",
-            "team_2": "Guernsey",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "Malta vs Guernsey",
-            "match_id": 142429,
-            "startTime": "01:00:00 PM 17-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vanuatu vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Vanuatu",
-            "team_2": "Papua New Guinea",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Vanuatu vs Papua New Guinea",
-            "match_id": 142321,
-            "startTime": "10:30:00 AM 17-05-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 vs Aronimink (PGA Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg",
@@ -388,18 +378,6 @@
             "match_name": "Day 3",
             "match_id": 142629,
             "startTime": "10:30:00 PM 16-05-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Spielberg - Day 1 vs Spielberg, Austria (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Spielberg - Day 1",
-            "team_2": "Spielberg, Austria",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Spielberg - Day 1",
-            "match_id": 142635,
-            "startTime": "05:05:00 PM 16-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -450,6 +428,18 @@
             "startTime": "05:00:00 PM 17-05-2026"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Spielberg - Day 1 vs Spielberg, Austria (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Spielberg - Day 1",
+            "team_2": "Spielberg, Austria",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Spielberg - Day 1",
+            "match_id": 142635,
+            "startTime": "05:05:00 PM 16-05-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -459,6 +449,18 @@
             "event_name": "West Indies Championship 2026",
             "match_name": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force",
             "match_id": 141958,
+            "startTime": "07:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mohun Bagan Super Giant vs East Bengal FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140506_5956_MBSG_EBFC_FC-Web_1772473907766.jpg",
+            "team_1": "Mohun Bagan Super Giant",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Mohun Bagan Super Giant vs East Bengal FC",
+            "match_id": 140506,
             "startTime": "07:30:00 PM 17-05-2026"
         },
         {
