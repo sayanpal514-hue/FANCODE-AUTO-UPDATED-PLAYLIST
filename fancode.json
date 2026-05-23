@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:06:43 AM 24-05-2026",
+    "last update time": "01:07:25 AM 24-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,20 @@
             "startTime": "11:30:00 PM 23-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona FC vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "Elche CF",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs Elche CF",
+            "match_id": 131209,
+            "startTime": "12:30:00 AM 24-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -75,6 +89,20 @@
         },
         {
             "event_category": "Football",
+            "title": "RCD Espanyol vs Real Sociedad (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Real Sociedad",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Espanyol vs Real Sociedad",
+            "match_id": 131203,
+            "startTime": "12:30:00 AM 24-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131203_english_hls_c9c311253648846_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131203_english_hls_c9c311253648846_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "RC Celta vs Sevilla FC (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
             "team_1": "RC Celta",
@@ -114,34 +142,6 @@
             "startTime": "12:30:00 AM 24-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131200_english_hls_07ff4b38f091481_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131200_english_hls_07ff4b38f091481_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona FC vs Elche CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Elche CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona FC vs Elche CF",
-            "match_id": 131209,
-            "startTime": "12:30:00 AM 24-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "RCD Espanyol vs Real Sociedad (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Real Sociedad",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Espanyol vs Real Sociedad",
-            "match_id": 131203,
-            "startTime": "12:30:00 AM 24-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131203_english_hls_c9c311253648846_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131203_english_hls_c9c311253648846_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -214,34 +214,6 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Canada (F2 MONTREAL 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Canada",
-            "status": "LIVE",
-            "event_name": "F2 MONTREAL 2026",
-            "match_name": "Sprint Race",
-            "match_id": 142089,
-            "startTime": "11:40:00 PM 23-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142089_english_hls_b177de21c227467_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142089_english_hls_b177de21c227467_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Barcelona Women vs Lyon Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg",
-            "team_1": "Barcelona Women",
-            "team_2": "Lyon Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Barcelona Women vs Lyon Women",
-            "match_id": 142260,
-            "startTime": "09:30:00 PM 23-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Boost Region vs Speen Ghar Region (Supercola Regional List A Tournament, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
@@ -288,6 +260,18 @@
             "match_name": "Botswana vs Mali",
             "match_id": 142911,
             "startTime": "05:20:00 PM 24-05-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779185934255.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "event_name": "F1 LENOVO GRAND PRIX DU CANADA 2026",
+            "match_name": "Qualifying",
+            "match_id": 139445,
+            "startTime": "01:30:00 AM 24-05-2026"
         },
         {
             "event_category": "Football",
@@ -360,18 +344,6 @@
             "match_name": "Bolton Wanderers vs Stockport County",
             "match_id": 142735,
             "startTime": "05:30:00 PM 24-05-2026"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779185934255.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "F1 LENOVO GRAND PRIX DU CANADA 2026",
-            "match_name": "Qualifying",
-            "match_id": 139445,
-            "startTime": "01:30:00 AM 24-05-2026"
         },
         {
             "event_category": "Motorsports",
@@ -480,6 +452,18 @@
             "match_name": "Day 3 Race 2 - Zandvoort",
             "match_id": 142534,
             "startTime": "04:45:00 PM 24-05-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 - Main Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+            "team_1": "Day 4 - Main Feed",
+            "team_2": "TPC Craig Ranch - McKinney, Texas",
+            "status": "UPCOMING",
+            "event_name": "The CJ Cup Byron Nelson 2026",
+            "match_name": "Day 4 - Main Feed",
+            "match_id": 142130,
+            "startTime": "05:30:00 PM 24-05-2026"
         }
     ]
 }
