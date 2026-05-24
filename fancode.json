@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:13 AM 24-05-2026",
+    "last update time": "01:25:58 PM 24-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,30 +18,44 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142746_english_hls_890639a95b99751_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Japan - Day 2 vs Japan (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Japan - Day 2",
-            "team_2": "Japan",
-            "status": "LIVE",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan - Day 2",
-            "match_id": 142756,
-            "startTime": "09:10:00 AM 24-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142756_english_hls_42f23c6aec19561_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142756_english_hls_42f23c6aec19561_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rwanda vs Ivory Coast (ICC Men's T20 WC Africa Sub Regional Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
             "team_1": "Rwanda",
             "team_2": "Ivory Coast",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
             "match_name": "Rwanda vs Ivory Coast",
             "match_id": 142910,
-            "startTime": "01:00:00 PM 24-05-2026"
+            "startTime": "01:00:00 PM 24-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142910_english_hls_800ba3856313863_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142910_english_hls_800ba3856313863_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 3 Qualifying 2 - Zandvoort vs Netherlands (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
+            "team_1": "Day 3 Qualifying 2 - Zandvoort",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "event_name": "DTM 2026",
+            "match_name": "Day 3 Qualifying 2 - Zandvoort",
+            "match_id": 142533,
+            "startTime": "01:05:00 PM 24-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142533_english_hls_c7d2dd4b678759_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142533_english_hls_c7d2dd4b678759_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Region vs Amo Region (Supercola Regional List A Tournament, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+            "team_1": "Band-e-Amir Region",
+            "team_2": "Amo Region",
+            "status": "UPCOMING",
+            "event_name": "Supercola Regional List A Tournament, 2026",
+            "match_name": "Band-e-Amir Region vs Amo Region",
+            "match_id": 142747,
+            "startTime": "10:00:00 AM 25-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -78,18 +92,6 @@
             "match_name": "Villarreal CF vs Atletico de Madrid",
             "match_id": 131207,
             "startTime": "12:30:00 AM 25-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Band-e-Amir Region vs Amo Region (Supercola Regional List A Tournament, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-            "team_1": "Band-e-Amir Region",
-            "team_2": "Amo Region",
-            "status": "UPCOMING",
-            "event_name": "Supercola Regional List A Tournament, 2026",
-            "match_name": "Band-e-Amir Region vs Amo Region",
-            "match_id": 142747,
-            "startTime": "10:00:00 AM 25-05-2026"
         },
         {
             "event_category": "Football",
@@ -164,18 +166,6 @@
             "startTime": "11:00:00 AM 25-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Bolton Wanderers vs Stockport County (League One 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png",
-            "team_1": "Bolton Wanderers",
-            "team_2": "Stockport County",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Bolton Wanderers vs Stockport County",
-            "match_id": 142735,
-            "startTime": "05:30:00 PM 24-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Botswana vs Cameroon (ICC Men's T20 WC Africa Sub Regional Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
@@ -200,28 +190,16 @@
             "startTime": "01:00:00 PM 25-05-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Day 3 Qualifying 2 - Zandvoort vs Netherlands (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
-            "team_1": "Day 3 Qualifying 2 - Zandvoort",
-            "team_2": "Netherlands",
+            "event_category": "Football",
+            "title": "Bolton Wanderers vs Stockport County (League One 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png",
+            "team_1": "Bolton Wanderers",
+            "team_2": "Stockport County",
             "status": "UPCOMING",
-            "event_name": "DTM 2026",
-            "match_name": "Day 3 Qualifying 2 - Zandvoort",
-            "match_id": 142533,
-            "startTime": "01:05:00 PM 24-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Chatrier Court vs Stade Roland Garros (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Chatrier Court",
-            "team_2": "Stade Roland Garros",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Chatrier Court",
-            "match_id": 142203,
-            "startTime": "02:30:00 PM 24-05-2026"
+            "event_name": "League One 2025-26",
+            "match_name": "Bolton Wanderers vs Stockport County",
+            "match_id": 142735,
+            "startTime": "05:30:00 PM 24-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -270,6 +248,18 @@
             "match_name": "Top seeds in action",
             "match_id": 142950,
             "startTime": "02:30:00 PM 24-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Chatrier Court vs Stade Roland Garros (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Chatrier Court",
+            "team_2": "Stade Roland Garros",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Chatrier Court",
+            "match_id": 142203,
+            "startTime": "03:30:00 PM 24-05-2026"
         },
         {
             "event_category": "Motorsports",
@@ -414,6 +404,18 @@
             "match_name": "Bhutan Women vs Nepal Women",
             "match_id": 142935,
             "startTime": "04:30:00 PM 25-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Chatrier Court vs France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Chatrier Court",
+            "team_2": "France",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Chatrier Court",
+            "match_id": 142653,
+            "startTime": "02:30:00 PM 25-05-2026"
         },
         {
             "event_category": "Tennis",
