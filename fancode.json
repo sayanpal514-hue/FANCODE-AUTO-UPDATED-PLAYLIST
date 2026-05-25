@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:18:02 PM 25-05-2026",
+    "last update time": "09:39:31 PM 25-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Ivory Coast vs Mali (ICC Men's T20 WC Africa Sub Regional Qualifier)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Ivory Coast",
-            "team_2": "Mali",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Ivory Coast vs Mali",
-            "match_id": 142915,
-            "startTime": "05:20:00 PM 25-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142915_english_hls_a076519b2568546_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142915_english_hls_a076519b2568546_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Maldives Women vs India Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142936_6089_MDW_INDW_FC-Web_1779706388717.jpg",
-            "team_1": "Maldives Women",
-            "team_2": "India Women",
-            "status": "LIVE",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Maldives Women vs India Women",
-            "match_id": 142936,
-            "startTime": "07:30:00 PM 25-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Notts County vs Salford City (League Two 2025-26)",
@@ -116,6 +88,20 @@
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779745517~acl=/*~id=55083438875630320926596664126171~hmac=83ecba997433e7334160da551fad0eb8039ed781bd7988bbe9d2d95c17dfc412"
         },
         {
+            "event_category": "Football",
+            "title": "Maldives Women vs India Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142936_6089_MDW_INDW_FC-Web_1779706388717.jpg",
+            "team_1": "Maldives Women",
+            "team_2": "India Women",
+            "status": "LIVE",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Maldives Women vs India Women",
+            "match_id": 142936,
+            "startTime": "07:30:00 PM 25-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Rwanda vs Mali (ICC Men's T20 WC Africa Sub Regional Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
@@ -150,6 +136,18 @@
             "match_name": "Kenya vs Sierra Leone",
             "match_id": 142917,
             "startTime": "05:20:00 PM 26-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nigeria vs Zimbabwe (Unity Cup 2026)",
+            "src": "https://images.fancode.com/aig/match/v1779701329988/142666_CASACARDS_APP.png",
+            "team_1": "Nigeria",
+            "team_2": "Zimbabwe",
+            "status": "UPCOMING",
+            "event_name": "Unity Cup 2026",
+            "match_name": "Nigeria vs Zimbabwe",
+            "match_id": 142666,
+            "startTime": "12:00:00 AM 27-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -210,18 +208,6 @@
             "match_name": "Top seeds in action",
             "match_id": 142952,
             "startTime": "02:30:00 PM 26-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Nigeria vs Zimbabwe (Unity Cup 2026)",
-            "src": "https://images.fancode.com/aig/match/v1779701329988/142666_CASACARDS_APP.png",
-            "team_1": "Nigeria",
-            "team_2": "Zimbabwe",
-            "status": "UPCOMING",
-            "event_name": "Unity Cup 2026",
-            "match_name": "Nigeria vs Zimbabwe",
-            "match_id": 142666,
-            "startTime": "12:00:00 AM 27-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -486,6 +472,18 @@
             "match_name": "Day 1 - Marquee Group",
             "match_id": 142888,
             "startTime": "07:30:00 PM 28-05-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 - World Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Colonial Country Club - Fort Worth, Texas",
+            "status": "UPCOMING",
+            "event_name": "Charles Schwab Challenge 2026",
+            "match_name": "Day 1 - World Feed",
+            "match_id": 142886,
+            "startTime": "02:30:00 AM 29-05-2026"
         }
     ]
 }
