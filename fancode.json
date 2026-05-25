@@ -1,26 +1,12 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:39:31 PM 25-05-2026",
+    "last update time": "11:20:49 PM 25-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Notts County vs Salford City (League Two 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1778931436016/142736_CASACARDS_APP.png",
-            "team_1": "Notts County",
-            "team_2": "Salford City",
-            "status": "LIVE",
-            "event_name": "League Two 2025-26",
-            "match_name": "Notts County vs Salford City",
-            "match_id": 142736,
-            "startTime": "07:30:00 PM 25-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142736_english_hls_688b0bf1a326363_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142736_english_hls_688b0bf1a326363_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RG_Ben-Shelton-vs-Daniel-Merida_FC-WEB.jpg",
             "team_1": "Court Suzanne-Lenglen",
             "team_2": "Stade Roland Garros Paris, France",
             "status": "LIVE",
@@ -29,7 +15,7 @@
             "match_id": 142652,
             "startTime": "02:30:00 PM 25-05-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779741835~acl=/*~id=55756239687963292986073685360556~hmac=85b4090909a11db8991722376dc64d2270a9110dbe4a693f24e0dcd975c28582"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779770999~acl=/*~id=99146338002158277582138268364850~hmac=78de5dfd7fd8ba12cc776f60e3856de163977fb5742e6b6c17ac94fa2f7a04ed"
         },
         {
             "event_category": "Tennis",
@@ -43,7 +29,7 @@
             "match_id": 142651,
             "startTime": "02:30:00 PM 25-05-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779741847~acl=/*~id=79848474144177962252161081613865~hmac=476066cdf12309c2713b9f7d9c2e263b2c82708550e0e4a733c53aaa61043dc3"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779770999~acl=/*~id=99146338002158277582138268364850~hmac=78de5dfd7fd8ba12cc776f60e3856de163977fb5742e6b6c17ac94fa2f7a04ed"
         },
         {
             "event_category": "Tennis",
@@ -57,7 +43,7 @@
             "match_id": 142650,
             "startTime": "02:30:00 PM 25-05-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779741847~acl=/*~id=79848474144177962252161081613865~hmac=476066cdf12309c2713b9f7d9c2e263b2c82708550e0e4a733c53aaa61043dc3"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779770999~acl=/*~id=99146338002158277582138268364850~hmac=78de5dfd7fd8ba12cc776f60e3856de163977fb5742e6b6c17ac94fa2f7a04ed"
         },
         {
             "event_category": "Tennis",
@@ -71,7 +57,7 @@
             "match_id": 142951,
             "startTime": "02:30:00 PM 25-05-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779743065~acl=/*~id=67616535493173795390724659894959~hmac=a511422b5b1d847e01f30ffee51cccdabda401605e1cc856069cabe4a18825b9"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779772219~acl=/*~id=51896640704912299656958475804601~hmac=5b0e60deba30b26103a00bde8b41c6ea466b07eb8f276a795f22bd98c23df83e"
         },
         {
             "event_category": "Tennis",
@@ -85,21 +71,7 @@
             "match_id": 142653,
             "startTime": "03:30:00 PM 25-05-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779745517~acl=/*~id=55083438875630320926596664126171~hmac=83ecba997433e7334160da551fad0eb8039ed781bd7988bbe9d2d95c17dfc412"
-        },
-        {
-            "event_category": "Football",
-            "title": "Maldives Women vs India Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142936_6089_MDW_INDW_FC-Web_1779706388717.jpg",
-            "team_1": "Maldives Women",
-            "team_2": "India Women",
-            "status": "LIVE",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Maldives Women vs India Women",
-            "match_id": 142936,
-            "startTime": "07:30:00 PM 25-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779774649~acl=/*~id=34685487369819498283829264287536~hmac=ae0c49c7f20a6c80b12d3c97d3ebd93d59dbde99042670e95f79ba97ce064353"
         },
         {
             "event_category": "Cricket",
@@ -484,6 +456,30 @@
             "match_name": "Day 1 - World Feed",
             "match_id": 142886,
             "startTime": "02:30:00 AM 29-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sierra Leone vs Ivory Coast (ICC Men's T20 WC Africa Sub Regional Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+            "team_1": "Sierra Leone",
+            "team_2": "Ivory Coast",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
+            "match_name": "Sierra Leone vs Ivory Coast",
+            "match_id": 142923,
+            "startTime": "01:00:00 PM 29-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cameroon vs Mali (ICC Men's T20 WC Africa Sub Regional Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+            "team_1": "Cameroon",
+            "team_2": "Mali",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
+            "match_name": "Cameroon vs Mali",
+            "match_id": 142922,
+            "startTime": "01:00:00 PM 29-05-2026"
         }
     ]
 }
