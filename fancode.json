@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:10:07 PM 30-05-2026",
+    "last update time": "10:10:59 PM 30-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women vs Scotland Women (Scotland Women's T20I Tri-Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Scotland Women",
-            "status": "LIVE",
-            "event_name": "Scotland Women's T20I Tri-Series 2026",
-            "match_name": "Bangladesh Women vs Scotland Women",
-            "match_id": 143003,
-            "startTime": "06:30:00 PM 30-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Mugello (BREMBO GRAND PRIX OF ITALY 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png",
-            "team_1": "Day 2",
-            "team_2": "Mugello",
-            "status": "LIVE",
-            "event_name": "BREMBO GRAND PRIX OF ITALY 2026",
-            "match_name": "Italy GP",
-            "match_id": 139946,
-            "startTime": "12:10:00 PM 30-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Court Suzanne Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)",
@@ -145,34 +117,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rwanda vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Rwanda",
-            "team_2": "Botswana",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Rwanda vs Botswana",
-            "match_id": 142927,
-            "startTime": "05:20:00 PM 30-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "India vs Zimbabwe (Unity Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg",
-            "team_1": "India",
-            "team_2": "Zimbabwe",
-            "status": "LIVE",
-            "event_name": "Unity Cup 2026",
-            "match_name": "India vs Zimbabwe",
-            "match_id": 142668,
-            "startTime": "07:00:00 PM 30-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Speen Ghar Region vs Boost Region (Supercola Regional List A Tournament, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
             "team_1": "Speen Ghar Region",
@@ -220,6 +164,18 @@
             "startTime": "05:30:00 AM 31-05-2026"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 3 - World Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Colonial Country Club - Fort Worth, Texas",
+            "status": "UPCOMING",
+            "event_name": "Charles Schwab Challenge 2026",
+            "match_name": "Day 3 - World Feed",
+            "match_id": 142896,
+            "startTime": "11:00:00 PM 30-05-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Nepal Women vs Sri Lanka Women (SAFF Women's Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg",
@@ -242,18 +198,6 @@
             "match_name": "India Women vs Bangladesh Women",
             "match_id": 142940,
             "startTime": "07:30:00 PM 31-05-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 - World Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Colonial Country Club - Fort Worth, Texas",
-            "status": "UPCOMING",
-            "event_name": "Charles Schwab Challenge 2026",
-            "match_name": "Day 3 - World Feed",
-            "match_id": 142896,
-            "startTime": "11:00:00 PM 30-05-2026"
         },
         {
             "event_category": "Football",
@@ -352,18 +296,6 @@
             "startTime": "02:30:00 PM 31-05-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 - Main Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-            "team_1": "Day 4 - Main Feed",
-            "team_2": "Colonial Country Club - Fort Worth, Texas",
-            "status": "UPCOMING",
-            "event_name": "Charles Schwab Challenge 2026",
-            "match_name": "Day 4 - Main Feed",
-            "match_id": 142902,
-            "startTime": "05:30:00 PM 31-05-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Legan\u00e9s vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1779951738055/143172_CASACARDS_APP.png",
@@ -374,6 +306,18 @@
             "match_name": "Legan\u00e9s vs Mirand\u00e9s",
             "match_id": 143172,
             "startTime": "12:30:00 AM 01-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 - Main Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+            "team_1": "Day 4 - Main Feed",
+            "team_2": "Colonial Country Club - Fort Worth, Texas",
+            "status": "UPCOMING",
+            "event_name": "Charles Schwab Challenge 2026",
+            "match_name": "Day 4 - Main Feed",
+            "match_id": 142902,
+            "startTime": "05:30:00 PM 31-05-2026"
         },
         {
             "event_category": "Golf",
@@ -470,6 +414,54 @@
             "match_name": "Court Suzanne-Lenglen",
             "match_id": 142693,
             "startTime": "02:30:00 PM 01-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court Simonne-Mathieu",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court Simonne-Mathieu",
+            "match_id": 142692,
+            "startTime": "02:30:00 PM 01-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court 14",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court 14",
+            "match_id": 142691,
+            "startTime": "02:30:00 PM 01-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Top seeds in action",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Top seeds in action",
+            "match_id": 142958,
+            "startTime": "02:30:00 PM 01-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scotland Women vs Bangladesh Women (Scotland Women's T20I Tri-Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
+            "team_1": "Scotland Women",
+            "team_2": "Bangladesh Women",
+            "status": "UPCOMING",
+            "event_name": "Scotland Women's T20I Tri-Series 2026",
+            "match_name": "Scotland Women vs Bangladesh Women",
+            "match_id": 143005,
+            "startTime": "05:30:00 PM 02-06-2026"
         }
     ]
 }
