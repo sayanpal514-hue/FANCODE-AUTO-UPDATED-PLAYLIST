@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:46:24 AM 02-06-2026",
+    "last update time": "04:19:31 PM 02-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,34 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143226_english_hls_8af903ee3417221_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Tennis",
+            "title": "Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court Philippe-Chatrier",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court Philippe-Chatrier",
+            "match_id": 142698,
+            "startTime": "02:30:00 PM 02-06-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780433288~acl=/*~id=73096815470376256365182070047703~hmac=1049673e8b62d4dc53dddb588b6f3e321cf91486492e2fd4926c5049ed0dd814"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court Suzanne-Lenglen",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court Suzanne-Lenglen",
+            "match_id": 142697,
+            "startTime": "02:30:00 PM 02-06-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780433288~acl=/*~id=73096815470376256365182070047703~hmac=1049673e8b62d4dc53dddb588b6f3e321cf91486492e2fd4926c5049ed0dd814"
+        },
+        {
             "event_category": "Cricket",
             "title": "Scotland Women vs Bangladesh Women (Scotland Women's T20I Tri-Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
@@ -30,33 +58,9 @@
             "startTime": "05:30:00 PM 02-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Philippe-Chatrier",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Philippe-Chatrier",
-            "match_id": 142698,
-            "startTime": "02:30:00 PM 02-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Suzanne-Lenglen",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Suzanne-Lenglen",
-            "match_id": 142697,
-            "startTime": "02:30:00 PM 02-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mumbai Marines vs UP Brij Stars (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB_1780318028412.jpg",
             "team_1": "Mumbai Marines",
             "team_2": "UP Brij Stars",
             "status": "UPCOMING",
@@ -67,20 +71,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Scotland Women vs Netherlands Women (Scotland Women's T20I Tri-Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg",
-            "team_1": "Scotland Women",
-            "team_2": "Netherlands Women",
-            "status": "UPCOMING",
-            "event_name": "Scotland Women's T20I Tri-Series 2026",
-            "match_name": "Scotland Women vs Netherlands Women",
-            "match_id": 143006,
-            "startTime": "05:30:00 PM 03-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
             "team_1": "West Indies",
             "team_2": "Sri Lanka",
             "status": "UPCOMING",
@@ -88,18 +80,6 @@
             "match_name": "West Indies vs Sri Lanka",
             "match_id": 142972,
             "startTime": "08:00:00 PM 03-06-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Nepal Women vs Bangladesh Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Nepal Women",
-            "team_2": "Bangladesh Women",
-            "status": "UPCOMING",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Nepal Women vs Bangladesh Women",
-            "match_id": 142941,
-            "startTime": "04:00:00 PM 03-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -115,6 +95,30 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Scotland Women vs Netherlands Women (Scotland Women's T20I Tri-Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg",
+            "team_1": "Scotland Women",
+            "team_2": "Netherlands Women",
+            "status": "UPCOMING",
+            "event_name": "Scotland Women's T20I Tri-Series 2026",
+            "match_name": "Scotland Women vs Netherlands Women",
+            "match_id": 143006,
+            "startTime": "05:30:00 PM 03-06-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nepal Women vs Bangladesh Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SAFF_NepalvsBangladesh_web.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "Bangladesh Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Nepal Women vs Bangladesh Women",
+            "match_id": 142941,
+            "startTime": "04:00:00 PM 03-06-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Gwalior Cheetahs vs Ujjain Falcons (Madhya Pradesh League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "Gwalior Cheetahs",
@@ -124,6 +128,18 @@
             "match_name": "Gwalior Cheetahs vs Ujjain Falcons",
             "match_id": 143058,
             "startTime": "07:30:00 PM 03-06-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "India Women vs Bhutan Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SAFF_IndiavsBhutan_web.jpg",
+            "team_1": "India Women",
+            "team_2": "Bhutan Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "India Women vs Bhutan Women",
+            "match_id": 142942,
+            "startTime": "08:00:00 PM 03-06-2026"
         },
         {
             "event_category": "Tennis",
@@ -186,18 +202,6 @@
             "startTime": "02:30:00 PM 03-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "India Women vs Bhutan Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "India Women",
-            "team_2": "Bhutan Women",
-            "status": "UPCOMING",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "India Women vs Bhutan Women",
-            "match_id": 142942,
-            "startTime": "08:00:00 PM 03-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Supercola Regional List A Tournament, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
@@ -224,7 +228,7 @@
         {
             "event_category": "Cricket",
             "title": "Southern Spartans vs Northern Challengers (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142985_6094_SS_NC_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142985_6094_SS_NC_FC-WEB_1780318028391.jpg",
             "team_1": "Southern Spartans",
             "team_2": "Northern Challengers",
             "status": "UPCOMING",
@@ -260,7 +264,7 @@
         {
             "event_category": "Cricket",
             "title": "Gujarat Diamonds vs Mumbai Marines (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
             "team_1": "Gujarat Diamonds",
             "team_2": "Mumbai Marines",
             "status": "UPCOMING",
@@ -355,13 +359,13 @@
         },
         {
             "event_category": "Motorsports",
-            "title": "F3 MONACO 2026 vs Monaco (F3 MONACO 2026)",
+            "title": "Practice Session vs Monaco (F3 MONACO 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "F3 MONACO 2026",
+            "team_1": "Practice Session",
             "team_2": "Monaco",
             "status": "UPCOMING",
             "event_name": "F3 MONACO 2026",
-            "match_name": "F3 MONACO 2026",
+            "match_name": "Practice Session",
             "match_id": 139712,
             "startTime": "04:55:00 PM 04-06-2026"
         },
@@ -403,13 +407,13 @@
         },
         {
             "event_category": "Motorsports",
-            "title": "F2 MONACO 2026 vs Monaco (F2 MONACO 2026)",
+            "title": "Practice Session vs Monaco (F2 MONACO 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "F2 MONACO 2026",
+            "team_1": "Practice Session",
             "team_2": "Monaco",
             "status": "UPCOMING",
             "event_name": "F2 MONACO 2026",
-            "match_name": "F2 MONACO 2026",
+            "match_name": "Practice Session",
             "match_id": 139554,
             "startTime": "06:30:00 PM 04-06-2026"
         },
@@ -423,6 +427,18 @@
             "event_name": "the Memorial Tournament presented by Workday 2026",
             "match_name": "World Feed - Day 1",
             "match_id": 143046,
+            "startTime": "11:30:00 PM 04-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Riviera Golf Course (US Women's Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Riviera Golf Course",
+            "status": "UPCOMING",
+            "event_name": "US Women's Open 2026",
+            "match_name": "Day 1",
+            "match_id": 143229,
             "startTime": "11:30:00 PM 04-06-2026"
         },
         {
@@ -440,7 +456,7 @@
         {
             "event_category": "Cricket",
             "title": "Northern Challengers vs UP Brij Stars (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg",
             "team_1": "Northern Challengers",
             "team_2": "UP Brij Stars",
             "status": "UPCOMING",
@@ -448,18 +464,6 @@
             "match_name": "Northern Challengers vs UP Brij Stars",
             "match_id": 142987,
             "startTime": "02:00:00 PM 05-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bhopal Wolves Women vs Gwalior Shernis (Madhya Pradesh League T20 Women's 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Bhopal Wolves Women",
-            "team_2": "Gwalior Shernis",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Bhopal Wolves Women vs Gwalior Shernis",
-            "match_id": 143021,
-            "startTime": "03:00:00 PM 05-06-2026"
         }
     ]
 }
