@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:03:23 AM 02-06-2026",
+    "last update time": "11:46:24 AM 02-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Speen Ghar Region vs Mis-e-Ainak Region (Supercola Regional List A Tournament, 2026)",
+            "title": "Mis-e-Ainak Region vs Speen Ghar Region (Supercola Regional List A Tournament, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-            "team_1": "Speen Ghar Region",
-            "team_2": "Mis-e-Ainak Region",
-            "status": "UPCOMING",
+            "team_1": "Mis-e-Ainak Region",
+            "team_2": "Speen Ghar Region",
+            "status": "LIVE",
             "event_name": "Supercola Regional List A Tournament, 2026",
-            "match_name": "Speen Ghar Region vs Mis-e-Ainak Region",
+            "match_name": "Mis-e-Ainak Region vs Speen Ghar Region",
             "match_id": 143226,
-            "startTime": "10:00:00 AM 02-06-2026"
+            "startTime": "10:00:00 AM 02-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143226_english_hls_8af903ee3417221_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143226_english_hls_8af903ee3417221_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,42 +54,6 @@
             "startTime": "02:30:00 PM 02-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Simonne-Mathieu",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Simonne-Mathieu",
-            "match_id": 142696,
-            "startTime": "02:30:00 PM 02-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court 14",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court 14",
-            "match_id": 142695,
-            "startTime": "02:30:00 PM 02-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Top seeds in action",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Top seeds in action",
-            "match_id": 142959,
-            "startTime": "02:30:00 PM 02-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mumbai Marines vs UP Brij Stars (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB.jpg",
@@ -112,18 +78,6 @@
             "startTime": "05:30:00 PM 03-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Nepal Women vs Bangladesh Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Nepal Women",
-            "team_2": "Bangladesh Women",
-            "status": "UPCOMING",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Nepal Women vs Bangladesh Women",
-            "match_id": 142941,
-            "startTime": "04:00:00 PM 03-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -134,6 +88,18 @@
             "match_name": "West Indies vs Sri Lanka",
             "match_id": 142972,
             "startTime": "08:00:00 PM 03-06-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nepal Women vs Bangladesh Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "Bangladesh Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Nepal Women vs Bangladesh Women",
+            "match_id": 142941,
+            "startTime": "04:00:00 PM 03-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +424,42 @@
             "match_name": "World Feed - Day 1",
             "match_id": 143046,
             "startTime": "11:30:00 PM 04-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Nimar Eagles Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Royal Nimar Eagles Women",
+            "team_2": "Chambal Ghariyals Women",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Royal Nimar Eagles Women vs Chambal Ghariyals Women",
+            "match_id": 143020,
+            "startTime": "10:00:00 AM 05-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Challengers vs UP Brij Stars (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB.jpg",
+            "team_1": "Northern Challengers",
+            "team_2": "UP Brij Stars",
+            "status": "UPCOMING",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "Northern Challengers vs UP Brij Stars",
+            "match_id": 142987,
+            "startTime": "02:00:00 PM 05-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhopal Wolves Women vs Gwalior Shernis (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Bhopal Wolves Women",
+            "team_2": "Gwalior Shernis",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Bhopal Wolves Women vs Gwalior Shernis",
+            "match_id": 143021,
+            "startTime": "03:00:00 PM 05-06-2026"
         }
     ]
 }
