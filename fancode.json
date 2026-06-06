@@ -1,21 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:40:30 AM 06-06-2026",
+    "last update time": "09:53:05 AM 06-06-2026",
     "matches": [
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Riviera Golf Course (US Women's Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
-            "team_1": "Day 2",
-            "team_2": "Riviera Golf Course",
+            "event_category": "Cricket",
+            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card.png",
+            "team_1": "India",
+            "team_2": "Afghanistan",
             "status": "LIVE",
-            "event_name": "US Women's Open 2026",
-            "match_name": "Day 2",
-            "match_id": 143230,
-            "startTime": "11:30:00 PM 05-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143230_english_hls_9e368c2d6b71674_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143230_english_hls_9e368c2d6b71674_1ta-di_h264/index.m3u8"
+            "event_name": "Afghanistan tour of India, 2026",
+            "match_name": "India vs Afghanistan",
+            "match_id": 143243,
+            "startTime": "09:30:00 AM 06-06-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bundelkhand Bulls Women vs Royal Nimar Eagles Women (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Bundelkhand Bulls Women",
+            "team_2": "Royal Nimar Eagles Women",
+            "status": "LIVE",
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Bundelkhand Bulls Women vs Royal Nimar Eagles Women",
+            "match_id": 143022,
+            "startTime": "09:30:00 AM 06-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143022_english_hls_e1e703a56c30074_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143022_english_hls_e1e703a56c30074_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -79,18 +93,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card.png",
-            "team_1": "India",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "event_name": "Afghanistan tour of India, 2026",
-            "match_name": "India vs Afghanistan",
-            "match_id": 143243,
-            "startTime": "09:30:00 AM 06-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
             "team_1": "West Indies",
@@ -100,18 +102,6 @@
             "match_name": "West Indies vs Sri Lanka",
             "match_id": 142973,
             "startTime": "01:00:00 AM 07-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bundelkhand Bulls Women vs Royal Nimar Eagles Women (Madhya Pradesh League T20 Women's 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Bundelkhand Bulls Women",
-            "team_2": "Royal Nimar Eagles Women",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Bundelkhand Bulls Women vs Royal Nimar Eagles Women",
-            "match_id": 143022,
-            "startTime": "09:30:00 AM 06-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -158,20 +148,20 @@
             "status": "UPCOMING",
             "event_name": "International Friendlies 2026",
             "match_name": "Bolivia vs Scotland",
-            "match_id": 141610,
+            "match_id": 143341,
             "startTime": "01:30:00 AM 07-06-2026"
         },
         {
             "event_category": "Football",
-            "title": "Bangladesh Women vs India Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142940_6089_INDW_BDW_FC-Web_1779706389414.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "India Women",
+            "title": "Bolivia vs Scotland (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Bolivia",
+            "team_2": "Scotland",
             "status": "UPCOMING",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Bangladesh Women vs India Women",
-            "match_id": 142943,
-            "startTime": "06:30:00 PM 06-06-2026"
+            "event_name": "International Friendlies 2026",
+            "match_name": "Bolivia vs Scotland",
+            "match_id": 141610,
+            "startTime": "01:30:00 AM 07-06-2026"
         },
         {
             "event_category": "Football",
@@ -187,6 +177,30 @@
         },
         {
             "event_category": "Football",
+            "title": "Bangladesh Women vs India Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142940_6089_INDW_BDW_FC-Web_1779706389414.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "India Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Bangladesh Women vs India Women",
+            "match_id": 142943,
+            "startTime": "06:30:00 PM 06-06-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Argentina vs Honduras (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Argentina",
+            "team_2": "Honduras",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Argentina vs Honduras",
+            "match_id": 143342,
+            "startTime": "05:30:00 AM 07-06-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Argentina vs Honduras (International Friendlies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Argentina",
@@ -196,6 +210,30 @@
             "match_name": "Argentina vs Honduras",
             "match_id": 143267,
             "startTime": "05:30:00 AM 07-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gwalior Shernis vs Bundelkhand Bulls Women (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Gwalior Shernis",
+            "team_2": "Bundelkhand Bulls Women",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Gwalior Shernis vs Bundelkhand Bulls Women",
+            "match_id": 143024,
+            "startTime": "09:30:00 AM 07-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gujarat Diamonds vs Southern Spartans (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142991_6094_GD_SS_FC-WEB_1780318028373.jpg",
+            "team_1": "Gujarat Diamonds",
+            "team_2": "Southern Spartans",
+            "status": "UPCOMING",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "Gujarat Diamonds vs Southern Spartans",
+            "match_id": 142991,
+            "startTime": "02:00:00 PM 07-06-2026"
         },
         {
             "event_category": "MotoGP",
@@ -231,6 +269,42 @@
             "event_name": "Roland Garros 2026",
             "match_name": "Court Philippe-Chatrier",
             "match_id": 142731,
+            "startTime": "02:30:00 PM 06-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Suzanne-Lenglen vs Paris (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court Suzanne-Lenglen",
+            "team_2": "Paris",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court Suzanne-Lenglen",
+            "match_id": 142730,
+            "startTime": "02:30:00 PM 06-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Simonne-Mathieu vs Paris (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court Simonne-Mathieu",
+            "team_2": "Paris",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court Simonne-Mathieu",
+            "match_id": 142729,
+            "startTime": "02:30:00 PM 06-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 14 vs Paris (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court 14",
+            "team_2": "Paris",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court 14",
+            "match_id": 142728,
             "startTime": "02:30:00 PM 06-06-2026"
         },
         {
@@ -306,18 +380,6 @@
             "startTime": "07:30:00 PM 06-06-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Gwalior Shernis vs Bundelkhand Bulls Women (Madhya Pradesh League T20 Women's 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Gwalior Shernis",
-            "team_2": "Bundelkhand Bulls Women",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Gwalior Shernis vs Bundelkhand Bulls Women",
-            "match_id": 143024,
-            "startTime": "09:30:00 AM 07-06-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
@@ -330,30 +392,6 @@
             "startTime": "10:00:00 PM 06-06-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Riviera Golf Course (US Women's Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
-            "team_1": "Day 3",
-            "team_2": "Riviera Golf Course",
-            "status": "UPCOMING",
-            "event_name": "US Women's Open 2026",
-            "match_name": "Day 3",
-            "match_id": 143231,
-            "startTime": "02:30:00 AM 07-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gujarat Diamonds vs Southern Spartans (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142991_6094_GD_SS_FC-WEB_1780318028373.jpg",
-            "team_1": "Gujarat Diamonds",
-            "team_2": "Southern Spartans",
-            "status": "UPCOMING",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "Gujarat Diamonds vs Southern Spartans",
-            "match_id": 142991,
-            "startTime": "02:00:00 PM 07-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "JB Bruges vs Ghent Gladiators (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143151_6108_JB_GG_FC-Web.png",
@@ -364,6 +402,18 @@
             "match_name": "JB Bruges vs Ghent Gladiators",
             "match_id": 143151,
             "startTime": "04:00:00 PM 07-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Riviera Golf Course (US Women's Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
+            "team_1": "Day 3",
+            "team_2": "Riviera Golf Course",
+            "status": "UPCOMING",
+            "event_name": "US Women's Open 2026",
+            "match_name": "Day 3",
+            "match_id": 143231,
+            "startTime": "02:30:00 AM 07-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -388,54 +438,6 @@
             "match_name": "Royal Nimar Eagles vs Chambal Ghariyals",
             "match_id": 143066,
             "startTime": "03:00:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Feature Race vs Monaco (F3 MONACO 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Monaco",
-            "status": "UPCOMING",
-            "event_name": "F3 MONACO 2026",
-            "match_name": "Feature Race",
-            "match_id": 139716,
-            "startTime": "11:15:00 AM 07-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "MP Tigers vs UP Brij Stars (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142992_6094_MPT_UPBS_FC-WEB_1780318028366.jpg",
-            "team_1": "MP Tigers",
-            "team_2": "UP Brij Stars",
-            "status": "UPCOMING",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "MP Tigers vs UP Brij Stars",
-            "match_id": 142992,
-            "startTime": "07:00:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Antwerp Anchors vs Akcel United Brussels (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png",
-            "team_1": "Antwerp Anchors",
-            "team_2": "Akcel United Brussels",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Antwerp Anchors vs Akcel United Brussels",
-            "match_id": 143152,
-            "startTime": "08:00:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Feature Race vs Monaco (F2 MONACO 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Monaco",
-            "status": "UPCOMING",
-            "event_name": "F2 MONACO 2026",
-            "match_name": "Feature Race",
-            "match_id": 139557,
-            "startTime": "12:55:00 PM 07-06-2026"
         }
     ]
 }
