@@ -1,49 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:57:25 AM 07-06-2026",
+    "last update time": "07:18:52 AM 07-06-2026",
     "matches": [
         {
-            "event_category": "Cricket",
-            "title": "Canada vs USA (ICC CWC League 2 Canada, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg",
-            "team_1": "Canada",
-            "team_2": "USA",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2 Canada, 2026",
-            "match_name": "Canada vs USA",
-            "match_id": 143195,
-            "startTime": "08:00:00 PM 06-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
-            "team_1": "Sri Lanka",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Sri Lanka tour of West Indies 2026",
-            "match_name": "Sri Lanka vs West Indies",
-            "match_id": 142973,
-            "startTime": "01:00:00 AM 07-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
-            "title": "Brazil vs Egypt (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
-            "team_1": "Brazil",
-            "team_2": "Egypt",
+            "title": "Argentina vs Honduras (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
+            "team_1": "Argentina",
+            "team_2": "Honduras",
             "status": "LIVE",
             "event_name": "International Friendlies 2026",
-            "match_name": "Brazil vs Egypt",
-            "match_id": 141609,
-            "startTime": "03:30:00 AM 07-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141609_english_hls_2b2c8f45aa40424_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141609_english_hls_2b2c8f45aa40424_1ta-di_h264/index.m3u8"
+            "match_name": "Argentina vs Honduras",
+            "match_id": 143342,
+            "startTime": "05:30:00 AM 07-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143342_english_hls_16aa2d5d3437141_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143342_english_hls_16aa2d5d3437141_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -97,18 +69,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
-            "team_1": "India",
-            "team_2": "Afghanistan",
-            "status": "PAUSED",
-            "event_name": "Afghanistan tour of India, 2026",
-            "match_name": "India vs Afghanistan",
-            "match_id": 143243,
-            "startTime": "09:30:00 AM 06-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Antwerp Anchors vs Akcel United Brussels (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png",
             "team_1": "Antwerp Anchors",
@@ -120,16 +80,16 @@
             "startTime": "08:00:00 PM 07-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Argentina vs Honduras (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
-            "team_1": "Argentina",
-            "team_2": "Honduras",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Argentina vs Honduras",
-            "match_id": 143342,
-            "startTime": "05:30:00 AM 07-06-2026"
+            "event_category": "Cricket",
+            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
+            "team_1": "India",
+            "team_2": "Afghanistan",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of India, 2026",
+            "match_name": "India vs Afghanistan",
+            "match_id": 143243,
+            "startTime": "09:30:00 AM 06-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -190,6 +150,18 @@
             "match_name": "Morocco vs Norway",
             "match_id": 143343,
             "startTime": "12:30:00 AM 08-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bundelkhand Bulls Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Bundelkhand Bulls Women",
+            "team_2": "Chambal Ghariyals Women",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Bundelkhand Bulls Women vs Chambal Ghariyals Women",
+            "match_id": 143025,
+            "startTime": "09:30:00 AM 08-06-2026"
         },
         {
             "event_category": "Motorsports",
@@ -336,18 +308,6 @@
             "startTime": "10:00:00 PM 07-06-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Bundelkhand Bulls Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Bundelkhand Bulls Women",
-            "team_2": "Chambal Ghariyals Women",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Bundelkhand Bulls Women vs Chambal Ghariyals Women",
-            "match_id": 143025,
-            "startTime": "09:30:00 AM 08-06-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 4 vs Riviera Golf Course (US Women's Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
@@ -417,6 +377,18 @@
             "event_name": "EUT20 Belgium, 2026",
             "match_name": "Antwerp Anchors vs Ghent Gladiators",
             "match_id": 143154,
+            "startTime": "08:00:00 PM 08-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Netherlands vs USA (ICC CWC League 2 Canada, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143196_6110_NED_USA_fc-web.jpg",
+            "team_1": "Netherlands",
+            "team_2": "USA",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2 Canada, 2026",
+            "match_name": "Netherlands vs USA",
+            "match_id": 143196,
             "startTime": "08:00:00 PM 08-06-2026"
         }
     ]
