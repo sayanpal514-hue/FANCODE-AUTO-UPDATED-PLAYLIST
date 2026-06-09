@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:12:12 PM 09-06-2026",
+    "last update time": "07:34:06 PM 09-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,31 +19,31 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gujarat Diamonds vs MP Tigers (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg",
-            "team_1": "Gujarat Diamonds",
-            "team_2": "MP Tigers",
+            "title": "UP Brij Stars vs Southern Spartans (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg",
+            "team_1": "UP Brij Stars",
+            "team_2": "Southern Spartans",
             "status": "LIVE",
             "event_name": "Big Cricket League Season 2",
-            "match_name": "Gujarat Diamonds vs MP Tigers",
-            "match_id": 142993,
-            "startTime": "02:00:00 PM 09-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142993_english_hls_17a4a719f019415_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142993_english_hls_17a4a719f019415_1ta-di_h264/index.m3u8"
+            "match_name": "UP Brij Stars vs Southern Spartans",
+            "match_id": 142994,
+            "startTime": "07:00:00 PM 09-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Liege Red Lions vs Akcel United Brussels (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png",
-            "team_1": "Liege Red Lions",
-            "team_2": "Akcel United Brussels",
+            "title": "JB Bruges vs Antwerp Anchors (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143156_6108_JB_AA_FC-Web.png",
+            "team_1": "JB Bruges",
+            "team_2": "Antwerp Anchors",
             "status": "LIVE",
             "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Liege Red Lions vs Akcel United Brussels",
-            "match_id": 143155,
-            "startTime": "04:00:00 PM 09-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/index.m3u8"
+            "match_name": "JB Bruges vs Antwerp Anchors",
+            "match_id": 143156,
+            "startTime": "08:00:00 PM 09-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143156_english_hls_7f582ebd9f475_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143156_english_hls_7f582ebd9f475_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -74,28 +74,18 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "UP Brij Stars vs Southern Spartans (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg",
-            "team_1": "UP Brij Stars",
-            "team_2": "Southern Spartans",
-            "status": "UPCOMING",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "UP Brij Stars vs Southern Spartans",
-            "match_id": 142994,
-            "startTime": "07:00:00 PM 09-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "JB Bruges vs Antwerp Anchors (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143156_6108_JB_AA_FC-Web.png",
-            "team_1": "JB Bruges",
-            "team_2": "Antwerp Anchors",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "JB Bruges vs Antwerp Anchors",
-            "match_id": 143156,
-            "startTime": "08:00:00 PM 09-06-2026"
+            "event_category": "Tennis",
+            "title": "Day 2 - Court 1 vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "Day 2 - Court 1",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "Day 2 - Court 1",
+            "match_id": 143350,
+            "startTime": "06:30:00 PM 09-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -159,18 +149,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Indore Pink Panthers vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143071_6102_IPP_RW_FC-WEB.jpg",
-            "team_1": "Indore Pink Panthers",
-            "team_2": "Rewa Jaguars",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Indore Pink Panthers vs Rewa Jaguars",
-            "match_id": 143071,
-            "startTime": "02:30:00 PM 10-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Gujarat Diamonds vs Northern Challengers (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
             "team_1": "Gujarat Diamonds",
@@ -183,18 +161,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bhopal Leopards vs Ujjain Falcons (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143072_6102_BL_UJF_FC-WEB.jpg",
-            "team_1": "Bhopal Leopards",
-            "team_2": "Ujjain Falcons",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Bhopal Leopards vs Ujjain Falcons",
-            "match_id": 143072,
-            "startTime": "03:00:00 PM 10-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "TBC",
@@ -204,6 +170,30 @@
             "match_name": "TBC vs TBC",
             "match_id": 143159,
             "startTime": "08:00:00 PM 10-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indore Pink Panthers vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143071_6102_IPP_RW_FC-WEB.jpg",
+            "team_1": "Indore Pink Panthers",
+            "team_2": "Rewa Jaguars",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Indore Pink Panthers vs Rewa Jaguars",
+            "match_id": 143071,
+            "startTime": "02:30:00 PM 10-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhopal Leopards vs Ujjain Falcons (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143072_6102_BL_UJF_FC-WEB.jpg",
+            "team_1": "Bhopal Leopards",
+            "team_2": "Ujjain Falcons",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Bhopal Leopards vs Ujjain Falcons",
+            "match_id": 143072,
+            "startTime": "03:00:00 PM 10-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -228,18 +218,6 @@
             "match_name": "Bundelkhand Bulls vs Malwa Stallions",
             "match_id": 143073,
             "startTime": "07:30:00 PM 10-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - Court 1 vs Netherlands (ATP 250 - Libema Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-            "team_1": "Day 2 - Court 1",
-            "team_2": "Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Libema Open",
-            "match_name": "Day 2 - Court 1",
-            "match_id": 143350,
-            "startTime": "06:30:00 PM 09-06-2026"
         },
         {
             "event_category": "Tennis",
