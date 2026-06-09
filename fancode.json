@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:19:48 PM 09-06-2026",
+    "last update time": "05:12:12 PM 09-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142993_english_hls_17a4a719f019415_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Liege Red Lions vs Akcel United Brussels (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png",
+            "team_1": "Liege Red Lions",
+            "team_2": "Akcel United Brussels",
+            "status": "LIVE",
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "Liege Red Lions vs Akcel United Brussels",
+            "match_id": 143155,
+            "startTime": "04:00:00 PM 09-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "Day 2 vs Netherlands (ATP 250 - Libema Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
@@ -58,32 +72,6 @@
             "startTime": "02:30:00 PM 09-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - Court 2 vs Netherlands (ATP 250 - Libema Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-            "team_1": "Day 2 - Court 2",
-            "team_2": "Netherlands",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Libema Open",
-            "match_name": "Day 2 - Court 2",
-            "match_id": 143350,
-            "startTime": "02:30:00 PM 09-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Liege Red Lions vs Akcel United Brussels (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png",
-            "team_1": "Liege Red Lions",
-            "team_2": "Akcel United Brussels",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Liege Red Lions vs Akcel United Brussels",
-            "match_id": 143155,
-            "startTime": "04:00:00 PM 09-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -122,18 +110,6 @@
             "startTime": "12:00:00 PM 10-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Argentina vs Iceland (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
-            "team_1": "Argentina",
-            "team_2": "Iceland",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Argentina vs Iceland",
-            "match_id": 143344,
-            "startTime": "06:30:00 AM 10-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mumbai Marines vs MP Tigers (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142995_6094_MM_MPT_FC-WEB_1780318028370.jpg",
@@ -144,6 +120,30 @@
             "match_name": "Mumbai Marines vs MP Tigers",
             "match_id": 142995,
             "startTime": "02:00:00 PM 10-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Antwerp Anchors vs Liege Red Lions (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png",
+            "team_1": "Antwerp Anchors",
+            "team_2": "Liege Red Lions",
+            "status": "UPCOMING",
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "Antwerp Anchors vs Liege Red Lions",
+            "match_id": 143158,
+            "startTime": "04:00:00 PM 10-06-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Argentina vs Iceland (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
+            "team_1": "Argentina",
+            "team_2": "Iceland",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Argentina vs Iceland",
+            "match_id": 143344,
+            "startTime": "06:30:00 AM 10-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -159,18 +159,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Antwerp Anchors vs Liege Red Lions (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png",
-            "team_1": "Antwerp Anchors",
-            "team_2": "Liege Red Lions",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Antwerp Anchors vs Liege Red Lions",
-            "match_id": 143158,
-            "startTime": "04:00:00 PM 10-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Indore Pink Panthers vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143071_6102_IPP_RW_FC-WEB.jpg",
             "team_1": "Indore Pink Panthers",
@@ -183,18 +171,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bhopal Leopards vs Ujjain Falcons (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143072_6102_BL_UJF_FC-WEB.jpg",
-            "team_1": "Bhopal Leopards",
-            "team_2": "Ujjain Falcons",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Bhopal Leopards vs Ujjain Falcons",
-            "match_id": 143072,
-            "startTime": "03:00:00 PM 10-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Gujarat Diamonds vs Northern Challengers (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
             "team_1": "Gujarat Diamonds",
@@ -204,6 +180,18 @@
             "match_name": "Gujarat Diamonds vs Northern Challengers",
             "match_id": 142996,
             "startTime": "07:00:00 PM 10-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhopal Leopards vs Ujjain Falcons (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143072_6102_BL_UJF_FC-WEB.jpg",
+            "team_1": "Bhopal Leopards",
+            "team_2": "Ujjain Falcons",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Bhopal Leopards vs Ujjain Falcons",
+            "match_id": 143072,
+            "startTime": "03:00:00 PM 10-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -240,6 +228,18 @@
             "match_name": "Bundelkhand Bulls vs Malwa Stallions",
             "match_id": 143073,
             "startTime": "07:30:00 PM 10-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - Court 1 vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "Day 2 - Court 1",
+            "team_2": "Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "Day 2 - Court 1",
+            "match_id": 143350,
+            "startTime": "06:30:00 PM 09-06-2026"
         },
         {
             "event_category": "Tennis",
@@ -408,6 +408,30 @@
             "match_name": "Day 1 - Main Feed",
             "match_id": 143202,
             "startTime": "04:30:00 PM 11-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 - Featured Groups vs TPC Toronto at Osprey Valley, Caledo, Ontario (RBC Canadian Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "team_1": "Day 1 - Featured Groups",
+            "team_2": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+            "status": "UPCOMING",
+            "event_name": "RBC Canadian Open 2026",
+            "match_name": "Day 1 - Featured Groups",
+            "match_id": 143205,
+            "startTime": "05:15:00 PM 11-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 - Featured Holes vs TPC Toronto at Osprey Valley, Caledo, Ontario (RBC Canadian Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "team_1": "Day 1 - Featured Holes",
+            "team_2": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+            "status": "UPCOMING",
+            "event_name": "RBC Canadian Open 2026",
+            "match_name": "Day 1 - Featured Holes",
+            "match_id": 143204,
+            "startTime": "05:15:00 PM 11-06-2026"
         }
     ]
 }
