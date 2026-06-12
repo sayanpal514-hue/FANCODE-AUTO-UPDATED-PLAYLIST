@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:55:09 PM 12-06-2026",
+    "last update time": "02:06:41 AM 13-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "08:30:00 PM 12-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5 - Center Court vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-            "team_1": "Day 5 - Center Court",
-            "team_2": "Stuttgart, Germany",
-            "status": "LIVE",
-            "event_name": "ATP 250 - BOSS OPEN 2026",
-            "match_name": "Day 5 - Center Court",
-            "match_id": 143122,
-            "startTime": "02:30:00 PM 12-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143122_english_hls_66490e9bbc21672_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143122_english_hls_66490e9bbc21672_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -88,6 +74,20 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143208_english_hls_b2dd6817eb34111_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 2 - World Feed vs TPC Toronto at Osprey Valley, Caledon, Ontario (RBC Canadian Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+            "status": "LIVE",
+            "event_name": "RBC Canadian Open 2026",
+            "match_name": "Day 2 - World Feed",
+            "match_id": 143206,
+            "startTime": "12:30:00 AM 13-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143206_english_hls_07cd68806b88961_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143206_english_hls_07cd68806b88961_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Antwerp Anchors vs Ghent Gladiators (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
@@ -101,27 +101,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "title": "Gujarat Diamonds vs UP Brij Stars (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
+            "team_1": "Gujarat Diamonds",
+            "team_2": "UP Brij Stars",
             "status": "UPCOMING",
             "event_name": "Big Cricket League Season 2",
-            "match_name": "TBC vs TBC",
+            "match_name": "Gujarat Diamonds vs UP Brij Stars",
             "match_id": 143001,
             "startTime": "07:00:00 PM 13-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_ODI-Web-match-card.png",
-            "team_1": "India",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "event_name": "Afghanistan tour of India, 2026",
-            "match_name": "India vs Afghanistan",
-            "match_id": 143396,
-            "startTime": "01:30:00 PM 13-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -134,6 +122,18 @@
             "match_name": "Akcel United Brussels vs JB Bruges",
             "match_id": 143165,
             "startTime": "08:00:00 PM 13-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_ODI-Web-match-card.png",
+            "team_1": "India",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan tour of India, 2026",
+            "match_name": "India vs Afghanistan",
+            "match_id": 143396,
+            "startTime": "01:30:00 PM 13-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -173,27 +173,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chambal Ghariyals Women vs TBC (Madhya Pradesh League T20 Women's 2026)",
+            "title": "Chambal Ghariyals Women vs Gwalior Shernis (Madhya Pradesh League T20 Women's 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
             "team_1": "Chambal Ghariyals Women",
-            "team_2": "TBC",
+            "team_2": "Gwalior Shernis",
             "status": "UPCOMING",
             "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Chambal Ghariyals Women vs TBC",
+            "match_name": "Chambal Ghariyals Women vs Gwalior Shernis",
             "match_id": 143029,
             "startTime": "07:30:00 PM 13-06-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 - World Feed vs TPC Toronto at Osprey Valley, Caledon, Ontario (RBC Canadian Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "TPC Toronto at Osprey Valley, Caledon, Ontario",
-            "status": "UPCOMING",
-            "event_name": "RBC Canadian Open 2026",
-            "match_name": "Day 2 - World Feed",
-            "match_id": 143206,
-            "startTime": "12:30:00 AM 13-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -410,6 +398,18 @@
             "match_name": "Royal Nimar Eagles vs Ujjain Falcons",
             "match_id": 143084,
             "startTime": "02:30:00 PM 14-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Patiala Panthers vs Bathinda Bulls (Punjab T10 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-web.jpg",
+            "team_1": "Patiala Panthers",
+            "team_2": "Bathinda Bulls",
+            "status": "UPCOMING",
+            "event_name": "Punjab T10 2026",
+            "match_name": "Patiala Panthers vs Bathinda Bulls",
+            "match_id": 143032,
+            "startTime": "03:30:00 PM 14-06-2026"
         }
     ]
 }
