@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:44:35 AM 12-06-2026",
+    "last update time": "04:07:44 PM 12-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rewa Jaguars vs Royal Nimar Eagles (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg",
-            "team_1": "Rewa Jaguars",
-            "team_2": "Royal Nimar Eagles",
-            "status": "LIVE",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Rewa Jaguars vs Royal Nimar Eagles",
-            "match_id": 143077,
-            "startTime": "09:30:00 AM 12-06-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Gujarat Diamonds vs Southern Spartans (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142991_6094_GD_SS_FC-WEB_1780318028373.jpg",
             "team_1": "Gujarat Diamonds",
             "team_2": "Southern Spartans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Big Cricket League Season 2",
             "match_name": "Gujarat Diamonds vs Southern Spartans",
             "match_id": 142999,
-            "startTime": "02:00:00 PM 12-06-2026"
+            "startTime": "02:00:00 PM 12-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142999_english_hls_d0fb08cd288647_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142999_english_hls_d0fb08cd288647_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,16 +23,88 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143157_6108_GG_AUB_FC-Web.png",
             "team_1": "Akcel United Brussels",
             "team_2": "Ghent Gladiators",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EUT20 Belgium, 2026",
             "match_name": "Akcel United Brussels vs Ghent Gladiators",
             "match_id": 143162,
-            "startTime": "04:00:00 PM 12-06-2026"
+            "startTime": "04:00:00 PM 12-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143162_english_hls_9bffa5094538155_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143162_english_hls_9bffa5094538155_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhopal Leopards vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143078_6102_BL_CGS_FC-WEB.jpg",
+            "team_1": "Bhopal Leopards",
+            "team_2": "Chambal Ghariyals",
+            "status": "LIVE",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Bhopal Leopards vs Chambal Ghariyals",
+            "match_id": 143078,
+            "startTime": "02:30:00 PM 12-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143078_english_hls_a37c0eb8ca56688_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143078_english_hls_a37c0eb8ca56688_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indore Pink Panthers vs Bundelkhand Bulls (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143079_6102_IPP_BBS_FC-WEB.jpg",
+            "team_1": "Indore Pink Panthers",
+            "team_2": "Bundelkhand Bulls",
+            "status": "LIVE",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Indore Pink Panthers vs Bundelkhand Bulls",
+            "match_id": 143079,
+            "startTime": "03:00:00 PM 12-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143079_english_hls_b76cc99b8036798_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143079_english_hls_b76cc99b8036798_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 5 - Center Court vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
+            "team_1": "Day 5 - Center Court",
+            "team_2": "Stuttgart, Germany",
+            "status": "LIVE",
+            "event_name": "ATP 250 - BOSS OPEN 2026",
+            "match_name": "Day 5 - Center Court",
+            "match_id": 143122,
+            "startTime": "02:30:00 PM 12-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143122_english_hls_66490e9bbc21672_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143122_english_hls_66490e9bbc21672_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 5 - Center Court vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "Day 5 - Center Court",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "Day 5 - Center Court",
+            "match_id": 143129,
+            "startTime": "04:00:00 PM 12-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143129_english_hls_24c7eea39262434_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143129_english_hls_24c7eea39262434_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 5 - Court 1 vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "Day 5 - Court 1",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "Day 5 - Court 1",
+            "match_id": 143395,
+            "startTime": "02:30:00 PM 12-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143395_english_hls_40aee8900370225_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143395_english_hls_40aee8900370225_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
             "title": "UP Brij Stars vs Mumbai Marines (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB_1780318028412.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/upvsmi-old.jpg",
             "team_1": "UP Brij Stars",
             "team_2": "Mumbai Marines",
             "status": "UPCOMING",
@@ -79,30 +139,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bhopal Leopards vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143078_6102_BL_CGS_FC-WEB.jpg",
-            "team_1": "Bhopal Leopards",
-            "team_2": "Chambal Ghariyals",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Bhopal Leopards vs Chambal Ghariyals",
-            "match_id": 143078,
-            "startTime": "02:30:00 PM 12-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Indore Pink Panthers vs Bundelkhand Bulls (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143079_6102_IPP_BBS_FC-WEB.jpg",
-            "team_1": "Indore Pink Panthers",
-            "team_2": "Bundelkhand Bulls",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Indore Pink Panthers vs Bundelkhand Bulls",
-            "match_id": 143079,
-            "startTime": "03:00:00 PM 12-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bundelkhand Bulls Women vs Gwalior Shernis (Madhya Pradesh League T20 Women's 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
             "team_1": "Bundelkhand Bulls Women",
@@ -112,6 +148,18 @@
             "match_name": "Bundelkhand Bulls Women vs Gwalior Shernis",
             "match_id": 143028,
             "startTime": "07:30:00 PM 12-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "India",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan tour of India, 2026",
+            "match_name": "India vs Afghanistan",
+            "match_id": 143396,
+            "startTime": "01:30:00 PM 13-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -136,66 +184,6 @@
             "match_name": "Antwerp Anchors vs Ghent Gladiators",
             "match_id": 143164,
             "startTime": "04:00:00 PM 13-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Practice Session vs Barcelona (F3 BARCELONA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Barcelona",
-            "status": "UPCOMING",
-            "event_name": "F3 BARCELONA 2026",
-            "match_name": "Practice Session",
-            "match_id": 139717,
-            "startTime": "01:25:00 PM 12-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5 - Center Court vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-            "team_1": "Day 5 - Center Court",
-            "team_2": "Stuttgart, Germany",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - BOSS OPEN 2026",
-            "match_name": "Day 5 - Center Court",
-            "match_id": 143122,
-            "startTime": "02:30:00 PM 12-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Free Practice vs Barcelona (F2 BARCELONA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg",
-            "team_1": "Free Practice",
-            "team_2": "Barcelona",
-            "status": "UPCOMING",
-            "event_name": "F2 BARCELONA 2026",
-            "match_name": "Free Practice",
-            "match_id": 139570,
-            "startTime": "02:35:00 PM 12-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bundelkhand Bulls vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg",
-            "team_1": "Bundelkhand Bulls",
-            "team_2": "Gwalior Cheetahs",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Bundelkhand Bulls vs Gwalior Cheetahs",
-            "match_id": 143081,
-            "startTime": "02:30:00 PM 13-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5 - Center Court vs Netherlands (ATP 250 - Libema Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-            "team_1": "Day 5 - Center Court",
-            "team_2": "Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Libema Open",
-            "match_name": "Day 5 - Center Court",
-            "match_id": 143129,
-            "startTime": "04:00:00 PM 12-06-2026"
         },
         {
             "event_category": "Golf",
@@ -258,6 +246,54 @@
             "startTime": "05:00:00 PM 12-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bundelkhand Bulls vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg",
+            "team_1": "Bundelkhand Bulls",
+            "team_2": "Gwalior Cheetahs",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Bundelkhand Bulls vs Gwalior Cheetahs",
+            "match_id": 143081,
+            "startTime": "02:30:00 PM 13-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ujjain Falcons vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg",
+            "team_1": "Ujjain Falcons",
+            "team_2": "Rewa Jaguars",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Ujjain Falcons vs Rewa Jaguars",
+            "match_id": 143082,
+            "startTime": "03:00:00 PM 13-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "TBC vs TBC",
+            "match_id": 143001,
+            "startTime": "07:00:00 PM 13-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Akcel United Brussels vs JB Bruges (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
+            "team_1": "Akcel United Brussels",
+            "team_2": "JB Bruges",
+            "status": "UPCOMING",
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "Akcel United Brussels vs JB Bruges",
+            "match_id": 143165,
+            "startTime": "08:00:00 PM 13-06-2026"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Qualifying Session vs Barcelona (F3 BARCELONA 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
@@ -306,18 +342,6 @@
             "startTime": "10:00:00 PM 12-06-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Ujjain Falcons vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg",
-            "team_1": "Ujjain Falcons",
-            "team_2": "Rewa Jaguars",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Ujjain Falcons vs Rewa Jaguars",
-            "match_id": 143082,
-            "startTime": "03:00:00 PM 13-06-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 2 - World Feed vs TPC Toronto at Osprey Valley, Caledon, Ontario (RBC Canadian Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
@@ -328,42 +352,6 @@
             "match_name": "Day 2 - World Feed",
             "match_id": 143206,
             "startTime": "12:30:00 AM 13-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "TBC vs TBC",
-            "match_id": 143001,
-            "startTime": "07:00:00 PM 13-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Akcel United Brussels vs JB Bruges (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
-            "team_1": "Akcel United Brussels",
-            "team_2": "JB Bruges",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Akcel United Brussels vs JB Bruges",
-            "match_id": 143165,
-            "startTime": "08:00:00 PM 13-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Europe - Race 2 vs Le Mans, France (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-            "team_1": "Europe - Race 2",
-            "team_2": "Le Mans, France",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Europe - Race 2",
-            "match_id": 143349,
-            "startTime": "12:30:00 PM 13-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -379,6 +367,18 @@
         },
         {
             "event_category": "Motorsports",
+            "title": "Europe - Race 2 vs Le Mans, France (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
+            "team_1": "Europe - Race 2",
+            "team_2": "Le Mans, France",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Europe - Race 2",
+            "match_id": 143349,
+            "startTime": "12:30:00 PM 13-06-2026"
+        },
+        {
+            "event_category": "Motorsports",
             "title": "Sprint Race vs Barcelona (F3 BARCELONA 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
             "team_1": "Sprint Race",
@@ -388,6 +388,30 @@
             "match_name": "Sprint Race",
             "match_id": 139719,
             "startTime": "01:35:00 PM 13-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - Libema Open vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "ATP 250 - Libema Open",
+            "team_2": "Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "ATP 250 - Libema Open",
+            "match_id": 143130,
+            "startTime": "02:30:00 PM 13-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - BOSS OPEN 2026 vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
+            "team_1": "ATP 250 - BOSS OPEN 2026",
+            "team_2": "Stuttgart, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - BOSS OPEN 2026",
+            "match_name": "ATP 250 - BOSS OPEN 2026",
+            "match_id": 143123,
+            "startTime": "02:30:00 PM 13-06-2026"
         }
     ]
 }
