@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:22:44 PM 14-06-2026",
+    "last update time": "01:13:50 AM 15-06-2026",
     "matches": [
         {
-            "event_category": "Cricket",
-            "title": "Antwerp Anchors vs Ghent Gladiators (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
-            "team_1": "Antwerp Anchors",
-            "team_2": "Ghent Gladiators",
+            "event_category": "Football",
+            "title": "M\u00e1laga vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_APP.png",
+            "team_1": "M\u00e1laga",
+            "team_2": "Almer\u00eda",
             "status": "LIVE",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Antwerp Anchors vs Ghent Gladiators",
-            "match_id": 143166,
-            "startTime": "08:00:00 PM 14-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "M\u00e1laga vs Almer\u00eda",
+            "match_id": 143391,
+            "startTime": "12:30:00 AM 15-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -158,18 +158,6 @@
             "match_name": "Uppsala Tigers vs Stockholm United",
             "match_id": 143176,
             "startTime": "04:00:00 PM 15-06-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "M\u00e1laga vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_APP.png",
-            "team_1": "M\u00e1laga",
-            "team_2": "Almer\u00eda",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "M\u00e1laga vs Almer\u00eda",
-            "match_id": 143391,
-            "startTime": "12:30:00 AM 15-06-2026"
         },
         {
             "event_category": "Cricket",
