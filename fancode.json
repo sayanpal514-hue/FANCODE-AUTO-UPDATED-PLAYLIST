@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:45:59 AM 15-06-2026",
+    "last update time": "07:07:22 AM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
+            "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
-            "team_1": "West Indies",
-            "team_2": "Sri Lanka",
-            "status": "UPCOMING",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
+            "status": "LIVE",
             "event_name": "Sri Lanka tour of West Indies 2026",
-            "match_name": "West Indies vs Sri Lanka",
+            "match_name": "Sri Lanka vs West Indies",
             "match_id": 142977,
-            "startTime": "06:00:00 AM 15-06-2026"
+            "startTime": "06:00:00 AM 15-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -220,6 +222,30 @@
             "startTime": "08:30:00 PM 16-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Rewa Jaguars vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143088_6102_RW_JRL_FC-WEB.jpg",
+            "team_1": "Rewa Jaguars",
+            "team_2": "Jabalpur Royal Lions",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Rewa Jaguars vs Jabalpur Royal Lions",
+            "match_id": 143088,
+            "startTime": "07:30:00 PM 16-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vasteras United vs Stockholm City (Nordic Smash T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "team_1": "Vasteras United",
+            "team_2": "Stockholm City",
+            "status": "UPCOMING",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Vasteras United vs Stockholm City",
+            "match_id": 143180,
+            "startTime": "07:30:00 PM 16-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 500 - HSBC Championship vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
@@ -266,30 +292,6 @@
             "match_name": "ATP 500 - Terra Wortmann Open 2026",
             "match_id": 143255,
             "startTime": "02:30:00 PM 16-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rewa Jaguars vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143088_6102_RW_JRL_FC-WEB.jpg",
-            "team_1": "Rewa Jaguars",
-            "team_2": "Jabalpur Royal Lions",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Rewa Jaguars vs Jabalpur Royal Lions",
-            "match_id": 143088,
-            "startTime": "07:30:00 PM 16-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vasteras United vs Stockholm City (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-            "team_1": "Vasteras United",
-            "team_2": "Stockholm City",
-            "status": "UPCOMING",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Vasteras United vs Stockholm City",
-            "match_id": 143180,
-            "startTime": "07:30:00 PM 16-06-2026"
         },
         {
             "event_category": "Cricket",
