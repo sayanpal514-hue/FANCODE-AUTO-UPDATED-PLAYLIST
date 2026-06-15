@@ -1,63 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:44:24 PM 15-06-2026",
+    "last update time": "11:27:30 PM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Rewa Jaguars vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143085_6102_RW_GC_FC-WEB.jpg",
-            "team_1": "Rewa Jaguars",
-            "team_2": "Gwalior Cheetahs",
+            "title": "Bhopal Leopards vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143086_6102_JRL_BL_FC-WEB.jpg",
+            "team_1": "Bhopal Leopards",
+            "team_2": "Jabalpur Royal Lions",
             "status": "LIVE",
             "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Rewa Jaguars vs Gwalior Cheetahs",
-            "match_id": 143085,
-            "startTime": "03:00:00 PM 15-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143085_english_hls_d97e4e72d625660_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143085_english_hls_d97e4e72d625660_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Uppsala Tigers vs Stockholm United (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143176_6109_UPP_HMU_FC-WEB.jpg",
-            "team_1": "Uppsala Tigers",
-            "team_2": "Stockholm United",
-            "status": "LIVE",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Uppsala Tigers vs Stockholm United",
-            "match_id": 143176,
-            "startTime": "04:00:00 PM 15-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143176_english_hls_5fee98468520147_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143176_english_hls_5fee98468520147_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 1 - World Feed vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Halle, Germany",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "Day 1 - World Feed",
-            "match_id": 143254,
-            "startTime": "03:00:00 PM 15-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 1 - Schauinsland Reisen Court vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "Day 1 - Schauinsland Reisen Court",
-            "team_2": "Halle, Germany",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "Day 1 - Schauinsland Reisen Court",
-            "match_id": 143253,
-            "startTime": "03:00:00 PM 15-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143253_english_hls_57515cc93926116_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143253_english_hls_57515cc93926116_1ta-di_h264/index.m3u8"
+            "match_name": "Bhopal Leopards vs Jabalpur Royal Lions",
+            "match_id": 143086,
+            "startTime": "07:30:00 PM 15-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143086_english_hls_abff174e0741564_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143086_english_hls_abff174e0741564_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -74,42 +32,16 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143132_english_hls_1d6b72cbde60936_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 1 - Court 1 vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-            "team_1": "Day 1 - Court 1",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 1 - Court 1",
-            "match_id": 143135,
-            "startTime": "05:30:00 PM 15-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143135_english_hls_a3b6f6ae5075013_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143135_english_hls_a3b6f6ae5075013_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
-            "title": "Jabalpur Royal Lions vs Bhopal Leopards (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143086_6102_JRL_BL_FC-WEB.jpg",
-            "team_1": "Jabalpur Royal Lions",
-            "team_2": "Bhopal Leopards",
+            "title": "Netherlands vs Canada (ICC CWC League 2 Canada, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143200_6110_NED_CAN_fc-web.jpg",
+            "team_1": "Netherlands",
+            "team_2": "Canada",
             "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Jabalpur Royal Lions vs Bhopal Leopards",
-            "match_id": 143086,
-            "startTime": "07:30:00 PM 15-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vasteras United vs Gothenburg Phoenix (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143177_6109_VTU_GTP_FC-WEB.jpg",
-            "team_1": "Vasteras United",
-            "team_2": "Gothenburg Phoenix",
-            "status": "UPCOMING",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Vasteras United vs Gothenburg Phoenix",
-            "match_id": 143177,
-            "startTime": "07:30:00 PM 15-06-2026"
+            "event_name": "ICC CWC League 2 Canada, 2026",
+            "match_name": "Netherlands vs Canada",
+            "match_id": 143200,
+            "startTime": "08:30:00 PM 16-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -133,7 +65,7 @@
             "event_name": "Punjab T10 2026",
             "match_name": "Ludhiana Lions vs Patiala Panthers",
             "match_id": 143035,
-            "startTime": "01:30:00 PM 16-06-2026"
+            "startTime": "01:45:00 PM 16-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -157,7 +89,7 @@
             "event_name": "Punjab T10 2026",
             "match_name": "Amritsar Alligators vs Bathinda Bulls",
             "match_id": 143036,
-            "startTime": "03:30:00 PM 16-06-2026"
+            "startTime": "04:00:00 PM 16-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -170,18 +102,6 @@
             "match_name": "Uppsala Tigers vs Malmo Mavericks",
             "match_id": 143179,
             "startTime": "04:00:00 PM 16-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Netherlands vs Canada (ICC CWC League 2 Canada, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143200_6110_NED_CAN_fc-web.jpg",
-            "team_1": "Netherlands",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2 Canada, 2026",
-            "match_name": "Netherlands vs Canada",
-            "match_id": 143200,
-            "startTime": "08:30:00 PM 16-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -289,7 +209,7 @@
             "event_name": "Punjab T10 2026",
             "match_name": "Firozpur Falcons vs Moga Mongoose",
             "match_id": 143037,
-            "startTime": "01:30:00 PM 17-06-2026"
+            "startTime": "01:45:00 PM 17-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -313,7 +233,7 @@
             "event_name": "Punjab T10 2026",
             "match_name": "Jalandhar Jaguars vs Mohali Monsters",
             "match_id": 143038,
-            "startTime": "03:30:00 PM 17-06-2026"
+            "startTime": "04:00:00 PM 17-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -421,7 +341,7 @@
             "event_name": "Punjab T10 2026",
             "match_name": "Mohali Monsters vs Firozpur Falcons",
             "match_id": 143039,
-            "startTime": "01:30:00 PM 18-06-2026"
+            "startTime": "01:45:00 PM 18-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -445,7 +365,7 @@
             "event_name": "Punjab T10 2026",
             "match_name": "Jalandhar Jaguars vs Moga Mongoose",
             "match_id": 143040,
-            "startTime": "03:30:00 PM 18-06-2026"
+            "startTime": "04:00:00 PM 18-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +378,90 @@
             "match_name": "Uppsala Tigers vs Vasteras United",
             "match_id": 143185,
             "startTime": "04:00:00 PM 18-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Hong Kong, China (Men's T20I Tri series in Namibia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1780575318029/143314_CASACARDS_APP.png",
+            "team_1": "Namibia",
+            "team_2": "Hong Kong, China",
+            "status": "UPCOMING",
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Namibia vs Hong Kong, China",
+            "match_id": 143314,
+            "startTime": "06:00:00 PM 18-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - HSBC Championship vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "ATP 500 - HSBC Championship",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "ATP 500 - HSBC Championship",
+            "match_id": 143142,
+            "startTime": "02:30:00 PM 18-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - HSBC Championship vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "ATP 500 - HSBC Championship",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "ATP 500 - HSBC Championship",
+            "match_id": 143141,
+            "startTime": "02:30:00 PM 18-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143260,
+            "startTime": "02:30:00 PM 18-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143259,
+            "startTime": "02:30:00 PM 18-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jabalpur Royal Lions vs Royal Nimar Eagles (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143092_6102_JRL_RNG_FC-WEB.jpg",
+            "team_1": "Jabalpur Royal Lions",
+            "team_2": "Royal Nimar Eagles",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Jabalpur Royal Lions vs Royal Nimar Eagles",
+            "match_id": 143092,
+            "startTime": "07:30:00 PM 18-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malmo Mavericks vs Stockholm United (Nordic Smash T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg",
+            "team_1": "Malmo Mavericks",
+            "team_2": "Stockholm United",
+            "status": "UPCOMING",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Malmo Mavericks vs Stockholm United",
+            "match_id": 143186,
+            "startTime": "07:30:00 PM 18-06-2026"
         }
     ]
 }
