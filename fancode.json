@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:07:22 AM 15-06-2026",
+    "last update time": "12:30:37 PM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Sri Lanka tour of West Indies 2026",
-            "match_name": "Sri Lanka vs West Indies",
-            "match_id": 142977,
-            "startTime": "06:00:00 AM 15-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Stockholm City vs Malmo Mavericks (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
             "team_1": "Stockholm City",
             "team_2": "Malmo Mavericks",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Nordic Smash T20 Cup, 2026",
             "match_name": "Stockholm City vs Malmo Mavericks",
             "match_id": 143175,
-            "startTime": "12:30:00 PM 15-06-2026"
+            "startTime": "12:30:00 PM 15-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143175_english_hls_89a433fd2895536_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143175_english_hls_89a433fd2895536_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -68,7 +56,7 @@
         {
             "event_category": "Cricket",
             "title": "Uppsala Tigers vs Stockholm United (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
             "team_1": "Uppsala Tigers",
             "team_2": "Stockholm United",
             "status": "UPCOMING",
@@ -92,7 +80,7 @@
         {
             "event_category": "Cricket",
             "title": "Vasteras United vs Gothenburg Phoenix (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
             "team_1": "Vasteras United",
             "team_2": "Gothenburg Phoenix",
             "status": "UPCOMING",
@@ -100,54 +88,6 @@
             "match_name": "Vasteras United vs Gothenburg Phoenix",
             "match_id": 143177,
             "startTime": "07:30:00 PM 15-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - HSBC Championship vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-            "team_1": "ATP 500 - HSBC Championship",
-            "team_2": "London, Great Britain",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "ATP 500 - HSBC Championship",
-            "match_id": 143132,
-            "startTime": "02:30:00 PM 15-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - HSBC Championship vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-            "team_1": "ATP 500 - HSBC Championship",
-            "team_2": "London, Great Britain",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "ATP 500 - HSBC Championship",
-            "match_id": 143135,
-            "startTime": "02:30:00 PM 15-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "ATP 500 - Terra Wortmann Open 2026",
-            "team_2": "Halle, Germany",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_id": 143254,
-            "startTime": "02:30:00 PM 15-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "ATP 500 - Terra Wortmann Open 2026",
-            "team_2": "Halle, Germany",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_id": 143253,
-            "startTime": "02:30:00 PM 15-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -184,6 +124,54 @@
             "match_name": "Indore Pink Panthers vs Royal Nimar Eagles",
             "match_id": 143087,
             "startTime": "03:00:00 PM 16-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 - World Feed vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 1 - World Feed",
+            "match_id": 143254,
+            "startTime": "03:00:00 PM 15-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 - Schauinsland Reisen Court vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 1 - Schauinsland Reisen Court",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 1 - Schauinsland Reisen Court",
+            "match_id": 143253,
+            "startTime": "03:00:00 PM 15-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 - World Feed vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "Day 1 - World Feed",
+            "match_id": 143132,
+            "startTime": "04:00:00 PM 15-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 - Court 1 vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "Day 1 - Court 1",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "Day 1 - Court 1",
+            "match_id": 143135,
+            "startTime": "05:30:00 PM 15-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -400,6 +388,54 @@
             "match_name": "ATP 500 - Terra Wortmann Open 2026",
             "match_id": 143258,
             "startTime": "02:30:00 PM 17-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143257,
+            "startTime": "02:30:00 PM 17-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chambal Ghariyals vs Bundelkhand Bulls (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143090_6102_CGS_BBS_FC-WEB.jpg",
+            "team_1": "Chambal Ghariyals",
+            "team_2": "Bundelkhand Bulls",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Chambal Ghariyals vs Bundelkhand Bulls",
+            "match_id": 143090,
+            "startTime": "07:30:00 PM 17-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Stockholm United vs Stockholm City (Nordic Smash T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "team_1": "Stockholm United",
+            "team_2": "Stockholm City",
+            "status": "UPCOMING",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Stockholm United vs Stockholm City",
+            "match_id": 143183,
+            "startTime": "07:30:00 PM 17-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gothenburg Phoenix vs Stockholm City (Nordic Smash T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "team_1": "Gothenburg Phoenix",
+            "team_2": "Stockholm City",
+            "status": "UPCOMING",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Gothenburg Phoenix vs Stockholm City",
+            "match_id": 143184,
+            "startTime": "12:30:00 PM 18-06-2026"
         }
     ]
 }
