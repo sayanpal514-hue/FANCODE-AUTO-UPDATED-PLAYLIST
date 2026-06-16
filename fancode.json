@@ -1,78 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:52:22 PM 16-06-2026",
+    "last update time": "01:44:11 AM 17-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rewa Jaguars vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143088_6102_RW_JRL_FC-WEB.jpg",
-            "team_1": "Rewa Jaguars",
-            "team_2": "Jabalpur Royal Lions",
-            "status": "LIVE",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Rewa Jaguars vs Jabalpur Royal Lions",
-            "match_id": 143088,
-            "startTime": "07:30:00 PM 16-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143088_english_hls_214224969853164_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143088_english_hls_214224969853164_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vasteras United vs Stockholm City (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143180_6109_VTU_STY_FC-WEB.jpg",
-            "team_1": "Vasteras United",
-            "team_2": "Stockholm City",
-            "status": "LIVE",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Vasteras United vs Stockholm City",
-            "match_id": 143180,
-            "startTime": "07:30:00 PM 16-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143180_english_hls_fa7ff87c7486703_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143180_english_hls_fa7ff87c7486703_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - World Feed vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Halle, Germany",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "Day 2 - World Feed",
-            "match_id": 143255,
-            "startTime": "03:00:00 PM 16-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143255_english_hls_c6a679691185272_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143255_english_hls_c6a679691185272_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - Court 1 vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 2 - Court 1",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 2 - Court 1",
-            "match_id": 143133,
-            "startTime": "04:00:00 PM 16-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143133_english_hls_a34e01f7c792836_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143133_english_hls_a34e01f7c792836_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - World Feed vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 2 - World Feed",
-            "match_id": 143136,
-            "startTime": "04:00:00 PM 16-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143136_english_hls_c9b1ec756f6672_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143136_english_hls_c9b1ec756f6672_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
@@ -480,6 +410,66 @@
             "match_name": "ATP 500 - HSBC Championship 2026",
             "match_id": 143248,
             "startTime": "02:30:00 PM 19-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - HSBC Championship 2026 vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "ATP 500 - HSBC Championship 2026",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "ATP 500 - HSBC Championship 2026",
+            "match_id": 143247,
+            "startTime": "02:30:00 PM 19-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143262,
+            "startTime": "02:30:00 PM 19-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143261,
+            "startTime": "02:30:00 PM 19-06-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 1 Free Practice 1 - Dekra Lausitzring vs Schipkau, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+            "team_1": "Day 1 Free Practice 1 - Dekra Lausitzring",
+            "team_2": "Schipkau, Germany",
+            "status": "UPCOMING",
+            "event_name": "DTM 2026",
+            "match_name": "Day 1 Free Practice 1 - Dekra Lausitzring",
+            "match_id": 143301,
+            "startTime": "03:05:00 PM 19-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Nimar Eagles vs Bundelkhand Bulls (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143094_6102_RNG_BBS_FC-WEB.jpg",
+            "team_1": "Royal Nimar Eagles",
+            "team_2": "Bundelkhand Bulls",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Royal Nimar Eagles vs Bundelkhand Bulls",
+            "match_id": 143094,
+            "startTime": "07:30:00 PM 19-06-2026"
         }
     ]
 }
