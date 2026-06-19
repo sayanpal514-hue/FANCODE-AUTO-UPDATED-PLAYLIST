@@ -1,43 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:11:41 PM 19-06-2026",
+    "last update time": "04:34:28 PM 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
+            "title": "Australia vs Bangladesh (Australia tour of Bangladesh, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Australia",
-            "status": "UPCOMING",
+            "team_1": "Australia",
+            "team_2": "Bangladesh",
+            "status": "LIVE",
             "event_name": "Australia tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs Australia",
+            "match_name": "Australia vs Bangladesh",
             "match_id": 142969,
-            "startTime": "01:30:00 PM 19-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vasteras United vs Stockholm United (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg",
-            "team_1": "Vasteras United",
-            "team_2": "Stockholm United",
-            "status": "UPCOMING",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Vasteras United vs Stockholm United",
-            "match_id": 143187,
-            "startTime": "12:30:00 PM 19-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jalandhar Jaguars vs Firozpur Falcons (Punjab T10 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143041_6095_JJ_FFA_fc-web.jpg",
-            "team_1": "Jalandhar Jaguars",
-            "team_2": "Firozpur Falcons",
-            "status": "UPCOMING",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Jalandhar Jaguars vs Firozpur Falcons",
-            "match_id": 143041,
-            "startTime": "01:45:00 PM 19-06-2026"
+            "startTime": "01:30:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -45,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg",
             "team_1": "Jabalpur Royal Lions",
             "team_2": "Chambal Ghariyals",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Madhya Pradesh League T20, 2026",
             "match_name": "Jabalpur Royal Lions vs Chambal Ghariyals",
             "match_id": 143093,
-            "startTime": "03:00:00 PM 19-06-2026"
+            "startTime": "03:00:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -57,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-web.jpg",
             "team_1": "Mohali Monsters",
             "team_2": "Moga Mongoose",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Punjab T10 2026",
             "match_name": "Mohali Monsters vs Moga Mongoose",
             "match_id": 143042,
-            "startTime": "04:00:00 PM 19-06-2026"
+            "startTime": "04:00:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143042_english_hls_f981ff70b436880_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143042_english_hls_f981ff70b436880_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -69,11 +51,55 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg",
             "team_1": "Uppsala Tigers",
             "team_2": "Stockholm City",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Nordic Smash T20 Cup, 2026",
             "match_name": "Uppsala Tigers vs Stockholm City",
             "match_id": 143188,
-            "startTime": "04:00:00 PM 19-06-2026"
+            "startTime": "04:00:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143188_english_hls_984981af8410023_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143188_english_hls_984981af8410023_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Brno (GRAND PRIX OF CZECHIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+            "team_1": "Day 1",
+            "team_2": "Brno",
+            "status": "LIVE",
+            "event_name": "GRAND PRIX OF CZECHIA 2026",
+            "match_name": "Czechia GP",
+            "match_id": 139951,
+            "startTime": "12:30:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 5 - World Feed vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 5 - World Feed",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 5 - World Feed",
+            "match_id": 143261,
+            "startTime": "03:00:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 5 - World Feed vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
+            "team_1": "Day 5 - World Feed",
+            "team_2": "London, Great Britain",
+            "status": "LIVE",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "Day 5 - World Feed",
+            "match_id": 143247,
+            "startTime": "04:00:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,18 +138,6 @@
             "startTime": "07:30:00 PM 19-06-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Brno (GRAND PRIX OF CZECHIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
-            "team_1": "Day 1",
-            "team_2": "Brno",
-            "status": "UPCOMING",
-            "event_name": "GRAND PRIX OF CZECHIA 2026",
-            "match_name": "Czechia GP",
-            "match_id": 139951,
-            "startTime": "12:30:00 PM 19-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Nordic Smash T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
@@ -134,6 +148,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 143190,
             "startTime": "12:30:00 PM 20-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 5 - Court 1 vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
+            "team_1": "Day 5 - Court 1",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "Day 5 - Court 1",
+            "match_id": 143248,
+            "startTime": "05:30:00 PM 19-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -150,7 +176,7 @@
         {
             "event_category": "Cricket",
             "title": "Kalyani Bengaluru Blasters vs Gulbarga Mystics (Maharaja T20 Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1781841438725/143415_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143415_6134_KBB_GMY_FC-WEB.jpg",
             "team_1": "Kalyani Bengaluru Blasters",
             "team_2": "Gulbarga Mystics",
             "status": "UPCOMING",
@@ -160,52 +186,64 @@
             "startTime": "02:30:00 PM 20-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 5 - World Feed vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "Day 5 - World Feed",
-            "team_2": "Halle, Germany",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Punjab T10 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "Day 5 - World Feed",
-            "match_id": 143261,
-            "startTime": "03:00:00 PM 19-06-2026"
+            "event_name": "Punjab T10 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143044,
+            "startTime": "04:00:00 PM 20-06-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Day 1 Free Practice 1 - Dekra Lausitzring vs Schipkau, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
-            "team_1": "Day 1 Free Practice 1 - Dekra Lausitzring",
-            "team_2": "Schipkau, Germany",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Nordic Smash T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "DTM 2026",
-            "match_name": "Day 1 Free Practice 1 - Dekra Lausitzring",
-            "match_id": 143301,
-            "startTime": "03:05:00 PM 19-06-2026"
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143191,
+            "startTime": "04:00:00 PM 20-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 5 - World Feed vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 5 - World Feed",
-            "team_2": "London, Great Britain",
+            "event_category": "Cricket",
+            "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143316_6124_NAM_NIG_FC-WEB.jpg",
+            "team_1": "Namibia",
+            "team_2": "Nigeria",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 5 - World Feed",
-            "match_id": 143247,
-            "startTime": "04:00:00 PM 19-06-2026"
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Namibia vs Nigeria",
+            "match_id": 143316,
+            "startTime": "05:30:00 PM 20-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 5 - Court 1 vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 5 - Court 1",
-            "team_2": "London, Great Britain",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Punjab T10 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 5 - Court 1",
-            "match_id": 143248,
-            "startTime": "05:30:00 PM 19-06-2026"
+            "event_name": "Punjab T10 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143045,
+            "startTime": "06:00:00 PM 20-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Shivamogga Yodhas vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB.jpg",
+            "team_1": "Shivamogga Yodhas",
+            "team_2": "Mysore Warriors",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Shivamogga Yodhas vs Mysore Warriors",
+            "match_id": 143416,
+            "startTime": "07:00:00 PM 20-06-2026"
         },
         {
             "event_category": "Tennis",
@@ -245,18 +283,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Punjab T10 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Punjab T10 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 143044,
-            "startTime": "04:00:00 PM 20-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Nordic Smash T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
             "team_1": "TBC",
@@ -264,32 +290,8 @@
             "status": "UPCOMING",
             "event_name": "Nordic Smash T20 Cup, 2026",
             "match_name": "TBC vs TBC",
-            "match_id": 143191,
-            "startTime": "04:00:00 PM 20-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_APP.png",
-            "team_1": "Namibia",
-            "team_2": "Nigeria",
-            "status": "UPCOMING",
-            "event_name": "Men's T20I Tri series in Namibia 2026",
-            "match_name": "Namibia vs Nigeria",
-            "match_id": 143316,
-            "startTime": "05:30:00 PM 20-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Punjab T10 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Punjab T10 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 143045,
-            "startTime": "06:00:00 PM 20-06-2026"
+            "match_id": 143192,
+            "startTime": "07:30:00 PM 20-06-2026"
         },
         {
             "event_category": "Motorsports",
@@ -302,18 +304,6 @@
             "match_name": "Australasia - Race 1",
             "match_id": 143406,
             "startTime": "11:05:00 AM 20-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Shivamogga Yodhas vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1781841438720/143416_CASACARDS_APP.png",
-            "team_1": "Shivamogga Yodhas",
-            "team_2": "Mysore Warriors",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Shivamogga Yodhas vs Mysore Warriors",
-            "match_id": 143416,
-            "startTime": "07:00:00 PM 20-06-2026"
         },
         {
             "event_category": "MotoGP",
@@ -338,18 +328,6 @@
             "match_name": "Day 2 Qualifying 1 - Dekra Lausitzring",
             "match_id": 143303,
             "startTime": "12:25:00 PM 20-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 143192,
-            "startTime": "07:30:00 PM 20-06-2026"
         },
         {
             "event_category": "Tennis",
@@ -458,6 +436,42 @@
             "match_name": "North America - Race 1",
             "match_id": 143346,
             "startTime": "01:55:00 AM 21-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Australia tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs Australia",
+            "match_id": 142970,
+            "startTime": "01:30:00 PM 21-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Coastal Kings Mangaluru vs Hubli Tigers (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143417_6134_CKM_HT_FC-WEB.jpg",
+            "team_1": "Coastal Kings Mangaluru",
+            "team_2": "Hubli Tigers",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Coastal Kings Mangaluru vs Hubli Tigers",
+            "match_id": 143417,
+            "startTime": "02:30:00 PM 21-06-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Australasia - Race 2 vs Queensland (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
+            "team_1": "Australasia - Race 2",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Australasia - Race 2",
+            "match_id": 143407,
+            "startTime": "10:25:00 AM 21-06-2026"
         }
     ]
 }
