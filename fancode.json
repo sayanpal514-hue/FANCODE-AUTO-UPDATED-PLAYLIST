@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:17:36 AM 21-06-2026",
+    "last update time": "02:28:16 AM 21-06-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "09:30:00 PM 20-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 4 - Doubles Semifinal 2 vs Germany (ATP 500 - Terra Wortmann Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "Day 4 - Doubles Semifinal 2",
-            "team_2": "Germany",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "Day 4 - Doubles Semifinal 2",
-            "match_id": 143541,
-            "startTime": "09:30:00 PM 20-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,6 +126,18 @@
             "match_name": "Bermuda vs Bahamas",
             "match_id": 143284,
             "startTime": "11:30:00 PM 21-06-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Australasia - Race 2 vs Queensland (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
+            "team_1": "Australasia - Race 2",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Australasia - Race 2",
+            "match_id": 143407,
+            "startTime": "10:25:00 AM 21-06-2026"
         },
         {
             "event_category": "Motorsports",
