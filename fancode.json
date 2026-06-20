@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:26:23 PM 20-06-2026",
+    "last update time": "01:17:36 AM 21-06-2026",
     "matches": [
         {
-            "event_category": "Tennis",
-            "title": "Day 4 - Doubles Semifinal 2 vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-            "team_1": "Day 4 - Doubles Semifinal 2",
-            "team_2": "London, Great Britain",
+            "event_category": "Football",
+            "title": "Almer\u00eda vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1781434867302/143392_CASACARDS_APP.png",
+            "team_1": "Almer\u00eda",
+            "team_2": "M\u00e1laga",
             "status": "LIVE",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 4 - Doubles Semifinal 2",
-            "match_id": 143542,
-            "startTime": "07:30:00 PM 20-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143542_english_hls_b9af3784f850775_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143542_english_hls_b9af3784f850775_1ta-di_h264/index.m3u8"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Almer\u00eda vs M\u00e1laga",
+            "match_id": 143392,
+            "startTime": "12:30:00 AM 21-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -94,18 +94,6 @@
             "startTime": "05:30:00 PM 21-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Almer\u00eda vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1781434867302/143392_CASACARDS_APP.png",
-            "team_1": "Almer\u00eda",
-            "team_2": "M\u00e1laga",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Almer\u00eda vs M\u00e1laga",
-            "match_id": 143392,
-            "startTime": "12:30:00 AM 21-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Panama vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -152,30 +140,6 @@
             "match_name": "Bermuda vs Bahamas",
             "match_id": 143284,
             "startTime": "11:30:00 PM 21-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "North America - Race 1 vs Laguna Seca (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-            "team_1": "North America - Race 1",
-            "team_2": "Laguna Seca",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "North America - Race 1",
-            "match_id": 143346,
-            "startTime": "01:55:00 AM 21-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Australasia - Race 2 vs Queensland (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-            "team_1": "Australasia - Race 2",
-            "team_2": "Queensland",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Australasia - Race 2",
-            "match_id": 143407,
-            "startTime": "10:25:00 AM 21-06-2026"
         },
         {
             "event_category": "Motorsports",
@@ -296,18 +260,6 @@
             "match_name": "Day 4",
             "match_id": 143296,
             "startTime": "08:30:00 PM 21-06-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "North America - Race 2 vs Laguna Seca (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-            "team_1": "North America - Race 2",
-            "team_2": "Laguna Seca",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "North America - Race 2",
-            "match_id": 143347,
-            "startTime": "02:40:00 AM 22-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -463,6 +415,54 @@
             "event_name": "Maharaja T20 Trophy, 2026",
             "match_name": "Gulbarga Mystics vs Shivamogga Yodhas",
             "match_id": 143421,
+            "startTime": "02:30:00 PM 23-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indore Pink Panthers vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143099_6102_IPP_GC_FC-WEB.jpg",
+            "team_1": "Indore Pink Panthers",
+            "team_2": "Gwalior Cheetahs",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Indore Pink Panthers vs Gwalior Cheetahs",
+            "match_id": 143099,
+            "startTime": "03:00:00 PM 23-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thailand vs Singapore (Asia Pacific Cricket Champions Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Thailand",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+            "match_name": "Thailand vs Singapore",
+            "match_id": 143546,
+            "startTime": "04:00:00 PM 23-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg",
+            "team_1": "Namibia",
+            "team_2": "Nigeria",
+            "status": "UPCOMING",
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Namibia vs Nigeria",
+            "match_id": 143319,
+            "startTime": "05:30:00 PM 23-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
+            "team_2": "Mallorca, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
+            "match_id": 143272,
             "startTime": "02:30:00 PM 23-06-2026"
         }
     ]
