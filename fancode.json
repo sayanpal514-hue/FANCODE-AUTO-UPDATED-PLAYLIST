@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:49:37 PM 21-06-2026",
+    "last update time": "11:20:49 PM 21-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,17 +33,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Panama vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
-            "src": "https://images.fancode.com/aig/match/v1782048897446/143283_CASACARDS_APP.png",
-            "team_1": "Panama",
-            "team_2": "Belize",
+            "title": "Bermuda vs Bahamas (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
+            "src": "https://images.fancode.com/aig/match/v1782048897453/143284_CASACARDS_APP.png",
+            "team_1": "Bermuda",
+            "team_2": "Bahamas",
             "status": "LIVE",
             "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Panama vs Belize",
-            "match_id": 143283,
-            "startTime": "07:00:00 PM 21-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143283_english_hls_e580e7e89a44559_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143283_english_hls_e580e7e89a44559_1ta-di_h264/index.m3u8"
+            "match_name": "Bermuda vs Bahamas",
+            "match_id": 143284,
+            "startTime": "11:30:00 PM 21-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -58,20 +58,6 @@
             "startTime": "04:00:00 PM 21-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143270_english_hls_08b686d23454549_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143270_english_hls_08b686d23454549_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7 - Finals vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 7 - Finals",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 7 - Finals",
-            "match_id": 143251,
-            "startTime": "06:00:00 PM 21-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143251_english_hls_7da0af7fd366146_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143251_english_hls_7da0af7fd366146_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -100,18 +86,6 @@
             "startTime": "08:30:00 PM 21-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143296_english_hls_d8e484c0c070501_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143296_english_hls_d8e484c0c070501_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bermuda vs Bahamas (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
-            "src": "https://images.fancode.com/aig/match/v1782048897453/143284_CASACARDS_APP.png",
-            "team_1": "Bermuda",
-            "team_2": "Bahamas",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Bermuda vs Bahamas",
-            "match_id": 143284,
-            "startTime": "11:30:00 PM 21-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -151,18 +125,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Indonesia vs Thailand (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_APP.png",
-            "team_1": "Indonesia",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
-            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-            "match_name": "Indonesia vs Thailand",
-            "match_id": 143543,
-            "startTime": "11:00:00 AM 22-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bermuda vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
             "src": "https://images.fancode.com/aig/match/v1782048897453/143285_CASACARDS_APP.png",
             "team_1": "Bermuda",
@@ -196,6 +158,18 @@
             "match_name": "Malwa Stallions vs Rewa Jaguars",
             "match_id": 143098,
             "startTime": "07:30:00 PM 22-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Thailand (Asia Pacific Cricket Champions Trophy, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_APP.png",
+            "team_1": "Indonesia",
+            "team_2": "Thailand",
+            "status": "UPCOMING",
+            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+            "match_name": "Indonesia vs Thailand",
+            "match_id": 143543,
+            "startTime": "11:00:00 AM 22-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -306,6 +280,18 @@
             "startTime": "05:30:00 PM 23-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143422_6134_MW_KBB_FC-WEB.jpg",
+            "team_1": "Mysore Warriors",
+            "team_2": "Kalyani Bengaluru Blasters",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors vs Kalyani Bengaluru Blasters",
+            "match_id": 143422,
+            "startTime": "07:00:00 PM 23-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
@@ -328,18 +314,6 @@
             "match_name": "ATP 250 - Lexus Eastbourne Open 2026",
             "match_id": 143278,
             "startTime": "02:30:00 PM 23-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143422_6134_MW_KBB_FC-WEB.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Kalyani Bengaluru Blasters",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors vs Kalyani Bengaluru Blasters",
-            "match_id": 143422,
-            "startTime": "07:00:00 PM 23-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -448,6 +422,30 @@
             "match_name": "Brazil vs Belize",
             "match_id": 143288,
             "startTime": "11:30:00 PM 24-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Uzbekistan vs Thailand (Asia Pacific Cricket Champions Trophy, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1782018540422/143547_CASACARDS_APP.png",
+            "team_1": "Uzbekistan",
+            "team_2": "Thailand",
+            "status": "UPCOMING",
+            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+            "match_name": "Uzbekistan vs Thailand",
+            "match_id": 143547,
+            "startTime": "11:00:00 AM 25-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Nigeria (Nigeria tour of Namibia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Namibia",
+            "team_2": "Nigeria",
+            "status": "UPCOMING",
+            "event_name": "Nigeria tour of Namibia 2026",
+            "match_name": "Namibia vs Nigeria",
+            "match_id": 143320,
+            "startTime": "01:00:00 PM 25-06-2026"
         }
     ]
 }
