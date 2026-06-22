@@ -1,57 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:08:58 PM 22-06-2026",
+    "last update time": "06:42:27 PM 22-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Indonesia vs Thailand (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143543_6143_INA_TL_FC-Web.png",
-            "team_1": "Indonesia",
-            "team_2": "Thailand",
-            "status": "LIVE",
-            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-            "match_name": "Indonesia vs Thailand",
-            "match_id": 143543,
-            "startTime": "11:00:00 AM 22-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors vs Hubli Tigers (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143419_6134_MW_HT_FC-WEB.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Hubli Tigers",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors vs Hubli Tigers",
-            "match_id": 143419,
-            "startTime": "02:30:00 PM 22-06-2026"
-        },
         {
             "event_category": "Cricket",
             "title": "Royal Nimar Eagles vs Bhopal Leopards (Madhya Pradesh League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143097_6102_RNG_BL_FC-WEB.jpg",
             "team_1": "Royal Nimar Eagles",
             "team_2": "Bhopal Leopards",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Madhya Pradesh League T20, 2026",
             "match_name": "Royal Nimar Eagles vs Bhopal Leopards",
             "match_id": 143097,
-            "startTime": "03:00:00 PM 22-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Singapore vs Uzbekistan (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143544_6143_SIN_UZB_FC-Web.png",
-            "team_1": "Singapore",
-            "team_2": "Uzbekistan",
-            "status": "UPCOMING",
-            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-            "match_name": "Singapore vs Uzbekistan",
-            "match_id": 143544,
-            "startTime": "04:00:00 PM 22-06-2026"
+            "startTime": "03:00:00 PM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143097_english_hls_8ac0ad689e31608_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143097_english_hls_8ac0ad689e31608_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -59,11 +23,55 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143318_6124_NAM_HK_FC-WEB.jpg",
             "team_1": "Namibia",
             "team_2": "Hong Kong, China",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Men's T20I Tri series in Namibia 2026",
             "match_name": "Namibia vs Hong Kong, China",
             "match_id": 143318,
-            "startTime": "05:30:00 PM 22-06-2026"
+            "startTime": "05:30:00 PM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143318_english_hls_029389409564799_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143318_english_hls_029389409564799_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Singapore vs Uzbekistan (Asia Pacific Cricket Champions Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143544_6143_SIN_UZB_FC-Web.png",
+            "team_1": "Singapore",
+            "team_2": "Uzbekistan",
+            "status": "LIVE",
+            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+            "match_name": "Singapore vs Uzbekistan",
+            "match_id": 143544,
+            "startTime": "04:00:00 PM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143544_english_hls_695673f2e478269_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143544_english_hls_695673f2e478269_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+            "team_1": "Day 1",
+            "team_2": "Eastbourne, Great Britain",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_name": "Day 1",
+            "match_id": 143277,
+            "startTime": "03:30:00 PM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Mallorca, Spain",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "Day 2",
+            "match_id": 143271,
+            "startTime": "04:00:00 PM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143271_english_hls_9c9798495d89178_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143271_english_hls_9c9798495d89178_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,30 +158,6 @@
             "startTime": "03:00:00 PM 23-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 1 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-            "team_1": "Day 1",
-            "team_2": "Eastbourne, Great Britain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_name": "Day 1",
-            "match_id": 143277,
-            "startTime": "03:30:00 PM 22-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Mallorca, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 2",
-            "match_id": 143271,
-            "startTime": "04:00:00 PM 22-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Thailand vs Singapore (Asia Pacific Cricket Champions Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png",
@@ -236,7 +220,7 @@
         {
             "event_category": "Tennis",
             "title": "ATP 250 - Lexus Eastbourne Open 2026 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
             "team_1": "ATP 250 - Lexus Eastbourne Open 2026",
             "team_2": "Eastbourne, Great Britain",
             "status": "UPCOMING",
@@ -296,7 +280,7 @@
         {
             "event_category": "Tennis",
             "title": "ATP 250 - Lexus Eastbourne Open 2026 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
             "team_1": "ATP 250 - Lexus Eastbourne Open 2026",
             "team_2": "Eastbourne, Great Britain",
             "status": "UPCOMING",
@@ -415,13 +399,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sonipat Kings vs Jayqoo Panthers Faridabad (Future Star U-15 Championship 2026)",
+            "title": "Sonipat Kings vs Jayqo Panthers Faridabad (Future Star U-15 Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
             "team_1": "Sonipat Kings",
-            "team_2": "Jayqoo Panthers Faridabad",
+            "team_2": "Jayqo Panthers Faridabad",
             "status": "UPCOMING",
             "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "Sonipat Kings vs Jayqoo Panthers Faridabad",
+            "match_name": "Sonipat Kings vs Jayqo Panthers Faridabad",
             "match_id": 143553,
             "startTime": "03:00:00 PM 25-06-2026"
         },
@@ -460,6 +444,42 @@
             "match_name": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
             "match_id": 143274,
             "startTime": "02:30:00 PM 25-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - Lexus Eastbourne Open 2026 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+            "team_1": "ATP 250 - Lexus Eastbourne Open 2026",
+            "team_2": "Eastbourne, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_id": 143280,
+            "startTime": "02:30:00 PM 25-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Panama (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
+            "src": "https://images.fancode.com/aig/match/v1782048897443/143289_CASACARDS_APP.png",
+            "team_1": "Bermuda",
+            "team_2": "Panama",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Bermuda vs Panama",
+            "match_id": 143289,
+            "startTime": "07:00:00 PM 25-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hubli Tigers vs Gulbarga Mystics (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143426_6134_HT_GMY_FC-WEB.jpg",
+            "team_1": "Hubli Tigers",
+            "team_2": "Gulbarga Mystics",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Hubli Tigers vs Gulbarga Mystics",
+            "match_id": 143426,
+            "startTime": "07:00:00 PM 25-06-2026"
         }
     ]
 }
