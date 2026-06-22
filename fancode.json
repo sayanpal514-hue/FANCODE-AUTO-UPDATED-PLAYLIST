@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:35:39 AM 22-06-2026",
+    "last update time": "01:08:58 PM 22-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "title": "Indonesia vs Thailand (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143543_6143_INA_TL_FC-Web.png",
             "team_1": "Indonesia",
             "team_2": "Thailand",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
             "match_name": "Indonesia vs Thailand",
             "match_id": 143543,
-            "startTime": "11:00:00 AM 22-06-2026"
+            "startTime": "11:00:00 AM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,7 +44,7 @@
         {
             "event_category": "Cricket",
             "title": "Singapore vs Uzbekistan (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1782018540429/143544_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143544_6143_SIN_UZB_FC-Web.png",
             "team_1": "Singapore",
             "team_2": "Uzbekistan",
             "status": "UPCOMING",
@@ -112,33 +114,9 @@
             "startTime": "11:30:00 PM 22-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
-            "team_2": "Mallorca, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
-            "match_id": 143271,
-            "startTime": "02:30:00 PM 22-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 250 - Lexus Eastbourne Open 2026 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-            "team_1": "ATP 250 - Lexus Eastbourne Open 2026",
-            "team_2": "Eastbourne, Great Britain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_id": 143277,
-            "startTime": "02:30:00 PM 22-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Uzbekistan vs Indonesia (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1782018540428/143545_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png",
             "team_1": "Uzbekistan",
             "team_2": "Indonesia",
             "status": "UPCOMING",
@@ -172,9 +150,33 @@
             "startTime": "03:00:00 PM 23-06-2026"
         },
         {
+            "event_category": "Tennis",
+            "title": "Day 1 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Eastbourne, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_name": "Day 1",
+            "match_id": 143277,
+            "startTime": "03:30:00 PM 22-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Mallorca, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "Day 2",
+            "match_id": 143271,
+            "startTime": "04:00:00 PM 22-06-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Thailand vs Singapore (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1782018540405/143546_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png",
             "team_1": "Thailand",
             "team_2": "Singapore",
             "status": "UPCOMING",
@@ -268,6 +270,18 @@
             "startTime": "03:00:00 PM 24-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bahadurgarh Royals vs ACA Gurugram Vipers (Future Star U-15 Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+            "team_1": "Bahadurgarh Royals",
+            "team_2": "ACA Gurugram Vipers",
+            "status": "UPCOMING",
+            "event_name": "Future Star U-15 Championship 2026",
+            "match_name": "Bahadurgarh Royals vs ACA Gurugram Vipers",
+            "match_id": 143551,
+            "startTime": "03:00:00 PM 24-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
@@ -329,6 +343,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Flying Fire Delhi Chargers vs Karim Capital Chargers (Future Star U-15 Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+            "team_1": "Flying Fire Delhi Chargers",
+            "team_2": "Karim Capital Chargers",
+            "status": "UPCOMING",
+            "event_name": "Future Star U-15 Championship 2026",
+            "match_name": "Flying Fire Delhi Chargers vs Karim Capital Chargers",
+            "match_id": 143552,
+            "startTime": "07:30:00 PM 24-06-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Brazil vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
             "src": "https://images.fancode.com/aig/match/v1782048897444/143288_CASACARDS_APP.png",
             "team_1": "Brazil",
@@ -342,7 +368,7 @@
         {
             "event_category": "Cricket",
             "title": "Uzbekistan vs Thailand (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1782018540422/143547_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143547_6143_UZB_TL_FC-Web.png",
             "team_1": "Uzbekistan",
             "team_2": "Thailand",
             "status": "UPCOMING",
@@ -389,8 +415,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Sonipat Kings vs Jayqoo Panthers Faridabad (Future Star U-15 Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+            "team_1": "Sonipat Kings",
+            "team_2": "Jayqoo Panthers Faridabad",
+            "status": "UPCOMING",
+            "event_name": "Future Star U-15 Championship 2026",
+            "match_name": "Sonipat Kings vs Jayqoo Panthers Faridabad",
+            "match_id": 143553,
+            "startTime": "03:00:00 PM 25-06-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Singapore vs Indonesia (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1782018540421/143548_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143548_6143_SIN_INA_FC-Web.png",
             "team_1": "Singapore",
             "team_2": "Indonesia",
             "status": "UPCOMING",
@@ -421,18 +459,6 @@
             "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
             "match_name": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
             "match_id": 143274,
-            "startTime": "02:30:00 PM 25-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 250 - Lexus Eastbourne Open 2026 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-            "team_1": "ATP 250 - Lexus Eastbourne Open 2026",
-            "team_2": "Eastbourne, Great Britain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_id": 143280,
             "startTime": "02:30:00 PM 25-06-2026"
         }
     ]
