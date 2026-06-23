@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:23:37 AM 23-06-2026",
+    "last update time": "02:55:49 PM 23-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Uzbekistan vs Indonesia (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png",
-            "team_1": "Uzbekistan",
-            "team_2": "Indonesia",
-            "status": "LIVE",
-            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-            "match_name": "Uzbekistan vs Indonesia",
-            "match_id": 143545,
-            "startTime": "11:00:00 AM 23-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Gulbarga Mystics vs Shivamogga Yodhas (Maharaja T20 Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143421_6134_GMY_SY_FC-WEB.jpg",
             "team_1": "Gulbarga Mystics",
             "team_2": "Shivamogga Yodhas",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Maharaja T20 Trophy, 2026",
             "match_name": "Gulbarga Mystics vs Shivamogga Yodhas",
             "match_id": 143421,
-            "startTime": "02:30:00 PM 23-06-2026"
+            "startTime": "02:30:00 PM 23-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143421_english_hls_e14d15b24a67195_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143421_english_hls_e14d15b24a67195_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143099_6102_IPP_GC_FC-WEB.jpg",
             "team_1": "Indore Pink Panthers",
             "team_2": "Gwalior Cheetahs",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Madhya Pradesh League T20, 2026",
             "match_name": "Indore Pink Panthers vs Gwalior Cheetahs",
             "match_id": 143099,
-            "startTime": "03:00:00 PM 23-06-2026"
+            "startTime": "03:00:00 PM 23-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143099_english_hls_57b3c5021536049_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143099_english_hls_57b3c5021536049_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,18 +92,6 @@
             "startTime": "03:30:00 PM 23-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 3 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Mallorca, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 3",
-            "match_id": 143272,
-            "startTime": "04:00:00 PM 23-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Coastal Kings Mangaluru vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143423_6134_CKM_KBB_FC-WEB.jpg",
@@ -148,6 +126,18 @@
             "match_name": "Bahadurgarh Royals vs ACA Gurugram Vipers",
             "match_id": 143551,
             "startTime": "03:00:00 PM 24-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 3 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Mallorca, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "Day 3",
+            "match_id": 143272,
+            "startTime": "04:00:00 PM 23-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -462,28 +452,40 @@
             "startTime": "04:00:00 PM 26-06-2026"
         },
         {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs ASSEN (GRAND PRIX OF NETHERLANDS 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Moto_GP.jpg",
+            "team_1": "Day 1",
+            "team_2": "ASSEN",
+            "status": "UPCOMING",
+            "event_name": "GRAND PRIX OF NETHERLANDS 2026",
+            "match_name": "Day 1",
+            "match_id": 139954,
+            "startTime": "12:30:00 PM 26-06-2026"
+        },
+        {
             "event_category": "Motorsports",
-            "title": "F3 SPIELBERG 2026 vs Spielberg (F3 AUSTRIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "F3 SPIELBERG 2026",
+            "title": "Practice Session vs Spielberg (F3 AUSTRIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+            "team_1": "Practice Session",
             "team_2": "Spielberg",
             "status": "UPCOMING",
             "event_name": "F3 AUSTRIA 2026",
-            "match_name": "F3 SPIELBERG 2026",
+            "match_name": "Practice Session",
             "match_id": 139725,
             "startTime": "01:25:00 PM 26-06-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "F2 AUSTRIA 2026 vs Austria (F2 AUSTRIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
-            "team_1": "F2 AUSTRIA 2026",
-            "team_2": "Austria",
+            "event_category": "Tennis",
+            "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
+            "team_2": "Mallorca, Spain",
             "status": "UPCOMING",
-            "event_name": "F2 AUSTRIA 2026",
-            "match_name": "F2 AUSTRIA 2026",
-            "match_id": 139630,
-            "startTime": "01:35:00 PM 26-06-2026"
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
+            "match_id": 143275,
+            "startTime": "02:30:00 PM 26-06-2026"
         }
     ]
 }
