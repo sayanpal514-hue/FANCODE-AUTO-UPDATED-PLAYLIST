@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:55:49 PM 23-06-2026",
+    "last update time": "05:47:43 PM 23-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png",
             "team_1": "Thailand",
             "team_2": "Singapore",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
             "match_name": "Thailand vs Singapore",
             "match_id": 143546,
-            "startTime": "04:00:00 PM 23-06-2026"
+            "startTime": "04:00:00 PM 23-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -49,11 +51,41 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg",
             "team_1": "Namibia",
             "team_2": "Nigeria",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Men's T20I Tri series in Namibia 2026",
             "match_name": "Namibia vs Nigeria",
             "match_id": 143319,
-            "startTime": "05:30:00 PM 23-06-2026"
+            "startTime": "05:30:00 PM 23-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+            "team_1": "Day 2",
+            "team_2": "Eastbourne, Great Britain",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_name": "Day 2",
+            "match_id": 143278,
+            "startTime": "03:30:00 PM 23-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 3 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Mallorca, Spain",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "Day 3",
+            "match_id": 143272,
+            "startTime": "04:00:00 PM 23-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143272_english_hls_f465b38c6c84328_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143272_english_hls_f465b38c6c84328_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -78,18 +110,6 @@
             "match_name": "Chambal Ghariyals vs Rewa Jaguars",
             "match_id": 143100,
             "startTime": "07:30:00 PM 23-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-            "team_1": "Day 2",
-            "team_2": "Eastbourne, Great Britain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_name": "Day 2",
-            "match_id": 143278,
-            "startTime": "03:30:00 PM 23-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -126,18 +146,6 @@
             "match_name": "Bahadurgarh Royals vs ACA Gurugram Vipers",
             "match_id": 143551,
             "startTime": "03:00:00 PM 24-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Mallorca, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 3",
-            "match_id": 143272,
-            "startTime": "04:00:00 PM 23-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -454,7 +462,7 @@
         {
             "event_category": "MotoGP",
             "title": "Day 1 vs ASSEN (GRAND PRIX OF NETHERLANDS 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Moto_GP.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
             "team_1": "Day 1",
             "team_2": "ASSEN",
             "status": "UPCOMING",
