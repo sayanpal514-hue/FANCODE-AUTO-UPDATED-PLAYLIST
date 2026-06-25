@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:30 PM 25-06-2026",
+    "last update time": "12:45:22 AM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,59 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chambal Ghariyals vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg",
-            "team_1": "Chambal Ghariyals",
-            "team_2": "Jabalpur Royal Lions",
+            "title": "Brazil vs Bahamas (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143290_6120_BRA_BAH_fc-web_1782137828207.jpg",
+            "team_1": "Brazil",
+            "team_2": "Bahamas",
             "status": "LIVE",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Chambal Ghariyals vs Jabalpur Royal Lions",
-            "match_id": 143104,
-            "startTime": "07:30:00 PM 25-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "DDH Meerut Spartans vs KA Noida Blaze (Future Star U-15 Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "DDH Meerut Spartans",
-            "team_2": "KA Noida Blaze",
-            "status": "LIVE",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "DDH Meerut Spartans vs KA Noida Blaze",
-            "match_id": 143554,
-            "startTime": "07:30:00 PM 25-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hubli Tigers vs Gulbarga Mystics (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143426_6134_HT_GMY_FC-WEB_1782272593052.jpg",
-            "team_1": "Hubli Tigers",
-            "team_2": "Gulbarga Mystics",
-            "status": "LIVE",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Hubli Tigers vs Gulbarga Mystics",
-            "match_id": 143426,
-            "startTime": "07:00:00 PM 25-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143426_english_hls_e550875d2c76111_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143426_english_hls_e550875d2c76111_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 5",
-            "team_2": "Mallorca, Spain",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 5",
-            "match_id": 143274,
-            "startTime": "02:30:00 PM 25-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143274_english_hls_9ba32c49b517476_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143274_english_hls_9ba32c49b517476_1ta-di_h264/index.m3u8"
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Brazil vs Bahamas",
+            "match_id": 143290,
+            "startTime": "11:30:00 PM 25-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -86,18 +44,6 @@
             "startTime": "05:45:00 PM 25-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brazil vs Bahamas (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143290_6120_BRA_BAH_fc-web_1782137828207.jpg",
-            "team_1": "Brazil",
-            "team_2": "Bahamas",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Brazil vs Bahamas",
-            "match_id": 143290,
-            "startTime": "11:30:00 PM 25-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -482,6 +428,54 @@
             "match_name": "Bahadurgarh Royals vs DDH Meerut Spartans",
             "match_id": 143558,
             "startTime": "07:30:00 PM 27-06-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 3 vs Austria (F1 LENOVO AUSTRIAN GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
+            "team_1": "Practice 3",
+            "team_2": "Austria",
+            "status": "UPCOMING",
+            "event_name": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
+            "match_name": "Practice 3",
+            "match_id": 139459,
+            "startTime": "04:00:00 PM 27-06-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Austria (F2 AUSTRIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Austria",
+            "status": "UPCOMING",
+            "event_name": "F2 AUSTRIA 2026",
+            "match_name": "Sprint Race",
+            "match_id": 139632,
+            "startTime": "05:45:00 PM 27-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 3 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+            "team_1": "Main Feed - Day 3",
+            "team_2": "TPC River Highlands - Cromwell, Connecticut",
+            "status": "UPCOMING",
+            "event_name": "Travelers Championship 2026",
+            "match_name": "Main Feed - Day 3",
+            "match_id": 143576,
+            "startTime": "06:15:00 PM 27-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Brazil (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143292_6120_BER_BRA_fc-web_1782198801426.jpg",
+            "team_1": "Bermuda",
+            "team_2": "Brazil",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Bermuda vs Brazil",
+            "match_id": 143292,
+            "startTime": "11:30:00 PM 27-06-2026"
         }
     ]
 }
