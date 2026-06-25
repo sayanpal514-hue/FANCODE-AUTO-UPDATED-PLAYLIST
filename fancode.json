@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:45:22 AM 26-06-2026",
+    "last update time": "02:36:41 AM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "05:45:00 PM 25-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 1 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+            "team_1": "World Feed - Day 1",
+            "team_2": "TPC River Highlands - Cromwell, Connecticut",
+            "status": "LIVE",
+            "event_name": "Travelers Championship 2026",
+            "match_name": "World Feed - Day 1",
+            "match_id": 143297,
+            "startTime": "01:30:00 AM 26-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143297_english_hls_7b941325b022656_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143297_english_hls_7b941325b022656_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -95,13 +109,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "title": "Royal Nimar Eagles vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143066_6102_RNG_CGS_FC-WEB_1780916230127.jpg",
+            "team_1": "Royal Nimar Eagles",
+            "team_2": "Chambal Ghariyals",
             "status": "UPCOMING",
             "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Royal Nimar Eagles vs Chambal Ghariyals",
             "match_id": 143105,
             "startTime": "07:30:00 PM 26-06-2026"
         },
@@ -116,18 +130,6 @@
             "match_name": "ACA Gurugram Vipers vs KA Noida Blaze",
             "match_id": 143556,
             "startTime": "07:30:00 PM 26-06-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 1 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-            "team_1": "World Feed - Day 1",
-            "team_2": "TPC River Highlands - Cromwell, Connecticut",
-            "status": "UPCOMING",
-            "event_name": "Travelers Championship 2026",
-            "match_name": "World Feed - Day 1",
-            "match_id": 143297,
-            "startTime": "01:30:00 AM 26-06-2026"
         },
         {
             "event_category": "MotoGP",
@@ -262,18 +264,6 @@
             "startTime": "10:05:00 PM 26-06-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-            "team_1": "World Feed - Day 2",
-            "team_2": "TPC River Highlands - Cromwell, Connecticut",
-            "status": "UPCOMING",
-            "event_name": "Travelers Championship 2026",
-            "match_name": "World Feed - Day 2",
-            "match_id": 143298,
-            "startTime": "01:30:00 AM 27-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mills Cricket Club vs HPCA Patna (KPL Indo Nepal T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
@@ -284,6 +274,18 @@
             "match_name": "Mills Cricket Club vs HPCA Patna",
             "match_id": 143523,
             "startTime": "08:45:00 AM 27-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+            "team_1": "World Feed - Day 2",
+            "team_2": "TPC River Highlands - Cromwell, Connecticut",
+            "status": "UPCOMING",
+            "event_name": "Travelers Championship 2026",
+            "match_name": "World Feed - Day 2",
+            "match_id": 143298,
+            "startTime": "01:30:00 AM 27-06-2026"
         },
         {
             "event_category": "Cricket",
