@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:20:22 AM 25-06-2026",
+    "last update time": "07:51:48 AM 25-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Brazil vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143288_6120_BRA_BEL_fc-web_1782137828287.jpg",
-            "team_1": "Brazil",
-            "team_2": "Belize",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Brazil vs Belize",
-            "match_id": 143288,
-            "startTime": "11:30:00 PM 24-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
@@ -162,6 +148,18 @@
             "startTime": "11:30:00 PM 25-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "KCC vs Itahari Super Kings (KPL Indo Nepal T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "KCC",
+            "team_2": "Itahari Super Kings",
+            "status": "UPCOMING",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "KCC vs Itahari Super Kings",
+            "match_id": 143522,
+            "startTime": "08:45:00 AM 26-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
@@ -199,15 +197,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "KCC vs Itahari Super Kings (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "KCC",
-            "team_2": "Itahari Super Kings",
+            "title": "TBC vs TBC (Asia Pacific Cricket Champions Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "KCC vs Itahari Super Kings",
-            "match_id": 143522,
-            "startTime": "08:45:00 AM 26-06-2026"
+            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143549,
+            "startTime": "11:00:00 AM 26-06-2026"
         },
         {
             "event_category": "Golf",
@@ -220,18 +218,6 @@
             "match_name": "World Feed - Day 1",
             "match_id": 143297,
             "startTime": "01:30:00 AM 26-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 143549,
-            "startTime": "11:00:00 AM 26-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -282,6 +268,30 @@
             "startTime": "01:25:00 PM 26-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143105,
+            "startTime": "07:30:00 PM 26-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ACA Gurugram Vipers vs KA Noida Blaze (Future Star U-15 Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+            "team_1": "ACA Gurugram Vipers",
+            "team_2": "KA Noida Blaze",
+            "status": "UPCOMING",
+            "event_name": "Future Star U-15 Championship 2026",
+            "match_name": "ACA Gurugram Vipers vs KA Noida Blaze",
+            "match_id": 143556,
+            "startTime": "07:30:00 PM 26-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
@@ -316,30 +326,6 @@
             "match_name": "Practice Session",
             "match_id": 139630,
             "startTime": "02:35:00 PM 26-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 143105,
-            "startTime": "07:30:00 PM 26-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ACA Gurugram Vipers vs KA Noida Blaze (Future Star U-15 Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "ACA Gurugram Vipers",
-            "team_2": "KA Noida Blaze",
-            "status": "UPCOMING",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "ACA Gurugram Vipers vs KA Noida Blaze",
-            "match_id": 143556,
-            "startTime": "07:30:00 PM 26-06-2026"
         },
         {
             "event_category": "Formula 1",
@@ -484,6 +470,18 @@
             "match_name": "Karim Capital Chargers vs Jayqo Panthers Faridabad",
             "match_id": 143557,
             "startTime": "03:00:00 PM 27-06-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 2 vs ASSEN (GRAND PRIX OF NETHERLANDS 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "ASSEN",
+            "status": "UPCOMING",
+            "event_name": "GRAND PRIX OF NETHERLANDS 2026",
+            "match_name": "Netherlands GP",
+            "match_id": 139955,
+            "startTime": "12:10:00 PM 27-06-2026"
         }
     ]
 }
