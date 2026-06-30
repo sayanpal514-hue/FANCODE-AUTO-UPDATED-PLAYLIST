@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:16:31 AM 30-06-2026",
+    "last update time": "02:08:22 PM 30-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "KCC vs HPCA Patna (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "KCC",
-            "team_2": "HPCA Patna",
-            "status": "LIVE",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "KCC vs HPCA Patna",
-            "match_id": 143529,
-            "startTime": "08:45:00 AM 30-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143529_english_hls_0bfff8dcbe29211_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143529_english_hls_0bfff8dcbe29211_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Zimbabwe (Bangladesh tour of Zimbabwe, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Bangladesh_One-off-Test_2026_FC-WEB_1782576215289.jpg",
             "team_1": "Bangladesh",
             "team_2": "Zimbabwe",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Bangladesh tour of Zimbabwe, 2026",
             "match_name": "Bangladesh vs Zimbabwe",
             "match_id": 143399,
-            "startTime": "01:00:00 PM 28-06-2026"
+            "startTime": "01:00:00 PM 28-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a18138_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a18138_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
             "team_1": "Chhinnamasta Lions",
             "team_2": "Mills Cricket Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KPL Indo Nepal T20 2026",
             "match_name": "Chhinnamasta Lions vs Mills Cricket Club",
             "match_id": 143530,
-            "startTime": "12:45:00 PM 30-06-2026"
+            "startTime": "12:45:00 PM 30-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143530_english_hls_822f667fad19409_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143530_english_hls_822f667fad19409_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -47,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143432_6134_SY_GMY_FC-WEB_1782272593698.jpg",
             "team_1": "Shivamogga Yodhas",
             "team_2": "Gulbarga Mystics",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Maharaja T20 Trophy, 2026",
             "match_name": "Shivamogga Yodhas vs Gulbarga Mystics",
             "match_id": 143432,
-            "startTime": "02:00:00 PM 30-06-2026"
+            "startTime": "02:00:00 PM 30-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -127,18 +119,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Amo Sharks vs Band-e-Amir Dragons (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-web_1782725011344.jpg",
-            "team_1": "Amo Sharks",
-            "team_2": "Band-e-Amir Dragons",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Amo Sharks vs Band-e-Amir Dragons",
-            "match_id": 143582,
-            "startTime": "10:00:00 AM 01-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Future Star U-15 Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
             "team_1": "TBC",
@@ -148,6 +128,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 143564,
             "startTime": "06:30:00 PM 01-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Amo Sharks vs Band-e-Amir Dragons (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-web_1782725011344.jpg",
+            "team_1": "Amo Sharks",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Amo Sharks vs Band-e-Amir Dragons",
+            "match_id": 143582,
+            "startTime": "10:00:00 AM 01-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -211,13 +203,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Boost Defenders vs Amo Sharks (Shpageeza Cricket League, 2026)",
+            "title": "Bost Defenders vs Amo Sharks (Shpageeza Cricket League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143584_6148_BOS_AM_fc-web_1782725011423.jpg",
-            "team_1": "Boost Defenders",
+            "team_1": "Bost Defenders",
             "team_2": "Amo Sharks",
             "status": "UPCOMING",
             "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Boost Defenders vs Amo Sharks",
+            "match_name": "Bost Defenders vs Amo Sharks",
             "match_id": 143584,
             "startTime": "10:00:00 AM 02-07-2026"
         },
@@ -344,7 +336,7 @@
         {
             "event_category": "Motorsports",
             "title": "F3 GREAT BRITAIN 2026 vs Silverstone (F3 GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
             "team_1": "F3 GREAT BRITAIN 2026",
             "team_2": "Silverstone",
             "status": "UPCOMING",
@@ -368,7 +360,7 @@
         {
             "event_category": "Motorsports",
             "title": "F2 GREAT BRITAIN 2026 vs Silverstone (F2 GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
             "team_1": "F2 GREAT BRITAIN 2026",
             "team_2": "Silverstone",
             "status": "UPCOMING",
@@ -428,7 +420,7 @@
         {
             "event_category": "Motorsports",
             "title": "F3 GREAT BRITAIN 2026 vs Silverstone (F3 GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
             "team_1": "F3 GREAT BRITAIN 2026",
             "team_2": "Silverstone",
             "status": "UPCOMING",
@@ -440,7 +432,7 @@
         {
             "event_category": "Motorsports",
             "title": "F2 GREAT BRITAIN 2026 vs Silverstone (F2 GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
             "team_1": "F2 GREAT BRITAIN 2026",
             "team_2": "Silverstone",
             "status": "UPCOMING",
@@ -484,6 +476,18 @@
             "match_name": "F1 ACADEMY GREAT BRITAIN 2026",
             "match_id": 139689,
             "startTime": "09:00:00 PM 03-07-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 - World Feed vs TPC Deere Run Silvis, Illinois (John Deere Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "TPC Deere Run Silvis, Illinois",
+            "status": "UPCOMING",
+            "event_name": "John Deere Classic 2026",
+            "match_name": "Day 2 - World Feed",
+            "match_id": 143666,
+            "startTime": "02:30:00 AM 04-07-2026"
         }
     ]
 }
