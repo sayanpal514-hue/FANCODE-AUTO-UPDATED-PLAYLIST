@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:04:02 AM 30-06-2026",
+    "last update time": "11:16:31 AM 30-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "KCC vs HPCA Patna (KPL Indo Nepal T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "KCC",
+            "team_2": "HPCA Patna",
+            "status": "LIVE",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "KCC vs HPCA Patna",
+            "match_id": 143529,
+            "startTime": "08:45:00 AM 30-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143529_english_hls_0bfff8dcbe29211_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143529_english_hls_0bfff8dcbe29211_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Zimbabwe (Bangladesh tour of Zimbabwe, 2026)",
@@ -14,18 +28,6 @@
             "match_name": "Bangladesh vs Zimbabwe",
             "match_id": 143399,
             "startTime": "01:00:00 PM 28-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "KCC vs HPCA Patna (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "KCC",
-            "team_2": "HPCA Patna",
-            "status": "UPCOMING",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "KCC vs HPCA Patna",
-            "match_id": 143529,
-            "startTime": "08:45:00 AM 30-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -53,13 +55,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Future Star U-15 Championship 2026)",
+            "title": "DDH Meerut Spartans vs Sonipat Kings (Future Star U-15 Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "DDH Meerut Spartans",
+            "team_2": "Sonipat Kings",
             "status": "UPCOMING",
             "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "DDH Meerut Spartans vs Sonipat Kings",
             "match_id": 143563,
             "startTime": "03:00:00 PM 30-06-2026"
         },
@@ -77,13 +79,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Future Star U-15 Championship 2026)",
+            "title": "Karim Capital Chargers vs KA Noida Blaze (Future Star U-15 Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Karim Capital Chargers",
+            "team_2": "KA Noida Blaze",
             "status": "UPCOMING",
             "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Karim Capital Chargers vs KA Noida Blaze",
             "match_id": 143565,
             "startTime": "07:30:00 PM 30-06-2026"
         },
