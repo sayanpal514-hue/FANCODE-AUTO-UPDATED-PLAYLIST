@@ -1,61 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:06:11 PM 01-07-2026",
+    "last update time": "07:17:48 PM 01-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "HPCA Patna vs Chinnamasta Lions (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "HPCA Patna",
-            "team_2": "Chinnamasta Lions",
-            "status": "LIVE",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "HPCA Patna vs Chinnamasta Lions",
-            "match_id": 143532,
-            "startTime": "12:45:00 PM 01-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143532_english_hls_447acd8bc24392_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143532_english_hls_447acd8bc24392_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kalyani Bengaluru Blasters vs Hubli Tigers (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143434_6134_KBB_HT_FC-WEB_1782272592972.jpg",
-            "team_1": "Kalyani Bengaluru Blasters",
-            "team_2": "Hubli Tigers",
-            "status": "LIVE",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Kalyani Bengaluru Blasters vs Hubli Tigers",
-            "match_id": 143434,
-            "startTime": "02:00:00 PM 01-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143434_english_hls_5956f8f66413553_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143434_english_hls_5956f8f66413553_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-web_1782725012134.jpg",
-            "team_1": "Mis-e-Ainak Knights",
-            "team_2": "Speen Ghar Tigers",
-            "status": "LIVE",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
-            "match_id": 143583,
-            "startTime": "03:00:00 PM 01-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143583_english_hls_8a8c35625189867_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143583_english_hls_8a8c35625189867_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Karim Capital Chargers vs DDH Meerut Spartans (Future Star U-15 Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
             "team_1": "Karim Capital Chargers",
             "team_2": "DDH Meerut Spartans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Future Star U-15 Championship 2026",
             "match_name": "Karim Capital Chargers vs DDH Meerut Spartans",
             "match_id": 143564,
-            "startTime": "06:30:00 PM 01-07-2026"
+            "startTime": "06:30:00 PM 01-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -488,6 +448,42 @@
             "match_name": "Reverse Grid Race",
             "match_id": 139691,
             "startTime": "01:55:00 PM 04-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Amo Sharks vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg",
+            "team_1": "Amo Sharks",
+            "team_2": "Mis-e-Ainak Knights",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Amo Sharks vs Mis-e-Ainak Knights",
+            "match_id": 143588,
+            "startTime": "03:00:00 PM 04-07-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint vs Great Britain (F1 PIRELLI BRITISH GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg",
+            "team_1": "Sprint",
+            "team_2": "Great Britain",
+            "status": "UPCOMING",
+            "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+            "match_name": "Sprint",
+            "match_id": 139464,
+            "startTime": "04:30:00 PM 04-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "DTM Race 1 - Norisring vs Norisring (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+            "team_1": "DTM Race 1 - Norisring",
+            "team_2": "Norisring",
+            "status": "UPCOMING",
+            "event_name": "DTM 2026",
+            "match_name": "DTM Race 1 - Norisring",
+            "match_id": 143623,
+            "startTime": "04:45:00 PM 04-07-2026"
         }
     ]
 }
