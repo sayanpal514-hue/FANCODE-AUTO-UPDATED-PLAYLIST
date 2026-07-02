@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:45:04 AM 02-07-2026",
+    "last update time": "09:57:44 AM 02-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
             "team_1": "Itahari Super Kings",
             "team_2": "KCC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KPL Indo Nepal T20 2026",
             "match_name": "Itahari Super Kings vs KCC",
             "match_id": 143533,
-            "startTime": "08:45:00 AM 02-07-2026"
+            "startTime": "08:45:00 AM 02-07-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bost Defenders vs Amo Sharks (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143584_6148_BOS_AM_fc-web_1782725011423.jpg",
+            "team_1": "Bost Defenders",
+            "team_2": "Amo Sharks",
+            "status": "LIVE",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Bost Defenders vs Amo Sharks",
+            "match_id": 143584,
+            "startTime": "10:00:00 AM 02-07-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -65,15 +81,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bost Defenders vs Amo Sharks (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143584_6148_BOS_AM_fc-web_1782725011423.jpg",
-            "team_1": "Bost Defenders",
-            "team_2": "Amo Sharks",
+            "title": "Chhinnamasta Lions vs Itahari Super Kings (KPL Indo Nepal T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "Chhinnamasta Lions",
+            "team_2": "Itahari Super Kings",
             "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Bost Defenders vs Amo Sharks",
-            "match_id": 143584,
-            "startTime": "10:00:00 AM 02-07-2026"
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Chhinnamasta Lions vs Itahari Super Kings",
+            "match_id": 143535,
+            "startTime": "08:45:00 AM 03-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCC vs Mills Cricket Club (KPL Indo Nepal T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "KCC",
+            "team_2": "Mills Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "KCC vs Mills Cricket Club",
+            "match_id": 143536,
+            "startTime": "12:45:00 PM 03-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -86,18 +114,6 @@
             "match_name": "Speen Ghar Tigers vs Band-e-Amir Dragons",
             "match_id": 143585,
             "startTime": "03:00:00 PM 02-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chhinnamasta Lions vs Itahari Super Kings (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "Chhinnamasta Lions",
-            "team_2": "Itahari Super Kings",
-            "status": "UPCOMING",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Chhinnamasta Lions vs Itahari Super Kings",
-            "match_id": 143535,
-            "startTime": "08:45:00 AM 03-07-2026"
         },
         {
             "event_category": "Golf",
@@ -148,30 +164,6 @@
             "startTime": "02:30:00 AM 03-07-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 - PM vs United States of America (US Senior Open Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg",
-            "team_1": "Day 1 - PM",
-            "team_2": "United States of America",
-            "status": "UPCOMING",
-            "event_name": "US Senior Open Championship 2026",
-            "match_name": "Day 1 - PM",
-            "match_id": 143672,
-            "startTime": "03:45:00 AM 03-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "KCC vs Mills Cricket Club (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "KCC",
-            "team_2": "Mills Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "KCC vs Mills Cricket Club",
-            "match_id": 143536,
-            "startTime": "12:45:00 PM 03-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gulbarga Mystics vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143437_6134_GMY_MW_FC-WEB_1782272593714.jpg",
@@ -182,6 +174,18 @@
             "match_name": "Gulbarga Mystics vs Mysore Warriors",
             "match_id": 143437,
             "startTime": "02:00:00 PM 03-07-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 - PM vs United States of America (US Senior Open Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg",
+            "team_1": "Day 1 - PM",
+            "team_2": "United States of America",
+            "status": "UPCOMING",
+            "event_name": "US Senior Open Championship 2026",
+            "match_name": "Day 1 - PM",
+            "match_id": 143672,
+            "startTime": "03:45:00 AM 03-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -208,18 +212,6 @@
             "startTime": "12:15:00 PM 03-07-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Practice Session vs Silverstone (F3 GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Silverstone",
-            "status": "UPCOMING",
-            "event_name": "F3 GREAT BRITAIN 2026",
-            "match_name": "Practice Session",
-            "match_id": 139721,
-            "startTime": "01:15:00 PM 03-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Hubli Tigers vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143438_6134_HT_KBB_FC-WEB_1782272593678.jpg",
@@ -230,6 +222,18 @@
             "match_name": "Hubli Tigers vs Kalyani Bengaluru Blasters",
             "match_id": 143438,
             "startTime": "07:00:00 PM 03-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice Session vs Silverstone (F3 GREAT BRITAIN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F3 GREAT BRITAIN 2026",
+            "match_name": "Practice Session",
+            "match_id": 139721,
+            "startTime": "01:15:00 PM 03-07-2026"
         },
         {
             "event_category": "Motorsports",
