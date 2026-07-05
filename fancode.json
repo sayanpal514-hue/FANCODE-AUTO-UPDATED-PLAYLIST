@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:17 PM 05-07-2026",
+    "last update time": "12:04:55 AM 06-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,17 +47,17 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 4 vs United States of America (US Senior Open Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "United States of America",
+            "title": "Day 4 - World Feed vs TPC Deere Run Silvis, Illinois (John Deere Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "TPC Deere Run Silvis, Illinois",
             "status": "LIVE",
-            "event_name": "US Senior Open Championship 2026",
-            "match_name": "Day 4",
-            "match_id": 143581,
-            "startTime": "06:30:00 PM 05-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8"
+            "event_name": "John Deere Classic 2026",
+            "match_name": "Day 4 - World Feed",
+            "match_id": 143670,
+            "startTime": "11:30:00 PM 05-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143670_english_hls_202b4abbbc48076_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143670_english_hls_202b4abbbc48076_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -106,18 +106,6 @@
             "match_name": "Gulbarga Mystics vs Kalyani Bengaluru Blasters",
             "match_id": 143442,
             "startTime": "07:00:00 PM 06-07-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 - World Feed vs TPC Deere Run Silvis, Illinois (John Deere Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "TPC Deere Run Silvis, Illinois",
-            "status": "UPCOMING",
-            "event_name": "John Deere Classic 2026",
-            "match_name": "Day 4 - World Feed",
-            "match_id": 143670,
-            "startTime": "11:30:00 PM 05-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -466,6 +454,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 143446,
             "startTime": "07:00:00 PM 10-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bost Defenders vs Band-e-Amir Dragons (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
+            "team_1": "Bost Defenders",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Bost Defenders vs Band-e-Amir Dragons",
+            "match_id": 143597,
+            "startTime": "03:00:00 PM 10-07-2026"
         }
     ]
 }
