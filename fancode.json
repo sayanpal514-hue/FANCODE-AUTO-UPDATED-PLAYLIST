@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:25:25 AM 07-07-2026",
+    "last update time": "11:38:09 AM 07-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Itahari Super Kings vs Chinnamasta Lions (KPL Indo Nepal T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "Itahari Super Kings",
+            "team_2": "Chinnamasta Lions",
+            "status": "LIVE",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Itahari Super Kings vs Chinnamasta Lions",
+            "match_id": 143540,
+            "startTime": "08:45:00 AM 07-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
@@ -14,18 +28,6 @@
             "match_name": "Sri Lanka vs West Indies",
             "match_id": 142979,
             "startTime": "07:30:00 PM 03-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Itahari Super Kings vs Chinnamasta Lions (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "Itahari Super Kings",
-            "team_2": "Chinnamasta Lions",
-            "status": "UPCOMING",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Itahari Super Kings vs Chinnamasta Lions",
-            "match_id": 143540,
-            "startTime": "08:45:00 AM 07-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -77,18 +79,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143593_6148_BD_SG_fc-web_1782725011420.jpg",
-            "team_1": "Band-e-Amir Dragons",
-            "team_2": "Speen Ghar Tigers",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
-            "match_id": 143593,
-            "startTime": "10:00:00 AM 08-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Norway vs Hungary (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Norway",
@@ -110,6 +100,18 @@
             "match_name": "Romania vs Serbia",
             "match_id": 4246562,
             "startTime": "07:00:00 PM 08-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143593_6148_BD_SG_fc-web_1782725011420.jpg",
+            "team_1": "Band-e-Amir Dragons",
+            "team_2": "Speen Ghar Tigers",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
+            "match_id": 143593,
+            "startTime": "10:00:00 AM 08-07-2026"
         },
         {
             "event_category": "Cricket",
