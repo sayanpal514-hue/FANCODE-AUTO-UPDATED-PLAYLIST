@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:45:35 AM 08-07-2026",
+    "last update time": "02:07:19 PM 08-07-2026",
     "matches": [
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg",
-            "team_1": "Day 1",
-            "team_2": "Goa",
-            "status": "LIVE",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 1",
-            "match_id": 4246584,
-            "startTime": "09:00:00 AM 08-07-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Belgium vs Gibraltar (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Belgium",
             "team_2": "Gibraltar",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "match_name": "Belgium vs Gibraltar",
             "match_id": 4246559,
-            "startTime": "02:00:00 PM 08-07-2026"
+            "startTime": "02:00:00 PM 08-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246559_english_hls_d4832ad8ca38870_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246559_english_hls_d4832ad8ca38870_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +23,41 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Denmark",
             "team_2": "Estonia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "match_name": "Denmark vs Estonia",
             "match_id": 4246561,
-            "startTime": "02:00:00 PM 08-07-2026"
+            "startTime": "02:00:00 PM 08-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246561_english_hls_33740bb1a365914_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246561_english_hls_33740bb1a365914_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Vidarbha",
+            "status": "LIVE",
+            "event_name": "Vidarbha Cricket Association tour of Namibia",
+            "match_name": "Namibia vs Vidarbha",
+            "match_id": 143631,
+            "startTime": "01:00:00 PM 08-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Shivamogga Yodhas vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143443_6134_MW_SY_FC-WEB_1782272593203.jpg",
+            "team_1": "Shivamogga Yodhas",
+            "team_2": "Mysore Warriors",
+            "status": "LIVE",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Shivamogga Yodhas vs Mysore Warriors",
+            "match_id": 143443,
+            "startTime": "02:00:00 PM 08-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143443_english_hls_942fac67a49847_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143443_english_hls_942fac67a49847_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -64,30 +82,6 @@
             "match_name": "Romania vs Serbia",
             "match_id": 4246562,
             "startTime": "07:00:00 PM 08-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Vidarbha",
-            "status": "UPCOMING",
-            "event_name": "Vidarbha Cricket Association tour of Namibia",
-            "match_name": "Namibia vs Vidarbha",
-            "match_id": 143631,
-            "startTime": "01:00:00 PM 08-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors vs Shivamogga Yodhas (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143443_6134_MW_SY_FC-WEB_1782272593203.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Shivamogga Yodhas",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors vs Shivamogga Yodhas",
-            "match_id": 143443,
-            "startTime": "02:00:00 PM 08-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -148,30 +142,6 @@
             "match_name": "Day 2",
             "match_id": 4246600,
             "startTime": "09:00:00 AM 09-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143595_6148_BOS_SG_fc-web_1782725011626.jpg",
-            "team_1": "Bost Defenders",
-            "team_2": "Speen Ghar Tigers",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Bost Defenders vs Speen Ghar Tigers",
-            "match_id": 143595,
-            "startTime": "10:00:00 AM 09-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
-            "team_1": "Band-e-Amir Dragons",
-            "team_2": "Mis-e-Ainak Knights",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
-            "match_id": 143596,
-            "startTime": "03:00:00 PM 09-07-2026"
         },
         {
             "event_category": "Golf",
@@ -472,6 +442,42 @@
             "match_name": "Day 5",
             "match_id": 4246603,
             "startTime": "09:00:00 AM 12-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg",
+            "team_1": "Mis-e-Ainak Knights",
+            "team_2": "Speen Ghar Tigers",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
+            "match_id": 143600,
+            "startTime": "10:00:00 AM 12-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gibraltar vs Serbia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+            "team_1": "Gibraltar",
+            "team_2": "Serbia",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "match_name": "Gibraltar vs Serbia",
+            "match_id": 4246574,
+            "startTime": "07:00:00 PM 12-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hungary vs Turkiye (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+            "team_1": "Hungary",
+            "team_2": "Turkiye",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "match_name": "Hungary vs Turkiye",
+            "match_id": 4246575,
+            "startTime": "07:00:00 PM 12-07-2026"
         }
     ]
 }
