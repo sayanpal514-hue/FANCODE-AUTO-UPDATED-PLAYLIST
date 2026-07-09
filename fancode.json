@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:48:22 AM 09-07-2026",
+    "last update time": "10:40:44 AM 09-07-2026",
     "matches": [
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Goa (Dream UTT Juniors 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+            "team_1": "Day 2",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "Dream UTT Juniors 2026",
+            "match_name": "Day 2",
+            "match_id": 4246600,
+            "startTime": "09:00:00 AM 09-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246600_english_hls_e4c602857d37922_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246600_english_hls_e4c602857d37922_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
@@ -40,18 +54,6 @@
             "startTime": "07:00:00 PM 09-07-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "Day 2",
-            "team_2": "Goa",
-            "status": "UPCOMING",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 2",
-            "match_id": 4246600,
-            "startTime": "09:00:00 AM 09-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Romania vs Gibraltar (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
@@ -74,18 +76,6 @@
             "match_name": "Hungary vs Estonia",
             "match_id": 4246573,
             "startTime": "02:00:00 PM 10-07-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Hurstbourne Country Club (ISCO Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Hurstbourne Country Club",
-            "status": "UPCOMING",
-            "event_name": "ISCO Championship 2026",
-            "match_name": "Day 1",
-            "match_id": 4246547,
-            "startTime": "01:30:00 AM 10-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -124,16 +114,16 @@
             "startTime": "02:00:00 PM 10-07-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "Day 3",
-            "team_2": "Goa",
+            "event_category": "Golf",
+            "title": "Day 1 vs Hurstbourne Country Club (ISCO Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Hurstbourne Country Club",
             "status": "UPCOMING",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 3",
-            "match_id": 4246601,
-            "startTime": "09:00:00 AM 10-07-2026"
+            "event_name": "ISCO Championship 2026",
+            "match_name": "Day 1",
+            "match_id": 4246547,
+            "startTime": "01:30:00 AM 10-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +148,18 @@
             "match_name": "Turkiye vs Norway",
             "match_id": 4246571,
             "startTime": "07:00:00 PM 10-07-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+            "team_1": "Day 3",
+            "team_2": "Goa",
+            "status": "UPCOMING",
+            "event_name": "Dream UTT Juniors 2026",
+            "match_name": "Day 3",
+            "match_id": 4246601,
+            "startTime": "09:00:00 AM 10-07-2026"
         },
         {
             "event_category": "MotoGP",
@@ -222,7 +224,7 @@
         {
             "event_category": "Live Events",
             "title": "Day 4 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
             "team_1": "Day 4",
             "team_2": "Goa",
             "status": "UPCOMING",
@@ -342,7 +344,7 @@
         {
             "event_category": "Live Events",
             "title": "Day 5 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
             "team_1": "Day 5",
             "team_2": "Goa",
             "status": "UPCOMING",
