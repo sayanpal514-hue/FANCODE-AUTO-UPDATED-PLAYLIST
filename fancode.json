@@ -1,21 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:35:57 AM 10-07-2026",
+    "last update time": "01:09:14 PM 10-07-2026",
     "matches": [
         {
-            "event_category": "Live Events",
-            "title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Day 3",
-            "team_2": "Goa",
+            "event_category": "Cricket",
+            "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Vidarbha",
             "status": "LIVE",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 3",
-            "match_id": 4246601,
-            "startTime": "09:00:00 AM 10-07-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "event_name": "Vidarbha Cricket Association tour of Namibia",
+            "match_name": "Namibia vs Vidarbha",
+            "match_id": 143632,
+            "startTime": "01:00:00 PM 10-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Sachsenring (LIQUI MOLY GRAND PRIX OF GERMANY 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
+            "team_1": "Day 1",
+            "team_2": "Sachsenring",
+            "status": "LIVE",
+            "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
+            "match_name": "Day 1",
+            "match_id": 139957,
+            "startTime": "12:30:00 PM 10-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139957_english_hls_365866262751348_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139957_english_hls_365866262751348_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -79,20 +93,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Vidarbha",
-            "status": "UPCOMING",
-            "event_name": "Vidarbha Cricket Association tour of Namibia",
-            "match_name": "Namibia vs Vidarbha",
-            "match_id": 143632,
-            "startTime": "01:00:00 PM 10-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Shivamogga Yodhas vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg",
             "team_1": "Shivamogga Yodhas",
             "team_2": "Mysore Warriors",
             "status": "UPCOMING",
@@ -104,7 +106,7 @@
         {
             "event_category": "Cricket",
             "title": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143423_6134_CKM_KBB_FC-WEB_1782272592980.jpg",
             "team_1": "Kalyani Bengaluru Blasters",
             "team_2": "Coastal Kings Mangaluru",
             "status": "UPCOMING",
@@ -126,16 +128,16 @@
             "startTime": "01:00:00 PM 11-07-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Sachsenring (LIQUI MOLY GRAND PRIX OF GERMANY 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
-            "team_1": "Day 1",
-            "team_2": "Sachsenring",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
-            "match_name": "Day 1",
-            "match_id": 139957,
-            "startTime": "12:30:00 PM 10-07-2026"
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143447,
+            "startTime": "02:00:00 PM 11-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -160,18 +162,6 @@
             "match_name": "Day 2",
             "match_id": 4246548,
             "startTime": "01:30:00 AM 11-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 143447,
-            "startTime": "02:00:00 PM 11-07-2026"
         },
         {
             "event_category": "Live Events",
@@ -424,6 +414,18 @@
             "match_name": "Day 6",
             "match_id": 4246604,
             "startTime": "09:00:00 AM 13-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Band-e-Amir Dragons",
+            "team_2": "Speen Ghar Tigers",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
+            "match_id": 143697,
+            "startTime": "10:00:00 AM 13-07-2026"
         }
     ]
 }
