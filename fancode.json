@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:33:17 AM 10-07-2026",
+    "last update time": "09:35:57 AM 10-07-2026",
     "matches": [
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+            "team_1": "Day 3",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "Dream UTT Juniors 2026",
+            "match_name": "Day 3",
+            "match_id": 4246601,
+            "startTime": "09:00:00 AM 10-07-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "Romania vs Gibraltar (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
@@ -100,16 +114,16 @@
             "startTime": "07:00:00 PM 10-07-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Day 3",
-            "team_2": "Goa",
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
+            "team_1": "Zimbabwe",
+            "team_2": "Bangladesh",
             "status": "UPCOMING",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 3",
-            "match_id": 4246601,
-            "startTime": "09:00:00 AM 10-07-2026"
+            "event_name": "Bangladesh tour of Zimbabwe, 2026",
+            "match_name": "Zimbabwe vs Bangladesh",
+            "match_id": 143402,
+            "startTime": "01:00:00 PM 11-07-2026"
         },
         {
             "event_category": "MotoGP",
@@ -134,18 +148,6 @@
             "match_name": "Bost Defenders vs Band-e-Amir Dragons",
             "match_id": 143597,
             "startTime": "03:00:00 PM 10-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
-            "team_1": "Zimbabwe",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh tour of Zimbabwe, 2026",
-            "match_name": "Zimbabwe vs Bangladesh",
-            "match_id": 143402,
-            "startTime": "01:00:00 PM 11-07-2026"
         },
         {
             "event_category": "Golf",
@@ -220,18 +222,6 @@
             "startTime": "03:00:00 PM 11-07-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "ADAC GT Master Race 1 - Nurburgring vs Nurburgring (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
-            "team_1": "ADAC GT Master Race 1 - Nurburgring",
-            "team_2": "Nurburgring",
-            "status": "UPCOMING",
-            "event_name": "DTM 2026",
-            "match_name": "ADAC GT Master Race 1 - Nurburgring",
-            "match_id": 143693,
-            "startTime": "05:05:00 PM 11-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "West Indies vs New Zealand (New Zealand tour of West Indies, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
@@ -242,6 +232,18 @@
             "match_name": "West Indies vs New Zealand",
             "match_id": 143603,
             "startTime": "12:00:00 AM 12-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "ADAC GT Master Race 1 - Nurburgring vs Nurburgring (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+            "team_1": "ADAC GT Master Race 1 - Nurburgring",
+            "team_2": "Nurburgring",
+            "status": "UPCOMING",
+            "event_name": "DTM 2026",
+            "match_name": "ADAC GT Master Race 1 - Nurburgring",
+            "match_id": 143693,
+            "startTime": "05:05:00 PM 11-07-2026"
         },
         {
             "event_category": "Golf",
