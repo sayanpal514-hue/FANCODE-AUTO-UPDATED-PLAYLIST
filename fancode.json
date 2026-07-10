@@ -1,50 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:55:03 PM 10-07-2026",
+    "last update time": "10:46:25 PM 10-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs West Indies Women (West Indies Women tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-            "team_1": "Ireland Women",
-            "team_2": "West Indies Women",
-            "status": "LIVE",
-            "event_name": "West Indies Women tour of Ireland, 2026",
-            "match_name": "Ireland Women vs West Indies Women",
-            "match_id": 143143,
-            "startTime": "03:15:00 PM 10-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Belgium vs Serbia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Belgium",
-            "team_2": "Serbia",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Belgium vs Serbia",
-            "match_id": 4246563,
-            "startTime": "07:00:00 PM 10-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246563_english_hls_b2b272f11b64555_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246563_english_hls_b2b272f11b64555_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Turkiye vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Turkiye",
-            "team_2": "Norway",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Turkiye vs Norway",
-            "match_id": 4246571,
-            "startTime": "07:00:00 PM 10-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246571_english_hls_5048d7c46058811_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246571_english_hls_5048d7c46058811_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru (Maharaja T20 Trophy, 2026)",
@@ -264,18 +222,6 @@
             "startTime": "07:00:00 PM 12-07-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Race Day vs Sachsenring (LIQUI MOLY GRAND PRIX OF GERMANY 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
-            "team_1": "Race Day",
-            "team_2": "Sachsenring",
-            "status": "UPCOMING",
-            "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
-            "match_name": "Race Day",
-            "match_id": 139959,
-            "startTime": "02:30:00 PM 12-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -286,6 +232,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 143448,
             "startTime": "07:00:00 PM 12-07-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Race Day vs Sachsenring (LIQUI MOLY GRAND PRIX OF GERMANY 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
+            "team_1": "Race Day",
+            "team_2": "Sachsenring",
+            "status": "UPCOMING",
+            "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
+            "match_name": "Race Day",
+            "match_id": 139959,
+            "startTime": "02:30:00 PM 12-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -406,6 +364,30 @@
             "match_name": "Day 1",
             "match_id": 143497,
             "startTime": "03:00:00 PM 13-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mis-e-Ainak Knights vs Amo Sharks (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Mis-e-Ainak Knights",
+            "team_2": "Amo Sharks",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Mis-e-Ainak Knights vs Amo Sharks",
+            "match_id": 143698,
+            "startTime": "03:00:00 PM 13-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs New Zealand (New Zealand tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+            "team_1": "West Indies",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of West Indies, 2026",
+            "match_name": "West Indies vs New Zealand",
+            "match_id": 143604,
+            "startTime": "12:00:00 AM 14-07-2026"
         }
     ]
 }
