@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:21:33 AM 11-07-2026",
+    "last update time": "09:43:50 AM 11-07-2026",
     "matches": [
+        {
+            "event_category": "Live Events",
+            "title": "Day 4 vs Goa (Dream UTT Juniors 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+            "team_1": "Day 4",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "Dream UTT Juniors 2026",
+            "match_name": "Day 4",
+            "match_id": 4246602,
+            "startTime": "09:00:00 AM 11-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246602_english_hls_c17432c8e177332_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246602_english_hls_c17432c8e177332_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Speen Ghar Tigers vs Amo Sharks (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg",
+            "team_1": "Speen Ghar Tigers",
+            "team_2": "Amo Sharks",
+            "status": "LIVE",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Speen Ghar Tigers vs Amo Sharks",
+            "match_id": 143598,
+            "startTime": "10:00:00 AM 11-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
@@ -40,28 +68,40 @@
             "startTime": "02:00:00 PM 11-07-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 4 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Day 4",
-            "team_2": "Goa",
+            "event_category": "Cricket",
+            "title": "Denmark vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+            "team_1": "Denmark",
+            "team_2": "Norway",
             "status": "UPCOMING",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 4",
-            "match_id": 4246602,
-            "startTime": "09:00:00 AM 11-07-2026"
+            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "match_name": "Denmark vs Norway",
+            "match_id": 4246564,
+            "startTime": "02:00:00 PM 12-07-2026"
         },
         {
             "event_category": "Cricket",
-            "title": "Speen Ghar Tigers vs Amo Sharks (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg",
-            "team_1": "Speen Ghar Tigers",
-            "team_2": "Amo Sharks",
+            "title": "Belgium vs Romania (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+            "team_1": "Belgium",
+            "team_2": "Romania",
             "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Speen Ghar Tigers vs Amo Sharks",
-            "match_id": 143598,
-            "startTime": "10:00:00 AM 11-07-2026"
+            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "match_name": "Belgium vs Romania",
+            "match_id": 4246572,
+            "startTime": "02:00:00 PM 12-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs West Indies Women (West Indies Women tour of Ireland, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
+            "team_1": "Ireland Women",
+            "team_2": "West Indies Women",
+            "status": "UPCOMING",
+            "event_name": "West Indies Women tour of Ireland, 2026",
+            "match_name": "Ireland Women vs West Indies Women",
+            "match_id": 143144,
+            "startTime": "03:15:00 PM 12-07-2026"
         },
         {
             "event_category": "MotoGP",
@@ -112,42 +152,6 @@
             "startTime": "01:30:00 AM 12-07-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Denmark vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Denmark",
-            "team_2": "Norway",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Denmark vs Norway",
-            "match_id": 4246564,
-            "startTime": "02:00:00 PM 12-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Belgium vs Romania (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Belgium",
-            "team_2": "Romania",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Belgium vs Romania",
-            "match_id": 4246572,
-            "startTime": "02:00:00 PM 12-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs West Indies Women (West Indies Women tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-            "team_1": "Ireland Women",
-            "team_2": "West Indies Women",
-            "status": "UPCOMING",
-            "event_name": "West Indies Women tour of Ireland, 2026",
-            "match_name": "Ireland Women vs West Indies Women",
-            "match_id": 143144,
-            "startTime": "03:15:00 PM 12-07-2026"
-        },
-        {
             "event_category": "Live Events",
             "title": "Day 5 vs Goa (Dream UTT Juniors 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
@@ -158,18 +162,6 @@
             "match_name": "Day 5",
             "match_id": 4246603,
             "startTime": "09:00:00 AM 12-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg",
-            "team_1": "Mis-e-Ainak Knights",
-            "team_2": "Speen Ghar Tigers",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
-            "match_id": 143600,
-            "startTime": "10:00:00 AM 12-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -194,6 +186,18 @@
             "match_name": "Hungary vs Turkiye",
             "match_id": 4246575,
             "startTime": "07:00:00 PM 12-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg",
+            "team_1": "Mis-e-Ainak Knights",
+            "team_2": "Speen Ghar Tigers",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
+            "match_id": 143600,
+            "startTime": "10:00:00 AM 12-07-2026"
         },
         {
             "event_category": "Cricket",
