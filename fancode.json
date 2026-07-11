@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:46:29 PM 11-07-2026",
+    "last update time": "03:17:30 PM 11-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,17 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Speen Ghar Tigers vs Amo Sharks (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg",
-            "team_1": "Speen Ghar Tigers",
-            "team_2": "Amo Sharks",
+            "title": "Coastal Kings Mangaluru vs Shivamogga Yodhas (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg",
+            "team_1": "Coastal Kings Mangaluru",
+            "team_2": "Shivamogga Yodhas",
             "status": "LIVE",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Speen Ghar Tigers vs Amo Sharks",
-            "match_id": 143598,
-            "startTime": "10:00:00 AM 11-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8"
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Coastal Kings Mangaluru vs Shivamogga Yodhas",
+            "match_id": 143447,
+            "startTime": "02:00:00 PM 11-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -47,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Bost Defenders vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg",
+            "team_1": "Bost Defenders",
+            "team_2": "Mis-e-Ainak Knights",
+            "status": "LIVE",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Bost Defenders vs Mis-e-Ainak Knights",
+            "match_id": 143599,
+            "startTime": "03:00:00 PM 11-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143599_english_hls_2b072631a123245_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143599_english_hls_2b072631a123245_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "West Indies vs New Zealand (New Zealand tour of West Indies, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
             "team_1": "West Indies",
@@ -56,20 +70,6 @@
             "match_name": "West Indies vs New Zealand",
             "match_id": 143603,
             "startTime": "12:00:00 AM 12-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Coastal Kings Mangaluru vs Shivamogga Yodhas (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg",
-            "team_1": "Coastal Kings Mangaluru",
-            "team_2": "Shivamogga Yodhas",
-            "status": "LIVE",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Coastal Kings Mangaluru vs Shivamogga Yodhas",
-            "match_id": 143447,
-            "startTime": "02:00:00 PM 11-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -132,18 +132,6 @@
             "startTime": "07:00:00 PM 12-07-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Bost Defenders vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg",
-            "team_1": "Bost Defenders",
-            "team_2": "Mis-e-Ainak Knights",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Bost Defenders vs Mis-e-Ainak Knights",
-            "match_id": 143599,
-            "startTime": "03:00:00 PM 11-07-2026"
-        },
-        {
             "event_category": "Motorsports",
             "title": "ADAC GT Master Race 1 - Nurburgring vs Nurburgring (DTM 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
@@ -168,6 +156,18 @@
             "startTime": "01:30:00 AM 12-07-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143448,
+            "startTime": "07:00:00 PM 12-07-2026"
+        },
+        {
             "event_category": "Live Events",
             "title": "Day 5 vs Goa (Dream UTT Juniors 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
@@ -190,18 +190,6 @@
             "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
             "match_id": 143600,
             "startTime": "10:00:00 AM 12-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 143448,
-            "startTime": "07:00:00 PM 12-07-2026"
         },
         {
             "event_category": "MotoGP",
@@ -406,6 +394,18 @@
             "match_name": "Bost Defenders vs Speen Ghar Tigers",
             "match_id": 143602,
             "startTime": "10:00:00 AM 14-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 4246579,
+            "startTime": "07:00:00 PM 14-07-2026"
         }
     ]
 }
