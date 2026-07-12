@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:27:09 AM 12-07-2026",
+    "last update time": "09:19:41 AM 12-07-2026",
     "matches": [
         {
-            "event_category": "Cricket",
-            "title": "New Zealand vs West Indies (New Zealand tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-            "team_1": "New Zealand",
-            "team_2": "West Indies",
+            "event_category": "Live Events",
+            "title": "Day 5 vs Goa (Dream UTT Juniors 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+            "team_1": "Day 5",
+            "team_2": "Goa",
             "status": "LIVE",
-            "event_name": "New Zealand tour of West Indies, 2026",
-            "match_name": "New Zealand vs West Indies",
-            "match_id": 143603,
-            "startTime": "12:00:00 AM 12-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143603_english_hls_e17d5121b699620_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143603_english_hls_e17d5121b699620_1ta-di_h264/index.m3u8"
+            "event_name": "Dream UTT Juniors 2026",
+            "match_name": "Day 5",
+            "match_id": 4246603,
+            "startTime": "09:00:00 AM 12-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246603_english_hls_76760988db10479_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246603_english_hls_76760988db10479_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -90,18 +90,6 @@
             "startTime": "07:00:00 PM 12-07-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 5 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Day 5",
-            "team_2": "Goa",
-            "status": "UPCOMING",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 5",
-            "match_id": 4246603,
-            "startTime": "09:00:00 AM 12-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg",
@@ -112,6 +100,18 @@
             "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
             "match_id": 143600,
             "startTime": "10:00:00 AM 12-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Denmark vs Hungary (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+            "team_1": "Denmark",
+            "team_2": "Hungary",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "match_name": "Denmark vs Hungary",
+            "match_id": 4246570,
+            "startTime": "02:00:00 PM 13-07-2026"
         },
         {
             "event_category": "MotoGP",
@@ -162,18 +162,6 @@
             "startTime": "01:30:00 AM 13-07-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Denmark vs Hungary (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Denmark",
-            "team_2": "Hungary",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Denmark vs Hungary",
-            "match_id": 4246570,
-            "startTime": "02:00:00 PM 13-07-2026"
-        },
-        {
             "event_category": "Live Events",
             "title": "Day 6 vs Goa (Dream UTT Juniors 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
@@ -187,18 +175,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Band-e-Amir Dragons",
-            "team_2": "Speen Ghar Tigers",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
-            "match_id": 143697,
-            "startTime": "10:00:00 AM 13-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Estonia vs Turkiye (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Estonia",
@@ -208,6 +184,18 @@
             "match_name": "Estonia vs Turkiye",
             "match_id": 4246569,
             "startTime": "07:00:00 PM 13-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Band-e-Amir Dragons",
+            "team_2": "Speen Ghar Tigers",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
+            "match_id": 143697,
+            "startTime": "10:00:00 AM 13-07-2026"
         },
         {
             "event_category": "Tennis",
