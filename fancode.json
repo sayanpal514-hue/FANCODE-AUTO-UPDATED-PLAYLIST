@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:15:37 PM 14-07-2026",
+    "last update time": "02:46:43 PM 14-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
-            "team_1": "Bost Defenders",
-            "team_2": "Speen Ghar Tigers",
-            "status": "LIVE",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Bost Defenders vs Speen Ghar Tigers",
-            "match_id": 143602,
-            "startTime": "10:00:00 AM 14-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Serbia vs Estonia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Serbia",
             "team_2": "Estonia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "match_name": "Serbia vs Estonia",
             "match_id": 4246581,
-            "startTime": "02:00:00 PM 14-07-2026"
+            "startTime": "02:00:00 PM 14-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +23,55 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Belgium",
             "team_2": "Hungary",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "match_name": "Belgium vs Hungary",
             "match_id": 4246582,
-            "startTime": "02:00:00 PM 14-07-2026"
+            "startTime": "02:00:00 PM 14-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Switzerland",
+            "status": "LIVE",
+            "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
+            "match_name": "Day 2 - World Feed",
+            "match_id": 143491,
+            "startTime": "02:00:00 PM 14-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - World Feed vs Sweden (ATP 250 - Nordea Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Sweden",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Nordea Open 2026",
+            "match_name": "Day 2 - World Feed",
+            "match_id": 143484,
+            "startTime": "02:30:00 PM 14-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mis-e-Ainak Knights vs Band-e-Amir Dragons (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
+            "team_1": "Mis-e-Ainak Knights",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "LIVE",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Mis-e-Ainak Knights vs Band-e-Amir Dragons",
+            "match_id": 143695,
+            "startTime": "03:00:00 PM 14-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -66,18 +98,6 @@
             "startTime": "07:00:00 PM 14-07-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 2 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Switzerland",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-            "match_name": "Day 2 - World Feed",
-            "match_id": 143491,
-            "startTime": "02:00:00 PM 14-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
@@ -100,30 +120,6 @@
             "match_name": "Ireland Women vs West Indies Women",
             "match_id": 143145,
             "startTime": "03:15:00 PM 15-07-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - World Feed vs Sweden (ATP 250 - Nordea Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Sweden",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Nordea Open 2026",
-            "match_name": "Day 2 - World Feed",
-            "match_id": 143484,
-            "startTime": "02:30:00 PM 14-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
-            "team_1": "Band-e-Amir Dragons",
-            "team_2": "Mis-e-Ainak Knights",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
-            "match_id": 143695,
-            "startTime": "03:00:00 PM 14-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -212,7 +208,7 @@
         {
             "event_category": "Golf",
             "title": "Day 1 - World Feed vs Royal Birkdale (The Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg",
             "team_1": "Day 1 - World Feed",
             "team_2": "Royal Birkdale",
             "status": "UPCOMING",
@@ -308,7 +304,7 @@
         {
             "event_category": "Golf",
             "title": "Day 2 - World Feed vs Royal Birkdale (The Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg",
             "team_1": "Day 2 - World Feed",
             "team_2": "Royal Birkdale",
             "status": "UPCOMING",
@@ -447,6 +443,18 @@
             "event_name": "Corales Puntacana Championship 2026",
             "match_name": "Day 2",
             "match_id": 4246624,
+            "startTime": "10:00:00 PM 17-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice Session vs Spa-Francorchamps (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Spa-Francorchamps",
+            "status": "UPCOMING",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Practice Session",
+            "match_id": 143608,
             "startTime": "10:00:00 PM 17-07-2026"
         }
     ]
