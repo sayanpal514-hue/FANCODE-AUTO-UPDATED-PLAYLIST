@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:38:05 PM 14-07-2026",
+    "last update time": "05:49:03 PM 14-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Serbia vs Estonia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Serbia",
-            "team_2": "Estonia",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Serbia vs Estonia",
-            "match_id": 4246581,
-            "startTime": "02:00:00 PM 14-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Belgium vs Hungary (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Belgium",
-            "team_2": "Hungary",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Belgium vs Hungary",
-            "match_id": 4246582,
-            "startTime": "02:00:00 PM 14-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 2 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
@@ -456,6 +428,18 @@
             "match_name": "Practice Session",
             "match_id": 143608,
             "startTime": "10:00:00 PM 17-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kandy Royals vs Dambulla Sixers (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Kandy Royals",
+            "team_2": "Dambulla Sixers",
+            "status": "UPCOMING",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Kandy Royals vs Dambulla Sixers",
+            "match_id": 4246709,
+            "startTime": "03:00:00 PM 18-07-2026"
         }
     ]
 }
