@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:14:18 AM 14-07-2026",
+    "last update time": "01:15:37 PM 14-07-2026",
     "matches": [
-        {
-            "event_category": "Live Events",
-            "title": "Day 7 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Day 7",
-            "team_2": "Goa",
-            "status": "LIVE",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 7",
-            "match_id": 4246605,
-            "startTime": "09:00:00 AM 14-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
@@ -34,7 +20,7 @@
         {
             "event_category": "Cricket",
             "title": "Serbia vs Estonia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783967411029/4246581_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Serbia",
             "team_2": "Estonia",
             "status": "UPCOMING",
@@ -46,7 +32,7 @@
         {
             "event_category": "Cricket",
             "title": "Belgium vs Hungary (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783966828770/4246582_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Belgium",
             "team_2": "Hungary",
             "status": "UPCOMING",
@@ -58,7 +44,7 @@
         {
             "event_category": "Cricket",
             "title": "Romania vs Denmark (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783966838329/4246579_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Romania",
             "team_2": "Denmark",
             "status": "UPCOMING",
@@ -70,7 +56,7 @@
         {
             "event_category": "Cricket",
             "title": "Gibraltar vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783966857562/4246580_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Gibraltar",
             "team_2": "Norway",
             "status": "UPCOMING",
@@ -78,6 +64,18 @@
             "match_name": "Gibraltar vs Norway",
             "match_id": 4246580,
             "startTime": "07:00:00 PM 14-07-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Switzerland",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
+            "match_name": "Day 2 - World Feed",
+            "match_id": 143491,
+            "startTime": "02:00:00 PM 14-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -102,18 +100,6 @@
             "match_name": "Ireland Women vs West Indies Women",
             "match_id": 143145,
             "startTime": "03:15:00 PM 15-07-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Switzerland",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-            "match_name": "Day 2 - World Feed",
-            "match_id": 143491,
-            "startTime": "02:00:00 PM 14-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -450,6 +436,18 @@
             "match_name": "Practice 2",
             "match_id": 139468,
             "startTime": "08:30:00 PM 17-07-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Puntacana Resort & Club, Dominican Republic (Corales Puntacana Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
+            "team_1": "Day 2",
+            "team_2": "Puntacana Resort & Club, Dominican Republic",
+            "status": "UPCOMING",
+            "event_name": "Corales Puntacana Championship 2026",
+            "match_name": "Day 2",
+            "match_id": 4246624,
+            "startTime": "10:00:00 PM 17-07-2026"
         }
     ]
 }
