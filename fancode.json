@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:07:44 PM 15-07-2026",
+    "last update time": "11:18:34 PM 15-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs Ireland Women (West Indies Women tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-            "team_1": "West Indies Women",
-            "team_2": "Ireland Women",
-            "status": "LIVE",
-            "event_name": "West Indies Women tour of Ireland, 2026",
-            "match_name": "West Indies Women vs Ireland Women",
-            "match_id": 143145,
-            "startTime": "03:15:00 PM 15-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143145_english_hls_db3a3ac54d65581_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143145_english_hls_db3a3ac54d65581_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 3 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
@@ -30,20 +16,6 @@
             "startTime": "02:00:00 PM 15-07-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3 - World Feed vs Sweden (ATP 250 - Nordea Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Sweden",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Nordea Open 2026",
-            "match_name": "Day 3 - World Feed",
-            "match_id": 143485,
-            "startTime": "02:30:00 PM 15-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143485_english_hls_357a833bf996534_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143485_english_hls_357a833bf996534_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -442,6 +414,42 @@
             "match_name": "Day 3",
             "match_id": 4246625,
             "startTime": "05:30:00 PM 18-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Belgium (F2 BELGIUM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Belgium",
+            "status": "UPCOMING",
+            "event_name": "F2 BELGIUM 2026",
+            "match_name": "Sprint Race",
+            "match_id": 139640,
+            "startTime": "05:45:00 PM 18-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Europe - Race 1 vs Portimao, Portugal (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Europe - Race 1",
+            "team_2": "Portimao, Portugal",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Europe - Race 1",
+            "match_id": 143700,
+            "startTime": "06:00:00 PM 18-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Spa-Francorchamps (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Spa-Francorchamps",
+            "status": "UPCOMING",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Qualifying Session",
+            "match_id": 143609,
+            "startTime": "02:50:00 PM 18-07-2026"
         }
     ]
 }
