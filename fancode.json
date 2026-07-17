@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:04:00 PM 17-07-2026",
+    "last update time": "03:45:00 PM 17-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Zimbabwe (Bangladesh tour of Zimbabwe, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
+            "team_1": "Bangladesh",
+            "team_2": "Zimbabwe",
+            "status": "LIVE",
+            "event_name": "Bangladesh tour of Zimbabwe, 2026",
+            "match_name": "Bangladesh vs Zimbabwe",
+            "match_id": 143404,
+            "startTime": "04:00:00 PM 17-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/143404_english_hls_1aad62edde47741_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/143404_english_hls_1aad62edde47741_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Golf",
             "title": "Day 2 vs Royal Birkdale (The Open 2026)",
@@ -16,20 +30,6 @@
             "startTime": "11:00:00 AM 17-07-2026",
             "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Practice Session vs Spa-Francorchamps (F3 BELGIUM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Spa-Francorchamps",
-            "status": "LIVE",
-            "event_name": "F3 BELGIUM 2026",
-            "match_name": "Practice Session",
-            "match_id": 139729,
-            "startTime": "01:25:00 PM 17-07-2026",
-            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/139729_english_hls_d6eab4e4d762581_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/139729_english_hls_d6eab4e4d762581_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -46,16 +46,18 @@
             "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-            "team_1": "Zimbabwe",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh tour of Zimbabwe, 2026",
-            "match_name": "Zimbabwe vs Bangladesh",
-            "match_id": 143404,
-            "startTime": "04:00:00 PM 17-07-2026"
+            "event_category": "Tennis",
+            "title": "Day 5 - World Feed vs Sweden (ATP 250 - Nordea Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
+            "team_1": "Day 5 - World Feed",
+            "team_2": "Sweden",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Nordea Open 2026",
+            "match_name": "Day 5 - World Feed",
+            "match_id": 143487,
+            "startTime": "02:30:00 PM 17-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -80,30 +82,6 @@
             "match_name": "Kandy Royals vs Dambulla Sixers",
             "match_id": 4246709,
             "startTime": "03:00:00 PM 18-07-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5 - World Feed vs Sweden (ATP 250 - Nordea Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-            "team_1": "Day 5 - World Feed",
-            "team_2": "Sweden",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Nordea Open 2026",
-            "match_name": "Day 5 - World Feed",
-            "match_id": 143487,
-            "startTime": "02:30:00 PM 17-07-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Practice Session vs Belgium (F2 BELGIUM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Belgium",
-            "status": "UPCOMING",
-            "event_name": "F2 BELGIUM 2026",
-            "match_name": "Practice Session",
-            "match_id": 139638,
-            "startTime": "02:35:00 PM 17-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +430,30 @@
             "match_name": "Day 7",
             "match_id": 143489,
             "startTime": "03:00:00 PM 19-07-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7 vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+            "team_1": "Day 7",
+            "team_2": "Switzerland",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
+            "match_name": "Day 7",
+            "match_id": 143496,
+            "startTime": "03:00:00 PM 19-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Race vs Spa-Francorchamps (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Race",
+            "team_2": "Spa-Francorchamps",
+            "status": "UPCOMING",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Race",
+            "match_id": 143610,
+            "startTime": "03:15:00 PM 19-07-2026"
         }
     ]
 }
