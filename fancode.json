@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:30:05 PM 22-07-2026",
+    "last update time": "10:01:10 PM 22-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "07:30:00 PM 22-07-2026",
             "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3 vs Austria (ATP 250 - Generali Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Austria",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Generali Open 2026",
-            "match_name": "Day 3",
-            "match_id": 143505,
-            "startTime": "02:30:00 PM 22-07-2026",
-            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -108,7 +94,7 @@
         {
             "event_category": "Cricket",
             "title": "Lahore Qalandars vs Perth Scorchers XI (Global Super League, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1784653587316/4247434_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247434_53000_LAH_PER-XI_fc-web.png",
             "team_1": "Lahore Qalandars",
             "team_2": "Perth Scorchers XI",
             "status": "UPCOMING",
@@ -116,6 +102,18 @@
             "match_name": "Lahore Qalandars vs Perth Scorchers XI",
             "match_id": 4247434,
             "startTime": "07:30:00 PM 23-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guyana Amazon Warriors vs San Francisco Unicorns (Global Super League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247439_53000_GUY_SFU_fc-web.jpg",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "San Francisco Unicorns",
+            "status": "UPCOMING",
+            "event_name": "Global Super League, 2026",
+            "match_name": "Guyana Amazon Warriors vs San Francisco Unicorns",
+            "match_id": 4247439,
+            "startTime": "04:30:00 AM 24-07-2026"
         },
         {
             "event_category": "Golf",
@@ -152,18 +150,6 @@
             "match_name": "ATP 250 - Millenium Estoril Open 2026",
             "match_id": 143512,
             "startTime": "03:00:00 PM 23-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Amazon Warriors vs San Francisco Unicorns (Global Super League, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1784653587314/4247439_CASACARDS_APP.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "San Francisco Unicorns",
-            "status": "UPCOMING",
-            "event_name": "Global Super League, 2026",
-            "match_name": "Guyana Amazon Warriors vs San Francisco Unicorns",
-            "match_id": 4247439,
-            "startTime": "04:30:00 AM 24-07-2026"
         },
         {
             "event_category": "Golf",
@@ -204,7 +190,7 @@
         {
             "event_category": "Cricket",
             "title": "Lahore Qalandars vs Desert Vipers (Global Super League, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247438_53000_LAH_DV_fc-web.jpg",
             "team_1": "Lahore Qalandars",
             "team_2": "Desert Vipers",
             "status": "UPCOMING",
@@ -440,6 +426,30 @@
             "match_name": "Japan - Race 1",
             "match_id": 143794,
             "startTime": "10:05:00 AM 25-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs India (India tour of Zimbabwe, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "event_name": "India tour of Zimbabwe, 2026",
+            "match_name": "Zimbabwe vs India",
+            "match_id": 143352,
+            "startTime": "04:30:00 PM 25-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying 1 vs Oschersleben, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+            "team_1": "Qualifying 1",
+            "team_2": "Oschersleben, Germany",
+            "status": "UPCOMING",
+            "event_name": "DTM 2026",
+            "match_name": "Qualifying 1",
+            "match_id": 143798,
+            "startTime": "01:10:00 PM 25-07-2026"
         }
     ]
 }
