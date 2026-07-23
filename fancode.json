@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:14:33 PM 23-07-2026",
+    "last update time": "08:16:05 PM 23-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,17 +19,31 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Colombo Kaps vs Kandy Royals (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246723_52991_KRL_CK_FC-WEB_1784539180470.jpg",
-            "team_1": "Colombo Kaps",
-            "team_2": "Kandy Royals",
+            "title": "Galle Gallants vs Jaffna Kings (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246716_52991_GG_JK_FC-WEB_1784539181099.jpg",
+            "team_1": "Galle Gallants",
+            "team_2": "Jaffna Kings",
             "status": "LIVE",
             "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps vs Kandy Royals",
-            "match_id": 4246723,
-            "startTime": "03:00:00 PM 23-07-2026",
-            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8"
+            "match_name": "Galle Gallants vs Jaffna Kings",
+            "match_id": 4246716,
+            "startTime": "07:30:00 PM 23-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lahore Qalandars vs Perth Scorchers XI (Global Super League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247434_53000_LAH_PER-XI_fc-web.png",
+            "team_1": "Lahore Qalandars",
+            "team_2": "Perth Scorchers XI",
+            "status": "LIVE",
+            "event_name": "Global Super League, 2026",
+            "match_name": "Lahore Qalandars vs Perth Scorchers XI",
+            "match_id": 4247434,
+            "startTime": "07:30:00 PM 23-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -89,30 +103,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Galle Gallants vs Jaffna Kings (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246716_52991_GG_JK_FC-WEB_1784539181099.jpg",
-            "team_1": "Galle Gallants",
-            "team_2": "Jaffna Kings",
-            "status": "UPCOMING",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Galle Gallants vs Jaffna Kings",
-            "match_id": 4246716,
-            "startTime": "07:30:00 PM 23-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lahore Qalandars vs Perth Scorchers XI (Global Super League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247434_53000_LAH_PER-XI_fc-web.png",
-            "team_1": "Lahore Qalandars",
-            "team_2": "Perth Scorchers XI",
-            "status": "UPCOMING",
-            "event_name": "Global Super League, 2026",
-            "match_name": "Lahore Qalandars vs Perth Scorchers XI",
-            "match_id": 4247434,
-            "startTime": "07:30:00 PM 23-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Guyana Amazon Warriors vs San Francisco Unicorns (Global Super League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247439_53000_GUY_SFU_fc-web.jpg",
             "team_1": "Guyana Amazon Warriors",
@@ -158,6 +148,18 @@
             "match_name": "Day 1 - World Feed",
             "match_id": 4246799,
             "startTime": "02:30:00 AM 24-07-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rosenborg vs Manchester United (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png",
+            "team_1": "Rosenborg",
+            "team_2": "Manchester United",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Rosenborg vs Manchester United",
+            "match_id": 4248010,
+            "startTime": "09:30:00 PM 24-07-2026"
         },
         {
             "event_category": "Golf",
@@ -304,18 +306,6 @@
             "startTime": "01:25:00 PM 24-07-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Budapest (F3 HUNGARY 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Budapest",
-            "status": "UPCOMING",
-            "event_name": "F3 HUNGARY 2026",
-            "match_name": "Qualifying Session",
-            "match_id": 139734,
-            "startTime": "06:30:00 PM 24-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
@@ -326,6 +316,18 @@
             "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
             "match_id": 4247198,
             "startTime": "07:00:00 AM 25-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Budapest (F3 HUNGARY 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Budapest",
+            "status": "UPCOMING",
+            "event_name": "F3 HUNGARY 2026",
+            "match_name": "Qualifying Session",
+            "match_id": 139734,
+            "startTime": "06:30:00 PM 24-07-2026"
         },
         {
             "event_category": "Golf",
@@ -376,18 +378,6 @@
             "startTime": "03:00:00 PM 25-07-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Japan - Race 1 vs Suzuka City, Japan (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
-            "team_1": "Japan - Race 1",
-            "team_2": "Suzuka City, Japan",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan - Race 1",
-            "match_id": 143794,
-            "startTime": "10:00:00 AM 25-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Zimbabwe vs India (India tour of Zimbabwe, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
@@ -398,6 +388,18 @@
             "match_name": "Zimbabwe vs India",
             "match_id": 143352,
             "startTime": "04:30:00 PM 25-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Japan - Race 1 vs Suzuka City, Japan (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
+            "team_1": "Japan - Race 1",
+            "team_2": "Suzuka City, Japan",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Japan - Race 1",
+            "match_id": 143794,
+            "startTime": "10:00:00 AM 25-07-2026"
         },
         {
             "event_category": "Cricket",
