@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:53:52 PM 27-07-2026",
+    "last update time": "05:16:05 PM 27-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-Web.png",
             "team_1": "Namibia",
             "team_2": "Nepal",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC CWC League 2 Netherlands, 2026",
             "match_name": "Namibia vs Nepal",
             "match_id": 4246707,
-            "startTime": "02:30:00 PM 27-07-2026"
+            "startTime": "02:30:00 PM 27-07-2026",
+            "dai_url": "https://livecf.fancode.com/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -64,18 +66,6 @@
             "startTime": "07:00:00 AM 28-07-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Chelsea vs Western Sydney Wanderers (Club Friendlies 2026)",
-            "src": "https://images.fancode.com/aig/match/v1785058710768/4248011_CASACARDS_APP.png",
-            "team_1": "Chelsea",
-            "team_2": "Western Sydney Wanderers",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Chelsea vs Western Sydney Wanderers",
-            "match_id": 4248011,
-            "startTime": "03:15:00 PM 28-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Colombo Kaps vs Jaffna Kings (Lanka Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246727_52991_CK_JK_FC-WEB.jpg",
@@ -86,6 +76,18 @@
             "match_name": "Colombo Kaps vs Jaffna Kings",
             "match_id": 4246727,
             "startTime": "07:30:00 PM 28-07-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chelsea vs Western Sydney Wanderers (Club Friendlies 2026)",
+            "src": "https://images.fancode.com/aig/match/v1785058710768/4248011_CASACARDS_APP.png",
+            "team_1": "Chelsea",
+            "team_2": "Western Sydney Wanderers",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Chelsea vs Western Sydney Wanderers",
+            "match_id": 4248011,
+            "startTime": "03:15:00 PM 28-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -306,7 +308,7 @@
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 1 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
             "team_1": "Main Feed - Day 1",
             "team_2": "Detroit Golf Club - Detroit, Michigan",
             "status": "UPCOMING",
@@ -318,7 +320,7 @@
         {
             "event_category": "Golf",
             "title": "World Feed - Day 1 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
             "team_1": "World Feed - Day 1",
             "team_2": "Detroit Golf Club - Detroit, Michigan",
             "status": "UPCOMING",
@@ -402,7 +404,7 @@
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 2 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
             "team_1": "Main Feed - Day 2",
             "team_2": "Detroit Golf Club - Detroit, Michigan",
             "status": "UPCOMING",
