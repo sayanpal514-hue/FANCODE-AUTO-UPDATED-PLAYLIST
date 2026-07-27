@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:52 AM 28-07-2026",
+    "last update time": "04:43:35 AM 28-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
+            "title": "San Francisco Unicorns vs Desert Vipers (Global Super League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247440_53000_SFU_DV_fc-web.jpg",
+            "team_1": "San Francisco Unicorns",
+            "team_2": "Desert Vipers",
             "status": "LIVE",
-            "event_name": "Pakistan tour of West Indies, 2026",
-            "match_name": "West Indies vs Pakistan",
-            "match_id": 143633,
-            "startTime": "07:00:00 PM 25-07-2026",
-            "dai_url": "https://livecf.fancode.com/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8"
+            "event_name": "Global Super League, 2026",
+            "match_name": "San Francisco Unicorns vs Desert Vipers",
+            "match_id": 4247440,
+            "startTime": "04:30:00 AM 28-07-2026",
+            "dai_url": "https://livecf.fancode.com/4247440_english_hls_4a73bf788950453_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4247440_english_hls_4a73bf788950453_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -33,15 +33,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "San Francisco Unicorns vs Desert Vipers (Global Super League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247440_53000_SFU_DV_fc-web.jpg",
-            "team_1": "San Francisco Unicorns",
-            "team_2": "Desert Vipers",
-            "status": "UPCOMING",
-            "event_name": "Global Super League, 2026",
-            "match_name": "San Francisco Unicorns vs Desert Vipers",
-            "match_id": 4247440,
-            "startTime": "04:30:00 AM 28-07-2026"
+            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "PAUSED",
+            "event_name": "Pakistan tour of West Indies, 2026",
+            "match_name": "West Indies vs Pakistan",
+            "match_id": 143633,
+            "startTime": "07:00:00 PM 25-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -152,18 +152,6 @@
             "startTime": "02:30:00 PM 29-07-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Mexico",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-            "match_name": "Day 2",
-            "match_id": 143517,
-            "startTime": "06:30:00 AM 29-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Galle Gallants vs Kandy Royals (Lanka Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246726_52991_GG_KRL_FC-WEB.jpg",
@@ -174,6 +162,18 @@
             "match_name": "Galle Gallants vs Kandy Royals",
             "match_id": 4246726,
             "startTime": "03:00:00 PM 29-07-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Mexico",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+            "match_name": "Day 2",
+            "match_id": 143517,
+            "startTime": "06:30:00 AM 29-07-2026"
         },
         {
             "event_category": "Cricket",
