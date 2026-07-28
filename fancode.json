@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:21:49 PM 28-07-2026",
+    "last update time": "08:53:34 PM 28-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,23 +9,55 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
             "team_1": "West Indies",
             "team_2": "Pakistan",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Pakistan tour of West Indies, 2026",
             "match_name": "West Indies vs Pakistan",
             "match_id": 143633,
-            "startTime": "07:00:00 PM 25-07-2026"
+            "startTime": "07:00:00 PM 25-07-2026",
+            "dai_url": "https://livecf.fancode.com/143633_english_hls_37959550fb58378_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/143633_english_hls_37959550fb58378_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Colombo Kaps vs Jaffna Kings (Lanka Premier League, 2026)",
+            "title": "Jaffna Kings vs Colombo Kaps (Lanka Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246727_52991_CK_JK_FC-WEB.jpg",
-            "team_1": "Colombo Kaps",
-            "team_2": "Jaffna Kings",
-            "status": "UPCOMING",
+            "team_1": "Jaffna Kings",
+            "team_2": "Colombo Kaps",
+            "status": "LIVE",
             "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps vs Jaffna Kings",
+            "match_name": "Jaffna Kings vs Colombo Kaps",
             "match_id": 4246727,
-            "startTime": "07:30:00 PM 28-07-2026"
+            "startTime": "07:30:00 PM 28-07-2026",
+            "dai_url": "https://livecf.fancode.com/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed 1 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+            "team_1": "World Feed 1",
+            "team_2": "Washington, United States",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Mubadala DC Open 2026",
+            "match_name": "World Feed 1",
+            "match_id": 143641,
+            "startTime": "08:30:00 PM 28-07-2026",
+            "dai_url": "https://livecf.fancode.com/143641_english_hls_172b098b4923302_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/143641_english_hls_172b098b4923302_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Mens Doubles ft. Bhambri vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuki-Bhambri_Mubadala_Web-match-card.png",
+            "team_1": "Mens Doubles ft. Bhambri",
+            "team_2": "Washington, United States",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Mubadala DC Open 2026",
+            "match_name": "Mens Doubles ft. Bhambri",
+            "match_id": 143642,
+            "startTime": "08:30:00 PM 28-07-2026",
+            "dai_url": "https://livecf.fancode.com/143642_english_hls_3595b6713610720_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/143642_english_hls_3595b6713610720_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,30 +118,6 @@
             "match_name": "Lahore Qalandars vs San Francisco Unicorns",
             "match_id": 4247436,
             "startTime": "07:30:00 PM 29-07-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed 1 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-            "team_1": "World Feed 1",
-            "team_2": "Washington, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_name": "World Feed 1",
-            "match_id": 143641,
-            "startTime": "08:30:00 PM 28-07-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Mens Doubles ft. Bhambri vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuki-Bhambri_Mubadala_Web-match-card.png",
-            "team_1": "Mens Doubles ft. Bhambri",
-            "team_2": "Washington, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_name": "Mens Doubles ft. Bhambri",
-            "match_id": 143642,
-            "startTime": "08:30:00 PM 28-07-2026"
         },
         {
             "event_category": "Tennis",
