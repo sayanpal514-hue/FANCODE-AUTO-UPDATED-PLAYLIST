@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:43:43 PM 29-07-2026",
+    "last update time": "03:25:46 PM 29-07-2026",
     "matches": [
         {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Mexico",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-            "match_name": "Day 2",
-            "match_id": 143517,
-            "startTime": "06:30:00 AM 29-07-2026",
-            "dai_url": "https://livecf.fancode.com/143517_english_hls_026d19806b81456_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/143517_english_hls_026d19806b81456_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
-            "title": "Nepal vs Netherlands (ICC CWC League 2 Netherlands, 2026)",
+            "title": "Netherlands vs Nepal (ICC CWC League 2 Netherlands, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-Web.png",
-            "team_1": "Nepal",
-            "team_2": "Netherlands",
-            "status": "UPCOMING",
+            "team_1": "Netherlands",
+            "team_2": "Nepal",
+            "status": "LIVE",
             "event_name": "ICC CWC League 2 Netherlands, 2026",
-            "match_name": "Nepal vs Netherlands",
+            "match_name": "Netherlands vs Nepal",
             "match_id": 4246708,
-            "startTime": "02:30:00 PM 29-07-2026"
+            "startTime": "02:30:00 PM 29-07-2026",
+            "dai_url": "https://livecf.fancode.com/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246726_52991_GG_KRL_FC-WEB.jpg",
             "team_1": "Galle Gallants",
             "team_2": "Kandy Royals",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Lanka Premier League, 2026",
             "match_name": "Galle Gallants vs Kandy Royals",
             "match_id": 4246726,
-            "startTime": "03:00:00 PM 29-07-2026"
+            "startTime": "03:00:00 PM 29-07-2026",
+            "dai_url": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,6 +92,18 @@
             "startTime": "03:30:00 PM 30-07-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Jaffna Kings vs Kandy Royals (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246720_52991_JK_KRL_FC-WEB.jpg",
+            "team_1": "Jaffna Kings",
+            "team_2": "Kandy Royals",
+            "status": "UPCOMING",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Jaffna Kings vs Kandy Royals",
+            "match_id": 4246720,
+            "startTime": "07:30:00 PM 30-07-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Grandstand vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
@@ -124,18 +126,6 @@
             "match_name": "World Feed",
             "match_id": 143645,
             "startTime": "10:30:00 PM 29-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jaffna Kings vs Kandy Royals (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246720_52991_JK_KRL_FC-WEB.jpg",
-            "team_1": "Jaffna Kings",
-            "team_2": "Kandy Royals",
-            "status": "UPCOMING",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Jaffna Kings vs Kandy Royals",
-            "match_id": 4246720,
-            "startTime": "07:30:00 PM 30-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -304,6 +294,18 @@
             "match_name": "Main Feed - Day 2",
             "match_id": 4248046,
             "startTime": "04:30:00 PM 31-07-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Birmingham City F.C. vs FC Barcelona (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Birmingham City F.C.",
+            "team_2": "FC Barcelona",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Birmingham City F.C. vs FC Barcelona",
+            "match_id": 4248218,
+            "startTime": "12:15:00 AM 01-08-2026"
         },
         {
             "event_category": "Cricket",
