@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:37:15 PM 29-07-2026",
+    "last update time": "07:58:50 PM 29-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,29 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Galle Gallants vs Kandy Royals (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246726_52991_GG_KRL_FC-WEB.jpg",
-            "team_1": "Galle Gallants",
-            "team_2": "Kandy Royals",
+            "title": "Dambulla Sixers vs Colombo Kaps (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246718_52991_CK_DS_FC-WEB.jpg",
+            "team_1": "Dambulla Sixers",
+            "team_2": "Colombo Kaps",
             "status": "LIVE",
             "event_name": "Lanka Premier League, 2026",
-            "match_name": "Galle Gallants vs Kandy Royals",
-            "match_id": 4246726,
-            "startTime": "03:00:00 PM 29-07-2026",
-            "dai_url": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Colombo Kaps vs Dambulla Sixers (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246718_52991_CK_DS_FC-WEB.jpg",
-            "team_1": "Colombo Kaps",
-            "team_2": "Dambulla Sixers",
-            "status": "UPCOMING",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps vs Dambulla Sixers",
+            "match_name": "Dambulla Sixers vs Colombo Kaps",
             "match_id": 4246718,
-            "startTime": "07:30:00 PM 29-07-2026"
+            "startTime": "07:30:00 PM 29-07-2026",
+            "dai_url": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -49,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247436_53000_LAH_SFU_fc-web.jpg",
             "team_1": "Lahore Qalandars",
             "team_2": "San Francisco Unicorns",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Global Super League, 2026",
             "match_name": "Lahore Qalandars vs San Francisco Unicorns",
             "match_id": 4247436,
-            "startTime": "07:30:00 PM 29-07-2026"
+            "startTime": "07:30:00 PM 29-07-2026",
+            "dai_url": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,7 +60,7 @@
         {
             "event_category": "Cricket",
             "title": "Sri Lankan Lions vs Afghanistan Pathans (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg",
             "team_1": "Sri Lankan Lions",
             "team_2": "Afghanistan Pathans",
             "status": "UPCOMING",
@@ -202,7 +192,7 @@
         {
             "event_category": "Cricket",
             "title": "Pakistan Panthers vs Asian Stars (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248191_53019_PP_AS_fc-web.jpg",
             "team_1": "Pakistan Panthers",
             "team_2": "Asian Stars",
             "status": "UPCOMING",
@@ -238,7 +228,7 @@
         {
             "event_category": "Cricket",
             "title": "Indian Royals vs Bangladesh Tigers (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg",
             "team_1": "Indian Royals",
             "team_2": "Bangladesh Tigers",
             "status": "UPCOMING",
@@ -334,7 +324,7 @@
         {
             "event_category": "Cricket",
             "title": "Afghanistan Pathans vs Asian Stars (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg",
             "team_1": "Afghanistan Pathans",
             "team_2": "Asian Stars",
             "status": "UPCOMING",
@@ -370,7 +360,7 @@
         {
             "event_category": "Cricket",
             "title": "Sri Lankan Lions vs Bangladesh Tigers (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg",
             "team_1": "Sri Lankan Lions",
             "team_2": "Bangladesh Tigers",
             "status": "UPCOMING",
