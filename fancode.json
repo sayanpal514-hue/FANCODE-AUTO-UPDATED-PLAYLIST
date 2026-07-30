@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:41:29 PM 30-07-2026",
+    "last update time": "04:52:46 PM 30-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg",
             "team_1": "Sri Lankan Lions",
             "team_2": "Afghanistan Pathans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asian Legends League, 2026",
             "match_name": "Sri Lankan Lions vs Afghanistan Pathans",
             "match_id": 4248200,
-            "startTime": "03:30:00 PM 30-07-2026"
+            "startTime": "03:30:00 PM 30-07-2026",
+            "dai_url": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 1 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+            "team_1": "Main Feed - Day 1",
+            "team_2": "Detroit Golf Club - Detroit, Michigan",
+            "status": "LIVE",
+            "event_name": "Rocket Classic 2026",
+            "match_name": "Main Feed - Day 1",
+            "match_id": 4248044,
+            "startTime": "04:30:00 PM 30-07-2026",
+            "dai_url": "https://livecf.fancode.com/4248044_english_hls_579a8a938f65205_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4248044_english_hls_579a8a938f65205_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -76,16 +92,16 @@
             "startTime": "05:00:00 PM 31-07-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Detroit Golf Club - Detroit, Michigan",
+            "event_category": "Cricket",
+            "title": "Central Delhi Kings vs Purani Dilli-6 (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+            "team_1": "Central Delhi Kings",
+            "team_2": "Purani Dilli-6",
             "status": "UPCOMING",
-            "event_name": "Rocket Classic 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 4248044,
-            "startTime": "04:30:00 PM 30-07-2026"
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Central Delhi Kings vs Purani Dilli-6",
+            "match_id": 4247965,
+            "startTime": "09:00:00 PM 31-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -110,18 +126,6 @@
             "match_name": "World Feed - Day 1",
             "match_id": 4248043,
             "startTime": "12:30:00 AM 31-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Central Delhi Kings vs Purani Dilli-6 (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
-            "team_1": "Central Delhi Kings",
-            "team_2": "Purani Dilli-6",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Central Delhi Kings vs Purani Dilli-6",
-            "match_id": 4247965,
-            "startTime": "09:00:00 PM 31-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -185,13 +189,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Global Super League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "title": "Desert Vipers vs San Francisco Unicorns (Global Super League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247440_53000_SFU_DV_fc-web.jpg",
+            "team_1": "Desert Vipers",
+            "team_2": "San Francisco Unicorns",
             "status": "UPCOMING",
             "event_name": "Global Super League, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Desert Vipers vs San Francisco Unicorns",
             "match_id": 4247441,
             "startTime": "04:30:00 AM 01-08-2026"
         },
@@ -377,13 +381,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Global Super League, 2026)",
+            "title": "Guyana Amazon Warriors vs TBC (Global Super League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
+            "team_1": "Guyana Amazon Warriors",
             "team_2": "TBC",
             "status": "UPCOMING",
             "event_name": "Global Super League, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Guyana Amazon Warriors vs TBC",
             "match_id": 4247442,
             "startTime": "04:30:00 AM 02-08-2026"
         },
