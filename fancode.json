@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:09:59 PM 30-07-2026",
+    "last update time": "02:41:29 PM 30-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
-            "team_1": "Malaysia XI",
-            "team_2": "Sea Hawks Cricket Club",
-            "status": "LIVE",
-            "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
-            "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
-            "match_id": 4247200,
-            "startTime": "07:00:00 AM 30-07-2026",
-            "dai_url": "https://livecf.fancode.com/4247200_english_hls_defd7e75088821_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/4247200_english_hls_defd7e75088821_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sri Lankan Lions vs Afghanistan Pathans (Asian Legends League, 2026)",
@@ -126,18 +112,6 @@
             "startTime": "12:30:00 AM 31-07-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 4 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Mexico",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-            "match_name": "Day 4",
-            "match_id": 143519,
-            "startTime": "06:30:00 AM 31-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Central Delhi Kings vs Purani Dilli-6 (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
@@ -148,6 +122,18 @@
             "match_name": "Central Delhi Kings vs Purani Dilli-6",
             "match_id": 4247965,
             "startTime": "09:00:00 PM 31-07-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 4 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
+            "team_1": "Day 4",
+            "team_2": "Mexico",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+            "match_name": "Day 4",
+            "match_id": 143519,
+            "startTime": "06:30:00 AM 31-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -296,7 +282,7 @@
         {
             "event_category": "Football",
             "title": "Manchester City vs Internazionale (Club Friendlies 2026)",
-            "src": "https://images.fancode.com/aig/match/v1785058710774/4248014_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
             "team_1": "Manchester City",
             "team_2": "Internazionale",
             "status": "UPCOMING",
@@ -424,6 +410,18 @@
             "match_name": "Sri Lanka Women vs Pakistan Women",
             "match_id": 4247430,
             "startTime": "10:00:00 AM 02-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Outer Delhi Warriors vs Central Delhi Kings (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+            "team_1": "Outer Delhi Warriors",
+            "team_2": "Central Delhi Kings",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Outer Delhi Warriors vs Central Delhi Kings",
+            "match_id": 4247966,
+            "startTime": "01:30:00 PM 02-08-2026"
         }
     ]
 }
