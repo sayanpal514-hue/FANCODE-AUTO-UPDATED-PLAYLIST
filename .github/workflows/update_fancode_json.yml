@@ -1,5 +1,4 @@
-name: Automated FanCode JSON Updater
-
+name: Automated FanCode JSON & M3U Updater
 on:
   schedule:
     - cron: '*/7 * * * *'
@@ -7,35 +6,31 @@ on:
   push:
     branches:
       - main
-
 jobs:
   update-file:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Configure Git User
         run: |
           git config --global user.name "sayanpal514-hue"
           git config --global user.email "223531683+sayanpal514-hue@users.noreply.github.com"
-
       - name: Sync and Update Log
         run: |
           export TZ="Asia/Kolkata"
           git pull origin main --rebase
           curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
+          curl -sS -L -o fancode.m3u "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
           echo "🚀 FanCode Synced | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
-
       - name: Commit and Push
         run: |
           export TZ="Asia/Kolkata"
-          git add fancode.json fancode.txt
+          git add fancode.json fancode.m3u fancode.txt
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "FanCode Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           git push origin main
