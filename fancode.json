@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:00:12 AM 01-08-2026",
+    "last update time": "12:41:54 PM 01-08-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan Pathans vs Asian Stars (Asian Legends League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg",
+            "team_1": "Afghanistan Pathans",
+            "team_2": "Asian Stars",
+            "status": "LIVE",
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Afghanistan Pathans vs Asian Stars",
+            "match_id": 4248189,
+            "startTime": "01:00:00 PM 01-08-2026",
+            "dai_url": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Day 5 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
@@ -19,20 +33,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Afghanistan Pathans vs Asian Stars (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg",
-            "team_1": "Afghanistan Pathans",
-            "team_2": "Asian Stars",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Afghanistan Pathans vs Asian Stars",
-            "match_id": 4248189,
-            "startTime": "01:00:00 PM 01-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "South Delhi Superstarz vs East Delhi Riders (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
             "team_1": "South Delhi Superstarz",
             "team_2": "East Delhi Riders",
             "status": "UPCOMING",
@@ -56,7 +58,7 @@
         {
             "event_category": "Cricket",
             "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
             "team_1": "West Delhi Lions",
             "team_2": "New Delhi Tigers",
             "status": "UPCOMING",
@@ -88,6 +90,18 @@
             "match_name": "Guyana Amazon Warriors vs TBC",
             "match_id": 4247442,
             "startTime": "04:30:00 AM 02-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
+            "team_1": "Sri Lanka Women",
+            "team_2": "Pakistan Women",
+            "status": "UPCOMING",
+            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
+            "match_name": "Sri Lanka Women vs Pakistan Women",
+            "match_id": 4247430,
+            "startTime": "10:00:00 AM 02-08-2026"
         },
         {
             "event_category": "Football",
@@ -148,18 +162,6 @@
             "match_name": "Girona FC vs Arsenal",
             "match_id": 4248015,
             "startTime": "11:30:00 PM 01-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka Women vs Pakistan Women",
-            "match_id": 4247430,
-            "startTime": "10:00:00 AM 02-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -234,30 +236,6 @@
             "startTime": "10:30:00 PM 01-08-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 6 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-            "team_1": "Day 6",
-            "team_2": "Mexico",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-            "match_name": "Day 6",
-            "match_id": 143521,
-            "startTime": "08:30:00 AM 02-08-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Binjiang Gymnasium, China",
-            "status": "UPCOMING",
-            "event_name": "Asian University Basketball League 2026",
-            "match_name": "Day 1",
-            "match_id": 4248221,
-            "startTime": "09:00:00 AM 02-08-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "East Delhi Riders vs New Delhi Tigers (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
@@ -292,6 +270,30 @@
             "match_name": "Jaffna Kings vs Dambulla Sixers",
             "match_id": 4246719,
             "startTime": "07:30:00 PM 02-08-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 6 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
+            "team_1": "Day 6",
+            "team_2": "Mexico",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+            "match_name": "Day 6",
+            "match_id": 143521,
+            "startTime": "08:30:00 AM 02-08-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 1 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Binjiang Gymnasium, China",
+            "status": "UPCOMING",
+            "event_name": "Asian University Basketball League 2026",
+            "match_name": "Day 1",
+            "match_id": 4248221,
+            "startTime": "09:00:00 AM 02-08-2026"
         },
         {
             "event_category": "Tennis",
