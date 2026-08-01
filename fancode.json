@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:43:11 PM 01-08-2026",
+    "last update time": "04:14:11 PM 01-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan Pathans vs Asian Stars (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg",
-            "team_1": "Afghanistan Pathans",
-            "team_2": "Asian Stars",
-            "status": "LIVE",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Afghanistan Pathans vs Asian Stars",
-            "match_id": 4248189,
-            "startTime": "01:00:00 PM 01-08-2026",
-            "dai_url": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2026)",
@@ -30,6 +16,20 @@
             "startTime": "01:30:00 PM 01-08-2026",
             "dai_url": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chelsea vs Tottenham Hotspur (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
+            "team_1": "Chelsea",
+            "team_2": "Tottenham Hotspur",
+            "status": "LIVE",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Chelsea vs Tottenham Hotspur",
+            "match_id": 4248013,
+            "startTime": "03:15:00 PM 01-08-2026",
+            "dai_url": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -81,15 +81,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Chelsea vs Tottenham Hotspur (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
-            "team_1": "Chelsea",
-            "team_2": "Tottenham Hotspur",
+            "title": "Manchester City vs Internazionale (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
+            "team_1": "Manchester City",
+            "team_2": "Internazionale",
             "status": "UPCOMING",
             "event_name": "Club Friendlies 2026",
-            "match_name": "Chelsea vs Tottenham Hotspur",
-            "match_id": 4248013,
-            "startTime": "03:15:00 PM 01-08-2026"
+            "match_name": "Manchester City vs Internazionale",
+            "match_id": 4248014,
+            "startTime": "05:00:00 PM 01-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -104,16 +104,16 @@
             "startTime": "10:00:00 AM 02-08-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Manchester City vs Internazionale (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
-            "team_1": "Manchester City",
-            "team_2": "Internazionale",
+            "event_category": "Cricket",
+            "title": "Outer Delhi Warriors vs Central Delhi Kings (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+            "team_1": "Outer Delhi Warriors",
+            "team_2": "Central Delhi Kings",
             "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Manchester City vs Internazionale",
-            "match_id": 4248014,
-            "startTime": "05:00:00 PM 01-08-2026"
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Outer Delhi Warriors vs Central Delhi Kings",
+            "match_id": 4247966,
+            "startTime": "01:30:00 PM 02-08-2026"
         },
         {
             "event_category": "Football",
@@ -153,18 +153,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Outer Delhi Warriors vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
-            "team_1": "Outer Delhi Warriors",
-            "team_2": "Central Delhi Kings",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Outer Delhi Warriors vs Central Delhi Kings",
-            "match_id": 4247966,
-            "startTime": "01:30:00 PM 02-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Indian Royals vs Pakistan Panthers (Asian Legends League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248197_53019_INR_PP_fc-web.jpg",
             "team_1": "Indian Royals",
@@ -186,6 +174,18 @@
             "match_name": "ATP 500 - Mubadala DC Open 2026",
             "match_id": 143651,
             "startTime": "02:30:00 PM 01-08-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 3 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+            "team_1": "Main Feed - Day 3",
+            "team_2": "Detroit Golf Club - Detroit, Michigan",
+            "status": "UPCOMING",
+            "event_name": "Rocket Classic 2026",
+            "match_name": "Main Feed - Day 3",
+            "match_id": 4248048,
+            "startTime": "05:00:00 PM 01-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -222,18 +222,6 @@
             "match_name": "Jaffna Kings vs Dambulla Sixers",
             "match_id": 4246719,
             "startTime": "07:30:00 PM 02-08-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "Detroit Golf Club - Detroit, Michigan",
-            "status": "UPCOMING",
-            "event_name": "Rocket Classic 2026",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 4248048,
-            "startTime": "05:00:00 PM 01-08-2026"
         },
         {
             "event_category": "Golf",
