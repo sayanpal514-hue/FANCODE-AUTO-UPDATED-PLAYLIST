@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:20:42 PM 02-08-2026",
+    "last update time": "06:41:38 PM 02-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
             "team_1": "East Delhi Riders",
             "team_2": "New Delhi Tigers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Delhi Premier League, 2026",
             "match_name": "East Delhi Riders vs New Delhi Tigers",
             "match_id": 4247971,
-            "startTime": "07:00:00 PM 02-08-2026"
+            "startTime": "07:00:00 PM 02-08-2026",
+            "dai_url": "https://livecf.fancode.com/4247971_english_hls_4be97458a823730_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4247971_english_hls_4be97458a823730_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -92,18 +94,6 @@
             "startTime": "02:00:00 PM 03-08-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Liverpool vs Leeds United (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
-            "team_1": "Liverpool",
-            "team_2": "Leeds United",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Liverpool vs Leeds United",
-            "match_id": 4248017,
-            "startTime": "12:30:00 AM 03-08-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Scotland vs United Arab Emirates (ICC CWC League 2 Scotland, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248212_53013_SCO_UAE_fc-Web-.png",
@@ -114,6 +104,18 @@
             "match_name": "Scotland vs United Arab Emirates",
             "match_id": 4248212,
             "startTime": "03:30:00 PM 03-08-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Liverpool vs Leeds United (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
+            "team_1": "Liverpool",
+            "team_2": "Leeds United",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Liverpool vs Leeds United",
+            "match_id": 4248017,
+            "startTime": "12:30:00 AM 03-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -414,6 +416,18 @@
             "match_name": "Asian Stars vs Indian Royals",
             "match_id": 4248190,
             "startTime": "03:00:00 PM 05-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+            "team_1": "Ireland",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan tour of Ireland, 2026",
+            "match_name": "Ireland vs Afghanistan",
+            "match_id": 4248054,
+            "startTime": "03:15:00 PM 05-08-2026"
         }
     ]
 }
