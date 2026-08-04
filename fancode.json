@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:45:50 AM 04-08-2026",
+    "last update time": "12:27:29 PM 04-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -31,20 +31,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pakistan Panthers vs Afghanistan Pathans (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248199_53019_PP_AFP_fc-web.jpg",
-            "team_1": "Pakistan Panthers",
-            "team_2": "Afghanistan Pathans",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Pakistan Panthers vs Afghanistan Pathans",
-            "match_id": 4248199,
-            "startTime": "01:00:00 PM 04-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New Delhi Tigers vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "New Delhi Tigers",
             "team_2": "Outer Delhi Warriors",
             "status": "UPCOMING",
@@ -55,20 +43,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lankan Lions vs Asian Stars (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248203_53019_SLO_AS_fc-web.jpg",
-            "team_1": "Sri Lankan Lions",
-            "team_2": "Asian Stars",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Sri Lankan Lions vs Asian Stars",
-            "match_id": 4248203,
-            "startTime": "05:00:00 PM 04-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "South Delhi Superstarz vs West Delhi Lions (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "South Delhi Superstarz",
             "team_2": "West Delhi Lions",
             "status": "UPCOMING",
@@ -80,7 +56,7 @@
         {
             "event_category": "Cricket",
             "title": "Purani Dilli-6 vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "Purani Dilli-6",
             "team_2": "Central Delhi Kings",
             "status": "UPCOMING",
@@ -99,18 +75,6 @@
             "event_name": "Lanka Premier League, 2026",
             "match_name": "Jaffna Kings vs Galle Gallants",
             "match_id": 4246730,
-            "startTime": "03:00:00 PM 05-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Asian Stars vs Indian Royals (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248190_53019_AS_INR_fc-web.jpg",
-            "team_1": "Asian Stars",
-            "team_2": "Indian Royals",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Asian Stars vs Indian Royals",
-            "match_id": 4248190,
             "startTime": "03:00:00 PM 05-08-2026"
         },
         {
@@ -188,7 +152,7 @@
         {
             "event_category": "Cricket",
             "title": "East Delhi Riders vs North Delhi Strikers (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "East Delhi Riders",
             "team_2": "North Delhi Strikers",
             "status": "UPCOMING",
@@ -196,6 +160,30 @@
             "match_name": "East Delhi Riders vs North Delhi Strikers",
             "match_id": 4247976,
             "startTime": "07:00:00 PM 05-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan Panthers vs Afghanistan Pathans (Asian Legends League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248199_53019_PP_AFP_fc-web.jpg",
+            "team_1": "Pakistan Panthers",
+            "team_2": "Afghanistan Pathans",
+            "status": "UPCOMING",
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Pakistan Panthers vs Afghanistan Pathans",
+            "match_id": 4248199,
+            "startTime": "01:00:00 PM 04-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lankan Lions vs Asian Stars (Asian Legends League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248203_53019_SLO_AS_fc-web.jpg",
+            "team_1": "Sri Lankan Lions",
+            "team_2": "Asian Stars",
+            "status": "UPCOMING",
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Sri Lankan Lions vs Asian Stars",
+            "match_id": 4248203,
+            "startTime": "05:00:00 PM 04-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -220,6 +208,18 @@
             "match_name": "Chelsea vs Juventus",
             "match_id": 4248018,
             "startTime": "05:15:00 PM 05-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Asian Stars vs Indian Royals (Asian Legends League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248190_53019_AS_INR_fc-web.jpg",
+            "team_1": "Asian Stars",
+            "team_2": "Indian Royals",
+            "status": "UPCOMING",
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Asian Stars vs Indian Royals",
+            "match_id": 4248190,
+            "startTime": "03:00:00 PM 05-08-2026"
         },
         {
             "event_category": "Football",
@@ -283,20 +283,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pakistan Panthers vs Bangladesh Tigers (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248198_53019_PP_BAT_fc-web.jpg",
-            "team_1": "Pakistan Panthers",
-            "team_2": "Bangladesh Tigers",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Pakistan Panthers vs Bangladesh Tigers",
-            "match_id": 4248198,
-            "startTime": "01:00:00 PM 06-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "South Delhi Superstarz vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "South Delhi Superstarz",
             "team_2": "Outer Delhi Warriors",
             "status": "UPCOMING",
@@ -307,20 +295,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Indian Royals vs Afghanistan Pathans (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248201_53019_INR_AFP_fc-web.jpg",
-            "team_1": "Indian Royals",
-            "team_2": "Afghanistan Pathans",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Indian Royals vs Afghanistan Pathans",
-            "match_id": 4248201,
-            "startTime": "05:00:00 PM 06-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New Delhi Tigers vs Purani Dilli-6 (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "New Delhi Tigers",
             "team_2": "Purani Dilli-6",
             "status": "UPCOMING",
@@ -328,6 +304,18 @@
             "match_name": "New Delhi Tigers vs Purani Dilli-6",
             "match_id": 4247979,
             "startTime": "07:00:00 PM 06-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan Panthers vs Bangladesh Tigers (Asian Legends League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248198_53019_PP_BAT_fc-web.jpg",
+            "team_1": "Pakistan Panthers",
+            "team_2": "Bangladesh Tigers",
+            "status": "UPCOMING",
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Pakistan Panthers vs Bangladesh Tigers",
+            "match_id": 4248198,
+            "startTime": "01:00:00 PM 06-08-2026"
         },
         {
             "event_category": "Golf",
@@ -340,6 +328,18 @@
             "match_name": "Day 1 - Main Feed",
             "match_id": 4248185,
             "startTime": "04:15:00 PM 06-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indian Royals vs Afghanistan Pathans (Asian Legends League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248201_53019_INR_AFP_fc-web.jpg",
+            "team_1": "Indian Royals",
+            "team_2": "Afghanistan Pathans",
+            "status": "UPCOMING",
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Indian Royals vs Afghanistan Pathans",
+            "match_id": 4248201,
+            "startTime": "05:00:00 PM 06-08-2026"
         },
         {
             "event_category": "Golf",
@@ -415,15 +415,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pakistan Panthers vs Sri Lankan Lions (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248194_53019_PP_SLO_fc-web.jpg",
-            "team_1": "Pakistan Panthers",
-            "team_2": "Sri Lankan Lions",
+            "title": "East Delhi Riders vs West Delhi Lions (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "East Delhi Riders",
+            "team_2": "West Delhi Lions",
             "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Pakistan Panthers vs Sri Lankan Lions",
-            "match_id": 4248194,
-            "startTime": "01:00:00 PM 07-08-2026"
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "East Delhi Riders vs West Delhi Lions",
+            "match_id": 4247973,
+            "startTime": "01:30:00 PM 07-08-2026"
         }
     ]
 }
