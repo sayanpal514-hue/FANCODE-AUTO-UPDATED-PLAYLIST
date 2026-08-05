@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:29:21 AM 05-08-2026",
+    "last update time": "08:51:52 AM 05-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of West Indies, 2026",
-            "match_name": "West Indies vs Pakistan",
-            "match_id": 143634,
-            "startTime": "07:00:00 PM 03-08-2026",
-            "dai_url": "https://livecf.fancode.com/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
@@ -46,32 +32,16 @@
             "adfree_url": "https://livecf.fancode.com/4248067_english_hls_9d75ed2e2276858_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court 5 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-            "team_1": "Court 5",
-            "team_2": "Montreal, Canada",
-            "status": "LIVE",
-            "event_name": "ATP Masters Omnium Banque National 2026",
-            "match_name": "Court 5",
-            "match_id": 4248068,
-            "startTime": "08:30:00 PM 04-08-2026",
-            "dai_url": "https://livecf.fancode.com/4248068_english_hls_469771a15198481_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/4248068_english_hls_469771a15198481_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Center Court vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-            "team_1": "Center Court",
-            "team_2": "Montreal, Canada",
-            "status": "LIVE",
-            "event_name": "ATP Masters Omnium Banque National 2026",
-            "match_name": "Center Court",
-            "match_id": 4248069,
-            "startTime": "09:30:00 PM 04-08-2026",
-            "dai_url": "https://livecf.fancode.com/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8"
+            "event_category": "Cricket",
+            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "PAUSED",
+            "event_name": "Pakistan tour of West Indies, 2026",
+            "match_name": "West Indies vs Pakistan",
+            "match_id": 143634,
+            "startTime": "07:00:00 PM 03-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -170,6 +140,18 @@
             "startTime": "12:00:00 AM 06-08-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "South Delhi Superstarz vs Outer Delhi Warriors (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
+            "team_1": "South Delhi Superstarz",
+            "team_2": "Outer Delhi Warriors",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "South Delhi Superstarz vs Outer Delhi Warriors",
+            "match_id": 4247975,
+            "startTime": "01:30:00 PM 06-08-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
@@ -216,18 +198,6 @@
             "match_name": "ATP Masters Omnium Banque National 2026",
             "match_id": 4248073,
             "startTime": "10:00:00 PM 05-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Delhi Superstarz vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
-            "team_1": "South Delhi Superstarz",
-            "team_2": "Outer Delhi Warriors",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "South Delhi Superstarz vs Outer Delhi Warriors",
-            "match_id": 4247975,
-            "startTime": "01:30:00 PM 06-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -455,6 +425,30 @@
             "event_name": "ATP Masters Omnium Banque National 2026",
             "match_name": "ATP Masters Omnium Banque National 2026",
             "match_id": 4248078,
+            "startTime": "10:00:00 PM 07-08-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+            "team_1": "ATP Masters Omnium Banque National 2026",
+            "team_2": "Montreal, Canada",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Omnium Banque National 2026",
+            "match_name": "ATP Masters Omnium Banque National 2026",
+            "match_id": 4248079,
+            "startTime": "10:00:00 PM 07-08-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+            "team_1": "ATP Masters Omnium Banque National 2026",
+            "team_2": "Montreal, Canada",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Omnium Banque National 2026",
+            "match_name": "ATP Masters Omnium Banque National 2026",
+            "match_id": 4248080,
             "startTime": "10:00:00 PM 07-08-2026"
         }
     ]
