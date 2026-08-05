@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:15:13 PM 05-08-2026",
+    "last update time": "04:36:53 PM 05-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg",
             "team_1": "Jaffna Kings",
             "team_2": "Galle Gallants",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Lanka Premier League, 2026",
             "match_name": "Jaffna Kings vs Galle Gallants",
             "match_id": 4246730,
-            "startTime": "03:00:00 PM 05-08-2026"
+            "startTime": "03:00:00 PM 05-08-2026",
+            "dai_url": "https://livecf.fancode.com/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +37,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
             "team_1": "Ireland",
             "team_2": "Afghanistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan tour of Ireland, 2026",
             "match_name": "Ireland vs Afghanistan",
             "match_id": 4248054,
-            "startTime": "03:15:00 PM 05-08-2026"
+            "startTime": "03:15:00 PM 05-08-2026",
+            "dai_url": "https://livecf.fancode.com/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates vs Canada (ICC CWC League 2 Scotland, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2 Scotland, 2026",
+            "match_name": "United Arab Emirates vs Canada",
+            "match_id": 4248213,
+            "startTime": "03:30:00 PM 05-08-2026",
+            "dai_url": "https://livecf.fancode.com/4248213_english_hls_8b9cbf1c6252001_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4248213_english_hls_8b9cbf1c6252001_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,18 +70,6 @@
             "match_name": "West Indies vs Pakistan",
             "match_id": 143634,
             "startTime": "07:30:00 PM 05-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates vs Canada (ICC CWC League 2 Scotland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2 Scotland, 2026",
-            "match_name": "United Arab Emirates vs Canada",
-            "match_id": 4248213,
-            "startTime": "03:30:00 PM 05-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -95,23 +101,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png",
             "team_1": "Chelsea",
             "team_2": "Juventus",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Club Friendlies 2026",
             "match_name": "Chelsea vs Juventus",
             "match_id": 4248018,
-            "startTime": "05:00:00 PM 05-08-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Arsenal vs Real Betis (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Real-Betis_fc-web_1785450262855.jpg",
-            "team_1": "Arsenal",
-            "team_2": "Real Betis",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Arsenal vs Real Betis",
-            "match_id": 4248019,
-            "startTime": "12:00:00 AM 06-08-2026"
+            "startTime": "05:00:00 PM 05-08-2026",
+            "dai_url": "https://livecf.fancode.com/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -124,6 +120,18 @@
             "match_name": "South Delhi Superstarz vs Outer Delhi Warriors",
             "match_id": 4247975,
             "startTime": "01:30:00 PM 06-08-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal vs Real Betis (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Real-Betis_fc-web_1785450262855.jpg",
+            "team_1": "Arsenal",
+            "team_2": "Real Betis",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Arsenal vs Real Betis",
+            "match_id": 4248019,
+            "startTime": "12:00:00 AM 06-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -351,7 +359,7 @@
             "event_name": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
             "match_name": "Great Britain GP",
             "match_id": 139960,
-            "startTime": "02:30:00 PM 07-08-2026"
+            "startTime": "02:25:00 PM 07-08-2026"
         },
         {
             "event_category": "Golf",
@@ -451,15 +459,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Purani Dilli-6 vs South Delhi Superstarz (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
-            "team_1": "Purani Dilli-6",
-            "team_2": "South Delhi Superstarz",
+            "title": "Tanzania vs Uganda (ICC CWC Challenge League B 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+            "team_1": "Tanzania",
+            "team_2": "Uganda",
             "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Purani Dilli-6 vs South Delhi Superstarz",
-            "match_id": 4247977,
-            "startTime": "01:30:00 PM 08-08-2026"
+            "event_name": "ICC CWC Challenge League B 2026",
+            "match_name": "Tanzania vs Uganda",
+            "match_id": 4248250,
+            "startTime": "11:30:00 AM 08-08-2026"
         }
     ]
 }
