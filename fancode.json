@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:02:17 PM 07-08-2026",
+    "last update time": "04:52:52 PM 07-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,13 +22,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
+            "title": "Afghanistan vs Ireland (Afghanistan tour of Ireland, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-            "team_1": "Ireland",
-            "team_2": "Afghanistan",
+            "team_1": "Afghanistan",
+            "team_2": "Ireland",
             "status": "LIVE",
             "event_name": "Afghanistan tour of Ireland, 2026",
-            "match_name": "Ireland vs Afghanistan",
+            "match_name": "Afghanistan vs Ireland",
             "match_id": 4248052,
             "startTime": "03:15:00 PM 07-08-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
@@ -113,18 +113,6 @@
             "startTime": "07:30:00 PM 07-08-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Purani Dilli-6 vs South Delhi Superstarz (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
-            "team_1": "Purani Dilli-6",
-            "team_2": "South Delhi Superstarz",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "Purani Dilli-6 vs South Delhi Superstarz",
-            "match_id": 4247977,
-            "startTime": "01:30:00 PM 08-08-2026"
-        },
-        {
             "event_category": "Football",
             "title": "FC Bayern M\u00fcnchen vs Aston Villa (Club Friendlies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bayern-Munich-vs-Aston-Villa_FC-Web.png",
@@ -135,6 +123,18 @@
             "match_name": "FC Bayern M\u00fcnchen vs Aston Villa",
             "match_id": 4248025,
             "startTime": "05:30:00 PM 07-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Purani Dilli-6 vs South Delhi Superstarz (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
+            "team_1": "Purani Dilli-6",
+            "team_2": "South Delhi Superstarz",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Purani Dilli-6 vs South Delhi Superstarz",
+            "match_id": 4247977,
+            "startTime": "01:30:00 PM 08-08-2026"
         },
         {
             "event_category": "Football",
@@ -269,6 +269,42 @@
             "startTime": "10:00:00 PM 07-08-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Derby County Football Club vs Lincoln City F.C. (Carabao Cup 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248171_53016_DER_LNC_fc-web.jpg",
+            "team_1": "Derby County Football Club",
+            "team_2": "Lincoln City F.C.",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2026-27",
+            "match_name": "Derby County Football Club vs Lincoln City F.C.",
+            "match_id": 4248171,
+            "startTime": "07:30:00 PM 08-08-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Swansea City A.F.C. vs Birmingham City F.C. (Carabao Cup 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248172_53016_SWA_BIR_fc-web.jpg",
+            "team_1": "Swansea City A.F.C.",
+            "team_2": "Birmingham City F.C.",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2026-27",
+            "match_name": "Swansea City A.F.C. vs Birmingham City F.C.",
+            "match_id": 4248172,
+            "startTime": "07:30:00 PM 08-08-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "West Ham United vs Portsmouth F.C. (Carabao Cup 2026-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248173_53016_WHU_PRM_fc-web.jpg",
+            "team_1": "West Ham United",
+            "team_2": "Portsmouth F.C.",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2026-27",
+            "match_name": "West Ham United vs Portsmouth F.C.",
+            "match_id": 4248173,
+            "startTime": "07:30:00 PM 08-08-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 2 - World Feed vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
@@ -306,42 +342,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Derby County Football Club vs Lincoln City F.C. (Carabao Cup 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248171_53016_DER_LNC_fc-web.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "Lincoln City F.C.",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2026-27",
-            "match_name": "Derby County Football Club vs Lincoln City F.C.",
-            "match_id": 4248171,
-            "startTime": "07:30:00 PM 08-08-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Swansea City A.F.C. vs Birmingham City F.C. (Carabao Cup 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248172_53016_SWA_BIR_fc-web.jpg",
-            "team_1": "Swansea City A.F.C.",
-            "team_2": "Birmingham City F.C.",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2026-27",
-            "match_name": "Swansea City A.F.C. vs Birmingham City F.C.",
-            "match_id": 4248172,
-            "startTime": "07:30:00 PM 08-08-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "West Ham United vs Portsmouth F.C. (Carabao Cup 2026-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248173_53016_WHU_PRM_fc-web.jpg",
-            "team_1": "West Ham United",
-            "team_2": "Portsmouth F.C.",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2026-27",
-            "match_name": "West Ham United vs Portsmouth F.C.",
-            "match_id": 4248173,
-            "startTime": "07:30:00 PM 08-08-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Paris Saint-Germain vs Manchester United (Club Friendlies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/PSG-vs-Manchester-United-old.png",
             "team_1": "Paris Saint-Germain",
@@ -365,18 +365,6 @@
             "startTime": "01:00:00 PM 08-08-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
-            "team_1": "Day 2",
-            "team_2": "Silverstone Circuit",
-            "status": "UPCOMING",
-            "event_name": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
-            "match_name": "Great Britain GP",
-            "match_id": 139961,
-            "startTime": "02:05:00 PM 08-08-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Colchester United vs Southampton F.C. (Carabao Cup 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248174_53016_CLC_SOU_fc-web.jpg",
@@ -387,6 +375,18 @@
             "match_name": "Colchester United vs Southampton F.C.",
             "match_id": 4248174,
             "startTime": "10:00:00 PM 08-08-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 2 vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
+            "team_1": "Day 2",
+            "team_2": "Silverstone Circuit",
+            "status": "UPCOMING",
+            "event_name": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
+            "match_name": "Great Britain GP",
+            "match_id": 139961,
+            "startTime": "02:05:00 PM 08-08-2026"
         },
         {
             "event_category": "Live Events",
