@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:49:28 PM 08-08-2026",
+    "last update time": "03:29:53 PM 08-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -228,6 +228,18 @@
             "startTime": "11:30:00 AM 09-08-2026"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 3 - Main Feed vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+            "team_1": "Day 3 - Main Feed",
+            "team_2": "Sedgefield Country Club - Greensboro, NC",
+            "status": "UPCOMING",
+            "event_name": "Wyndham Championship 2026",
+            "match_name": "Day 3 - Main Feed",
+            "match_id": 4248187,
+            "startTime": "04:30:00 PM 08-08-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "South Delhi Superstarz vs Central Delhi Kings (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247981_53005_SDS_CDK_fc-Web.png",
@@ -240,16 +252,16 @@
             "startTime": "07:00:00 PM 09-08-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 - Main Feed vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
-            "team_1": "Day 3 - Main Feed",
-            "team_2": "Sedgefield Country Club - Greensboro, NC",
+            "event_category": "Football",
+            "title": "Chelsea vs Johor Darul Ta'zim (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/International_Friendlies_Chelsea_Johor_FC-WEB.jpg",
+            "team_1": "Chelsea",
+            "team_2": "Johor Darul Ta'zim",
             "status": "UPCOMING",
-            "event_name": "Wyndham Championship 2026",
-            "match_name": "Day 3 - Main Feed",
-            "match_id": 4248187,
-            "startTime": "04:30:00 PM 08-08-2026"
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Chelsea vs Johor Darul Ta'zim",
+            "match_id": 4248023,
+            "startTime": "05:30:00 PM 09-08-2026"
         },
         {
             "event_category": "Live Events",
@@ -274,18 +286,6 @@
             "match_name": "Day 3",
             "match_id": 4248210,
             "startTime": "05:30:00 PM 08-08-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chelsea vs Johor Darul Ta'zim (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/International_Friendlies_Chelsea_Johor_FC-WEB.jpg",
-            "team_1": "Chelsea",
-            "team_2": "Johor Darul Ta'zim",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Chelsea vs Johor Darul Ta'zim",
-            "match_id": 4248023,
-            "startTime": "05:30:00 PM 09-08-2026"
         },
         {
             "event_category": "Tennis",
@@ -336,6 +336,18 @@
             "startTime": "10:30:00 PM 08-08-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Arsenal vs Borussia Dortmund (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-Cup-Final--old.png",
+            "team_1": "Arsenal",
+            "team_2": "Borussia Dortmund",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Arsenal vs Borussia Dortmund",
+            "match_id": 4248392,
+            "startTime": "06:30:00 PM 09-08-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed 2 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
@@ -358,18 +370,6 @@
             "match_name": "St Kitts and Nevis Patriots vs Trinbago Knight Riders",
             "match_id": 4248279,
             "startTime": "04:30:00 AM 09-08-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Arsenal vs Borussia Dortmund (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-Cup-Final--old.png",
-            "team_1": "Arsenal",
-            "team_2": "Borussia Dortmund",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Arsenal vs Borussia Dortmund",
-            "match_id": 4248392,
-            "startTime": "06:30:00 PM 09-08-2026"
         },
         {
             "event_category": "Football",
