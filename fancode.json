@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:47:06 AM 11-08-2026",
+    "last update time": "10:07:59 AM 11-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,18 @@
             "startTime": "11:30:00 AM 12-08-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+            "team_1": "Ireland",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan tour of Ireland, 2026",
+            "match_name": "Ireland vs Afghanistan",
+            "match_id": 4248053,
+            "startTime": "03:15:00 PM 12-08-2026"
+        },
+        {
             "event_category": "Live Events",
             "title": "Third-place vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
@@ -170,18 +182,6 @@
             "match_name": "ATP Masters Omnium Banque National 2026",
             "match_id": 4248097,
             "startTime": "10:00:00 PM 11-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-            "team_1": "Ireland",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "event_name": "Afghanistan tour of Ireland, 2026",
-            "match_name": "Ireland vs Afghanistan",
-            "match_id": 4248053,
-            "startTime": "03:15:00 PM 12-08-2026"
         },
         {
             "event_category": "Cricket",
