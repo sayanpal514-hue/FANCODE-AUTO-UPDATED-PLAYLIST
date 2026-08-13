@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:06:16 PM 13-08-2026",
+    "last update time": "02:17:01 PM 13-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Outer Delhi Warriors vs West Delhi Lions (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247984_53005_ODW_WDL_fc-Web.png",
-            "team_1": "Outer Delhi Warriors",
-            "team_2": "West Delhi Lions",
-            "status": "UPCOMING",
+            "title": "West Delhi Lions vs Outer Delhi Warriors (Delhi Premier League, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1786609269341/4247984_CASACARDS_APP.png",
+            "team_1": "West Delhi Lions",
+            "team_2": "Outer Delhi Warriors",
+            "status": "LIVE",
             "event_name": "Delhi Premier League, 2026",
-            "match_name": "Outer Delhi Warriors vs West Delhi Lions",
+            "match_name": "West Delhi Lions vs Outer Delhi Warriors",
             "match_id": 4247984,
-            "startTime": "01:30:00 PM 13-08-2026"
+            "startTime": "01:30:00 PM 13-08-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -184,6 +186,18 @@
             "startTime": "03:00:00 AM 14-08-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Kashi Rudras vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
+            "team_1": "Kashi Rudras",
+            "team_2": "Meerut Mavericks",
+            "status": "UPCOMING",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Kashi Rudras vs Meerut Mavericks",
+            "match_id": 4248334,
+            "startTime": "08:30:00 PM 14-08-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Shelton vs Nakashima vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
@@ -206,18 +220,6 @@
             "match_name": "Jamaica Kingsmen vs Guyana Amazon Warriors",
             "match_id": 4248283,
             "startTime": "05:30:00 AM 14-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kashi Rudras vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
-            "team_1": "Kashi Rudras",
-            "team_2": "Meerut Mavericks",
-            "status": "UPCOMING",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Kashi Rudras vs Meerut Mavericks",
-            "match_id": 4248334,
-            "startTime": "08:30:00 PM 14-08-2026"
         },
         {
             "event_category": "Cricket",
