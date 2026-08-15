@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:27:54 PM 15-08-2026",
+    "last update time": "12:58:21 PM 15-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -218,6 +218,18 @@
             "startTime": "01:00:00 AM 16-08-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
+            "team_1": "North Delhi Strikers",
+            "team_2": "Central Delhi Kings",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "North Delhi Strikers vs Central Delhi Kings",
+            "match_id": 4247990,
+            "startTime": "01:30:00 PM 16-08-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Notts County vs Leicester City F.C. (League One 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png",
@@ -252,18 +264,6 @@
             "match_name": "Real Oviedo vs Granada",
             "match_id": 4248178,
             "startTime": "10:30:00 PM 15-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-            "team_1": "North Delhi Strikers",
-            "team_2": "Central Delhi Kings",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "North Delhi Strikers vs Central Delhi Kings",
-            "match_id": 4247990,
-            "startTime": "01:30:00 PM 16-08-2026"
         },
         {
             "event_category": "Motorsports",
@@ -423,18 +423,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-            "team_1": "Jamaica Kingsmen",
-            "team_2": "Trinbago Knight Riders",
-            "status": "UPCOMING",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
-            "match_id": 4248289,
-            "startTime": "05:30:00 AM 16-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Gaur Gorakhpur Lions vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
             "team_1": "Gaur Gorakhpur Lions",
@@ -444,6 +432,18 @@
             "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks",
             "match_id": 4248337,
             "startTime": "07:30:00 PM 16-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Kingsmen vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
+            "team_1": "Jamaica Kingsmen",
+            "team_2": "Trinbago Knight Riders",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Jamaica Kingsmen vs Trinbago Knight Riders",
+            "match_id": 4248289,
+            "startTime": "05:30:00 AM 16-08-2026"
         },
         {
             "event_category": "Football",
