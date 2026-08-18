@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:31:39 PM 18-08-2026",
+    "last update time": "01:12:13 PM 18-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -75,13 +75,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Germany vs Greece (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "title": "Greece vs Germany (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248375_53031_GER_GRE_fc-web.jpg",
-            "team_1": "Germany",
-            "team_2": "Greece",
+            "team_1": "Greece",
+            "team_2": "Germany",
             "status": "UPCOMING",
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "match_name": "Germany vs Greece",
+            "match_name": "Greece vs Germany",
             "match_id": 4248375,
             "startTime": "01:30:00 PM 18-08-2026"
         },
@@ -146,6 +146,18 @@
             "startTime": "08:30:00 PM 18-08-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "New Delhi Tigers vs West Delhi Lions (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247991_53005_NDT_WDL_fc-Web_1786618029951.png",
+            "team_1": "New Delhi Tigers",
+            "team_2": "West Delhi Lions",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "New Delhi Tigers vs West Delhi Lions",
+            "match_id": 4247991,
+            "startTime": "07:00:00 PM 19-08-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Court 4 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
@@ -159,15 +171,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Delhi Tigers vs West Delhi Lions (Delhi Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247991_53005_NDT_WDL_fc-Web_1786618029951.png",
-            "team_1": "New Delhi Tigers",
-            "team_2": "West Delhi Lions",
+            "title": "Lucknow Falcons vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248329_53029_LCK_MER_FC-Web_1786702851437.png",
+            "team_1": "Lucknow Falcons",
+            "team_2": "Meerut Mavericks",
             "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2026",
-            "match_name": "New Delhi Tigers vs West Delhi Lions",
-            "match_id": 4247991,
-            "startTime": "07:00:00 PM 19-08-2026"
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Lucknow Falcons vs Meerut Mavericks",
+            "match_id": 4248329,
+            "startTime": "07:30:00 PM 19-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -180,18 +192,6 @@
             "match_name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots",
             "match_id": 4248281,
             "startTime": "05:30:00 AM 19-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lucknow Falcons vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248329_53029_LCK_MER_FC-Web_1786702851437.png",
-            "team_1": "Lucknow Falcons",
-            "team_2": "Meerut Mavericks",
-            "status": "UPCOMING",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Lucknow Falcons vs Meerut Mavericks",
-            "match_id": 4248329,
-            "startTime": "07:30:00 PM 19-08-2026"
         },
         {
             "event_category": "Football",
