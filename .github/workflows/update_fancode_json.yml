@@ -1,7 +1,7 @@
 name: Automated FanCode JSON & M3U Updater
 on:
   schedule:
-    - cron: '*/7 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
   push:
     branches:
