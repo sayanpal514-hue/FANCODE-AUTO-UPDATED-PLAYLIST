@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:14:11 AM 11-09-2026",
+    "last update time": "08:05:48 AM 11-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -141,6 +141,18 @@
             "startTime": "07:00:00 AM 12-09-2026"
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249127,
+            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 12-09-2026"
+        },
+        {
             "event_category": "Golf",
             "match_id": 4249081,
             "title": "Day 1 vs Bernardus Golf (The Solheim Cup 2026)",
@@ -274,13 +286,13 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249127,
-            "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "match_id": 4249161,
+            "title": "Uganda vs Kenya (ILT20 Africa Continent Cup 2026)",
+            "match_name": "Uganda vs Kenya",
+            "event_name": "ILT20 Africa Continent Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
+            "team_1": "Uganda",
+            "team_2": "Kenya",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 12-09-2026"
         },
@@ -298,18 +310,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249161,
-            "title": "Uganda vs Kenya (ILT20 Africa Continent Cup 2026)",
-            "match_name": "Uganda vs Kenya",
-            "event_name": "ILT20 Africa Continent Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
-            "team_1": "Uganda",
-            "team_2": "Kenya",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 12-09-2026"
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4248678,
             "title": "Majees Titans vs Mustafa Fragrance House Strikers (Oman D50 2026)",
             "match_name": "Majees Titans vs Mustafa Fragrance House Strikers",
@@ -319,18 +319,6 @@
             "team_2": "Mustafa Fragrance House Strikers",
             "status": "UPCOMING",
             "startTime": "04:00:00 PM 12-09-2026"
-        },
-        {
-            "event_category": "Golf",
-            "match_id": 4249082,
-            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
-            "match_name": "Day 2",
-            "event_name": "The Solheim Cup 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-            "team_1": "Day 2",
-            "team_2": "Bernardus Golf",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 12-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -357,6 +345,18 @@
             "startTime": "05:00:00 PM 12-09-2026"
         },
         {
+            "event_category": "Golf",
+            "match_id": 4249082,
+            "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
+            "match_name": "Day 2",
+            "event_name": "The Solheim Cup 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+            "team_1": "Day 2",
+            "team_2": "Bernardus Golf",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 12-09-2026"
+        },
+        {
             "event_category": "Football",
             "match_id": 4247490,
             "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
@@ -367,6 +367,18 @@
             "team_2": "Birmingham City F.C.",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 12-09-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4247616,
+            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "Racing Club de Santander vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
+            "team_1": "Racing Club de Santander",
+            "team_2": "Deportivo Alaves",
+            "status": "UPCOMING",
+            "startTime": "05:30:00 PM 12-09-2026"
         },
         {
             "event_category": "MotoGP",
@@ -382,15 +394,15 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247616,
-            "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
-            "match_name": "Racing Club de Santander vs Deportivo Alaves",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
-            "team_1": "Racing Club de Santander",
-            "team_2": "Deportivo Alaves",
+            "match_id": 4248470,
+            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
+            "match_name": "West Ham United Women vs London City Lionesses",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "London City Lionesses",
             "status": "UPCOMING",
-            "startTime": "05:30:00 PM 12-09-2026"
+            "startTime": "05:15:00 PM 12-09-2026"
         },
         {
             "event_category": "Motorsports",
@@ -405,18 +417,6 @@
             "startTime": "01:20:00 PM 12-09-2026"
         },
         {
-            "event_category": "Football",
-            "match_id": 4248470,
-            "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-            "match_name": "West Ham United Women vs London City Lionesses",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-            "team_1": "West Ham United Women",
-            "team_2": "London City Lionesses",
-            "status": "UPCOMING",
-            "startTime": "05:15:00 PM 12-09-2026"
-        },
-        {
             "event_category": "Motorsports",
             "match_id": 4249176,
             "title": "Coppa Shell Race 1 vs Europe (Ferrari Challenge Series 2026)",
@@ -427,18 +427,6 @@
             "team_2": "Europe",
             "status": "UPCOMING",
             "startTime": "01:50:00 PM 12-09-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "match_id": 139743,
-            "title": "Sprint Race vs Madrid, Spain (F3 MADRID 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F3 MADRID 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Madrid, Spain",
-            "status": "UPCOMING",
-            "startTime": "02:35:00 PM 12-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -463,6 +451,18 @@
             "team_2": "Stoke City F.C.",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 12-09-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139743,
+            "title": "Sprint Race vs Madrid, Spain (F3 MADRID 2026)",
+            "match_name": "Sprint Race",
+            "event_name": "F3 MADRID 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "startTime": "02:35:00 PM 12-09-2026"
         }
     ]
 }
