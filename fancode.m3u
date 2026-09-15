@@ -1,10 +1,25 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249244_53070_ADK_MED_FC-Web.png" group-title="Fancode-Cricket", DP World ILT20 Development Tournament 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249244_english_hls_9b82b68f3797637_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789577141~_GO=Generated~acl=/mumbai/4249244_english_hls_9b82b68f3797637_1ta-di_h264/*~Signature=AVl424OdWQxDlJtBuES6cH2nB94kBgDWGaLb2VpO902VPZ8jjoIQPh2EAc6BZfyxb34jGRu8edsv2n5mtozEhMZQMy4J
+https://in-mc-flive.fancode.com/mumbai/4249244_english_hls_9b82b68f3797637_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789578137~_GO=Generated~acl=/mumbai/4249244_english_hls_9b82b68f3797637_1ta-di_h264/*~Signature=AVl424Ph6gsNssXyjCqPiOzoN1SXSGO3JZ5fbers_yS_rZcPXLJIuRpBlnjapkZtHv0fB0nzesMRzMipZGGmdfol2eEF
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ain-vs-Al-Nassr-Old-card.jpg" group-title="Fancode-Football", AFC Champions League Elite 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789577140~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424My_FWsv2uvMgr4dXr0DmXDiv6sd_vK9eKU7R3wuaRwiv9-gFq8pd1WFGjpd0R1bLFdOEqnGVXnq8DcViZ9lfoB
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-vs-Al-Gharafa-Old-card.jpg" group-title="Fancode-Football", AFC Champions League Elite 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4248687_english_hls_feeca70c4087256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789581722~_GO=Generated~acl=/mumbai/4248687_english_hls_feeca70c4087256_1ta-di_h264/*~Signature=AVl424PPPNw-dUe9J_vvJ4O1LSUQq_eEFFlYYoX9oLUhFk3BGnZ_1xItVCSijtlppu1OkRZmWmX1RBIa1QN8_F8MNN0O
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247625_53004_RVL_ESL_FC-Web.png" group-title="Fancode-Football", LALIGA 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4247625_english_hls_abfbed8adb39940_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789577140~_GO=Generated~acl=/mumbai/4247625_english_hls_abfbed8adb39940_1ta-di_h264/*~Signature=AVl424OXiOv0mfd5Z5oyGrL-qw3PQ4PiEYUKswldcPOV9EOcwdPwdNAl94p0qc7KNw43LI4mXwH9Ye_QtX6ReIGsqdQD
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249055_53016_WHU_FUL_fc-web.jpg" group-title="Fancode-Football", Carabao Cup 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249056_53016_RED_BRE_fc-web.jpg" group-title="Fancode-Football", Carabao Cup 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249056_english_hls_78bc0c78ef5548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789584749~_GO=Generated~acl=/mumbai/4249056_english_hls_78bc0c78ef5548_1ta-di_h264/*~Signature=AVl424Nv95IFetMpEI_degWr52Gnkm-CqyxF3qJJxwRipXaUTGBmw9jeTcn6iqyGoMqurFzu-U575PTG9YQw-E4lfFAD
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249057_53016_IPT_ARS_fc-web.jpg" group-title="Fancode-Football", Carabao Cup 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249057_english_hls_ea5b1f6ac66113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789584750~_GO=Generated~acl=/mumbai/4249057_english_hls_ea5b1f6ac66113_1ta-di_h264/*~Signature=AVl424OL6qNaTcmeG2zjbK0xxSSJKuzIKveSH69x1X8M3C-z7TvxsRuEt0FEZAILAABy61dshndpdCwYNMPZPhGmptcC
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg" group-title="Fancode-Football", Carabao Cup 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249061_english_hls_a4322012ea48351_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789584751~_GO=Generated~acl=/mumbai/4249061_english_hls_a4322012ea48351_1ta-di_h264/*~Signature=AVl424OIuqId7hM9EZuKa_04wVajQNKUt7QWDFZZL3eoWYgn65afVKkNAc-mfylKpLCwj2wquCmc9wxI3Z5TENmf2cAJ
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png" group-title="Fancode-Football", LALIGA 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247619_53004_ALA_VAL_FC-Web.png" group-title="Fancode-Football", LALIGA 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP
 
