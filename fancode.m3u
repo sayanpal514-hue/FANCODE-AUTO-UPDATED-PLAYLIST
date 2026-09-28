@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249301_53073_YAW_CRU_fc-web.jpg" group-title="Fancode-Cricket", NCR T20 League, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250059_53103_EMR_FUJ_FC-WEB.jpg" group-title="Fancode-Cricket", Emirates D10, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg" group-title="Fancode-Cricket", Odisha T20 League 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg" group-title="Fancode-Cricket", NCR T20 League, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250056_53103_SHA_DUB_FC-Web.jpg" group-title="Fancode-Cricket", Emirates D10, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250056_english_hls_d8b655b1c693547_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790679202~_GO=Generated~acl=/mumbai/4250056_english_hls_d8b655b1c693547_1ta-di_h264/*~Signature=ARxeIm9N7OPIcUPvWuxoOpvdrDQrx6YYM34vpR4n4-IbexSE4nvvvTdJ_Io4OaM_Isiiw8VZphVZiPyFzisjqZ06ewgD
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png" group-title="Fancode-Tennis", ATP 250 - Chengdu Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248542_english_hls_d6f5b8b2c813798_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790671928~_GO=Generated~acl=/mumbai/4248542_english_hls_d6f5b8b2c813798_1ta-di_h264/*~Signature=AUh_zpXq6E21XyyB3kdA3FlvqBVuqnpGPhMTA8h4cZNJG8t_3ReLxsp7msluqy_UdTTfVYzNF5FDhzkC3-qzGi3yU8EJ
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" group-title="Fancode-Tennis", ATP 250 - Hangzhou Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png" group-title="Fancode-Football", LALIGA Hypermotion 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249272_english_hls_ef0abcc38e12298_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790705865~_GO=Generated~acl=/mumbai/4249272_english_hls_ef0abcc38e12298_1ta-di_h264/*~Signature=ARxeIm-ivaHvxe46EHRICh8Qk1mvq6-cpE0kv5y6CYmYgzru6KsPfcu8lQUN1W_dJB_MyhTQjrNlRKeVVfNFpWgMV2sG
 
