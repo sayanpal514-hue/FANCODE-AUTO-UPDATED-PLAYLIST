@@ -1,33 +1,19 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:01:01 PM 29-09-2026",
+    "last update time": "02:23:35 AM 30-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Sambalpur Warriors",
-            "team_2": "Bhubaneshwar Tigers",
+            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
+            "team_1": "Toronto Sixers Women",
+            "team_2": "Vancouver Warriors Women",
             "status": "LIVE",
-            "event_name": "Odisha T20 League 2026",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-            "match_id": 4249586,
-            "startTime": "07:30:00 PM 29-09-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Emirates Red vs Dubai (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250062_53103_EMR_DUB_FC-WEB.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Dubai",
-            "status": "LIVE",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Emirates Red vs Dubai",
-            "match_id": 4250062,
-            "startTime": "09:00:00 PM 29-09-2026",
+            "event_name": "Canada Super 60 Women, 2026",
+            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
+            "match_id": 4249829,
+            "startTime": "02:00:00 AM 30-09-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -105,39 +91,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
             "event_name": "Odisha T20 League 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
             "match_id": 4249587,
             "startTime": "07:00:00 PM 30-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250063_53103_ABD_AJM_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Ajman",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Abu Dhabi vs Ajman",
-            "match_id": 4250063,
-            "startTime": "11:15:00 PM 29-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Warriors Women",
-            "status": "UPCOMING",
-            "event_name": "Canada Super 60 Women, 2026",
-            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
-            "match_id": 4249829,
-            "startTime": "02:00:00 AM 30-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -188,16 +150,16 @@
             "startTime": "06:45:00 PM 30-09-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Punjab FC",
-            "team_2": "East Bengal FC",
+            "event_category": "Cricket",
+            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
+            "team_1": "Toronto Sixers",
+            "team_2": "Brampton Blitz",
             "status": "UPCOMING",
-            "event_name": "IFA Shield 2026",
-            "match_name": "Punjab FC vs East Bengal FC",
-            "match_id": 4249524,
-            "startTime": "02:30:00 PM 30-09-2026"
+            "event_name": "Canada Super 60, 2026",
+            "match_name": "Toronto Sixers vs Brampton Blitz",
+            "match_id": 4249814,
+            "startTime": "02:00:00 AM 01-10-2026"
         },
         {
             "event_category": "Cricket",
@@ -248,16 +210,16 @@
             "startTime": "10:15:00 PM 30-09-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Toronto Sixers vs Brampton Blitz (Canada Super 60, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
-            "team_1": "Toronto Sixers",
-            "team_2": "Brampton Blitz",
+            "event_category": "Football",
+            "title": "Punjab FC vs East Bengal FC (IFA Shield 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Punjab FC",
+            "team_2": "East Bengal FC",
             "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2026",
-            "match_name": "Toronto Sixers vs Brampton Blitz",
-            "match_id": 4249814,
-            "startTime": "02:00:00 AM 01-10-2026"
+            "event_name": "IFA Shield 2026",
+            "match_name": "Punjab FC vs East Bengal FC",
+            "match_id": 4249524,
+            "startTime": "02:30:00 PM 30-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -270,6 +232,18 @@
             "match_name": "Abu Dhabi vs Emirates Blues",
             "match_id": 4250067,
             "startTime": "11:15:00 PM 30-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vancouver Anchors vs Montreal Royal Tigers (Canada Super 60, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
+            "team_1": "Vancouver Anchors",
+            "team_2": "Montreal Royal Tigers",
+            "status": "UPCOMING",
+            "event_name": "Canada Super 60, 2026",
+            "match_name": "Vancouver Anchors vs Montreal Royal Tigers",
+            "match_id": 4249815,
+            "startTime": "04:30:00 AM 01-10-2026"
         },
         {
             "event_category": "Football",
@@ -296,66 +270,6 @@
             "startTime": "12:30:00 AM 01-10-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "ATP 500 - China Open 2026",
-            "team_2": "Beijing, China",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - China Open 2026",
-            "match_name": "ATP 500 - China Open 2026",
-            "match_id": 4248551,
-            "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - China Open 2026 vs Beijing, China (ATP 500 - China Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "ATP 500 - China Open 2026",
-            "team_2": "Beijing, China",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - China Open 2026",
-            "match_name": "ATP 500 - China Open 2026",
-            "match_id": 4248558,
-            "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "team_2": "Tokyo, Japan",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "match_id": 4248565,
-            "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "team_2": "Tokyo, Japan",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "match_id": 4248572,
-            "startTime": "09:00:00 AM 30-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vancouver Anchors vs Montreal Royal Tigers (Canada Super 60, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
-            "team_1": "Vancouver Anchors",
-            "team_2": "Montreal Royal Tigers",
-            "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2026",
-            "match_name": "Vancouver Anchors vs Montreal Royal Tigers",
-            "match_id": 4249815,
-            "startTime": "04:30:00 AM 01-10-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg",
@@ -378,6 +292,54 @@
             "match_name": "White Rock Warriors vs Mississauga Masters",
             "match_id": 4249816,
             "startTime": "07:15:00 AM 01-10-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Kinoshita Group Show Court vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "Kinoshita Group Show Court",
+            "team_2": "Tokyo, Japan",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "match_name": "Kinoshita Group Show Court",
+            "match_id": 4248565,
+            "startTime": "07:30:00 AM 30-09-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 - World Feed vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Tokyo, Japan",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "match_name": "Day 1 - World Feed",
+            "match_id": 4248572,
+            "startTime": "07:30:00 AM 30-09-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 - World Feed vs Beijing, China (ATP 500 - China Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Beijing, China",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - China Open 2026",
+            "match_name": "Day 1 - World Feed",
+            "match_id": 4248551,
+            "startTime": "08:30:00 AM 30-09-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Lotus Court vs Beijing, China (ATP 500 - China Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "Lotus Court",
+            "team_2": "Beijing, China",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - China Open 2026",
+            "match_name": "Lotus Court",
+            "match_id": 4248558,
+            "startTime": "08:30:00 AM 30-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -486,6 +448,42 @@
             "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
             "match_id": 4248566,
             "startTime": "09:00:00 AM 01-10-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Kinoshita Group Japan Open 2026 vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+            "team_1": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "team_2": "Tokyo, Japan",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "match_name": "ATP 500 - Kinoshita Group Japan Open 2026",
+            "match_id": 4248573,
+            "startTime": "09:00:00 AM 01-10-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Aravali Avengers vs Capital Cruisers (NCR T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249307_53073_AAV_CRU_fc-web.jpg",
+            "team_1": "Aravali Avengers",
+            "team_2": "Capital Cruisers",
+            "status": "UPCOMING",
+            "event_name": "NCR T20 League, 2026",
+            "match_name": "Aravali Avengers vs Capital Cruisers",
+            "match_id": 4249307,
+            "startTime": "05:00:00 PM 01-10-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sharjah vs Abu Dhabi (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Abu Dhabi",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Sharjah vs Abu Dhabi",
+            "match_id": 4250068,
+            "startTime": "04:30:00 PM 01-10-2026"
         }
     ]
 }
