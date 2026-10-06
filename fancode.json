@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:25:27 AM 06-10-2026",
+  "last update time": "11:30:28 AM 06-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,6 +65,72 @@
           },
           "cookie": "hdntl=Expires=1791339711~_GO=Generated~acl=/mumbai/4248571_english_hls_37929a600b86049_1ta-di_h264/*~Signature=AXZsC1CbAGMPI__KIMP0WG7G95XIW8EdUjJYmvKFz8EoQOI6bag-0kpbX2Qjb7dDc5xEXeDHJVWkbERXL7nMszU6d0IK",
           "expires": "1791339711",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bahrain vs Bhutan [English]",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249722",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/240p.m3u8?hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/360p.m3u8?hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/480p.m3u8?hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/540p.m3u8?hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/720p.m3u8?hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H"
+          },
+          "cookie": "hdntl=Expires=1791352443~_GO=Generated~acl=/mumbai/4249722_english_hls_c6e5506a8955212_1ta-di_h264/*~Signature=AXZsC1DvdSpD8q3Z3YkJ8kKNWQ7opuI7NjP4Pf7U4ZPbB1xfPp6zEmtP4uWZYDgKQrdV6BhHuBDFs0MKOfT1dCljRQ0H",
+          "expires": "1791352443",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Mongolia vs Kuwait [English]",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249723",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/240p.m3u8?hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/360p.m3u8?hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/480p.m3u8?hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/540p.m3u8?hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/720p.m3u8?hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB"
+          },
+          "cookie": "hdntl=Expires=1791352444~_GO=Generated~acl=/mumbai/4249723_english_hls_5dadd1d15570232_1ta-di_h264/*~Signature=AXZsC1CqBF-g_BLHvmXFjgh1RXJR20ksJBcsqYUNtOwdU7E1ChTepQ_nhxfnZGIcbpIrx0GBFVQGjQ0ndzjzD_0KCMQB",
+          "expires": "1791352444",
           "expire_date": ""
         }
       }
@@ -387,26 +453,6 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 PM 07-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250091_53103_AJM_EMB_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Bahrain vs Bhutan",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249722",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Kuwait vs Mongolia",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249723",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
       "language": "ENGLISH"
     },
     {
