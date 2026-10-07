@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:20:40 PM 07-10-2026",
+  "last update time": "06:25:39 PM 07-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1791436752~_GO=Generated~acl=/mumbai/4248810_english_hls_0f627da36a15946_1ta-di_h264/*~Signature=AXZsC1APmU0Ac3CPHvFcWaJipiFwl3edGhVTCyXB3C-Ih2ES3nX9GE8ROIZ5NM1PlktqU9_z1SWTamjyO3Fjw0H-DzMH",
           "expires": "1791436752",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Fujairah vs Abu Dhabi",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250088",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/240p.m3u8?hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/360p.m3u8?hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/480p.m3u8?hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/540p.m3u8?hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/720p.m3u8?hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB"
-          },
-          "cookie": "hdntl=Expires=1791456794~_GO=Generated~acl=/mumbai/4250088_english_hls_281cc010ca25188_1ta-di_h264/*~SessionID=122002764__3a440b6b-8593-42~Signature=AXZsC1Derb5e66Vhjs08CBUv5P7H8frFwKyJ6DHHSs_JzJcsjnmak7NqJctXhTsvgk0JoGFCZkoELpKgJAQ3yl_F4PIB",
-          "expires": "1791456794",
           "expire_date": ""
         }
       }
@@ -459,6 +426,16 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2 - World Feed",
+      "tournament": "Baycurrent Classic 2026",
+      "match_id": "4249775",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
       "language": "ENGLISH"
     },
     {
