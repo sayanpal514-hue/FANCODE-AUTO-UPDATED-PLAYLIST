@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:40:46 PM 07-10-2026",
+  "last update time": "12:45:52 PM 07-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Victoria vs South Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249662",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/240p.m3u8?hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/360p.m3u8?hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/480p.m3u8?hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/540p.m3u8?hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/720p.m3u8?hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH"
-          },
-          "cookie": "hdntl=Expires=1791415505~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/*~Signature=AXZsC1Auc-iw_wdBmdcx4kAiwTYWzRQAJBPdu6fRp1Lhit3kRY7MzI78TxzgHmvZxre9aNxTU-SmONwKpTDViqA4UVcH",
-          "expires": "1791415505",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -539,6 +506,16 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Victoria vs South Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249662",
+      "status": "PAUSED",
+      "startTime": "05:00:00 AM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
       "language": "ENGLISH"
     }
   ]
