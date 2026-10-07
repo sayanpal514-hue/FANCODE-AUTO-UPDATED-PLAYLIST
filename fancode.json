@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:15:49 AM 08-10-2026",
+  "last update time": "05:20:49 AM 08-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Victoria vs South Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249662",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/240p.m3u8?hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/360p.m3u8?hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/480p.m3u8?hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/540p.m3u8?hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/720p.m3u8?hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM"
-          },
-          "cookie": "hdntl=Expires=1791502254~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df63573_1ta-di_h264/*~SessionID=8e0b77c62fdb01d4_fc-app_sportsguruand_5244e5a9-8a91-4d~Signature=AXZsC1CKvhXPPuq23JJ78ghHgavI8WeKoV43XmHDcTZYn8CsyGaBhjMREwOBaCpSwcpPtQCETT26Am-h3k6VKdUbL1EM",
-          "expires": "1791502254",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Tasmania vs New South Wales [English]",
@@ -417,6 +384,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+      "match_id": "139497",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
