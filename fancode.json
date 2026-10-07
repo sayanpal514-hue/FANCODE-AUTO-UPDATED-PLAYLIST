@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:15:42 PM 07-10-2026",
+  "last update time": "08:20:43 PM 07-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -150,7 +150,7 @@
     },
     {
       "category": "Cricket",
-      "title": "USA vs Namibia",
+      "title": "Namibia vs USA",
       "tournament": "ICC CWC League 2 USA, 2026",
       "match_id": "4249658",
       "status": "UPCOMING",
