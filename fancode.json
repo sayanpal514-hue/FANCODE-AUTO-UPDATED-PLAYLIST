@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:05:42 AM 09-10-2026",
+  "last update time": "05:10:49 AM 09-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249663",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria vs South Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249662",
-      "status": "LIVE",
-      "startTime": "09:50:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "MotoGP",
       "title": "Indonesia GP",
@@ -391,6 +371,16 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 AM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3",
+      "tournament": "Aramco Korea Championship 2026",
+      "match_id": "4250105",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
       "language": "ENGLISH"
     },
     {
