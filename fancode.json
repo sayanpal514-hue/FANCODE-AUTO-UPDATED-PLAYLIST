@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:50:48 PM 08-10-2026",
+  "last update time": "03:55:42 PM 08-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Queensland vs Western Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249664",
-      "status": "LIVE",
-      "startTime": "08:00:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/240p.m3u8?hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/360p.m3u8?hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/480p.m3u8?hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/540p.m3u8?hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/720p.m3u8?hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF"
-          },
-          "cookie": "hdntl=Expires=1791512556~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5939076_1ta-di_h264/*~SessionID=7566183f6cb513f5_fc-app_sportsguruand_be9f4aad-0f87-43~Signature=AXZsC1CJqznu6g2w0FF9dt5Wdlc0UvHn82NeYCdxXYtEnguncNdMzlpye0iPqbrkcmYvKHhNqljEywOJQEkoeghOYpsF",
-          "expires": "1791512556",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -529,6 +496,16 @@
       "status": "PAUSED",
       "startTime": "05:00:00 AM 08-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Queensland vs Western Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249664",
+      "status": "PAUSED",
+      "startTime": "08:00:00 AM 08-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
       "language": "ENGLISH"
     },
     {
