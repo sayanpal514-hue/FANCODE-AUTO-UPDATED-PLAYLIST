@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:15:46 PM 08-10-2026",
+  "last update time": "02:20:45 PM 08-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -164,39 +164,6 @@
           },
           "cookie": "hdntl=Expires=1791518010~_GO=Generated~acl=/mumbai/4250160_english_hls_e13a369a2310878_1ta-di_h264/*~SessionID=8bc2cf5f8e7dad11_fc-app_sportsguruand_9682b90e-1244-46~Signature=AXZsC1A0JhafyBXzMZ51kYitvIUBmjqsd0wzN3hP3kgt2evUm0YKryhT68Et9Yt-LEbBgAu80G8cheHmajVFvKUBalkF",
           "expires": "1791518010",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1 [English]",
-      "tournament": "Aramco Korea Championship 2026",
-      "match_id": "4250103",
-      "status": "LIVE",
-      "startTime": "10:00:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/240p.m3u8?hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/360p.m3u8?hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/480p.m3u8?hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/540p.m3u8?hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/720p.m3u8?hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D"
-          },
-          "cookie": "hdntl=Expires=1791519840~_GO=Generated~acl=/mumbai/4250103_english_hls_e8511ef74e15860_1ta-di_h264/*~SessionID=0205d1f96cbcba0f_fc-app_sportsguruand_23ad881d-531e-4a~Signature=AXZsC1CIbZh94-QhurnZ0LYjgnD1__qTqZvgRhg1sMBggsZy8wiGcz5VCQYutue49u5lLhQ--zopSs0Ss072q7ZhxB0D",
-          "expires": "1791519840",
           "expire_date": ""
         }
       }
