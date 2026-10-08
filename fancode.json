@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:50:52 AM 08-10-2026",
+  "last update time": "08:55:43 AM 08-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1791501646~_GO=Generated~acl=/mumbai/4249663_english_hls_8e2773aae983948_1ta-di_h264/*~SessionID=7fe4aa870feb3d77_fc-app_sportsguruand_99e30220-30cc-4c~Signature=AXZsC1DB_F75niVvJQeBlOBZdCdaC_c85fWGfPSjqysUbka5R8FUqmr2mMYgFI8j98jfk6fZK3FX89W49k-VK965khwM",
           "expires": "1791501646",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Thailand vs Kuwait [English]",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249724",
-      "status": "LIVE",
-      "startTime": "06:45:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/240p.m3u8?hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/360p.m3u8?hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/480p.m3u8?hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/540p.m3u8?hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/720p.m3u8?hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG"
-          },
-          "cookie": "hdntl=Expires=1791507712~_GO=Generated~acl=/mumbai/4249724_english_hls_1e75e6c09850468_1ta-di_h264/*~SessionID=967563899f3f2050_fc-app_sportsguruand_5067c0d8-54b4-47~Signature=AXZsC1Dluj7I3h61luwM5lAWQuWGuBoVJ-DvZIdmmBl0MCLfw1Ev9npODRwuOZ5upeLNr23CbFMHpEWb1Vpned_9uUwG",
-          "expires": "1791507712",
           "expire_date": ""
         }
       }
@@ -519,6 +486,16 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al-Kholood Club vs Al-Qadsiah FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4249136",
+      "status": "UPCOMING",
+      "startTime": "07:20:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249136_53025_ALK_ALQ_FC-Web.png",
       "language": "ENGLISH"
     },
     {
