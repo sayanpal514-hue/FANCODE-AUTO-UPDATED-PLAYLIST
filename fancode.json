@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:05:38 PM 08-10-2026",
+  "last update time": "11:10:41 PM 08-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Dubai vs Fujairah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250094",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250094_53103_DUB_FUJ_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "MotoGP",
       "title": "Indonesia GP",
