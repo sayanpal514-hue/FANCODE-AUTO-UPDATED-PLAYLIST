@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:05:40 PM 08-10-2026",
+  "last update time": "06:10:42 PM 08-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -68,16 +68,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Mohun Bagan Super Giants vs East Bengal FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249605",
-      "status": "UPCOMING",
-      "startTime": "06:15:00 PM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
