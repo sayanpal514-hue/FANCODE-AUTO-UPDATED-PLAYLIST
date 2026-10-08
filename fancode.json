@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:25:40 AM 08-10-2026",
+  "last update time": "05:31:35 AM 08-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -387,16 +387,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139497",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Australia Champions vs South Africa Champions",
       "tournament": "World Championship of Legends, 2026",
@@ -424,6 +414,16 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Champions vs West Indies Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249227",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
       "language": "ENGLISH"
     }
   ]
