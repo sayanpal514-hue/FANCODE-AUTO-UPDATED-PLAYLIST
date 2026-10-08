@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:15:41 PM 08-10-2026",
+  "last update time": "08:20:42 PM 08-10-2026",
   "matches": [
-    {
-      "category": "Badminton",
-      "title": "Round 16 [English]",
-      "tournament": "BWF Super 500 - Arctic Open 2026",
-      "match_id": "4250124",
-      "status": "LIVE",
-      "startTime": "12:30:00 PM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/240p.m3u8?hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/360p.m3u8?hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/480p.m3u8?hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/540p.m3u8?hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/720p.m3u8?hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA"
-          },
-          "cookie": "hdntl=Expires=1791528342~_GO=Generated~acl=/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/*~SessionID=025afa70ba2e8012_fc-app_sportsguruand_c1698c17-1a91-44~Signature=AXZsC1CPYo0u__34hKjBQgE5kuoQfLD1Z3-h9bLNNghMExYr_xnYi3mi-3mQKMVkQPFh3fzOaTpPGHj44EZByFfPYHIA",
-          "expires": "1791528342",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Ajman vs Emirates Red",
@@ -264,6 +231,16 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249232_53069_AAC_SAC_FC-Web_1790764440838.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Sprint Qualifying",
+      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+      "match_id": "139498",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
