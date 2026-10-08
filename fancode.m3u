@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 08-10-2026 11:25
+#DATE:- 08-10-2026 11:31
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -32,3 +32,12 @@ https://in-mc-flive.fancode.com/mumbai/4250103_english_hls_e8511ef74e15860_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", Stadium Court [English]
 https://in-mc-flive.fancode.com/mumbai/4248814_english_hls_0519f4f1b728375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791523476~_GO=Generated~acl=/mumbai/4248814_english_hls_0519f4f1b728375_1ta-di_h264/*~SessionID=683b6bfb2f8fe574_fc-app_sportsguruand_3be2487f-1867-4a~Signature=AXZsC1AbqGVgqXecswSqN1qOHY6BBwqb5axdQVOIyaPaYEXaHr9-bfWHU13OVp5c8sE9os98jqmatrPxPMmCh3-UeI4F
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249739_53092_CHN_MDV_fc-web.jpg" group-title="Fancode-Cricket", China vs Maldives [English]
+https://in-mc-flive.fancode.com/mumbai/4249739_english_hls_0814f04e4938718_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791525293~_GO=Generated~acl=/mumbai/4249739_english_hls_0814f04e4938718_1ta-di_h264/*~SessionID=a2d32367a567ef08_fc-app_sportsguruand_26edf0f7-369a-4d~Signature=AXZsC1AtUM4L9d6I79DbCkuc20ewYxXkkyYJ67HurrzGQSIvMvHeaJfdW2pk8qzpwG-Ysvelwz8i0WK0fy8oLAZTdQIL
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249740_53092_SDA_SIN_fc-web.jpg" group-title="Fancode-Cricket", Saudi Arabia vs Singapore [English]
+https://in-mc-flive.fancode.com/mumbai/4249740_english_hls_9df8ebe0e95803_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791525294~_GO=Generated~acl=/mumbai/4249740_english_hls_9df8ebe0e95803_1ta-di_h264/*~SessionID=a2d32367a567ef08_fc-app_sportsguruand_3820aed7-95dd-4b~Signature=AXZsC1D7a5urskkG-S8xb6F15r1qOiLqUKTEatpiXid9efXCspN_eCUH_y1KYCqg-m8O_G_rMj2ZmmGZwoFtWpBCNVQL
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249741_53092_MAS_HK_fc-web.jpg" group-title="Fancode-Cricket", Hong Kong, China vs Malaysia [English]
+https://in-mc-flive.fancode.com/mumbai/4249741_english_hls_867f92918a12263_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791525295~_GO=Generated~acl=/mumbai/4249741_english_hls_867f92918a12263_1ta-di_h264/*~SessionID=a2d32367a567ef08_fc-app_sportsguruand_55b14f22-af8e-46~Signature=AXZsC1BeI5lmbzhC-O2gGf_ZHIHQUAsOu49lrwa3BJ1douRmzPF7AhGxNmMHKVPiWPnmtmVgCCrkcIpwGAL1yadfgwIH
