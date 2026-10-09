@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:50:47 PM 09-10-2026",
+  "last update time": "04:55:42 PM 09-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -35,49 +35,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Tennis",
-      "title": "Court 4",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4250188",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/240p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/360p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/480p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/540p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/720p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI"
-          },
-          "cookie": "hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI",
-          "expires": "1791604428",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Australia Champions vs South Africa Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249232",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249232_53069_AAC_SAC_FC-Web_1790764440838.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Tennis",
@@ -270,6 +227,26 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248823",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248824",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Football",
       "title": "West Bromwich Albion F.C. vs Birmingham City F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -337,6 +314,16 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "FC Barcelona vs Getafe CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247647",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247647_53004_BAR_GEF_FC-Web.png",
       "language": "ENGLISH"
     },
     {
