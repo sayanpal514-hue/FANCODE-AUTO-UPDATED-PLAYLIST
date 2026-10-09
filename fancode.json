@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:35:39 PM 09-10-2026",
+  "last update time": "08:40:44 PM 09-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
           "expires": "1791551250",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Free Practice 2 [English]",
-      "tournament": "DTM 2026",
-      "match_id": "4250133",
-      "status": "LIVE",
-      "startTime": "06:55:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/240p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/360p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/480p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/540p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/720p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB"
-          },
-          "cookie": "hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB",
-          "expires": "1791551856",
           "expire_date": ""
         }
       }
@@ -352,6 +319,36 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Sprint",
+      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+      "match_id": "139499",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Motorsports",
+      "title": "ADAC GT4 Germany - Race 1",
+      "tournament": "DTM 2026",
+      "match_id": "4250137",
+      "status": "UPCOMING",
+      "startTime": "03:05:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race 1",
+      "tournament": "DTM 2026",
+      "match_id": "4250135",
+      "status": "UPCOMING",
+      "startTime": "04:25:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
