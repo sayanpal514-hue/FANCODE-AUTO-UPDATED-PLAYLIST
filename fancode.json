@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:50:45 AM 09-10-2026",
+  "last update time": "09:55:46 AM 09-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -68,16 +68,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "Aramco Korea Championship 2026",
-      "match_id": "4250104",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
@@ -337,6 +327,16 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "West Bromwich Albion F.C. vs Birmingham City F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249589",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249589_52993_WBA_BIR_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
