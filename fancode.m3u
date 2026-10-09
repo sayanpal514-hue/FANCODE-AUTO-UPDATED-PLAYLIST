@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 09-10-2026 20:25
+#DATE:- 09-10-2026 20:30
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -14,3 +14,9 @@ https://in-mc-flive.fancode.com/mumbai/4249136_english_hls_26d7dbdd0213699_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png" group-title="Fancode-Football", Al-Fateh SC vs Al-Ahli Saudi FC [English]
 https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png" group-title="Fancode-Cricket", United Arab Emirates vs Namibia [English]
+https://in-mc-flive.fancode.com/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791557924~_GO=Generated~acl=/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/*~SessionID=cd185399e333ae9b_fc-app_sportsguruand_94ad8bae-bec0-4e~Signature=AXZsC1Bo04vM0cmXZXRaDFukW0m0Nl2Bei51X5FRJHFMg9cHeAxQ13OhZfOf9-jVKvET2iDjJj0yS2S_x486C2QfQ0YA
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Fancode-Cricket", Bangladesh Champions vs West Indies Champions [English]
+https://in-mc-flive.fancode.com/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791557925~_GO=Generated~acl=/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/*~SessionID=cd185399e333ae9b_fc-app_sportsguruand_9458dc7a-d5c8-42~Signature=AXZsC1DSMFZBexS32o6HipeYNZ6eWKW70R_0-8ZTdMiWX7ymcXBr2bXZnT1_42sVT425D3hhfBa6q8TQgxwF1my2rIEJ
