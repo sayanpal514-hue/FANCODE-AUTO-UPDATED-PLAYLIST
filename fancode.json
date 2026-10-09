@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:45:41 PM 09-10-2026",
+  "last update time": "08:50:42 PM 09-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Fujairah [English]",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250095",
-      "status": "LIVE",
-      "startTime": "06:45:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/240p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/360p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/480p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/540p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/720p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH"
-          },
-          "cookie": "hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH",
-          "expires": "1791551250",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Al-Kholood Club vs Al-Qadsiah FC [English]",
@@ -379,6 +346,26 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247645_53004_RVL_ATH_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Qualifying",
+      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+      "match_id": "139500",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Motorsports",
+      "title": "ADAC GT Masters - Race 1",
+      "tournament": "DTM 2026",
+      "match_id": "4250136",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
