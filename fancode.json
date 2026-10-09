@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:35:40 PM 09-10-2026",
+  "last update time": "10:40:42 PM 09-10-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Al-Fateh SC vs Al-Ahli Saudi FC [English]",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4249137",
-      "status": "LIVE",
-      "startTime": "08:25:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/240p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/360p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/480p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/540p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/720p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA"
-          },
-          "cookie": "hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA",
-          "expires": "1791557318",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "United Arab Emirates vs Namibia [English]",
@@ -446,6 +413,16 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247644_53004_RM_VIL_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Hong Kong, China vs Saudi Arabia",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+      "match_id": "4249745",
+      "status": "UPCOMING",
+      "startTime": "06:45:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249745_53092_HK_SDA_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
