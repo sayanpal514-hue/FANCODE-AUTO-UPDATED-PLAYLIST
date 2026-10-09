@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:05:40 PM 09-10-2026",
+  "last update time": "02:10:51 PM 09-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -68,76 +68,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs Bangladesh",
-      "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
-      "match_id": "4249693",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Oman vs Canada",
-      "tournament": "ICC CWC League 2 Oman, 2026",
-      "match_id": "4250113",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia vs Saudi Arabia",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249742",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249742_53092_MAS_SDA_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "China vs Hong Kong, China",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249743",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Maldives vs Singapore",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249744",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249744_53092_MDV_SIN_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249781",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139497",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Badminton",
@@ -347,6 +277,56 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Rayo Vallecano vs Athletic Club",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247645",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247645_53004_RVL_ATH_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250099",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Bolton Wanderers vs Stoke City F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249590",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "India Champions vs South Africa Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249220",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249663",
+      "status": "PAUSED",
+      "startTime": "05:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
       "language": "ENGLISH"
     }
   ]
