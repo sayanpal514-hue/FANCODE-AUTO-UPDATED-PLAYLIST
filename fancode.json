@@ -1,51 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:20:41 PM 09-10-2026",
+  "last update time": "05:25:40 PM 09-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Court 7",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4250187",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/240p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/360p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/480p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/540p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/720p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII"
-          },
-          "cookie": "hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII",
-          "expires": "1791604416",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Stadium Court",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248818",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Formula 1",
       "title": "Sprint Qualifying",
@@ -244,6 +201,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Badminton",
+      "title": "Semi-Final",
+      "tournament": "BWF Super 500 - Arctic Open 2026",
+      "match_id": "4250126",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": "ENGLISH"
     },
     {
