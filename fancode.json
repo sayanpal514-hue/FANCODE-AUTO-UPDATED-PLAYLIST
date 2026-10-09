@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:05:40 PM 09-10-2026",
+  "last update time": "06:10:42 PM 09-10-2026",
   "matches": [
-    {
-      "category": "Formula 1",
-      "title": "Sprint Qualifying",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139498",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Emirates Blues vs Fujairah",
