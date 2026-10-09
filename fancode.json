@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:50:46 PM 09-10-2026",
+  "last update time": "03:55:41 PM 09-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -68,26 +68,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Badminton",
-      "title": "Quarter-Finals",
-      "tournament": "BWF Super 500 - Arctic Open 2026",
-      "match_id": "4250125",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Motorsports",
-      "title": "Free Practice 1",
-      "tournament": "DTM 2026",
-      "match_id": "4250132",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
@@ -260,6 +240,36 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Motorsports",
+      "title": "Qualifying 1",
+      "tournament": "DTM 2026",
+      "match_id": "4250134",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248821",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248822",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Football",
       "title": "West Bromwich Albion F.C. vs Birmingham City F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -310,6 +320,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Football",
+      "title": "Deportivo Alaves vs Atletico de Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247639",
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247639_53004_ALA_ATM_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Cricket",
       "title": "India Champions vs South Africa Champions",
       "tournament": "World Championship of Legends, 2026",
@@ -321,12 +341,32 @@
     },
     {
       "category": "Cricket",
+      "title": "Victoria vs South Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249662",
+      "status": "PAUSED",
+      "startTime": "09:50:00 AM 08-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
       "title": "Tasmania vs New South Wales",
       "tournament": "Sheffield Shield, 2026/27",
       "match_id": "4249663",
       "status": "PAUSED",
       "startTime": "05:00:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Queensland vs Western Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249664",
+      "status": "PAUSED",
+      "startTime": "08:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
       "language": "ENGLISH"
     }
   ]
