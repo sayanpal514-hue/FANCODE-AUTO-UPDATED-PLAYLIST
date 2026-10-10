@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:35:38 PM 10-10-2026",
+  "last update time": "08:40:41 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -136,6 +136,39 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "ADAC GT4 Germany - Race 2 [English]",
+      "tournament": "DTM 2026",
+      "match_id": "4250152",
+      "status": "LIVE",
+      "startTime": "08:45:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/240p.m3u8?hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/360p.m3u8?hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/480p.m3u8?hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/540p.m3u8?hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/720p.m3u8?hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB"
+          },
+          "cookie": "hdntl=Expires=1791731068~_GO=Generated~acl=/mumbai/4250152_english_hls_6367ecadbf34491_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_00a5a713-76a9-43~Signature=AXZsC1Au6beDRnR19t7aZyTfcAM0YGNMtvcYB-kUypUzgU4-J81MV6VEDS82ZbUeUWSNlv9nOdP7VkuXbBM_ynflOUgB",
+          "expires": "1791731068",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "India Champions vs South Africa Champions [English]",
       "tournament": "World Championship of Legends, 2026",
@@ -182,16 +215,6 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "ADAC GT4 Germany - Race 2",
-      "tournament": "DTM 2026",
-      "match_id": "4250152",
-      "status": "UPCOMING",
-      "startTime": "08:45:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "FC Barcelona vs Getafe CF",
       "tournament": "LALIGA 2026-27",
@@ -203,7 +226,7 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC",
+      "title": "Dubai vs TBC",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250100",
       "status": "UPCOMING",
@@ -372,16 +395,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248827",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "Southampton F.C. vs Portsmouth F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -479,6 +492,16 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249140_53025_ASF_ALTW_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Racing Club de Santander vs Valencia CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247640",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247640_53004_RAC_VAL_FC-Web.png",
       "language": "ENGLISH"
     },
     {
