@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:55:40 PM 10-10-2026",
+  "last update time": "08:00:49 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -415,16 +415,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248825",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "Southampton F.C. vs Portsmouth F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -502,6 +492,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247638_53004_RB_OSN_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "RCD Mallorca vs Las Palmas",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249266",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
       "language": "ENGLISH"
     },
     {
