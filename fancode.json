@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:25:38 PM 10-10-2026",
+  "last update time": "10:30:48 PM 10-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -423,6 +423,16 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247640_53004_RAC_VAL_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Cádiz vs Sporting de Gijón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249267",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
       "language": "ENGLISH"
     },
     {
