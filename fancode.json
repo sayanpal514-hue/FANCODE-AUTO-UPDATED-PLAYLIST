@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:05:38 PM 10-10-2026",
+  "last update time": "10:10:43 PM 10-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
           "expires": "1791732300",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Bolton Wanderers vs Stoke City F.C. [English]",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4249590",
-      "status": "LIVE",
-      "startTime": "07:30:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/240p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/360p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/480p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/540p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/720p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG"
-          },
-          "cookie": "hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG",
-          "expires": "1791726705",
           "expire_date": ""
         }
       }
@@ -336,6 +303,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Badminton",
+      "title": "Finals",
+      "tournament": "BWF Super 500 - Arctic Open 2026",
+      "match_id": "4250127",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": "ENGLISH"
     },
     {
