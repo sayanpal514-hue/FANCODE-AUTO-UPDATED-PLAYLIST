@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:40:41 PM 10-10-2026",
+  "last update time": "08:45:44 PM 10-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Australia vs South Africa [English]",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249781",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/240p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/360p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/480p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/540p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/720p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL"
-          },
-          "cookie": "hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
-          "expires": "1791702269",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Badminton",
       "title": "Semi-Final [English]",
@@ -395,6 +362,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248827",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Football",
       "title": "Southampton F.C. vs Portsmouth F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -532,6 +509,16 @@
       "status": "PAUSED",
       "startTime": "11:00:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Australia vs South Africa",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249781",
+      "status": "PAUSED",
+      "startTime": "01:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH"
     }
   ]
