@@ -1,10 +1,7 @@
 #EXTM3U
-#DATE:- 10-10-2026 19:20
+#DATE:- 10-10-2026 19:25
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Fancode-Cricket", Bangladesh vs Afghanistan [English]
-https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b543_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791725474~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b543_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c73a3b6c-85aa-4c~Signature=AXZsC1D4EGEJARVbb7WdUYP4jns6rN-33jmuRsi4e4vYVRPcEg3IleRYZ5qWp9o3_5EDtf2DTNk6wTNzxRz6Hrxt9wQA
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode-Cricket", Australia vs South Africa [English]
 https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL
@@ -18,14 +15,11 @@ https://in-mc-flive.fancode.com/mumbai/4250196_english_hls_79cd94c15c59965_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Fancode-Badminton", Semi-Final [English]
 https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791703484~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_10506779-8f62-46~Signature=AXZsC1A6iqxxY-pBoGhI8d5O3_dJ0JShJzDbq28cGOWHIV4rfpXJAwEmZse4ksnqHp2LxPsPxo88OUuMkk3d7X-aqY8H
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249589_52993_WBA_BIR_fc-web.jpg" group-title="Fancode-Football", West Bromwich Albion F.C. vs Birmingham City F.C. [English]
-https://in-mc-flive.fancode.com/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791717511~_GO=Generated~acl=/mumbai/4249589_english_hls_3388629ec891791_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8dd88df2-3b83-4b~Signature=AXZsC1CF7nm3qCdcBUinkaTit9EdsMCYctWmcSNuGqEUOnuxrBb-79Q5Tgulbf1td9RRjfwrxZcCN9obmW09FMs5UUMP
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250094_53103_DUB_FUJ_FC-WEB.jpg" group-title="Fancode-Cricket", Fujairah vs Dubai [English]
-https://in-mc-flive.fancode.com/mumbai/4250098_english_hls_7b08f03c4185140_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791717510~_GO=Generated~acl=/mumbai/4250098_english_hls_7b08f03c4185140_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_51206cd8-9689-4a~Signature=AXZsC1AsUuoljgVyWlQOQ0K3YeZGdTQeWSabsiXBNJWsWxN5y4PJu0BOpp_rkGpAbcg4Hn5lV6m9nrB7woTWv00h2r8E
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Fancode-Motorsports", ADAC GT Masters - Race 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4250136_english_hls_7798a46a0911812_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791723007~_GO=Generated~acl=/mumbai/4250136_english_hls_7798a46a0911812_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e1e5a140-a2c9-42~Signature=AXZsC1CU5-66V9HJ6BQFXvKGT7VQnIWqOsqDuSrx42p72DN2XAkW-GlMJcDnW2_0gASkjquhnvBt8H_8B9B7WmTXnPIC
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg" group-title="Fancode-Cricket", Emirates Blues vs Abu Dhabi [English]
 https://in-mc-flive.fancode.com/mumbai/4250099_english_hls_2e652614b128379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791725475~_GO=Generated~acl=/mumbai/4250099_english_hls_2e652614b128379_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6e80e541-7bc0-41~Signature=AXZsC1CEkrbcYL3E3oKNSEThk5kc4HwuPJMm1FiGmkdquAdFjTr6LT3maeWWqreXHqE30eOddwpEkmakd6HM7QBq9bMI
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg" group-title="Fancode-Football", Bolton Wanderers vs Stoke City F.C. [English]
+https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG
