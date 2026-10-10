@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:35:45 PM 10-10-2026",
+  "last update time": "12:40:41 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -103,6 +103,39 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Australia vs South Africa [English]",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249781",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/240p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/360p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/480p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/540p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/720p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL"
+          },
+          "cookie": "hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL",
+          "expires": "1791702269",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "MotoGP",
       "title": "Indonesia GP [English]",
       "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
@@ -131,39 +164,6 @@
           },
           "cookie": "hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
           "expires": "1791678036",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 - World Feed [English]",
-      "tournament": "Baycurrent Classic 2026",
-      "match_id": "4249776",
-      "status": "LIVE",
-      "startTime": "08:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/240p.m3u8?hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/360p.m3u8?hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/480p.m3u8?hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/540p.m3u8?hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/720p.m3u8?hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO"
-          },
-          "cookie": "hdntl=Expires=1791687120~_GO=Generated~acl=/mumbai/4249776_english_hls_6500bfae3023968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_50dfd29f-cc03-4d~Signature=AXZsC1Bl-3GnbkYlyseWtpj2IUjmYbJvbgYouZd6c0J5SgdPCsx68vbo9hOE8iVcfFOiKYSO6bpJUAjuDA_zfsFyjnwO",
-          "expires": "1791687120",
           "expire_date": ""
         }
       }
@@ -690,16 +690,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Australia vs South Africa",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249781",
-      "status": "PAUSED",
-      "startTime": "01:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH"
     }
   ]
