@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:35:41 PM 10-10-2026",
+  "last update time": "06:40:42 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -131,39 +131,6 @@
           },
           "cookie": "hdntl=Expires=1791719960~_GO=Generated~acl=/mumbai/4248823_english_hls_59941943ff83225_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_906136b4-a4a7-44~Signature=AXZsC1AHjrZF5vanei2U9Vi-cbovmFAUgQYVyHfQ3C7HNXY3FVd1dM_QYL1DxephRpUVHIgJd9yDbK2l_PWQ6vCkvC0H",
           "expires": "1791719960",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Show Court 3 [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248824",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/240p.m3u8?hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/360p.m3u8?hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/480p.m3u8?hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/540p.m3u8?hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/720p.m3u8?hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH"
-          },
-          "cookie": "hdntl=Expires=1791719962~_GO=Generated~acl=/mumbai/4248824_english_hls_c8079e2a8737683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d25cac95-fec9-4e~Signature=AXZsC1DbbYo99znyocEyS8jMqBosD1IO4EFijm6V4MfQxYrbIx27lcxuEEZE64cot_5-QbIr6YBUKqu-zbmJKcDNMXkH",
-          "expires": "1791719962",
           "expire_date": ""
         }
       }
@@ -617,6 +584,16 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247642_53004_RS_COR_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Almería vs Leganes",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249265",
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
       "language": "ENGLISH"
     },
     {
