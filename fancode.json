@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:25:39 AM 11-10-2026",
+  "last update time": "03:31:04 AM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -204,16 +204,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Formula 1",
-      "title": "Race",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139501",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "Elche CF vs RC Celta",
       "tournament": "LALIGA 2026-27",
@@ -221,16 +211,6 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247641_53004_ELC_CEV_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Motorsports",
-      "title": "F1 Kids 2026",
-      "tournament": "F1 Kids 2026",
-      "match_id": "4250200",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
       "language": "ENGLISH"
     },
     {
@@ -321,6 +301,26 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Hobart Hurricanes Women vs ACT Meteors",
+      "tournament": "T20 Spring Challenge, 2026",
+      "match_id": "4249784",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249784_53097_HB-W_AM-W_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Sydney Sixers Women vs Brisbane Heat Women",
+      "tournament": "T20 Spring Challenge, 2026",
+      "match_id": "4249785",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249785_53097_SS-W_BH-W_FC-Web.png",
       "language": "ENGLISH"
     },
     {
