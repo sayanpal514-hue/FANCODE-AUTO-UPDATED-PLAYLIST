@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:15:45 AM 11-10-2026",
+  "last update time": "03:20:43 AM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -234,16 +234,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Motorsports",
-      "title": "ADAC GT Masters - Race 2",
-      "tournament": "DTM 2026",
-      "match_id": "4250138",
-      "status": "UPCOMING",
-      "startTime": "05:55:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "Real Sociedad vs Deportivo de La Coruna",
       "tournament": "LALIGA 2026-27",
@@ -351,6 +341,16 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249749_53092_HK_MDV_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "China vs Saudi Arabia",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+      "match_id": "4249750",
+      "status": "UPCOMING",
+      "startTime": "06:45:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249750_53092_CHN_SDA_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
