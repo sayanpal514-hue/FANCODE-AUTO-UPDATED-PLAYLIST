@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:25:41 PM 10-10-2026",
+  "last update time": "03:31:04 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -440,16 +440,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139500",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Emirates Blues vs Abu Dhabi",
       "tournament": "Emirates D10, 2026",
@@ -647,6 +637,16 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249660_53086_USA_UAE_fc-web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "India Champions vs Bangladesh Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249237",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249237_53069_IAC_BGC_FC-Web_1790764440982.png",
       "language": "ENGLISH"
     },
     {
