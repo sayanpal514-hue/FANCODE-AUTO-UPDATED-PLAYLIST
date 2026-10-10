@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:40:41 AM 11-10-2026",
+  "last update time": "02:45:42 AM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -244,16 +244,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Motorsports",
-      "title": "Race 2",
-      "tournament": "DTM 2026",
-      "match_id": "4250141",
-      "status": "UPCOMING",
-      "startTime": "07:25:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "Real Sociedad vs Deportivo de La Coruna",
       "tournament": "LALIGA 2026-27",
@@ -341,6 +331,16 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Hobart Hurricanes Women vs ACT Meteors",
+      "tournament": "T20 Spring Challenge, 2026",
+      "match_id": "4249784",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249784_53097_HB-W_AM-W_FC-Web.png",
       "language": "ENGLISH"
     },
     {
