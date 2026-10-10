@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:40:41 PM 10-10-2026",
+  "last update time": "12:45:45 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -520,6 +520,16 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Motorsports",
+      "title": "ADAC GT Masters - Race 1",
+      "tournament": "DTM 2026",
+      "match_id": "4250136",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
