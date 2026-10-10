@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:40:42 PM 10-10-2026",
+  "last update time": "06:45:46 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -131,39 +131,6 @@
           },
           "cookie": "hdntl=Expires=1791719960~_GO=Generated~acl=/mumbai/4248823_english_hls_59941943ff83225_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_906136b4-a4a7-44~Signature=AXZsC1AHjrZF5vanei2U9Vi-cbovmFAUgQYVyHfQ3C7HNXY3FVd1dM_QYL1DxephRpUVHIgJd9yDbK2l_PWQ6vCkvC0H",
           "expires": "1791719960",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Court 7 [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4250197",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/240p.m3u8?hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/360p.m3u8?hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/480p.m3u8?hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/540p.m3u8?hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/720p.m3u8?hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA"
-          },
-          "cookie": "hdntl=Expires=1791719964~_GO=Generated~acl=/mumbai/4250197_english_hls_9e1cdbe57e66751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_737b23d0-dc00-47~Signature=AXZsC1DuuhIsan2ZkjH1QQtogm6ZQF2P8BIXw5uPYoSiZOwMceW2hFWpF0mzFx3bes7aEk9kAobj-QwHlXxytfGKCXcA",
-          "expires": "1791719964",
           "expire_date": ""
         }
       }
@@ -614,6 +581,16 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249237_53069_IAC_BGC_FC-Web_1790764440982.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Real Betis vs CA Osasuna",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247638",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247638_53004_RB_OSN_FC-Web.png",
       "language": "ENGLISH"
     },
     {
