@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:25:38 PM 10-10-2026",
+  "last update time": "11:30:52 PM 10-10-2026",
   "matches": [
-    {
-      "category": "Badminton",
-      "title": "Semi-Final [English]",
-      "tournament": "BWF Super 500 - Arctic Open 2026",
-      "match_id": "4250126",
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/240p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/360p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/480p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/540p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/720p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM"
-          },
-          "cookie": "hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM",
-          "expires": "1791732300",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "India Champions vs South Africa Champions [English]",
@@ -356,6 +323,16 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+      "match_id": "139501",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
