@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:50:42 PM 10-10-2026",
+  "last update time": "06:55:39 PM 10-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -197,39 +197,6 @@
           },
           "cookie": "hdntl=Expires=1791703484~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_10506779-8f62-46~Signature=AXZsC1A6iqxxY-pBoGhI8d5O3_dJ0JShJzDbq28cGOWHIV4rfpXJAwEmZse4ksnqHp2LxPsPxo88OUuMkk3d7X-aqY8H",
           "expires": "1791703484",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race 1 [English]",
-      "tournament": "DTM 2026",
-      "match_id": "4250135",
-      "status": "LIVE",
-      "startTime": "04:25:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/240p.m3u8?hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/360p.m3u8?hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/480p.m3u8?hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/540p.m3u8?hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/720p.m3u8?hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH"
-          },
-          "cookie": "hdntl=Expires=1791715692~_GO=Generated~acl=/mumbai/4250135_english_hls_032be3185687352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_84ffb437-a3d1-4d~Signature=AXZsC1CCgRqC4gc7pf77FQqJN3Hc0w3M0mcXiTlWl6gy9yNt7TE27dWei7d0AG4ZtPqPv3Rr61ot6Av33sdtR2gvafQH",
-          "expires": "1791715692",
           "expire_date": ""
         }
       }
@@ -471,6 +438,16 @@
       "status": "UPCOMING",
       "startTime": "09:20:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "MotoGP",
+      "title": "Indonesia GP",
+      "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
+      "match_id": "139977",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
       "language": "ENGLISH"
     },
     {
