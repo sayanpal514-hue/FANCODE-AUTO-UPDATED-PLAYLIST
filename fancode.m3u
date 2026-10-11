@@ -1,16 +1,13 @@
 #EXTM3U
-#DATE:- 11-10-2026 22:25
+#DATE:- 11-10-2026 22:30
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Fancode-Motorsports", Race 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4250141_english_hls_561c78b43868381_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791812689~_GO=Generated~acl=/mumbai/4250141_english_hls_561c78b43868381_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7beb005a-9a16-43~Signature=AXZsC1ClCGLChaFDVoBIunBRz3KkRXFaaNKWHUgwO22odn9bq6KwHLFT5yZMdZspUPvp2325imP1ndd7MI69OZ0jfokO
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png" group-title="Fancode-Football", Almería vs Leganes [English]
-https://in-mc-flive.fancode.com/mumbai/4249265_english_hls_43a8ef40d025642_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791813918~_GO=Generated~acl=/mumbai/4249265_english_hls_43a8ef40d025642_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8322ece-7615-4a~Signature=AXZsC1C-r4Lr9XaRjWR2KpMRRQmZVEo7XUncUrzpJi75FQwO8PQ3dYO67lpjAbODHt4QRGESU-Qpx8UDdM3m8ZcQPZYA
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249660_53086_USA_UAE_fc-web.png" group-title="Fancode-Cricket", United Arab Emirates vs USA [English]
 https://in-mc-flive.fancode.com/mumbai/4249660_english_hls_1b328109ce89261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791816988~_GO=Generated~acl=/mumbai/4249660_english_hls_1b328109ce89261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_78f169d6-1e4e-4f~Signature=AXZsC1CkxlfP_NENbD_DIxNyL1yKtYik7jlo_liON3mtMR-UEA7AB9i_oyaCSrMSGqqniSNnCmBvrX-_RhVBVe1IW7sF
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249237_53069_IAC_BGC_FC-Web_1790764440982.png" group-title="Fancode-Cricket", Bangladesh Champions vs India Champions [English]
 https://in-mc-flive.fancode.com/mumbai/4249237_english_hls_659367def238272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791816990~_GO=Generated~acl=/mumbai/4249237_english_hls_659367def238272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18748786-73b0-42~Signature=AXZsC1CFhnXfjc72yp4hi9q12tDYhrL8Bh3RdRsB-wl2mEPzyaMn_X-nK2xnretKrQdyJ6V4EytNwqmLt0GOT8rBNZ8K
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png" group-title="Fancode-Football", RCD Mallorca vs Las Palmas [English]
+https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J
