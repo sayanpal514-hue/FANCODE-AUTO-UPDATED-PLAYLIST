@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:35:38 AM 12-10-2026",
+  "last update time": "12:40:43 AM 12-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -84,39 +84,6 @@
     },
     {
       "category": "Football",
-      "title": "RCD Mallorca vs Las Palmas [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249266",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/240p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/360p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/480p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/540p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/720p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J"
-          },
-          "cookie": "hdntl=Expires=1791821930~_GO=Generated~acl=/mumbai/4249266_english_hls_cbddaf576b78949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12522996-1701-49~Signature=AXZsC1BSVJfCMCoaW7OhL2_GuaV7UzoSKyRf8sHxaCpDmE2401_LaBkfAgXSS_4LUXvTBxRKBN5JaD3-96JhhwimoC4J",
-          "expires": "1791821930",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
       "title": "Al-Shabab FC vs Al-Taawoun FC [English]",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4249140",
@@ -150,13 +117,36 @@
     },
     {
       "category": "Football",
-      "title": "Cádiz vs Sporting de Gijón",
+      "title": "Cádiz vs Sporting de Gijón [English]",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": "4249267",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/240p.m3u8?hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/360p.m3u8?hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/480p.m3u8?hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/540p.m3u8?hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/720p.m3u8?hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D"
+          },
+          "cookie": "hdntl=Expires=1791831131~_GO=Generated~acl=/mumbai/4249267_english_hls_77e0a2cee866956_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4a40135f-d217-4c~Signature=AXZsC1CaeYaz6jZiRShr9XgQyTNHrfysrGJj5SLyvf0K2Ckq1TjtjKXdY9apVbyUF62JE7FO9fOmeu_lGpxGxboLpG0D",
+          "expires": "1791831131",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -456,6 +446,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249790_53097_ST-W_BH-W_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Kyoto Sanga vs Ratchaburi",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248705",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248705_53053_KYS_RAT_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
