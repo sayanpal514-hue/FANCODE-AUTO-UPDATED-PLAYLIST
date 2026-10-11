@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:25:41 AM 11-10-2026",
+  "last update time": "09:31:11 AM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1791767178~_GO=Generated~acl=/mumbai/4249745_english_hls_48460d7a6f7842_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0bdadb9a-c65b-49~Signature=AXZsC1ByubI1n9Zn3kB0F-nNGCh7vYn_aB9_iDiI8y04bIg8lOcoDTNss5nkAns8rpfuH3SArOZEAEz1Df7LZkOImc8J",
           "expires": "1791767178",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Maldives vs Malaysia [English]",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249746",
-      "status": "LIVE",
-      "startTime": "06:45:00 AM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249746_53092_MAS_MDV_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/240p.m3u8?hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/360p.m3u8?hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/480p.m3u8?hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/540p.m3u8?hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/720p.m3u8?hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA"
-          },
-          "cookie": "hdntl=Expires=1791767179~_GO=Generated~acl=/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89f53045-b300-4e~Signature=AXZsC1CSt8BId-8Uz9AgXqVIZ1L14UQ-aOhpcbj2o7eF1USqMyuyOGKlUx0vYcoLuUBXU9vHlsvyiYocsCneXba0kVsA",
-          "expires": "1791767179",
           "expire_date": ""
         }
       }
@@ -650,6 +617,16 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Melbourne Renegades Women vs Perth Scorchers Women",
+      "tournament": "T20 Spring Challenge, 2026",
+      "match_id": "4249786",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249786_53097_MR-W_PS-W_FC-Web.png",
       "language": "ENGLISH"
     },
     {
