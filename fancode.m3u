@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 11-10-2026 16:25
+#DATE:- 11-10-2026 16:31
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -23,6 +23,12 @@ https://in-mc-flive.fancode.com/mumbai/4250114_english_hls_59cf06134d58578_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Fancode-Badminton", Finals [English]
 https://in-mc-flive.fancode.com/mumbai/4250127_english_hls_1c1faf497857854_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791791406~_GO=Generated~acl=/mumbai/4250127_english_hls_1c1faf497857854_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a8ee644-0c04-4b~Signature=AXZsC1DR-Ebfw-i_tXmQoUbcRP8T1zdvm_36QV-OzWiEddx_wOUTE0KyLBiw9gvfhzx-GINluO_tM0n42Vtxgp8VWAkH
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249591_52993_SOU_PRM_fc-web.jpg" group-title="Fancode-Football", Southampton F.C. vs Portsmouth F.C. [English]
+https://in-mc-flive.fancode.com/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791802304~_GO=Generated~acl=/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c019b684-37cf-47~Signature=AXZsC1AiOLJUV7JL71j4l0cfYWmo76ZZDzl6bU3PjqWILmvYUnmUwhZei_v9sm9Rs9WYqW-6r_2s90PpZ-FE3jYuSR0H
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png" group-title="Fancode-Cricket", Australia Champions vs West Indies Champions [English]
+https://in-mc-flive.fancode.com/mumbai/4249225_english_hls_b9b3ad34e157751_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791802303~_GO=Generated~acl=/mumbai/4249225_english_hls_b9b3ad34e157751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9791a9d3-bda1-4c~Signature=AXZsC1BKpCtSIsfWAL2oPMxue0tIs1C_WQd9yemdh60IpSScgGs2wt4zyOjVZvtYU89WE6T7baOBGqqek9ELkjkiACgD
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg" group-title="Fancode-Formula 1", Race [Hindi]
 https://in-mc-flive.fancode.com/mumbai/139501_hindi_hls_1aa6efae9485663_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791712601~_GO=Generated~acl=/mumbai/139501_hindi_hls_1aa6efae9485663_1ta-di_h264/*~SessionID=c2f3cc15ee957a00_fc-app_sportsguruand_3ef280bd-8e2e-4f~Signature=AXZsC1DVuCspS2qymCraeX2sc_lgWxPo6y4a3nvRDUtp_6sb2LEWm1yCeeukZw5_ztm2WrLSwqzWiLZxKIuN8ykZNTEI
