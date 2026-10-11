@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:05:42 AM 11-10-2026",
+  "last update time": "09:10:43 AM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -202,6 +202,39 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Bangladesh Women vs Australia Women [English]",
+      "tournament": "Bangladesh Women tour of Australia, 2026",
+      "match_id": "4250150",
+      "status": "LIVE",
+      "startTime": "09:20:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/240p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/360p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/480p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/540p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/720p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP"
+          },
+          "cookie": "hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP",
+          "expires": "1791776269",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "MotoGP",
       "title": "Indonesia GP [English]",
       "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
@@ -233,16 +266,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Australia Women vs Bangladesh Women",
-      "tournament": "Bangladesh Women tour of Australia, 2026",
-      "match_id": "4250150",
-      "status": "UPCOMING",
-      "startTime": "09:20:00 AM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Tennis",
