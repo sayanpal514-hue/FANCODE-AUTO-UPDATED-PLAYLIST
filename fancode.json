@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:05:41 PM 11-10-2026",
+  "last update time": "05:10:43 PM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -358,16 +358,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Elche CF vs RC Celta",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247641",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247641_53004_ELC_CEV_FC-Web.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Motorsports",
