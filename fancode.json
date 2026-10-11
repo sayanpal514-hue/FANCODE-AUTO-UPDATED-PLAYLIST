@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:05:43 PM 11-10-2026",
+  "last update time": "01:10:45 PM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -335,7 +335,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Kuwait vs Myanmar [English]",
+      "title": "Myanmar vs Kuwait [English]",
       "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
       "match_id": "4249730",
       "status": "LIVE",
