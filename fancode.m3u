@@ -1,13 +1,7 @@
 #EXTM3U
-#DATE:- 11-10-2026 21:35
+#DATE:- 11-10-2026 21:40
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4248825_english_hls_df986c1e9b45887_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791805954~_GO=Generated~acl=/mumbai/4248825_english_hls_df986c1e9b45887_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4850f5d7-4b8f-4e~Signature=AXZsC1AxPTfgfvsKbEgWtBpmw4BZ0OvfyocSZspdg9_n2K1697og8sEPTJFh2-SQZlWrpVue0n3O4vPN2hB9KF1M2iEN
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", Stadium Court [English]
-https://in-mc-flive.fancode.com/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791811456~_GO=Generated~acl=/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8514b6e5-8f15-4a~Signature=AXZsC1BqDMy6YxPkm9j4dCpCxw-fIcQFunlpyp8l8OxdHD3E9L9izXebe0m6EcRw4WwbStMB6V_E_K9BjUR_5aXJfooJ
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Fancode-Motorsports", Race 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250141_english_hls_561c78b43868381_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791812689~_GO=Generated~acl=/mumbai/4250141_english_hls_561c78b43868381_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7beb005a-9a16-43~Signature=AXZsC1ClCGLChaFDVoBIunBRz3KkRXFaaNKWHUgwO22odn9bq6KwHLFT5yZMdZspUPvp2325imP1ndd7MI69OZ0jfokO
