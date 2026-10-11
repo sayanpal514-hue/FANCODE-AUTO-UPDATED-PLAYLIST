@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:40:43 AM 12-10-2026",
+  "last update time": "12:45:46 AM 12-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -456,6 +456,16 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248705_53053_KYS_RAT_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Pohang Steelers vs Johor Darul Ta'zim",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248706",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248706_53053_PHG_JDT_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
