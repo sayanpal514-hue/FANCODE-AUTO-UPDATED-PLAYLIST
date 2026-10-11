@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 11-10-2026 09:05
+#DATE:- 11-10-2026 09:10
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -20,6 +20,9 @@ https://in-mc-flive.fancode.com/mumbai/4249747_english_hls_c202f0037768264_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png" group-title="Fancode-Golf", Day 4 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249777_english_hls_e541e1791752237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791773244~_GO=Generated~acl=/mumbai/4249777_english_hls_e541e1791752237_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a3f0be2c-5cf3-40~Signature=AXZsC1D-Q7nZgMHQgTHc-a8TLETzPj8Twu_bTMbwy6OGmQTNxOQgbuiQhqX6g4rI_3A3pI2BRV_cTNH5jMOiRO5kvusK
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Fancode-Cricket", Bangladesh Women vs Australia Women [English]
+https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png" group-title="Fancode-MotoGP", Indonesia GP [English]
 https://in-mc-flive.fancode.com/mumbai/139977_english_hls_a73d98250051778_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791767790~_GO=Generated~acl=/mumbai/139977_english_hls_a73d98250051778_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_957691ac-3691-4f~Signature=AXZsC1COVqEy34GdwZ11JOFioF8ubMcJMc6Nq_PjfZo8m195U1nuI3ulK5kyMi9I2G-fMz5MN2Wx2mWg7rLQkQJUTywK
