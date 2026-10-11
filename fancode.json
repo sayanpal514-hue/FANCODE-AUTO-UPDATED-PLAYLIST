@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:45:47 AM 11-10-2026",
+  "last update time": "08:50:50 AM 11-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -295,16 +295,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "Stadium Court",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248828",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Canada vs Nepal",
       "tournament": "ICC CWC League 2 Oman, 2026",
@@ -342,26 +332,6 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying 2",
-      "tournament": "DTM 2026",
-      "match_id": "4250140",
-      "status": "UPCOMING",
-      "startTime": "12:55:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Badminton",
-      "title": "Finals",
-      "tournament": "BWF Super 500 - Arctic Open 2026",
-      "match_id": "4250127",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": "ENGLISH"
     },
     {
@@ -542,6 +512,36 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Qatar vs Mongolia",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249733",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Myanmar vs Thailand",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249734",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bhutan vs Kuwait",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249735",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
       "language": "ENGLISH"
     },
     {
