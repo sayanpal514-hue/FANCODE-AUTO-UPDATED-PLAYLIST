@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 11-10-2026 11:15
+#DATE:- 11-10-2026 11:20
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -35,3 +35,12 @@ https://in-mc-flive.fancode.com/mumbai/4248828_english_hls_7ad249247189786_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png" group-title="Fancode-Cricket", Nepal vs Canada [English]
 https://in-mc-flive.fancode.com/mumbai/4250114_english_hls_59cf06134d58578_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791782323~_GO=Generated~acl=/mumbai/4250114_english_hls_59cf06134d58578_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_972b7858-6679-4c~Signature=AXZsC1DB_zKIy4aUZSX_D7xd3ktYcSxGH2yy8X_GJut7yYIxFAAi4uDIsHadDdpMHR2sbby8mSKNS6nEBD_XWJM4quQB
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode-Cricket", Kuwait vs Myanmar [English]
+https://in-mc-flive.fancode.com/mumbai/4249730_english_hls_5f7bebb2f767729_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791784142~_GO=Generated~acl=/mumbai/4249730_english_hls_5f7bebb2f767729_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fb9a4878-8442-4c~Signature=AXZsC1Amyo5awGYWBcLYV3Zsgi6IQc3Km7TPCMUS7saaUd2UCIgtTaafgc6jgaS0uB5TysI2sWcTPXL1sJzxITm876EP
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode-Cricket", Bhutan vs Qatar [English]
+https://in-mc-flive.fancode.com/mumbai/4249731_english_hls_fbc831ce2b56929_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791784143~_GO=Generated~acl=/mumbai/4249731_english_hls_fbc831ce2b56929_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bfbae9dc-e630-40~Signature=AXZsC1A1T6igvNgvaN2nVZ3keTvKvT7BYupzPldueHnqTQIrIGvM7P6YvcDRinQWoB8nyr3tDKjRVvR5YmPnqP2TTZsN
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode-Cricket", Mongolia vs Bahrain [English]
+https://in-mc-flive.fancode.com/mumbai/4249732_english_hls_c2f53853fd85845_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791784144~_GO=Generated~acl=/mumbai/4249732_english_hls_c2f53853fd85845_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0dcbc76c-1738-4a~Signature=AXZsC1BGymr8sG3TP0RANDneSHldn6cjjEF1nC2OYo6Cag9q-X47jmfefT04QaZN1Hyv-ZEeb31WkBA7C0PHsqu4HMcE
