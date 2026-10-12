@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:15:46 AM 12-10-2026",
+  "last update time": "10:20:53 AM 12-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Malaysia vs Singapore [English]",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
-      "match_id": "4249748",
-      "status": "LIVE",
-      "startTime": "06:45:00 AM 12-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249748_53092_MAS_SIN_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/240p.m3u8?hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/360p.m3u8?hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/480p.m3u8?hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/540p.m3u8?hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/720p.m3u8?hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII"
-          },
-          "cookie": "hdntl=Expires=1791853680~_GO=Generated~acl=/mumbai/4249748_english_hls_a4867fb1476246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0d5d38ab-b094-47~Signature=AXZsC1DcDxYb8PmTsIUPG5yjdtfrr4omNCxPM_s-2vA6JYzZf527eYUuMIPtlqPGwGyRwvcE4r7U3eCBhDdDURmdoNII",
-          "expires": "1791853680",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Saudi Arabia vs China [English]",
@@ -485,6 +452,16 @@
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248834",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248835",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
