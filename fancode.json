@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:35:47 PM 12-10-2026",
+  "last update time": "02:40:50 PM 12-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -230,39 +230,6 @@
           },
           "cookie": "hdntl=Expires=1791863371~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_924e622e-5256-4d~Signature=AXZsC1CaTtXgFBaQqRgyhrSlE30QoTkIX6PgoWAQQhpMXOGltFZy74Rs2R3NE2Q7EQU2TZmZdLDxHfe_eFBicbMh9PoM",
           "expires": "1791863371",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Qatar vs Mongolia [English]",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249733",
-      "status": "LIVE",
-      "startTime": "11:30:00 AM 12-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/240p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/360p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/480p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/540p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/720p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM"
-          },
-          "cookie": "hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM",
-          "expires": "1791870644",
           "expire_date": ""
         }
       }
@@ -585,6 +552,16 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248702_53053_SDD_AHS_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Seeb Club vs Al Hussein",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248976",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248976_53057_ALS_HUS_fc-web_1789025065281.jpg",
       "language": "ENGLISH"
     }
   ]
