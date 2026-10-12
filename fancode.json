@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:25:48 AM 12-10-2026",
+  "last update time": "10:31:28 AM 12-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -458,16 +458,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248835",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Sydney Thunder Women vs Brisbane Heat Women",
       "tournament": "T20 Spring Challenge, 2026",
@@ -545,6 +535,16 @@
       "status": "UPCOMING",
       "startTime": "07:15:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "ICR Falcons vs All Stars Cardinals",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250164",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     },
     {
