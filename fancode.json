@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:05:37 PM 12-10-2026",
+  "last update time": "07:10:43 PM 12-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,13 +170,36 @@
     },
     {
       "category": "Football",
-      "title": "Pakhtakor Tashkent vs Al Qadisiyah",
+      "title": "Pakhtakor Tashkent vs Al Qadisiyah [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248696",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:15:00 PM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248696_53053_PT_ALQ_FC-WEB.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/240p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/360p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/480p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/540p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/720p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G"
+          },
+          "cookie": "hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G",
+          "expires": "1791898506",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
