@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:25:37 PM 12-10-2026",
+  "last update time": "09:30:53 PM 12-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Australia vs South Africa [English]",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249781",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/240p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/360p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/480p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/540p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/720p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI"
-          },
-          "cookie": "hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI",
-          "expires": "1791903958",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Pakhtakor Tashkent vs Al Qadisiyah [English]",
@@ -493,6 +460,16 @@
       "status": "PAUSED",
       "startTime": "11:00:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Australia vs South Africa",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249781",
+      "status": "PAUSED",
+      "startTime": "01:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH"
     }
   ]
