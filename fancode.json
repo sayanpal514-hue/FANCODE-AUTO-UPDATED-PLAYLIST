@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:35:42 AM 12-10-2026",
+  "last update time": "11:40:48 AM 12-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1791861551~_GO=Generated~acl=/mumbai/4249786_english_hls_f00e1d2a2d38619_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8cf3c07-1bb8-4e~Signature=AXZsC1A1Huh0zWVHAsXPRi-olVLiOS2ub44lhGS7CUrpi-Rh_Pr0EoQfJsdUXT7u2FvsHCrxy0LuPJJAAQWz6n9usUIE",
           "expires": "1791861551",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Melbourne Stars Women vs Sydney Thunder Women [English]",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249787",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 12-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249787_53097_ST-W_MS-W_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/240p.m3u8?hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/360p.m3u8?hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/480p.m3u8?hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/540p.m3u8?hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/720p.m3u8?hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO"
-          },
-          "cookie": "hdntl=Expires=1791861552~_GO=Generated~acl=/mumbai/4249787_english_hls_c1d03ad5bc7732_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1461409e-2980-49~Signature=AXZsC1BBnBku1QPZA0GC2c4gmfSfHUaJV00s7TjfJnJNpDqZ_VK7h6QABcdWByK3sFO8v32hTLpnW-lRnY91yY8THogO",
-          "expires": "1791861552",
           "expire_date": ""
         }
       }
@@ -521,6 +488,16 @@
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248834",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248835",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
