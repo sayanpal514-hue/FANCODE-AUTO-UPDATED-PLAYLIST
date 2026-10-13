@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:35:40 PM 13-10-2026",
+  "last update time": "06:40:42 PM 13-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -542,6 +542,16 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 PM 14-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248970_53057_KSC_ALK_fc-web_1789025065920.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Jazira vs FK Arkadag",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248971",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 14-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248971_53057_ALJ_ARK_fc-web_1789025065965.jpg",
       "language": "ENGLISH"
     }
   ]
