@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:50:54 AM 13-10-2026",
+  "last update time": "10:55:43 AM 13-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -137,13 +137,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Oman vs Nepal",
+      "title": "Nepal vs Oman [English]",
       "tournament": "ICC CWC League 2 Oman, 2026",
       "match_id": "4250115",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:00:00 AM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250115_53106_OMA_NEP_fc-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/240p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/360p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/480p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/540p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/720p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK"
+          },
+          "cookie": "hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK",
+          "expires": "1791954984",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
