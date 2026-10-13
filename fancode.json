@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:25:37 PM 13-10-2026",
+  "last update time": "10:30:56 PM 13-10-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "East Bengal FC vs Al Shorta [English]",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4248975",
-      "status": "LIVE",
-      "startTime": "07:15:00 PM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/240p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/360p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/480p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/540p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/720p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE"
-          },
-          "cookie": "hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE",
-          "expires": "1791984690",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "USA vs Namibia [English]",
@@ -499,6 +466,16 @@
       "status": "UPCOMING",
       "startTime": "12:00:00 AM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250175_53113_AF_ICR_fc-web_1791793971785.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Lincoln City F.C. vs West Ham United",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249593",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249593_52993_LNC_WHU_fc-web.jpg",
       "language": "ENGLISH"
     }
   ]
