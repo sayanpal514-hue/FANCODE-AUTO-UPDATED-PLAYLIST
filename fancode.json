@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:50:41 PM 13-10-2026",
+  "last update time": "06:55:39 PM 13-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
           "expires": "1791978617",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Queensland vs Western Australia [English]",
-      "tournament": "One Day Cup, 2026/27",
-      "match_id": "4249279",
-      "status": "LIVE",
-      "startTime": "11:30:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249279_53072_WAU_QUN_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/240p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/360p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/480p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/540p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/720p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P"
-          },
-          "cookie": "hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P",
-          "expires": "1791958015",
           "expire_date": ""
         }
       }
@@ -552,6 +519,16 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 PM 14-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248971_53057_ALJ_ARK_fc-web_1789025065965.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Muharraq vs Golgohar Sirjan SC",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248972",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 14-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248972_53057_ALM_GGS_fc-web_1789025065356.jpg",
       "language": "ENGLISH"
     }
   ]
