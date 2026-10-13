@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:55:38 PM 13-10-2026",
+  "last update time": "08:00:50 PM 13-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -180,16 +180,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Atlanta Lightning vs Bay Blazers",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250166",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250166_53113_AL_BB_fc-web_1791793971755.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
