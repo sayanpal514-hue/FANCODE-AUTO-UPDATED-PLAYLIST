@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:05:44 PM 13-10-2026",
+  "last update time": "12:10:49 PM 13-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -11,26 +11,6 @@
       "status": "LIVE",
       "startTime": "11:00:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales",
-      "tournament": "One Day Cup, 2026/27",
-      "match_id": "4249284",
-      "status": "LIVE",
-      "startTime": "04:30:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249284_53072_NSW_TAS_FC-Web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Perth Scorchers Women vs Adelaide Strikers Women",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249789",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249789_53097_AS-W_PS-W_FC-Web.png",
       "language": "ENGLISH"
     },
     {
@@ -381,6 +361,26 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 14-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249792_53097_AS-W_HB-W_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Vissel Kobe vs Jeonbuk Motors",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248710",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 14-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248710_53053_VIS_JNB_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Kashiwa Reysol vs Port FC",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248711",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 14-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248711_53053_REY_PFC_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
