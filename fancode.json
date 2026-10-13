@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:25:37 PM 13-10-2026",
+  "last update time": "09:30:57 PM 13-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "World Feed [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248836",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/240p.m3u8?hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/360p.m3u8?hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/480p.m3u8?hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/540p.m3u8?hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/720p.m3u8?hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM"
-          },
-          "cookie": "hdntl=Expires=1791978617~_GO=Generated~acl=/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4bb360e1-59fc-46~Signature=AZJsJWZLwo6Fi4yEr3Ljs8lnkuOrDmBc9rkGx1pTNgYQZN38yEEJlkycnLI18FCitFM-Db6Q00wfDzNkkGoM4_vF9QIM",
-          "expires": "1791978617",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "East Bengal FC vs Al Shorta [English]",
@@ -522,6 +489,16 @@
       "status": "UPCOMING",
       "startTime": "11:45:00 PM 14-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250174_53113_PRG_SCC_fc-web_1791793972481.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Atlanta Fire vs ICR Falcons",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250175",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 AM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250175_53113_AF_ICR_fc-web_1791793971785.jpg",
       "language": "ENGLISH"
     }
   ]
