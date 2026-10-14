@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:15:58 AM 15-10-2026",
+  "last update time": "12:21:00 AM 15-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -84,13 +84,36 @@
     },
     {
       "category": "Football",
-      "title": "Lincoln City F.C. vs West Ham United",
+      "title": "Lincoln City F.C. vs West Ham United [English]",
       "tournament": "EFL Championship 2026-27",
       "match_id": "4249593",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249593_52993_LNC_WHU_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/240p.m3u8?hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/360p.m3u8?hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/480p.m3u8?hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/540p.m3u8?hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/720p.m3u8?hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC"
+          },
+          "cookie": "hdntl=Expires=1792090000~_GO=Generated~acl=/mumbai/4249593_english_hls_42956f0dd592648_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fb1eddd-4d54-48~Signature=AZJsJWaEQfhmwuVpp9UfpUAjXAeSNGJwrPBFx8tsuGqjWb94VYdu3LHm8HWVI-f2rsiEo_Q3Ru_Gau3RNyJQAQdWbAYC",
+          "expires": "1792090000",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
