@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:25:59 PM 14-10-2026",
+  "last update time": "11:31:04 PM 14-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -180,16 +180,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Atlanta Lightning vs RR Stars",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250173",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250173_53113_AL_RR_fc-web_1791990455179.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
