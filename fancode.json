@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:46:02 PM 14-10-2026",
+  "last update time": "04:51:04 PM 14-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -103,39 +103,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Adelaide Strikers Women vs Hobart Hurricanes Women [English]",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249792",
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249792_53097_AS-W_HB-W_FC-Web_1791883787882.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/240p.m3u8?hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/360p.m3u8?hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/480p.m3u8?hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/540p.m3u8?hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/720p.m3u8?hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D"
-          },
-          "cookie": "hdntl=Expires=1792050768~_GO=Generated~acl=/mumbai/4249792_english_hls_07c3fe4cb233931_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fc017e0-f68a-4e~Signature=AZJsJWZPvj3EL4u_gszkfQr2JfZzw1SAnWuFd292iE5NY5Bb4wmxWbg_3rMCiMoRdjqV3ekuh1bN1MNOR9iZANtTeI4D",
-          "expires": "1792050768",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Vissel Kobe vs Jeonbuk Motors [English]",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -203,7 +170,7 @@
     },
     {
       "category": "Cricket",
-      "title": "England Champions vs Australia Champions [English]",
+      "title": "Australia Champions vs England Champions [English]",
       "tournament": "World Championship of Legends, 2026",
       "match_id": "4249239",
       "status": "LIVE",
@@ -575,6 +542,16 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250178_53113_RR_BB_fc-web_1791793971724.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Atlanta Force vs Space City Cowboys",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250179",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250179_53113_AFO_SCC_fc-web_1791793972563.jpg",
       "language": "ENGLISH"
     }
   ]
