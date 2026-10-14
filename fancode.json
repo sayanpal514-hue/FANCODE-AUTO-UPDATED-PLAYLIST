@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:16:02 PM 14-10-2026",
+  "last update time": "03:21:03 PM 14-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Women vs Australia Women [English]",
-      "tournament": "Bangladesh Women tour of Australia, 2026",
-      "match_id": "4250151",
-      "status": "LIVE",
-      "startTime": "09:20:00 AM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/240p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/360p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/480p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/540p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/720p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB"
-          },
-          "cookie": "hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB",
-          "expires": "1792035607",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -426,6 +393,16 @@
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248842",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248843",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
