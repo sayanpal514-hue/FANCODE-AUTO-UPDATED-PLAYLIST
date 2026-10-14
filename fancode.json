@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:05:58 PM 14-10-2026",
+  "last update time": "07:11:03 PM 14-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -183,13 +183,36 @@
     },
     {
       "category": "Football",
-      "title": "PFC Nasaf vs Al Wahda",
+      "title": "PFC Nasaf vs Al Wahda [English]",
       "tournament": "AFC Champions League Two 2026-27",
       "match_id": "4248969",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:15:00 PM 14-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248969_53057_NAS_ALW_fc-web_1789029296959.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/240p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/360p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/480p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/540p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/720p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE"
+          },
+          "cookie": "hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE",
+          "expires": "1792071404",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
