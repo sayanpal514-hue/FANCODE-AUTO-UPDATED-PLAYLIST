@@ -1,10 +1,7 @@
 #EXTM3U
-#DATE:- 14-10-2026 12:21
+#DATE:- 14-10-2026 12:26
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249791_53097_MR-W_MS-W_FC-Web_1791883787885.png" group-title="Fancode-Cricket", Melbourne Renegades Women vs Melbourne Stars Women [English]
-https://in-mc-flive.fancode.com/mumbai/4249791_english_hls_3a90f7e65861703_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792034395~_GO=Generated~acl=/mumbai/4249791_english_hls_3a90f7e65861703_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_94b32d72-788c-4a~Signature=AZJsJWaHg3d1KQbBn1BzjDY67OjNKLnrwF3BCJcSsp0rAVQvE9sD1SikBMUXC-5t-n9KPfGwMswlVX_Jwqrwge8YXnUJ
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Fancode-Cricket", Bangladesh Women vs Australia Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB
@@ -20,3 +17,9 @@ https://in-mc-flive.fancode.com/mumbai/4249752_english_hls_73791dfc0190300_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249753_53092_MDV_SDA_fc-web.jpg" group-title="Fancode-Cricket", Saudi Arabia vs Maldives [English]
 https://in-mc-flive.fancode.com/mumbai/4249753_english_hls_f13ce4a08898878_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792043489~_GO=Generated~acl=/mumbai/4249753_english_hls_f13ce4a08898878_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d2c9083e-fbc0-4f~Signature=AZJsJWYZLQBaK2Q3uR05cvT0Zs_W9MxEbMJ3YPU802M-XKiJlJ9Ukwu3uQMIBKlQ3TzXBpoHxDGANrMXAh_pSnOby9sG
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", Show Court 3 [English]
+https://in-mc-flive.fancode.com/mumbai/4248840_english_hls_16f8469c3858862_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792047119~_GO=Generated~acl=/mumbai/4248840_english_hls_16f8469c3858862_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22edc2e8-6782-43~Signature=AZJsJWbOqZYRL1LDQ4nIpW8BY7mmP0VarVsibMzCHUwh24mEEg3G0W_Yu-qSv5yXe-EMDIdLObPfKi_1FAluikSSRioK
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Fancode-Badminton", Round 32 [English]
+https://in-mc-flive.fancode.com/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792047120~_GO=Generated~acl=/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_28a06464-2f0e-48~Signature=AZJsJWawiZL8Q1LLQTYydYZikAslw0wtDkLwngY2hg5gIwkADXjWHfyd9tgHSQCkq8Nf__hGm06HLpO40ZdtjQG_RtkJ
