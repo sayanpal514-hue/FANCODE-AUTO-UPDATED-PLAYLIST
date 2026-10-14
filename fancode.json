@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:06:04 PM 14-10-2026",
+  "last update time": "01:11:04 PM 14-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -236,13 +236,36 @@
     },
     {
       "category": "Football",
-      "title": "Melbourne Victory vs Seoul",
+      "title": "Melbourne Victory vs Seoul [English]",
       "tournament": "AFC Champions League Two 2026-27",
       "match_id": "4248977",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:15:00 PM 14-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248977_53057_MLV_SE_fc-web_1789025065995.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/240p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/360p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/480p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/540p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/720p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA"
+          },
+          "cookie": "hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA",
+          "expires": "1792049550",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
