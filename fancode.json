@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:41:01 AM 14-10-2026",
+  "last update time": "10:46:06 AM 14-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bahrain vs Qatar [English]",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249737",
-      "status": "LIVE",
-      "startTime": "06:45:00 AM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/240p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/360p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/480p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/540p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/720p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI"
-          },
-          "cookie": "hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI",
-          "expires": "1792026520",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Melbourne Renegades Women vs Melbourne Stars Women [English]",
@@ -493,6 +460,16 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250189_53114_SS-W_ST-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Michigan Cricket Stars vs Prime Raider Gladiators",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250176",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250176_53113_MCS_PRG_fc-web_1791793971805.jpg",
       "language": "ENGLISH"
     }
   ]
