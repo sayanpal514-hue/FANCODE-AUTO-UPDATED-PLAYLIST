@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:36:00 PM 14-10-2026",
+  "last update time": "07:41:02 PM 14-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "D. Medvedev vs S. Tsitsipas [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248839",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Medvedev-vs-Stefanos_web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/240p.m3u8?hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/360p.m3u8?hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/480p.m3u8?hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/540p.m3u8?hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/720p.m3u8?hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG"
-          },
-          "cookie": "hdntl=Expires=1792065341~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b552b24a-919e-4c~Signature=AZJsJWbNRcohRxz5tYH3iUeTTO2j-l_LGubxpocJnh_uLGmjHbJCynR07QUovGsEzwSFXWiguzKkY35BOuFPD3q1eHIG",
-          "expires": "1792065341",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Show Court 3 [English]",
@@ -213,16 +180,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Michigan Cricket Stars vs Atlanta Force",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250171",
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250171_53113_MCS_AFO_fc-web_1791793972524.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
@@ -542,6 +499,16 @@
       "status": "UPCOMING",
       "startTime": "11:45:00 PM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250180_53113_ASC_AF_fc-web_1791793971788.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Seattle Thunderbolts vs ICR Falcons",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250181",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 AM 16-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250181_53113_ST_ICR_fc-web_1791793971712.jpg",
       "language": "ENGLISH"
     }
   ]
