@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:56:01 PM 14-10-2026",
+  "last update time": "03:01:06 PM 14-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1792036214~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_19b79573-c04b-49~Signature=AZJsJWaUokMLmgV9ruYA6B9F2JlVcSzHn4TTVEHMeoTei-U9pyS7gEcO3r9Js5uT-K2-SZ2bqomP2fGHoDu5wj1hPc8F",
           "expires": "1792036214",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Thailand vs Bhutan [English]",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249738",
-      "status": "LIVE",
-      "startTime": "11:30:00 AM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/240p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/360p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/480p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/540p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/720p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD"
-          },
-          "cookie": "hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD",
-          "expires": "1792043486",
           "expire_date": ""
         }
       }
@@ -495,6 +462,16 @@
       "title": "Round 16 - Court 1",
       "tournament": "BWF Super 750 - Denmark Open 2026",
       "match_id": "4250143",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Badminton",
+      "title": "Round 16 - Court 2",
+      "tournament": "BWF Super 750 - Denmark Open 2026",
+      "match_id": "4250144",
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
