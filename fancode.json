@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:05:58 PM 15-10-2026",
+  "last update time": "08:11:00 PM 15-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -453,6 +453,16 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Canada vs Nepal",
+      "tournament": "ICC CWC League 2 Oman, 2026",
+      "match_id": "4250117",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
       "language": "ENGLISH"
     }
   ]
