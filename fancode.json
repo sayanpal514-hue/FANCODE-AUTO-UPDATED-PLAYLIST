@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:45:58 AM 15-10-2026",
+  "last update time": "10:51:02 AM 15-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -38,23 +38,69 @@
     },
     {
       "category": "Tennis",
-      "title": "World Feed",
+      "title": "World Feed [English]",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248843",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:00:00 AM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/240p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/360p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/480p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/540p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/720p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE"
+          },
+          "cookie": "hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE",
+          "expires": "1792127925",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
-      "title": "Canada vs Oman",
+      "title": "Canada vs Oman [English]",
       "tournament": "ICC CWC League 2 Oman, 2026",
       "match_id": "4250116",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:00:00 AM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/240p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/360p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/480p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/540p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/720p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO"
+          },
+          "cookie": "hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO",
+          "expires": "1792127924",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Badminton",
