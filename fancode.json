@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:21:05 PM 15-10-2026",
+  "last update time": "07:26:00 PM 15-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -200,16 +200,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Michigan Cricket Stars vs Prime Raider Gladiators",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250176",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250176_53113_MCS_PRG_fc-web_1791990455086.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
