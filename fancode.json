@@ -1,17 +1,40 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:20:59 AM 15-10-2026",
+  "last update time": "09:25:59 AM 15-10-2026",
   "matches": [
     {
       "category": "Tennis",
-      "title": "Stadium Court",
+      "title": "Stadium Court [English]",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248841",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 AM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/240p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/360p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/480p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/540p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/720p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI"
+          },
+          "cookie": "hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI",
+          "expires": "1792122475",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Tennis",
