@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:20:59 PM 15-10-2026",
+  "last update time": "11:25:59 PM 15-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Atlanta Force vs Space City Cowboys",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250179",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250179_53113_AFO_SCC_fc-web_1791990454359.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Atlanta Fire Women vs Hurricanes Women",
-      "tournament": "Atlanta Open Women's T20 2026",
-      "match_id": "4250190",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250190_53114_AF-W_HR-W_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "All Stars Cardinals vs Atlanta Fire",
