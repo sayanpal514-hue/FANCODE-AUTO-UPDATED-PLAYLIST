@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:55:58 PM 16-10-2026",
+  "last update time": "07:00:59 PM 16-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -372,16 +372,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248849",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Darmstadt CC vs THCC Rot-Gelb Hamburg",
       "tournament": "GSL Championship 2026",
@@ -519,6 +509,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247656_53004_RB_BAR_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Atlanta Fire Women vs Southern Strikers Women",
+      "tournament": "Atlanta Open Women's T20 2026",
+      "match_id": "4250194",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250194_53114_AF-W_SS-W_fc-web.jpg",
       "language": "ENGLISH"
     }
   ]
