@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:15:58 PM 16-10-2026",
+  "last update time": "12:20:58 PM 16-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Stadium Court [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248846",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/240p.m3u8?hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/360p.m3u8?hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/480p.m3u8?hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/540p.m3u8?hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/720p.m3u8?hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO"
-          },
-          "cookie": "hdntl=Expires=1792209226~_GO=Generated~acl=/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_59886ba6-def0-47~Signature=AZJsJWbg6Y4TbTL2IVpCbcSEHiIRa92CC-gF5VOvqbSvRQ7c0v3T9LFB0PVCkbJLbHKyK7GJP09tuS0gaKRKtnHHgPUO",
-          "expires": "1792209226",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -460,6 +427,16 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250193_53114_HR-W_ST-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Norwich City F.C. vs Portsmouth F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249596",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
