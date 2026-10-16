@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:15:58 PM 16-10-2026",
+  "last update time": "02:20:58 PM 16-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -71,13 +71,36 @@
     },
     {
       "category": "Football",
-      "title": "Sydney FC vs Western Sydney Wanderers",
+      "title": "Sydney FC vs Western Sydney Wanderers [English]",
       "tournament": "A-League 2026-27",
       "match_id": "4249834",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "02:30:00 PM 16-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/240p.m3u8?hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/360p.m3u8?hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/480p.m3u8?hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/540p.m3u8?hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/720p.m3u8?hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO"
+          },
+          "cookie": "hdntl=Expires=1792226798~_GO=Generated~acl=/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c1b2692-c3a1-4a~Signature=AZJsJWZdf2mwZwqrRRRPYzPvexSZ7OZjc_rolcItPnt2BLU-qM0vWoyeSlOCuKPyk6nKQj2cmZ7GNzdB0OBrqB59SqsO",
+          "expires": "1792226798",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Badminton",
