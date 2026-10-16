@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:50:58 PM 16-10-2026",
+  "last update time": "09:55:58 PM 16-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1792228013~_GO=Generated~acl=/mumbai/4250146_english_hls_84b788f22822967_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c1ee0329-2ad2-40~Signature=AZJsJWZ1W4RlQlpimpx-YDzByImEaKRHr8gUkFKT4O8ZEluzpEnpouErsiMnI2bbjC-Urc70si1g1VZdTLFlZNBCeOoF",
           "expires": "1792228013",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "THCC Rot-Gelb Hamburg vs ICA Berlin [English]",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250224",
-      "status": "LIVE",
-      "startTime": "08:00:00 PM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250224_53117_THCC_ICAB_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/240p.m3u8?hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/360p.m3u8?hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/480p.m3u8?hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/540p.m3u8?hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/720p.m3u8?hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ"
-          },
-          "cookie": "hdntl=Expires=1792246870~_GO=Generated~acl=/mumbai/4250224_english_hls_e8e5a1b01618952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_df87c1bf-c454-4f~Signature=AZJsJWZUtiAKcAWZOQxXgj4ryLyvGvyQNG_TIwHgtPfSzDK6wHmlHf3FecgNAuvT2RL_C3XRozYK8eKWzaEoBUkc3BYJ",
-          "expires": "1792246870",
           "expire_date": ""
         }
       }
@@ -313,6 +280,16 @@
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248849",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248850",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
