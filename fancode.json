@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:45:58 PM 16-10-2026",
+  "last update time": "05:50:58 PM 16-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -183,13 +183,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Koln CC vs THCC Rot-Gelb Hamburg",
+      "title": "Koln CC vs THCC Rot-Gelb Hamburg [English]",
       "tournament": "GSL Championship 2026",
       "match_id": "4250223",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:00:00 PM 16-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250223_53117_KCC_THCC_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/240p.m3u8?hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/360p.m3u8?hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/480p.m3u8?hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/540p.m3u8?hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/720p.m3u8?hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH"
+          },
+          "cookie": "hdntl=Expires=1792239529~_GO=Generated~acl=/mumbai/4250223_english_hls_2f30b6c75120970_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_978d3d4e-9635-48~Signature=AZJsJWY1Vsx5nxgeUObYUOD2mNuF-eK2keP3qVrCcQ2FGdGgI05PWkILljWlsaVWiGGLC8r943MpnX9-vTGT3oQAO6AH",
+          "expires": "1792239529",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
