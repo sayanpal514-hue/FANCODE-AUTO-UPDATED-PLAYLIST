@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:30:59 PM 17-10-2026",
+  "last update time": "07:35:59 PM 17-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -136,39 +136,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Darmstadt CC vs Koln CC [English]",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250228",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/240p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/360p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/480p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/540p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/720p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD"
-          },
-          "cookie": "hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
-          "expires": "1792326143",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Norwich City F.C. vs Portsmouth F.C. [English]",
       "tournament": "EFL Championship 2026-27",
@@ -233,16 +200,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Hurricanes Women vs Seattle Thunders Women",
-      "tournament": "Atlanta Open Women's T20 2026",
-      "match_id": "4250193",
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 17-10-2026",
-      "image": "https://images.fancode.com/aig/match/v1792240672389/4250193_CASACARDS_APP.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
@@ -532,6 +489,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247649_53004_MAG_RS_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Atlanta Open Women's T20 2026",
+      "match_id": "4250195",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     }
   ]
