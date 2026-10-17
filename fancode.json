@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:50:58 PM 17-10-2026",
+  "last update time": "03:55:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,13 +170,36 @@
     },
     {
       "category": "Cricket",
-      "title": "TSV Malmsheim vs ICA Berlin",
+      "title": "TSV Malmsheim vs ICA Berlin [English]",
       "tournament": "GSL Championship 2026",
       "match_id": "4250227",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:00:00 PM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250227_53117_TSV_ICAB_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/240p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/360p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/480p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/540p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/720p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD"
+          },
+          "cookie": "hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD",
+          "expires": "1792318830",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
