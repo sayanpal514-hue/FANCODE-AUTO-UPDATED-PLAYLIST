@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:30:58 AM 17-10-2026",
+  "last update time": "07:35:58 AM 17-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Melbourne Renegades Women vs Sydney Thunder Women [English]",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249795",
-      "status": "LIVE",
-      "startTime": "04:30:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249795_53097_ST-W_MR-W_FC-Web_1791883788801.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/240p.m3u8?hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/360p.m3u8?hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/480p.m3u8?hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/540p.m3u8?hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/720p.m3u8?hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA"
-          },
-          "cookie": "hdntl=Expires=1792277622~_GO=Generated~acl=/mumbai/4249795_english_hls_70b11d093078068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89ef2311-e3ad-4d~Signature=AZJsJWbmrBys4FqsD3mN3UOZzt_7l3QJOAvNzP3Go-XaXoq4mmMJXo3VsAObyPVqZif6tLOTJxRtECg4d4GPd3LNGUUA",
-          "expires": "1792277622",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "South Australia vs Queensland [English]",
@@ -367,6 +334,16 @@
       "status": "UPCOMING",
       "startTime": "04:30:00 AM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Wellington Phoenix vs Melbourne Victory",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249838",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 AM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1791982771932.jpg",
       "language": "ENGLISH"
     },
     {
