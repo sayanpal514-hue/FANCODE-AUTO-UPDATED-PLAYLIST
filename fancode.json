@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:35:58 AM 18-10-2026",
+  "last update time": "02:40:58 AM 18-10-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Las Palmas vs Castellón [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249996",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/240p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/360p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/480p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/540p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/720p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F"
-          },
-          "cookie": "hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F",
-          "expires": "1792349124",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Melbourne Renegades Women vs Hobart Hurricanes Women",
@@ -394,6 +361,16 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 19-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249695_53089_AFG_ZIM_FC-Web_1792056447809.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Sharjah vs Dubai",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250474",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 19-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     }
   ]
