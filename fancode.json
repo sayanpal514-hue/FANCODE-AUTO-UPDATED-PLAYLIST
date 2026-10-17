@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:15:58 PM 17-10-2026",
+  "last update time": "01:20:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1792302449~_GO=Generated~acl=/mumbai/4249836_english_hls_d84203c5e716818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fd2e5dec-96c2-4a~Signature=AZJsJWYvH4J_clD66hzBZqlHOI_AhUmeCZLy7X2H3sUOxG5twl7J-Clyy1P-ppp9DfDHU5pmZhIm27x9AUhNyfxskH0G",
           "expires": "1792302449",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Koln CC vs ICA Berlin [English]",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250225",
-      "status": "LIVE",
-      "startTime": "12:00:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/240p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/360p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/480p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/540p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/720p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA"
-          },
-          "cookie": "hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
-          "expires": "1792304268",
           "expire_date": ""
         }
       }
@@ -499,6 +466,16 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Tottenham Hotspur Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249196",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249196_53038_CHE-W_TOT-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
