@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:50:58 PM 17-10-2026",
+  "last update time": "05:55:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Darmstadt CC vs Koln CC",
+      "title": "Darmstadt CC vs Koln CC [English]",
       "tournament": "GSL Championship 2026",
       "match_id": "4250228",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:00:00 PM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/240p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/360p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/480p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/540p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/720p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD"
+          },
+          "cookie": "hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD",
+          "expires": "1792326143",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
