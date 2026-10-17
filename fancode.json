@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:10:58 AM 18-10-2026",
+  "last update time": "12:15:59 AM 18-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -35,16 +35,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Valencia CF vs Athletic Club",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247655",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247655_53004_VAL_ATH_FC-Web.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
@@ -384,6 +374,16 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 AM 19-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249667",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 AM 19-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
       "language": "ENGLISH"
     }
   ]
