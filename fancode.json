@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:25:58 AM 17-10-2026",
+  "last update time": "11:30:58 AM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -475,16 +475,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Football",
-      "title": "Wellington Phoenix vs Melbourne Victory",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249838",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 AM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1791982771932.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Brisbane Heat Women vs Adelaide Strikers Women",
       "tournament": "T20 Spring Challenge, 2026",
@@ -561,6 +551,16 @@
       "match_id": "4250231",
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "GSL Championship 2026",
+      "match_id": "4250232",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     }
