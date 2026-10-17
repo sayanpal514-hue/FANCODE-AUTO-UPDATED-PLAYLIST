@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:55:58 PM 17-10-2026",
+  "last update time": "01:00:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -512,16 +512,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Football",
-      "title": "Crystal Palace Women vs West Ham United Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249197",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249197_53038_CP-W_WHU-W_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "TBC vs TBC",
       "tournament": "GSL Championship 2026",
@@ -539,6 +529,16 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247657_53004_OSN_RAC_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "England Champions vs West Indies Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249230",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     }
   ]
