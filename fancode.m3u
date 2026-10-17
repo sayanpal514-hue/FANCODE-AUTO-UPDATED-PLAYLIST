@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 17-10-2026 12:25
+#DATE:- 17-10-2026 12:30
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -17,6 +17,9 @@ https://in-mc-flive.fancode.com/mumbai/4249836_english_hls_d84203c5e716818_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg" group-title="Fancode-Cricket", Koln CC vs ICA Berlin [English]
 https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Fancode-Badminton", Semi-Final [English]
+https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Fancode-Cricket", Uganda A vs Jersey [English]
 https://in-mc-flive.fancode.com/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792306089~_GO=Generated~acl=/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8e566793-4fcc-45~Signature=AZJsJWaSaQFKUml6W25sVqxGwFWlD9tOoCnJtzSNKO3xMftliu9wZTeiijMjCfT9yF-g5Npgy_AVgtlaNLNE1SdazA4C
