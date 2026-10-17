@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:40:58 PM 17-10-2026",
+  "last update time": "04:45:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -203,7 +203,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Bangladesh vs Zimbabwe [English]",
+      "title": "Zimbabwe vs Bangladesh [English]",
       "tournament": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
       "match_id": "4249694",
       "status": "LIVE",
