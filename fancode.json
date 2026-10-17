@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:20:58 PM 17-10-2026",
+  "last update time": "05:25:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -398,16 +398,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Football",
-      "title": "Wellington Phoenix vs Melbourne Victory",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249838",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 AM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1792223292037.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Brisbane Heat Women vs Adelaide Strikers Women",
       "tournament": "T20 Spring Challenge, 2026",
@@ -545,6 +535,16 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249195_53038_CHL-W_MUN-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "London City Lionesses vs Everton Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249198",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249198_53038_LCL_EVE-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
