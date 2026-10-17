@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:40:58 PM 17-10-2026",
+  "last update time": "03:45:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -131,39 +131,6 @@
           },
           "cookie": "hdntl=Expires=1792311560~_GO=Generated~acl=/mumbai/4248850_english_hls_afb00f47fc75782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5c50b5c3-0b0e-48~Signature=AZJsJWYZ-Z4jbSVkvKVUOm4inVAVU3z3MRf52EwUqwgbbw8ciZYUCowpzwp4nhzqUmJd8dmN2rLOluxVdsBMHGEB4P8K",
           "expires": "1792311560",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Darmstadt CC vs THCC Rot-Gelb Hamburg [English]",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250226",
-      "status": "LIVE",
-      "startTime": "02:00:00 PM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/240p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/360p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/480p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/540p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/720p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC"
-          },
-          "cookie": "hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC",
-          "expires": "1792311559",
           "expire_date": ""
         }
       }
@@ -512,6 +479,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Football",
+      "title": "Aston Villa Women vs Liverpool Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249194",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249194_53038_AST-W_LIV-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Cricket",
       "title": "TBC vs TBC",
       "tournament": "GSL Championship 2026",
@@ -538,7 +515,7 @@
       "match_id": "4249230",
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_web-match-card.png",
       "language": "ENGLISH"
     }
   ]
