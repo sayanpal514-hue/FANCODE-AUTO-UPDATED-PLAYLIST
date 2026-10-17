@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:25:58 PM 17-10-2026",
+  "last update time": "12:30:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -164,6 +164,39 @@
           },
           "cookie": "hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA",
           "expires": "1792304268",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Badminton",
+      "title": "Semi-Final [English]",
+      "tournament": "BWF Super 750 - Denmark Open 2026",
+      "match_id": "4250147",
+      "status": "LIVE",
+      "startTime": "12:30:00 PM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/240p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/360p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/480p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/540p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/720p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI"
+          },
+          "cookie": "hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI",
+          "expires": "1792306710",
           "expire_date": ""
         }
       }
