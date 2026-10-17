@@ -1,13 +1,10 @@
 #EXTM3U
-#DATE:- 17-10-2026 12:15
+#DATE:- 17-10-2026 12:20
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg" group-title="Fancode-Cricket", South Australia vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249283_english_hls_2eb02fd75b43661_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792279443~_GO=Generated~acl=/mumbai/4249283_english_hls_2eb02fd75b43661_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_48f0790f-677d-4a~Signature=AZJsJWak5QQ-Fi2MJ8Mg_pnVaBTFIsGUSlzPAW-4Hux0I4mB17b56TTlwUYAoiYUSDN8sqc1RgURviYz3YmTXn9F9zIL
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249796_53097_AM-W_MS-W_FC-Web_1791883788082.png" group-title="Fancode-Cricket", ACT Meteors vs Melbourne Stars Women [English]
-https://in-mc-flive.fancode.com/mumbai/4249796_english_hls_252ecbda1018000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792293368~_GO=Generated~acl=/mumbai/4249796_english_hls_252ecbda1018000_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3c8ec19f-8751-40~Signature=AZJsJWZxR6hYCjlefASVlvjzAxqNga2mRhSaG2YVedk8ghS4ou6C0MWags_x3Xkc8mpxzdqW-waJDayKDEmEDc0kOusJ
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Fancode-Cricket", Canada vs Nepal [English]
 https://in-mc-flive.fancode.com/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792300631~_GO=Generated~acl=/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52dc7d91-89ce-41~Signature=AZJsJWZiBnG_0hSuU_SM8AnhzZEVtoyUEpov65-1yGcwrZ178WQejc68Uhj7I3EYc-sDtNoK8jIlsSeVOTXdCoQVYjIF
@@ -20,3 +17,6 @@ https://in-mc-flive.fancode.com/mumbai/4249836_english_hls_d84203c5e716818_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg" group-title="Fancode-Cricket", Koln CC vs ICA Berlin [English]
 https://in-mc-flive.fancode.com/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792304268~_GO=Generated~acl=/mumbai/4250225_english_hls_228d268b714818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73f2f637-c523-47~Signature=AZJsJWaOdXkhBl9mJnE93D6lDGX6TqMNZSI5mLAIXyMKwk70LgmAlOhTNUE8Vi4shlrGeabEgdAVJm7tM05dWieOGXsA
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Fancode-Cricket", Uganda A vs Jersey [English]
+https://in-mc-flive.fancode.com/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792306089~_GO=Generated~acl=/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8e566793-4fcc-45~Signature=AZJsJWaSaQFKUml6W25sVqxGwFWlD9tOoCnJtzSNKO3xMftliu9wZTeiijMjCfT9yF-g5Npgy_AVgtlaNLNE1SdazA4C
