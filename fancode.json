@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:10:58 PM 17-10-2026",
+  "last update time": "12:15:58 PM 17-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1792293368~_GO=Generated~acl=/mumbai/4249796_english_hls_252ecbda1018000_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3c8ec19f-8751-40~Signature=AZJsJWZxR6hYCjlefASVlvjzAxqNga2mRhSaG2YVedk8ghS4ou6C0MWags_x3Xkc8mpxzdqW-waJDayKDEmEDc0kOusJ",
           "expires": "1792293368",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Adelaide Strikers Women vs Sydney Sixers Women [English]",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249797",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249797_53097_SS-W_AS-W_FC-Web_1791883788114.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/240p.m3u8?hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/360p.m3u8?hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/480p.m3u8?hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/540p.m3u8?hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/720p.m3u8?hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM"
-          },
-          "cookie": "hdntl=Expires=1792293370~_GO=Generated~acl=/mumbai/4249797_english_hls_7bf58d06b754922_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_626fe5b0-1bf7-40~Signature=AZJsJWbK50yDyxBzlG3QKnDCu7QA6rnHCBOwRYO1BK7JeDgxgyA1dzT9yYLYFHbc4lZ31gALvV2Qm6YCJ93EsKmu8VwM",
-          "expires": "1792293370",
           "expire_date": ""
         }
       }
@@ -562,6 +529,16 @@
       "status": "UPCOMING",
       "startTime": "04:30:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "CA Osasuna vs Racing Club de Santander",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247657",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247657_53004_OSN_RAC_FC-Web.png",
       "language": "ENGLISH"
     }
   ]
