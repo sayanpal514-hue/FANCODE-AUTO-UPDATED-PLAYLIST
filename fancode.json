@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:50:59 PM 18-10-2026",
+  "last update time": "06:55:59 PM 18-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -302,13 +302,36 @@
     },
     {
       "category": "Football",
-      "title": "Manchester City Women vs Brighton and Hove Albion Women",
+      "title": "Manchester City Women vs Brighton and Hove Albion Women [English]",
       "tournament": "Barclays Women's Super League 2026-27",
       "match_id": "4249199",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:00:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249199_53038_MCI-W_BHA-W_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/240p.m3u8?hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/360p.m3u8?hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/480p.m3u8?hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/540p.m3u8?hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/720p.m3u8?hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O"
+          },
+          "cookie": "hdntl=Expires=1792416166~_GO=Generated~acl=/mumbai/4249199_english_hls_a920f8ed8e67264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fedc6e9a-4d7c-4a~Signature=AZJsJWYWTJaxbA4Nf9sKyo5-Xl9HzaQ1I6Fyxz7ESehdVGa3Q49yLdAmmHxLl0-KfCpwapLgWRW95QWRYbBPQekOcL8O",
+          "expires": "1792416166",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
@@ -555,6 +578,16 @@
       "title": "ATP 250 - Almaty Open 2026",
       "tournament": "ATP 250 - Almaty Open 2026",
       "match_id": "4249608",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 20-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+      "match_id": "4249615",
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
