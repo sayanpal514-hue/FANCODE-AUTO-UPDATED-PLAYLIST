@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:35:58 PM 18-10-2026",
+  "last update time": "02:40:58 PM 18-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
           "expires": "1792392431",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Darmstadt CC vs ICA Berlin [English]",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250230",
-      "status": "LIVE",
-      "startTime": "12:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250222_53117_ICAB_DCC_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/240p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/360p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/480p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/540p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/720p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO"
-          },
-          "cookie": "hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO",
-          "expires": "1792392433",
           "expire_date": ""
         }
       }
@@ -562,6 +529,16 @@
       "status": "UPCOMING",
       "startTime": "01:45:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Uganda vs Zambia",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249754",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 20-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     }
   ]
