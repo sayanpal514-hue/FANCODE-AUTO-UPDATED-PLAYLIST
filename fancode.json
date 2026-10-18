@@ -1,74 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:00:58 PM 18-10-2026",
+  "last update time": "08:05:59 PM 18-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Uganda A vs Jersey [English]",
-      "tournament": "Jersey tour of Uganda A 2026",
-      "match_id": "4250212",
-      "status": "LIVE",
-      "startTime": "12:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/240p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/360p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/480p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/540p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/720p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L"
-          },
-          "cookie": "hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L",
-          "expires": "1792392431",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia [English]",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249782",
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/240p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/360p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/480p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/540p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/720p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K"
-          },
-          "cookie": "hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K",
-          "expires": "1792393646",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Badminton",
       "title": "Finals [English]",
@@ -588,6 +522,36 @@
       "status": "UPCOMING",
       "startTime": "08:40:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250215_53025_ALTW_ALQ_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Emirates Red vs Sharjah",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250477",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 20-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ettifaq vs Al-Ittihad",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4250216",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 20-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250216_53025_ETT_ITT_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "South Africa vs Australia",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249782",
+      "status": "PAUSED",
+      "startTime": "01:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH"
     }
   ]
