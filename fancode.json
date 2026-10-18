@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:40:58 AM 18-10-2026",
+  "last update time": "08:45:58 AM 18-10-2026",
   "matches": [
     {
       "category": "Football",
@@ -38,7 +38,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Brisbane Heat Women vs Adelaide Strikers Women",
+      "title": "Adelaide Strikers Women vs Brisbane Heat Women",
       "tournament": "T20 Spring Challenge, 2026",
       "match_id": "4249799",
       "status": "UPCOMING",
@@ -48,7 +48,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Sydney Thunder Women vs Perth Scorchers Women",
+      "title": "Perth Scorchers Women vs Sydney Thunder Women",
       "tournament": "T20 Spring Challenge, 2026",
       "match_id": "4249800",
       "status": "UPCOMING",
