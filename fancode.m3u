@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 18-10-2026 18:25
+#DATE:- 18-10-2026 18:30
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -20,3 +20,15 @@ https://in-mc-flive.fancode.com/mumbai/4249197_english_hls_d2d502908f38300_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg" group-title="Fancode-Cricket", ICA Berlin vs Koln CC [English]
 https://in-mc-flive.fancode.com/mumbai/4250232_english_hls_467285ebf827547_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792406974~_GO=Generated~acl=/mumbai/4250232_english_hls_467285ebf827547_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_874039ed-174b-44~Signature=AZJsJWZpHdW0QWMvLe4WbTgizdqsn0HmJU4mn_WfWJH4SABko-WE3v6CXIykB27A5gnsEBHRW1d8kmaNT1obRPMQ794H
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249194_53038_AST-W_LIV-W_fc-web.jpg" group-title="Fancode-Football", Aston Villa Women vs Liverpool Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249194_english_hls_665e107b5486342_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792414312~_GO=Generated~acl=/mumbai/4249194_english_hls_665e107b5486342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_28021059-c069-48~Signature=AZJsJWYgpiXHWhixH6a3YvM0XdGHVJVSgQN1upixaL1pOMdgOP-IIudilVUk3ZWGu737cgIFHhx_Od9Okc7hC2s-eb4I
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249195_53038_CHL-W_MUN-W_fc-web.jpg" group-title="Fancode-Football", Charlton Athletic F.C Women vs Manchester United Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249195_english_hls_6dcf49e46859534_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792414313~_GO=Generated~acl=/mumbai/4249195_english_hls_6dcf49e46859534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d4a7e042-2ff6-4a~Signature=AZJsJWZP6NUnc4Tg3T9PNsg-MKjmoYvrPUc9HfR6gVapG0EdOiTahEHykpHXILan4NN3tdoMrFXDvUsStIIrnFYQ_dUC
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249198_53038_LCL_EVE-W_fc-web.jpg" group-title="Fancode-Football", London City Lionesses vs Everton Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249198_english_hls_da6b49d21635061_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792414314~_GO=Generated~acl=/mumbai/4249198_english_hls_da6b49d21635061_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c5342da6-da87-4c~Signature=AZJsJWZtP2heHYRKaffcW2W-PElp3xPhfSNgLB-SjKBCmrtVnH5cO-M_sdA2B6TQO9xCB8mxJrxgOZwJDtihoZTCLKgF
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg" group-title="Fancode-Cricket", THCC Rot-Gelb Hamburg vs Darmstadt CC [English]
+https://in-mc-flive.fancode.com/mumbai/4250233_english_hls_45c64313c48400_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792414307~_GO=Generated~acl=/mumbai/4250233_english_hls_45c64313c48400_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fd0f2db7-1c05-4e~Signature=AZJsJWZ6ff8a8-kJJ9jeDYr_2NZ3vHTwPbLB5bs3Ny-PnAPLGuJB3zV1lAoF0GUQwkECLEKjnKQLlSQg75aMobqbMeID
