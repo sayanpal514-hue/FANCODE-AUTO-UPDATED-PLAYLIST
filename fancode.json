@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:45:58 PM 18-10-2026",
+  "last update time": "07:50:58 PM 18-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1792403337~_GO=Generated~acl=/mumbai/4250148_english_hls_17a60093f284463_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8fbb711d-c736-4b~Signature=AZJsJWb1X1fGiKnCeEpmgcPbifEys4cjYDSjpyYeuU7GhJnqXujXEdS2I2eo0Exo_7P5sYSDZ70N1J0vfqGqbrdFE_UK",
           "expires": "1792403337",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea F.C. Women vs Tottenham Hotspur Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249196",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249196_53038_CHE-W_TOT-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/240p.m3u8?hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/360p.m3u8?hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/480p.m3u8?hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/540p.m3u8?hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/720p.m3u8?hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF"
-          },
-          "cookie": "hdntl=Expires=1792406975~_GO=Generated~acl=/mumbai/4249196_english_hls_f8c78325e154246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_756ffd59-f2c0-4b~Signature=AZJsJWZt7GJvJOyjYET7ZnQ1K1acOy-NVarxBg_DClBKoxHyF-bQc55SyebHJp90gmLbjO0jYGrxEtORwePer_WqpzMF",
-          "expires": "1792406975",
           "expire_date": ""
         }
       }
@@ -611,6 +578,16 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al-Taawoun FC vs Al-Qadsiah FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4250215",
+      "status": "UPCOMING",
+      "startTime": "08:40:00 PM 20-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250215_53025_ALTW_ALQ_FC-Web.png",
       "language": "ENGLISH"
     }
   ]
