@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:55:58 AM 18-10-2026",
+  "last update time": "09:00:58 AM 18-10-2026",
   "matches": [
     {
       "category": "Football",
@@ -38,23 +38,69 @@
     },
     {
       "category": "Cricket",
-      "title": "Adelaide Strikers Women vs Brisbane Heat Women",
+      "title": "Adelaide Strikers Women vs Brisbane Heat Women [English]",
       "tournament": "T20 Spring Challenge, 2026",
       "match_id": "4249799",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:00:00 AM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/240p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/360p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/480p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/540p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/720p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH"
+          },
+          "cookie": "hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH",
+          "expires": "1792380305",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
-      "title": "Perth Scorchers Women vs Sydney Thunder Women",
+      "title": "Perth Scorchers Women vs Sydney Thunder Women [English]",
       "tournament": "T20 Spring Challenge, 2026",
       "match_id": "4249800",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:00:00 AM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/240p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/360p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/480p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/540p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/720p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ"
+          },
+          "cookie": "hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ",
+          "expires": "1792380306",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Tennis",
