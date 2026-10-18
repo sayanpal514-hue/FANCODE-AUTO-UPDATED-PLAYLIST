@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:20:58 PM 18-10-2026",
+  "last update time": "05:25:58 PM 18-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1792397278~_GO=Generated~acl=/mumbai/4250161_english_hls_a3c45a940c84523_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62ec7387-91b3-40~Signature=AZJsJWavjFSha0VhnPI5ynMDHZvg3jColI8owuK-VLFVLmMxmlvEfxLomqsxUrT3iSWNOWPjuf4E8MUevIacs1XvaLQD",
           "expires": "1792397278",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Final: A. Fokina vs R. Jodar [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248853",
-      "status": "LIVE",
-      "startTime": "02:00:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alejandro_Web-match-card_1792307949621.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/240p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/360p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/480p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/540p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/720p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA"
-          },
-          "cookie": "hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA",
-          "expires": "1792397885",
           "expire_date": ""
         }
       }
@@ -572,6 +539,16 @@
       "title": "Lesotho vs Mozambique",
       "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
       "match_id": "4249755",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 20-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Nigeria vs Gambia",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249756",
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
