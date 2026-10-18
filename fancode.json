@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:10:58 AM 19-10-2026",
+  "last update time": "12:15:58 AM 19-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -48,16 +48,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Real Madrid vs Sevilla FC",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247651",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 19-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247651_53004_RM_SEV_FC-Web.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
