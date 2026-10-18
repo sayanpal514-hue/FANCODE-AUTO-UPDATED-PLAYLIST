@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:20:58 AM 18-10-2026",
+  "last update time": "07:25:58 AM 18-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -38,13 +38,36 @@
     },
     {
       "category": "Football",
-      "title": "Wellington Phoenix vs Melbourne Victory",
+      "title": "Wellington Phoenix vs Melbourne Victory [English]",
       "tournament": "A-League 2026-27",
       "match_id": "4249838",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:30:00 AM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1792223292037.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/240p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/360p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/480p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/540p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/720p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH"
+          },
+          "cookie": "hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH",
+          "expires": "1792374854",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
