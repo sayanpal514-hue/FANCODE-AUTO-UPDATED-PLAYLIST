@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 19-10-2026 21:45
+#DATE:- 19-10-2026 21:50
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -17,3 +17,6 @@ https://in-mc-flive.fancode.com/mumbai/4249614_english_hls_1740f949599392_1ta-di
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250213_53025_ALF_AAS_FC-Web.png" group-title="Fancode-Football", Al-Fayha FC vs Al-Ahli Saudi FC [English]
 https://in-mc-flive.fancode.com/mumbai/4250213_english_hls_ab187b56aa41068_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792508264~_GO=Generated~acl=/mumbai/4250213_english_hls_ab187b56aa41068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99fa5fdf-e074-4b~Signature=ASgJGVDYiwCq-H6d-bVoEhQh7DBI3FFIZhVmr7q0GVdHXTOqFTb1jhWxy2zf99-F-bPYwCt0HHZOopyUMz3Uw4WlbsgP
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250475_53130_EMR_ABD_fc-web_1792412929308.jpg" group-title="Fancode-Cricket", Emirates Red vs Abu Dhabi [English]
+https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E
