@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:45:59 PM 19-10-2026",
+  "last update time": "09:50:58 PM 19-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,13 +170,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Emirates Red vs Abu Dhabi",
+      "title": "Emirates Red vs Abu Dhabi [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250475",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:00:00 PM 19-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250475_53130_EMR_ABD_fc-web_1792412929308.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/240p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/360p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/480p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/540p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/720p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E"
+          },
+          "cookie": "hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E",
+          "expires": "1792513110",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
