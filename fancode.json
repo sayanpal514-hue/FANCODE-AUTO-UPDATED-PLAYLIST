@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:30:58 AM 19-10-2026",
+  "last update time": "07:35:58 AM 19-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -71,7 +71,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Western Australia vs New South Wales",
+      "title": "New South Wales vs Western Australia",
       "tournament": "Sheffield Shield, 2026/27",
       "match_id": "4249667",
       "status": "UPCOMING",
