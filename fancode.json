@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:40:58 PM 19-10-2026",
+  "last update time": "10:45:59 PM 19-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "World Feed [English]",
-      "tournament": "ATP 250 - Almaty Open 2026",
-      "match_id": "4249607",
-      "status": "LIVE",
-      "startTime": "12:00:00 PM 19-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792392838118.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/240p.m3u8?hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/360p.m3u8?hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/480p.m3u8?hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/540p.m3u8?hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/720p.m3u8?hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI"
-          },
-          "cookie": "hdntl=Expires=1792506448~_GO=Generated~acl=/mumbai/4249607_english_hls_4fed40e0cb31361_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4fa6d023-a470-40~Signature=ASgJGVDh0oCci5hYnOPRxDCAlRWGcED0-okCdTqwMafktKezmdKDy6HgU7Zhwdi0x2j3CDxMWtPGztAE_Fca9V1xV9wI",
-          "expires": "1792506448",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Afghanistan vs Zimbabwe [English]",
@@ -466,6 +433,16 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 21-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247624_53004_LET_ATH_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Reading vs Leyton Orient",
+      "tournament": "League One 2026-27",
+      "match_id": "4249805",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 22-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH"
     },
     {
