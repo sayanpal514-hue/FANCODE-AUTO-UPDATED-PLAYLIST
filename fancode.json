@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:20:58 AM 21-10-2026",
+  "last update time": "04:25:58 AM 21-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Day 2 - World Feed [English]",
-      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "match_id": "4249615",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 20-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/240p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/360p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/480p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/540p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/720p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH"
-          },
-          "cookie": "hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
-          "expires": "1792612596",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Sydney Sixers Women vs Perth Scorchers Women",
@@ -341,6 +308,16 @@
       "title": "Court 1 - QF",
       "tournament": "BWF Super 750 - French Open 2026",
       "match_id": "4250156",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Badminton",
+      "title": "Court 2 - QF",
+      "tournament": "BWF Super 750 - French Open 2026",
+      "match_id": "4250157",
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
