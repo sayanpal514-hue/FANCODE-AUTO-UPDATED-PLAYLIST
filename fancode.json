@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:45:58 AM 21-10-2026",
+  "last update time": "01:50:58 AM 21-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH",
           "expires": "1792612596",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Sharjah vs Emirates Red [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250477",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 20-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250477_53130_EMR_SHA_fc-web_1792412929341.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/240p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/360p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/480p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/540p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/720p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB"
-          },
-          "cookie": "hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB",
-          "expires": "1792599869",
           "expire_date": ""
         }
       }
@@ -499,6 +466,16 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 AM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Nigeria vs Mozambique",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249760",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png",
       "language": "ENGLISH"
     },
     {
