@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 20-10-2026 17:50
+#DATE:- 20-10-2026 17:55
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -14,3 +14,6 @@ https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Fancode-Tennis", Day 2 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792583507~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52a95316-1d66-46~Signature=ASgJGVD6EWoD6QsS1xL90eoaro9WJ7v63oefeqqxs6VGTgt1TZslVOtDUOmrNmOH8qHhISQFbuxkCuMDXKXZRhqXJ2gH
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250476_53130_AJM_EMB_fc-web_1792412929325.jpg" group-title="Fancode-Cricket", Emirates Blues vs Ajman [English]
+https://in-mc-flive.fancode.com/mumbai/4250476_english_hls_550b3930e750705_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792585325~_GO=Generated~acl=/mumbai/4250476_english_hls_550b3930e750705_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5cb17a81-bd68-44~Signature=ASgJGVDFq9IRL0IaqMG7HgdmDiYHmCHQH1RNAbfhUpwFAKZFg3eAkb_m_1pPEOrfvNP4W4ae7ssGLLRm5r0eNZVKy7wD
