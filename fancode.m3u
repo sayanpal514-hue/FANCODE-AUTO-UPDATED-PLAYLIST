@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 20-10-2026 20:30
+#DATE:- 20-10-2026 20:36
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -23,3 +23,6 @@ https://in-mc-flive.fancode.com/mumbai/4249755_english_hls_b7141fe3ec9908_1ta-di
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249756_53093_NGR_GAM_FC-Web_1792493253295.png" group-title="Fancode-Cricket", Nigeria vs Gambia [English]
 https://in-mc-flive.fancode.com/mumbai/4249756_english_hls_e0a59c015f99540_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792586537~_GO=Generated~acl=/mumbai/4249756_english_hls_e0a59c015f99540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d3d20e10-7ded-44~Signature=ASgJGVD4BCxegaxxxovWMVVr4I9w77DQx3zDDNsf0CzRuzD9rb48wZw9s0cYqTDtyvxBTZUZVW7ouE8xZh-bE2XqEFEN
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250215_53025_ALTW_ALQ_FC-Web.png" group-title="Fancode-Football", Al-Taawoun FC vs Al-Qadsiah FC [English]
+https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G
