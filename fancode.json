@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:30:59 PM 20-10-2026",
+  "last update time": "08:36:00 PM 20-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -236,13 +236,36 @@
     },
     {
       "category": "Football",
-      "title": "Al-Taawoun FC vs Al-Qadsiah FC",
+      "title": "Al-Taawoun FC vs Al-Qadsiah FC [English]",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4250215",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "08:40:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250215_53025_ALTW_ALQ_FC-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/240p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/360p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/480p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/540p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/720p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G"
+          },
+          "cookie": "hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G",
+          "expires": "1792595018",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
