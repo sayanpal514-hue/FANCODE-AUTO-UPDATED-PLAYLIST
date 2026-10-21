@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:00:58 PM 21-10-2026",
+  "last update time": "03:05:58 PM 21-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -236,13 +236,36 @@
     },
     {
       "category": "Tennis",
-      "title": "Day 3 - World Feed",
+      "title": "Day 3 - World Feed [English]",
       "tournament": "ATP 250 - BNP Paribas Fortis European Open",
       "match_id": "4249623",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "03:30:00 PM 21-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/240p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/360p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/480p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/540p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/720p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG"
+          },
+          "cookie": "hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG",
+          "expires": "1792661657",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
