@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:00:58 PM 21-10-2026",
+  "last update time": "12:05:58 PM 21-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -70,39 +70,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Sydney Sixers Women vs Perth Scorchers Women [English]",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249804",
-      "status": "LIVE",
-      "startTime": "08:30:00 AM 21-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249804_53097_SS-W_PS-W_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/240p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/360p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/480p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/540p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/720p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD"
-          },
-          "cookie": "hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD",
-          "expires": "1792637427",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Tennis",
       "title": "Day 3 - World Feed [English]",
       "tournament": "ATP 250 - Almaty Open 2026",
@@ -137,13 +104,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Kenya vs Denmark",
+      "title": "Kenya vs Denmark [English]",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250336",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:15:00 PM 21-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/240p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/360p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/480p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/540p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/720p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO"
+          },
+          "cookie": "hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO",
+          "expires": "1792650744",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Badminton",
@@ -453,6 +443,16 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249761_53093_ZAM_LES_FC-Web_1792493252664.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Brisbane Roar vs Perth Glory",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249840",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249840_53101_BRB_PG_fc-Web_1792223292186.jpg",
       "language": "ENGLISH"
     },
     {
