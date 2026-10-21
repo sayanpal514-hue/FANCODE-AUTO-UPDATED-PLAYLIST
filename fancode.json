@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:30:58 AM 22-10-2026",
+  "last update time": "01:35:59 AM 22-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Day 3 - World Feed [English]",
-      "tournament": "ATP 250 - BNP Paribas Fortis European Open",
-      "match_id": "4249623",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 21-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/240p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/360p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/480p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/540p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/720p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP"
-          },
-          "cookie": "hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
-          "expires": "1792690738",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 3 - World Feed [English]",
@@ -453,6 +420,16 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Deportivo Alaves vs Malaga",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247660",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247660_53004_ALA_MAG_FC-Web.png",
       "language": "ENGLISH"
     },
     {
