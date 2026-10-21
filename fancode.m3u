@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 21-10-2026 21:45
+#DATE:- 21-10-2026 21:50
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -17,3 +17,6 @@ https://in-mc-flive.fancode.com/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249759_53093_ZAM_NGR_FC-Web_1792493252671.png" group-title="Fancode-Cricket", Zambia vs Nigeria [English]
 https://in-mc-flive.fancode.com/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792672556~_GO=Generated~acl=/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_04578bec-dd36-43~Signature=ASgJGVAWmA7vFyNS-0tQIDO4nkjBRQPB4xzSf4fJ9a2Wwlco1tOq719oFoETgkhY7FDRNMG2KLi9AdXJ77gUYZiWxNkF
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250479_53130_AJM_ABD_fc-web_1792412930149.jpg" group-title="Fancode-Cricket", Ajman vs Abu Dhabi [English]
+https://in-mc-flive.fancode.com/mumbai/4250479_english_hls_9167fee39a54643_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792685885~_GO=Generated~acl=/mumbai/4250479_english_hls_9167fee39a54643_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c28a161f-7cfe-48~Signature=ASgJGVBqEarcYOUOnmY2tvTEezM6_r7LlRXgrF-Tc9OMAD545QwVuGvXwHp9_Li0WrRslEQQlaVX5uexLVtdOPRjqeUK
