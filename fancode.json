@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:55:58 AM 21-10-2026",
+  "last update time": "08:00:58 AM 21-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -71,12 +71,55 @@
     },
     {
       "category": "Cricket",
+      "title": "New South Wales vs Western Australia [English]",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249667",
+      "status": "LIVE",
+      "startTime": "08:00:00 AM 19-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/240p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/360p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/480p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/540p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/720p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G"
+          },
+          "cookie": "hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G",
+          "expires": "1792636216",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Sydney Sixers Women vs Perth Scorchers Women",
       "tournament": "T20 Spring Challenge, 2026",
       "match_id": "4249804",
       "status": "UPCOMING",
       "startTime": "08:30:00 AM 21-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249804_53097_SS-W_PS-W_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 3 - World Feed",
+      "tournament": "ATP 250 - Almaty Open 2026",
+      "match_id": "4249609",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 PM 21-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
       "language": "ENGLISH"
     },
     {
@@ -121,17 +164,7 @@
     },
     {
       "category": "Tennis",
-      "title": "ATP 250 - Almaty Open 2026",
-      "tournament": "ATP 250 - Almaty Open 2026",
-      "match_id": "4249609",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 21-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 250 - BNP Paribas Fortis European Open",
+      "title": "Day 3 - World Feed",
       "tournament": "ATP 250 - BNP Paribas Fortis European Open",
       "match_id": "4249623",
       "status": "UPCOMING",
@@ -151,7 +184,7 @@
     },
     {
       "category": "Tennis",
-      "title": "World Feed - Day 3",
+      "title": "Day 3 - World Feed",
       "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
       "match_id": "4249616",
       "status": "UPCOMING",
@@ -437,16 +470,6 @@
       "status": "PAUSED",
       "startTime": "01:30:00 PM 18-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "New South Wales vs Western Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249667",
-      "status": "PAUSED",
-      "startTime": "08:00:00 AM 19-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg",
       "language": "ENGLISH"
     }
   ]
