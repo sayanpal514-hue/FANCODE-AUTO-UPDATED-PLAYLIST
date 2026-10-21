@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 21-10-2026 15:00
+#DATE:- 21-10-2026 15:05
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -23,3 +23,6 @@ https://in-mc-flive.fancode.com/mumbai/4249757_english_hls_f87c87a08265245_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249758_53093_LES_UGA_FC-Web_1792493252675.png" group-title="Fancode-Cricket", Lesotho vs Uganda [English]
 https://in-mc-flive.fancode.com/mumbai/4249758_english_hls_aafda7ac1d7327_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792657415~_GO=Generated~acl=/mumbai/4249758_english_hls_aafda7ac1d7327_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0f6c460e-45e2-40~Signature=ASgJGVAnpgH6hA6LItVcoKOIhAu4rwrGFX6ikvdcqFeJr3CKlBkhPIOD5hWJ69Za0LcOhv8RMCg-1TfNe-zeLAjW0PcC
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Fancode-Tennis", Day 3 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG
