@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:50:58 AM 22-10-2026",
+  "last update time": "12:55:58 AM 22-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP",
           "expires": "1792690738",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh vs Afghanistan [English]",
-      "tournament": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
-      "match_id": "4249696",
-      "status": "LIVE",
-      "startTime": "05:00:00 PM 21-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249696_53089_AFG_BAN_FC-WEB_1792056448070.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/240p.m3u8?hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/360p.m3u8?hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/480p.m3u8?hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/540p.m3u8?hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/720p.m3u8?hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P"
-          },
-          "cookie": "hdntl=Expires=1792695643~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7733486d-6444-4c~Signature=ASgJGVDfZw_KYw6Y7K7DupwvVLPHzTL1DxfTSBfXxHgiivHFr36AriiAXNko0g7IYfcDcf8NpD5Xif65AbIpKvXziw4P",
-          "expires": "1792695643",
           "expire_date": ""
         }
       }
@@ -476,6 +443,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al-Qadsiah FC vs Al Hilal SFC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4250268",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png",
       "language": "ENGLISH"
     },
     {
