@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:00:59 PM 22-10-2026",
+  "last update time": "07:05:59 PM 22-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1792736300~_GO=Generated~acl=/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4ac297d-3aab-49~Signature=ASgJGVCHYH9uoydJLKR2-SL5HdjDiulIfMTaoW74IAHSEhXAjpDNPS1hbqI6XFWE7ky-DGPRhyepr7G6dWfP8e0luZwF",
           "expires": "1792736300",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jersey vs Papua New Guinea [English]",
-      "tournament": "ICC CWC Challenge League A 2026",
-      "match_id": "4250337",
-      "status": "LIVE",
-      "startTime": "12:15:00 PM 22-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/240p.m3u8?hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/360p.m3u8?hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/480p.m3u8?hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/540p.m3u8?hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/720p.m3u8?hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB"
-          },
-          "cookie": "hdntl=Expires=1792737512~_GO=Generated~acl=/mumbai/4250337_english_hls_82109dbdb653334_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5522857b-5eb2-41~Signature=ASgJGVDGvP7dCguQycARirNY9HUe70OTjRAXJ9N6obWHHCg4VHkBSK4Guog5Jq3zaW7XzjnLEALHmxN21aQajmzPBwoB",
-          "expires": "1792737512",
           "expire_date": ""
         }
       }
@@ -621,6 +588,16 @@
       "status": "UPCOMING",
       "startTime": "03:10:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Opening Race",
+      "tournament": "F1 ACADEMY AUSTIN 2026",
+      "match_id": "4250507",
+      "status": "UPCOMING",
+      "startTime": "04:20:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": "ENGLISH"
     },
     {
