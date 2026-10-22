@@ -1,8 +1,41 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:45:58 PM 22-10-2026",
+  "last update time": "12:50:58 PM 22-10-2026",
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "South Africa vs Australia [English]",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249782",
+      "status": "LIVE",
+      "startTime": "01:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/240p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/360p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/480p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/540p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/720p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN"
+          },
+          "cookie": "hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN",
+          "expires": "1792739943",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "New South Wales vs Western Australia [English]",
@@ -137,7 +170,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia vs Ireland",
+      "title": "Ireland vs Namibia",
       "tournament": "Ireland tour of Namibia, 2026",
       "match_id": "4250331",
       "status": "UPCOMING",
@@ -483,16 +516,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249782",
-      "status": "PAUSED",
-      "startTime": "01:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH"
     }
   ]
