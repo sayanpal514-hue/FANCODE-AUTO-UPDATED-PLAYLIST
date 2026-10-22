@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:05:59 PM 22-10-2026",
+  "last update time": "08:11:20 PM 22-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -302,13 +302,36 @@
     },
     {
       "category": "Football",
-      "title": "Al-Fateh SC vs Al-Shabab FC",
+      "title": "Al-Fateh SC vs Al-Shabab FC [English]",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4250218",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "08:15:00 PM 22-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250218_53025_AFF_ASF_FC-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/240p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/360p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/480p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/540p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/720p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J"
+          },
+          "cookie": "hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J",
+          "expires": "1792766009",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Golf",
