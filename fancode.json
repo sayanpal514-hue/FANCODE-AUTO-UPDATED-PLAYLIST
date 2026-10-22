@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:35:58 PM 22-10-2026",
+  "last update time": "04:40:58 PM 22-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -164,39 +164,6 @@
           },
           "cookie": "hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
           "expires": "1792741155",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "New Zealand Women vs Australia Women [English]",
-      "tournament": "New Zealand Women tour of Australia, 2026",
-      "match_id": "4250163",
-      "status": "LIVE",
-      "startTime": "01:45:00 PM 22-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/240p.m3u8?hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/360p.m3u8?hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/480p.m3u8?hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/540p.m3u8?hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/720p.m3u8?hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN"
-          },
-          "cookie": "hdntl=Expires=1792742974~_GO=Generated~acl=/mumbai/4250163_english_hls_e980a413e350303_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8b99800-0b6d-4f~Signature=ASgJGVDlEUMNhNNswcYCqjjTieVphHzlz2ZqDDszeaVh-MZqR11yyWmhsczmakbSVMQlEUVVdkVmed6enRs0ZQw6VZwN",
-          "expires": "1792742974",
           "expire_date": ""
         }
       }
@@ -598,6 +565,16 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "MotoGP",
+      "title": "Day 2",
+      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
+      "match_id": "139979",
+      "status": "UPCOMING",
+      "startTime": "03:10:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
       "language": "ENGLISH"
     },
     {
