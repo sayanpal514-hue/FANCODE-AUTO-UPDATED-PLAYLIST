@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 22-10-2026 21:20
+#DATE:- 22-10-2026 21:25
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -20,3 +20,6 @@ https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250218_53025_AFF_ASF_FC-Web.png" group-title="Fancode-Football", Al-Fateh SC vs Al-Shabab FC [English]
 https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792766009~_GO=Generated~acl=/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_389d5f2b-c784-4f~Signature=ASgJGVCD-kcJ843gDT5pyHrADVWPokoasLta-uM3EtTHcPMlGn1g7PON4Z_Zpo_Y1S2uka6lMtxHJUcXcDWAo_uA710J
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Fancode-Golf", Day 1 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC
