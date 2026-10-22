@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:25:59 PM 22-10-2026",
+  "last update time": "08:31:00 PM 22-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1792766617~_GO=Generated~acl=/mumbai/4250338_english_hls_e735380f0e82720_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fb2fec49-77b4-41~Signature=ASgJGVAWqQUdGJcck1o5vV3RmORwRQGA2rSTneBz0uPvDJt86onKqekudlr8QPYIoD0IzHa6Nb6n-ZpiESQwwqGx_40K",
           "expires": "1792766617",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Ireland vs Namibia [English]",
-      "tournament": "Ireland tour of Namibia, 2026",
-      "match_id": "4250331",
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 22-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/240p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/360p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/480p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/540p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/720p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD"
-          },
-          "cookie": "hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD",
-          "expires": "1792741155",
           "expire_date": ""
         }
       }
@@ -631,6 +598,16 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs New South Wales",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249282",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",
       "language": "ENGLISH"
     }
   ]
