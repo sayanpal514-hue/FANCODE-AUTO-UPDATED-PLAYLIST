@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:55:59 PM 22-10-2026",
+  "last update time": "10:00:59 PM 22-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -136,39 +136,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Dubai vs Emirates Red [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250480",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 22-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/240p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/360p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/480p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/540p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/720p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN"
-          },
-          "cookie": "hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
-          "expires": "1792758128",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Al-Fateh SC vs Al-Shabab FC [English]",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -236,13 +203,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Sharjah vs Abu Dhabi",
+      "title": "Abu Dhabi vs Sharjah [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250481",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:00:00 PM 22-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250481_53130_SHA_ABD_fc-web_1792412929288.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/240p.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/360p.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/480p.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/540p.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/720p.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL"
+          },
+          "cookie": "hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL",
+          "expires": "1792772673",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Motorsports",
@@ -562,6 +552,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Uganda vs Mozambique",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249763",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249763_53093_UGA_MOZ_FC-Web_1792493252645.png",
       "language": "ENGLISH"
     }
   ]
