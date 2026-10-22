@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:50:58 PM 22-10-2026",
+  "last update time": "05:55:58 PM 22-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -302,13 +302,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Emirates Red vs Dubai",
+      "title": "Emirates Red vs Dubai [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250480",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:00:00 PM 22-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/240p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/360p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/480p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/540p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/720p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN"
+          },
+          "cookie": "hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN",
+          "expires": "1792758128",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
