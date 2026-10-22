@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:20:59 PM 22-10-2026",
+  "last update time": "09:25:59 PM 22-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -203,13 +203,36 @@
     },
     {
       "category": "Golf",
-      "title": "Day 1 - World Feed",
+      "title": "Day 1 - World Feed [English]",
       "tournament": "Butterfield Bermuda Championship 2026",
       "match_id": "4250351",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 PM 22-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/240p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/360p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/480p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/540p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/720p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC"
+          },
+          "cookie": "hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC",
+          "expires": "1792770857",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
