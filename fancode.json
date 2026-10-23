@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:50:58 PM 23-10-2026",
+  "last update time": "11:55:58 PM 23-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Football",
-      "title": "Granada vs Real Valladolid",
+      "title": "Granada vs Real Valladolid [English]",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": "4250107",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:00:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250107_53017_GRD_VLD_FC-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/240p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/360p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/480p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/540p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/720p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF"
+          },
+          "cookie": "hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF",
+          "expires": "1792866188",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
