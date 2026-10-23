@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:50:58 PM 23-10-2026",
+  "last update time": "08:55:59 PM 23-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Football",
-      "title": "Al-Ittihad vs Diriyah",
+      "title": "Al-Ittihad vs Diriyah [English]",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4250267",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:00:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250267_53025_ITT_DIR_FC-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/240p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/360p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/480p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/540p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/720p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE"
+          },
+          "cookie": "hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE",
+          "expires": "1792855208",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Golf",
