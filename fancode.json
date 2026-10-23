@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:45:58 PM 23-10-2026",
+  "last update time": "04:50:58 PM 23-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -103,41 +103,8 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Brisbane Roar vs Perth Glory [English]",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249840",
-      "status": "LIVE",
-      "startTime": "02:30:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249840_53101_BRB_PG_fc-Web_1792223292186.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/240p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/360p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/480p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/540p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/720p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E"
-          },
-          "cookie": "hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E",
-          "expires": "1792831535",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Cricket",
-      "title": "Afghanistan vs Zimbabwe [English]",
+      "title": "Zimbabwe vs Afghanistan [English]",
       "tournament": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
       "match_id": "4249697",
       "status": "LIVE",
@@ -396,6 +363,16 @@
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Badminton",
+      "title": "Semi-Final",
+      "tournament": "BWF Super 750 - French Open 2026",
+      "match_id": "4250158",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
       "language": "ENGLISH"
     },
     {
