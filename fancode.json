@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:55:58 AM 24-10-2026",
+  "last update time": "02:00:58 AM 24-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -65,72 +65,6 @@
           },
           "cookie": "hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
           "expires": "1792871743",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2 - World Feed [English]",
-      "tournament": "Butterfield Bermuda Championship 2026",
-      "match_id": "4250352",
-      "status": "LIVE",
-      "startTime": "09:30:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/240p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/360p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/480p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/540p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/720p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP"
-          },
-          "cookie": "hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
-          "expires": "1792857030",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al Khaleej FC [English]",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250219",
-      "status": "LIVE",
-      "startTime": "11:30:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/240p.m3u8?hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/360p.m3u8?hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/480p.m3u8?hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/540p.m3u8?hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/720p.m3u8?hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ"
-          },
-          "cookie": "hdntl=Expires=1792864335~_GO=Generated~acl=/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ce16065-9f07-4d~Signature=ASgJGVBGGR6A-iYYo77nGmIzyTfEJo-eC0_UNtkkVLQlAQvwNrxHuZSJTYdIBh6qpJNgsrKE0iCzT_GukOb7NQFli9MJ",
-          "expires": "1792864335",
           "expire_date": ""
         }
       }
@@ -519,6 +453,26 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250109_53017_ALM_RO_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Qualifying",
+      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+      "match_id": "139505",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "MotoGP",
+      "title": "Race Day",
+      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
+      "match_id": "139980",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
       "language": "ENGLISH"
     },
     {
