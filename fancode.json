@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:50:58 AM 24-10-2026",
+  "last update time": "12:55:58 AM 24-10-2026",
   "matches": [
-    {
-      "category": "Badminton",
-      "title": "Court 1 - QF [English]",
-      "tournament": "BWF Super 750 - French Open 2026",
-      "match_id": "4250156",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/240p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/360p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/480p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/540p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/720p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL"
-          },
-          "cookie": "hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL",
-          "expires": "1792855815",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 5 - World Feed [English]",
@@ -406,7 +373,7 @@
       "tournament": "Ireland tour of Namibia, 2026",
       "match_id": "4250332",
       "status": "UPCOMING",
-      "startTime": "01:30:00 PM 24-10-2026",
+      "startTime": "01:00:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
       "language": "ENGLISH"
     },
@@ -548,6 +515,16 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 - World Feed",
+      "tournament": "Butterfield Bermuda Championship 2026",
+      "match_id": "4250353",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
