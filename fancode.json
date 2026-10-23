@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:00:58 AM 23-10-2026",
+  "last update time": "11:05:58 AM 23-10-2026",
   "matches": [
-    {
-      "category": "MotoGP",
-      "title": "Day 1 [English]",
-      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
-      "match_id": "139978",
-      "status": "LIVE",
-      "startTime": "03:30:00 AM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/240p.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/360p.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/480p.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/540p.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/720p.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA"
-          },
-          "cookie": "hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA",
-          "expires": "1792792145",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 5 - World Feed",
@@ -424,6 +391,16 @@
       "status": "UPCOMING",
       "startTime": "06:20:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249765_53093_LES_NGR_FC-Web_1792493253251.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Preston North End F.C. vs West Bromwich Albion F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249599",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg",
       "language": "ENGLISH"
     }
   ]
