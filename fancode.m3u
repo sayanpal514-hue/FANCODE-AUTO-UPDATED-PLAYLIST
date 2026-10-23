@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 23-10-2026 23:50
+#DATE:- 23-10-2026 23:55
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -26,3 +26,6 @@ https://in-mc-flive.fancode.com/mumbai/4250219_english_hls_02bf778a4694263_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png" group-title="Fancode-Football", Al-Qadsiah FC vs Al Hilal SFC [English]
 https://in-mc-flive.fancode.com/mumbai/4250268_english_hls_8b67c0225f71380_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792864336~_GO=Generated~acl=/mumbai/4250268_english_hls_8b67c0225f71380_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b548cd8b-9ed4-4d~Signature=ASgJGVAoaRJvojk6ribP4alE_EvuPTfjm6RB_Ttq6WSQi2BqgK-fBho3v77vpVtHjdReSPAoP4UbIv86G5z9NJIQqGoH
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250107_53017_GRD_VLD_FC-Web.png" group-title="Fancode-Football", Granada vs Real Valladolid [English]
+https://in-mc-flive.fancode.com/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792866188~_GO=Generated~acl=/mumbai/4250107_english_hls_8e3714422150927_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce91f733-544d-44~Signature=ASgJGVC0OcxlYZXnG-wgbfKjBl6iWL7CpLvDP4UcekCX6nRSNTARDDsUt2OMUXvgxTow5LWk-BPE2isCZfmCkYi5aVIF
