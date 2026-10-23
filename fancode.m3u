@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 23-10-2026 14:10
+#DATE:- 23-10-2026 14:15
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -17,3 +17,6 @@ https://in-mc-flive.fancode.com/mumbai/4249760_english_hls_bae1223fe532144_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249761_53093_ZAM_LES_FC-Web_1792493252664.png" group-title="Fancode-Cricket", Lesotho vs Zambia [English]
 https://in-mc-flive.fancode.com/mumbai/4249761_english_hls_245a2df94d82412_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792829720~_GO=Generated~acl=/mumbai/4249761_english_hls_245a2df94d82412_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7b113e4a-319f-49~Signature=ASgJGVB1XGlEJ_kvf9wr4WWY26OP3cyfte3uzheDd1OvHe6LqpqOAv71bY1EZALwfcQg9G22ozYIN7APGmXBkhVP70gJ
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249840_53101_BRB_PG_fc-Web_1792223292186.jpg" group-title="Fancode-Football", Brisbane Roar vs Perth Glory [English]
+https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792831535~_GO=Generated~acl=/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f98a32e-c4ae-4d~Signature=ASgJGVDHNcyHTC1zuTzrlVRRlOMvEXRxnXzKftoFlIB6YgOyDdmnxeHUOO6eBVS_RZkNqhZpu4sZDBEqjnufijhO1s0E
