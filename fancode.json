@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:25:59 AM 24-10-2026",
+  "last update time": "02:30:59 AM 24-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1792871741~_GO=Generated~acl=/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_55ef39e1-aa5c-4a~Signature=ASgJGVD6PRf5XlLw9pghLVtybYq8qHzUS9zPPtvoO6VJbWP2usliMlgn-xL9HvDY6vx5VSYQcUkZ6p5jiu_mTMQVugsC",
           "expires": "1792871741",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5 - World Feed [English]",
-      "tournament": "ATP 250 - BNP Paribas Fortis European Open",
-      "match_id": "4249625",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/240p.m3u8?hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/360p.m3u8?hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/480p.m3u8?hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/540p.m3u8?hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/720p.m3u8?hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G"
-          },
-          "cookie": "hdntl=Expires=1792871743~_GO=Generated~acl=/mumbai/4249625_english_hls_536367850459177_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9dad4642-7807-48~Signature=ASgJGVD12VVbbl4dpnOpizt2mX5Si786Qps7AHGH9XKzNf5TTvJRrskqCOGzR4uwE9nZsSBFkRFsKPEZypFDoYd1Th0G",
-          "expires": "1792871743",
           "expire_date": ""
         }
       }
@@ -470,6 +437,16 @@
       "title": "Jersey vs Kenya",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250341",
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Denmark vs Papua New Guinea",
+      "tournament": "ICC CWC Challenge League A 2026",
+      "match_id": "4250342",
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
