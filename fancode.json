@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:55:58 PM 23-10-2026",
+  "last update time": "01:00:58 PM 23-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -38,23 +38,69 @@
     },
     {
       "category": "Badminton",
-      "title": "Court 1 - QF",
+      "title": "Court 1 - QF [English]",
       "tournament": "BWF Super 750 - French Open 2026",
       "match_id": "4250156",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:00:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/240p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/360p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/480p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/540p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/720p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH"
+          },
+          "cookie": "hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH",
+          "expires": "1792826688",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Badminton",
-      "title": "Court 2 - QF",
+      "title": "Court 2 - QF [English]",
       "tournament": "BWF Super 750 - French Open 2026",
       "match_id": "4250157",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:00:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/240p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/360p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/480p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/540p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/720p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H"
+          },
+          "cookie": "hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H",
+          "expires": "1792826689",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
