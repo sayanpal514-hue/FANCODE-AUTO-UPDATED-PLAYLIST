@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:50:58 PM 23-10-2026",
+  "last update time": "10:55:58 PM 23-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Day 5 - World Feed [English]",
-      "tournament": "ATP 250 - Almaty Open 2026",
-      "match_id": "4249611",
-      "status": "LIVE",
-      "startTime": "12:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/240p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/360p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/480p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/540p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/720p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE"
-          },
-          "cookie": "hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE",
-          "expires": "1792852175",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Badminton",
       "title": "Court 1 - QF [English]",
@@ -301,16 +268,6 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
-      "match_id": "139502",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "Al-Ahli Saudi FC vs Al Khaleej FC",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -478,6 +435,16 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249763_53093_UGA_MOZ_FC-Web_1792493252645.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Melbourne Victory vs Melbourne City",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249843",
+      "status": "UPCOMING",
+      "startTime": "02:10:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249843_53101_MLV_MLC_fc-Web_1792223292104.jpg",
       "language": "ENGLISH"
     },
     {
