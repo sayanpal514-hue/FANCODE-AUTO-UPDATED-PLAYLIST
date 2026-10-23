@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:20:59 PM 23-10-2026",
+  "last update time": "09:25:59 PM 23-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -236,39 +236,6 @@
     },
     {
       "category": "Football",
-      "title": "Al Faisaly Saudi vs Al-Nassr FC [English]",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250266",
-      "status": "LIVE",
-      "startTime": "07:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250266_53025_ALF_ANF_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/240p.m3u8?hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/360p.m3u8?hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/480p.m3u8?hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/540p.m3u8?hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/720p.m3u8?hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ"
-          },
-          "cookie": "hdntl=Expires=1792847928~_GO=Generated~acl=/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d11c6904-e8d2-4c~Signature=ASgJGVDvKaguYhvps3PIC-VYyMYyZ7ggc_VK9N-EEJmP7gZN8a8rxCj7Nf2Y6JjpoDc5FnJbj10gbmmpm1N5bQmgwpcJ",
-          "expires": "1792847928",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
       "title": "Al-Ittihad vs Diriyah [English]",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4250267",
@@ -302,13 +269,36 @@
     },
     {
       "category": "Golf",
-      "title": "Day 2 - World Feed",
+      "title": "Day 2 - World Feed [English]",
       "tournament": "Butterfield Bermuda Championship 2026",
       "match_id": "4250352",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/240p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/360p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/480p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/540p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/720p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP"
+          },
+          "cookie": "hdntl=Expires=1792857030~_GO=Generated~acl=/mumbai/4250352_english_hls_7e8d59effb50597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_704d8979-1a58-40~Signature=ASgJGVC7NX9vKjoG2ptqOImPlQZvd852WNyeA7jWULB4abkDamZRx3Hqn2bEsZy08h6qaICiQrEg1HTTi13qZXMdJ5AP",
+          "expires": "1792857030",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -407,7 +397,7 @@
       "match_id": "4250507",
       "status": "UPCOMING",
       "startTime": "04:20:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
       "language": "ENGLISH"
     },
     {
