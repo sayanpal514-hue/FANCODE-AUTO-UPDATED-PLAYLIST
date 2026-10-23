@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:45:58 AM 24-10-2026",
+  "last update time": "12:50:58 AM 24-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Football",
-      "title": "Bolton Wanderers vs Middlesbrough F.C.",
+      "title": "Bolton Wanderers vs Middlesbrough F.C. [English]",
       "tournament": "EFL Championship 2026-27",
       "match_id": "4249597",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249597_52993_BOL_MIDD_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/240p.m3u8?hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/360p.m3u8?hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/480p.m3u8?hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/540p.m3u8?hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/720p.m3u8?hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL"
+          },
+          "cookie": "hdntl=Expires=1792868064~_GO=Generated~acl=/mumbai/4249597_english_hls_456cf4b65760508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7283457-5564-42~Signature=ASgJGVAmqOdIm6QnxNDaCv-2_zEn5sO_dOOELTnLzGz1w9dlPa9dxCHQb3gcS3G5MRgsGE9gvR4krxFonNpaDMNKaOcL",
+          "expires": "1792868064",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Formula 1",
