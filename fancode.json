@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:35:58 PM 24-10-2026",
+  "last update time": "06:40:58 PM 24-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -540,16 +540,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Football",
-      "title": "Wellington Phoenix vs Central Coast Mariners",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249844",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249844_53101_WEL_CCM_fc-Web_1792223292135.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "United Arab Emirates vs Netherlands",
       "tournament": "ICC CWC League 2 UAE, 2026",
@@ -647,6 +637,16 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250110_53017_CES_TFE_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Birmingham City F.C. Women vs Charlton Athletic F.C Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249203",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249203_53038_BIR-W_CHL-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
