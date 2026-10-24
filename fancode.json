@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:40:58 PM 24-10-2026",
+  "last update time": "09:45:59 PM 24-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -65,72 +65,6 @@
           },
           "cookie": "hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
           "expires": "1792928810",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Dubai vs Abu Dhabi [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250484",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250484_53130_DUB_ABD_fc-web_1792412929330.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/240p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/360p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/480p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/540p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/720p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO"
-          },
-          "cookie": "hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO",
-          "expires": "1792930631",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Preston North End F.C. vs West Bromwich Albion F.C. [English]",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4249599",
-      "status": "LIVE",
-      "startTime": "07:30:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/240p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/360p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/480p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/540p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/720p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A"
-          },
-          "cookie": "hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A",
-          "expires": "1792936132",
           "expire_date": ""
         }
       }
@@ -435,6 +369,26 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - BNP Paribas Fortis European Open",
+      "tournament": "ATP 250 - BNP Paribas Fortis European Open",
+      "match_id": "4249627",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Badminton",
+      "title": "Finals",
+      "tournament": "BWF Super 750 - French Open 2026",
+      "match_id": "4250159",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
       "language": "ENGLISH"
     },
     {
