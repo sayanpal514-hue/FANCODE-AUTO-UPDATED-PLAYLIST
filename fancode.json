@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:15:58 AM 25-10-2026",
+  "last update time": "01:20:58 AM 25-10-2026",
   "matches": [
     {
       "category": "Golf",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1792943544~_GO=Generated~acl=/mumbai/4250353_english_hls_29318dfe2b32750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_54646a07-0128-41~Signature=ASgJGVBbG3diLiQuqVpd2Ymd9iWa6mWkLjV5bD6SGbKMsKDb-RqpsJxy-rEoiAvRbIHcdv5p2i6VLW5Iy9uY2wTGKTIA",
           "expires": "1792943544",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Red vs Ajman [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250485",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/240p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/360p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/480p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/540p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/720p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL"
-          },
-          "cookie": "hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL",
-          "expires": "1792945402",
           "expire_date": ""
         }
       }
@@ -450,6 +417,16 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 26-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250488_53130_ABD_EMR_fc-web_1792412929301.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Himachal Highlenders vs Punjab Warriors",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250531",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 26-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     },
     {
