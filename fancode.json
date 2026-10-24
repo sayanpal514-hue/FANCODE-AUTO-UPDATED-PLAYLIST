@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:30:58 PM 24-10-2026",
+  "last update time": "10:35:59 PM 24-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1792942318~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1b8e9787-3906-43~Signature=ASgJGVB_dq5PkF9SZW9ewv7L1wVp9bzUrdDRcHneOoFfNAP6aVvoPywc_JkkPg8JrpJKyhNqwV4bXMbk5aaqG17yxPMI",
           "expires": "1792942318",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed [English]",
-      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "match_id": "4249619",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/240p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/360p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/480p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/540p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/720p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P"
-          },
-          "cookie": "hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P",
-          "expires": "1792928810",
           "expire_date": ""
         }
       }
@@ -519,6 +486,16 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+      "match_id": "139506",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 26-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
       "language": "ENGLISH"
     },
     {
