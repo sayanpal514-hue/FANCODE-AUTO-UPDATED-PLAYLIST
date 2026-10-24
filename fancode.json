@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:40:58 PM 24-10-2026",
+  "last update time": "01:45:58 PM 24-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -462,16 +462,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Motorsports",
-      "title": "Race Day",
-      "tournament": "JK Tyre Motorsport 2026",
-      "match_id": "4250528",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "United Arab Emirates vs Netherlands",
       "tournament": "ICC CWC League 2 UAE, 2026",
@@ -539,6 +529,16 @@
       "status": "UPCOMING",
       "startTime": "06:20:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Athletic Club vs Getafe CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247662",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247662_53004_ATH_GEF_FC-Web.png",
       "language": "ENGLISH"
     }
   ]
