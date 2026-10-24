@@ -1,17 +1,40 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:20:58 AM 25-10-2026",
+  "last update time": "03:25:58 AM 25-10-2026",
   "matches": [
     {
       "category": "MotoGP",
-      "title": "Race Day",
+      "title": "Race Day [English]",
       "tournament": "GRAND PRIX OF AUSTRALIA 2026",
       "match_id": "139980",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "03:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/240p.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/360p.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/480p.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/540p.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/720p.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J"
+          },
+          "cookie": "hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J",
+          "expires": "1792965087",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Motorsports",
