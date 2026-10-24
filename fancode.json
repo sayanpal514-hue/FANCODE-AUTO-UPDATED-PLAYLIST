@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:00:58 PM 24-10-2026",
+  "last update time": "08:05:58 PM 24-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Qatar vs Kenya [English]",
-      "tournament": "ICC CWC Challenge League A 2026",
-      "match_id": "4250340",
-      "status": "LIVE",
-      "startTime": "12:15:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/240p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/360p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/480p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/540p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL"
-          },
-          "cookie": "hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL",
-          "expires": "1792910014",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Badminton",
       "title": "Semi-Finals [English]",
@@ -451,6 +418,16 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race Day",
+      "tournament": "JK Tyre Motorsport 2026",
+      "match_id": "4250528",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
