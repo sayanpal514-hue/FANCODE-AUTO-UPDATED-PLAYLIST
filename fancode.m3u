@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 24-10-2026 19:15
+#DATE:- 24-10-2026 19:20
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -15,9 +15,6 @@ https://in-mc-flive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Fancode-Tennis", Day 6 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792921520~_GO=Generated~acl=/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_02c2ba69-468d-4b~Signature=ASgJGVAyRmW96jNHfqzTxlFn2WeheYvy6wu1ZsgF4OkN7p6N6-nU7pTFYmAeTc5-KQN0-F6_nlJ9yLjhxMk57sQyLgEJ
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249598_52993_CHL_NOR_fc-web.jpg" group-title="Fancode-Football", Charlton Athletic F.C vs Norwich City F.C. [English]
-https://in-mc-flive.fancode.com/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792926967~_GO=Generated~acl=/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcfa5e4b-1162-42~Signature=ASgJGVBcygaNPp4YXcs6WIDeKnuZhwwuO27akBvvlSwpcxu_CXSEiQgPVIk38u983Alf10h399Jwv1sEB05XfBcFmwkK
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249200_53038_TOT-W_ARS-W_fc-web.jpg" group-title="Fancode-Football", Tottenham Hotspur Women vs Arsenal Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249200_english_hls_d5650a431f25560_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792928201~_GO=Generated~acl=/mumbai/4249200_english_hls_d5650a431f25560_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_791fc896-fa18-49~Signature=ASgJGVCAYP4XorzIQ3yadCWqrXNhncgvP2RCfkGyPUgdecdXShRnBGX1O0Ho0qCcT4UATOmMZXa0yYWnSsnhEgRPv6UO
 
@@ -32,3 +29,9 @@ https://in-mc-flive.fancode.com/mumbai/4249764_english_hls_2771dfc2c691938_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249765_53093_LES_NGR_FC-Web_1792493253251.png" group-title="Fancode-Cricket", Lesotho vs Nigeria [English]
 https://in-mc-flive.fancode.com/mumbai/4249765_english_hls_962395d46c82740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792931860~_GO=Generated~acl=/mumbai/4249765_english_hls_962395d46c82740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1c642930-42d4-47~Signature=ASgJGVBga2aH1TuFUFRtduyfGA9vjMUuqFd1mksbzjBLLCD7X6sqEIf8Lol-kaJ1ybntkzL8WwoR508ru1zJJEktW6sG
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg" group-title="Fancode-Football", Preston North End F.C. vs West Bromwich Albion F.C. [English]
+https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Fancode-Tennis", Day 6 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792936139~_GO=Generated~acl=/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_32ff63b6-517a-43~Signature=ASgJGVCvTn9OEUP_Ly-Jt38AvYWRgSw2gyzTr267cSnYHJlibFmuPE7QL_VKYj-ECXxz7e5XJR3ILW3TuTLuilvlVhcE
