@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:05:58 PM 24-10-2026",
+  "last update time": "03:10:58 PM 24-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -465,16 +465,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Football",
-      "title": "Sydney FC vs Adelaide United",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249845",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "United Arab Emirates vs Netherlands",
       "tournament": "ICC CWC League 2 UAE, 2026",
@@ -522,6 +512,16 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249767_53093_MOZ_ZAM_FC-Web_1792493252681.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Crystal Palace Women vs Chelsea F.C. Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249202",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249202_53038_CP-W_CHE-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
