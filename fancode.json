@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:30:58 AM 24-10-2026",
+  "last update time": "10:35:58 AM 24-10-2026",
   "matches": [
-    {
-      "category": "MotoGP",
-      "title": "Day 2 [English]",
-      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
-      "match_id": "139979",
-      "status": "LIVE",
-      "startTime": "03:10:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/240p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/360p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/480p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/540p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/720p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A"
-          },
-          "cookie": "hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A",
-          "expires": "1792877285",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Victoria vs Tasmania [English]",
@@ -410,6 +377,16 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249844_53101_WEL_CCM_fc-Web_1792223292135.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Sydney FC vs Adelaide United",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249845",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
       "language": "ENGLISH"
     },
     {
