@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:35:58 PM 25-10-2026",
+  "last update time": "10:40:58 PM 25-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Nigeria vs Uganda [English]",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249768",
-      "status": "LIVE",
-      "startTime": "06:20:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/240p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/360p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/480p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/540p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/720p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK"
-          },
-          "cookie": "hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK",
-          "expires": "1793018467",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 7 - World Feed [English]",
@@ -134,26 +101,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Feature Race",
-      "tournament": "F1 ACADEMY AUSTIN 2026",
-      "match_id": "139699",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Real Sociedad vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247663",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247663_53004_RS_LET_FC-Web.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
@@ -473,6 +420,16 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248722_53053_DAC_VIS_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Kyoto Sanga vs Newcastle Jets",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248723",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248723_53053_KYS_NJ_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
