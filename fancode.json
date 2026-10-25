@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:05:58 AM 25-10-2026",
+  "last update time": "09:10:58 AM 25-10-2026",
   "matches": [
     {
       "category": "MotoGP",
@@ -82,7 +82,7 @@
     {
       "category": "Motorsports",
       "title": "Race Day",
-      "tournament": "CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026",
+      "tournament": "The FMSCI Indian National Car Racing Championship",
       "match_id": "4250528",
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 25-10-2026",
@@ -150,16 +150,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "match_id": "4249620",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Badminton",
       "title": "Finals",
       "tournament": "BWF Super 750 - French Open 2026",
@@ -217,6 +207,16 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250110_53017_CES_TFE_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+      "match_id": "4249620",
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
