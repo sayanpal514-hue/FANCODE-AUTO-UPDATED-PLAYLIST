@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:10:59 PM 25-10-2026",
+  "last update time": "07:15:59 PM 25-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "United Arab Emirates vs Netherlands [English]",
-      "tournament": "ICC CWC League 2 UAE, 2026",
-      "match_id": "4250516",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/240p.m3u8?hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/360p.m3u8?hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/480p.m3u8?hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/540p.m3u8?hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/720p.m3u8?hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O"
-          },
-          "cookie": "hdntl=Expires=1793020921~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ec770568-e434-46~Signature=ASgJGVCIbBB0V4H0mcccwsMSpZ6mV18VUSM_r0xQWlXcAqEYeHLAGKPjgtFAutsmMjqK7NsFQUT2_Rso8VXs_Jhlxv0O",
-          "expires": "1793020921",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Jersey vs Kenya [English]",
@@ -170,7 +137,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Emirates Red vs Emirates Blues [English]",
+      "title": "Emirates Blues vs Emirates Red [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250486",
       "status": "LIVE",
@@ -356,7 +323,7 @@
       "tournament": "Butterfield Bermuda Championship 2026",
       "match_id": "4250354",
       "status": "UPCOMING",
-      "startTime": "09:30:00 PM 25-10-2026",
+      "startTime": "09:00:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
       "language": "ENGLISH"
     },
@@ -598,6 +565,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Netherlands vs Oman",
+      "tournament": "ICC CWC League 2 UAE, 2026",
+      "match_id": "4250517",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
       "language": "ENGLISH"
     }
   ]
