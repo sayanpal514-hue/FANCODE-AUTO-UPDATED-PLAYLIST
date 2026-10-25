@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 25-10-2026 20:50
+#DATE:- 25-10-2026 20:55
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -12,9 +12,6 @@ https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png" group-title="Fancode-Cricket", Nigeria vs Uganda [English]
 https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250110_53017_CES_TFE_FC-Web.png" group-title="Fancode-Football", CE Sabadell vs Tenerife [English]
-https://in-mc-flive.fancode.com/mumbai/4250110_english_hls_4d48dae3cf7683_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793019088~_GO=Generated~acl=/mumbai/4250110_english_hls_4d48dae3cf7683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a366e521-1293-4f~Signature=ASgJGVAZ-fXy1LvmCSuZzh9ViJo29e3_unkQOOIO6QwGcv-nV3BdMS89MnEXP0bk2slsoGmmhDAgqb0ckstP5VSAtuUF
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Fancode-Tennis", Day 7 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249620_english_hls_01ac50ded573779_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793020927~_GO=Generated~acl=/mumbai/4249620_english_hls_01ac50ded573779_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7c5ea5b3-aa9d-4a~Signature=ASgJGVBe6YHqUkJW2-EZF1nHf3XtOvRvqPkEAnO_sVpBhFBnmkkvf4g6H6TdvceUF05M0PCWB2EDma9530fehs9iSa4F
 
@@ -26,3 +23,9 @@ https://in-mc-flive.fancode.com/mumbai/4249204_english_hls_8b196dc54994870_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249205_53038_LIV-W_LCL_fc-web.jpg" group-title="Fancode-Football", Liverpool Women vs London City Lionesses [English]
 https://in-mc-flive.fancode.com/mumbai/4249205_english_hls_1d931ab8e057494_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793022770~_GO=Generated~acl=/mumbai/4249205_english_hls_1d931ab8e057494_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_484e8bbe-9663-42~Signature=ASgJGVBIi6lN_tS_sp2tPK5VXNqxYxjMnQnUwSoIkKuQLhTjsSNY-WKQYj4RLU81Fu1ggiswEzV_AMFMhFEnNLMDEWIP
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Fancode-Tennis", Day 7 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249627_english_hls_dac12fb2cd57196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793028302~_GO=Generated~acl=/mumbai/4249627_english_hls_dac12fb2cd57196_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22353b6c-c266-4c~Signature=ASgJGVBCgDyhN3SwTBKJhnL2ff_oxlhj2P42i3f_mePveCdqns7DSLtQZGj92Fv2OKXcYK7114oyOd8PNmJgzXuWxSkM
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Fancode-Golf", Day 4 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4250354_english_hls_6da6462dec56863_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793027084~_GO=Generated~acl=/mumbai/4250354_english_hls_6da6462dec56863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2d7a7a07-8580-46~Signature=ASgJGVAQc9CVOTrC3aFYSLh1-H5UC8lpwcEzGULpnilHbAoE0eymCQkV1_3KJ-ubQv6B8-kZNaxgLRHto5sChbgwk00I
