@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:15:58 AM 25-10-2026",
+  "last update time": "09:20:58 AM 25-10-2026",
   "matches": [
     {
       "category": "MotoGP",
@@ -71,23 +71,69 @@
     },
     {
       "category": "Football",
-      "title": "Sydney FC vs Adelaide United",
+      "title": "Sydney FC vs Adelaide United [English]",
       "tournament": "A-League 2026-27",
       "match_id": "4249845",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/240p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/360p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/480p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/540p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/720p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB"
+          },
+          "cookie": "hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB",
+          "expires": "1792986350",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Motorsports",
-      "title": "Race Day",
-      "tournament": "The FMSCI Indian National Car Racing Championship",
+      "title": "Race Day [English]",
+      "tournament": "CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026",
       "match_id": "4250528",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/240p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/360p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/480p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/540p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/720p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE"
+          },
+          "cookie": "hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE",
+          "expires": "1792986351",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -151,12 +197,12 @@
     },
     {
       "category": "Badminton",
-      "title": "Finals",
+      "title": "Young vs PV Sindhu",
       "tournament": "BWF Super 750 - French Open 2026",
       "match_id": "4250159",
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/An_Se_Young_PV_Sindhu_FC-App-V2_FC-WEB.jpg",
       "language": "ENGLISH"
     },
     {
