@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:15:58 PM 25-10-2026",
+  "last update time": "05:20:58 PM 25-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -236,13 +236,36 @@
     },
     {
       "category": "Football",
-      "title": "Crystal Palace Women vs Chelsea F.C. Women",
+      "title": "Crystal Palace Women vs Chelsea F.C. Women [English]",
       "tournament": "Barclays Women's Super League 2026-27",
       "match_id": "4249202",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05:30:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249202_53038_CP-W_CHE-W_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/240p.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/360p.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/480p.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/540p.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/720p.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE"
+          },
+          "cookie": "hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE",
+          "expires": "1793015429",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
