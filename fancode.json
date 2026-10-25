@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:05:58 PM 25-10-2026",
+  "last update time": "12:10:58 PM 25-10-2026",
   "matches": [
     {
       "category": "Motorsports",
@@ -71,23 +71,69 @@
     },
     {
       "category": "Cricket",
-      "title": "Jersey vs Kenya",
+      "title": "Jersey vs Kenya [English]",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250341",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:15:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/240p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/360p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/480p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/540p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/720p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K"
+          },
+          "cookie": "hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K",
+          "expires": "1792996654",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
-      "title": "Denmark vs Papua New Guinea",
+      "title": "Denmark vs Papua New Guinea [English]",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250342",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:15:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/240p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/360p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/480p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/540p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/720p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB"
+          },
+          "cookie": "hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB",
+          "expires": "1792996655",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
