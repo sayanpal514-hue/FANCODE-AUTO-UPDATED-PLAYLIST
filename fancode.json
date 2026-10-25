@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:55:58 PM 25-10-2026",
+  "last update time": "02:00:59 PM 25-10-2026",
   "matches": [
     {
       "category": "Motorsports",
@@ -170,7 +170,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Mozambique vs Zambia [English]",
+      "title": "Zambia vs Mozambique [English]",
       "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
       "match_id": "4249767",
       "status": "LIVE",
