@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:30:59 PM 25-10-2026",
+  "last update time": "09:35:59 PM 25-10-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793008164~_GO=Generated~acl=/mumbai/4250159_english_hls_f0bf5565811704_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0b6154b4-128f-46~Signature=ASgJGVAJ-OucAB8B31GoPuabUj-5iCXKPwKw9vOxmObuuXEBtXARdwn_ZRCKKZbnQ7WN1tciSJjjtq5bs0gQRYGhAUEK",
           "expires": "1793008164",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Emirates Red [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250486",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250486_53130_EMR_EMB_fc-web_1792412929389.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/240p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/360p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/480p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/540p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/720p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG"
-          },
-          "cookie": "hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG",
-          "expires": "1793017247",
           "expire_date": ""
         }
       }
@@ -598,6 +565,16 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "South Africa vs Australia",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249783",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH"
     }
   ]
