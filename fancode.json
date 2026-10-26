@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:05:59 PM 26-10-2026",
+  "last update time": "07:10:58 PM 26-10-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "PFC Neftchi vs Al-Ittihad",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248712",
-      "status": "UPCOMING",
-      "startTime": "07:15:00 PM 26-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248712_53053_NB_ITT_fc-web_1792669837430.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Football",
       "title": "Al-Ahli Saudi FC vs Al Gharafa",
