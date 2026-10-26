@@ -1,17 +1,40 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:45:58 AM 26-10-2026",
+  "last update time": "09:50:58 AM 26-10-2026",
   "matches": [
     {
       "category": "Cricket",
       "title": "Delhi Dynamites vs Haryana Hustlers",
       "tournament": "Northern Artist Champions League 2026",
       "match_id": "4250529",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:00:00 AM 26-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/240p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/360p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/480p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/540p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/720p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL"
+          },
+          "cookie": "hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL",
+          "expires": "1793074641",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
