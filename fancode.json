@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:15:58 PM 26-10-2026",
+  "last update time": "11:20:59 PM 26-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793108278~_GO=Generated~acl=/mumbai/4249649_english_hls_8df251928c93931_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_da2d42fb-0020-40~Signature=ATFKiJuFeihbCW1ixxnwdLUWm2HBMMCxiMzyH-hd7M5ZXLVPaXoynDGv9DN8ogME3NqoOIZ1t49Xukl_OSpBwrTzq-QM",
           "expires": "1793108278",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Himachal Highlenders vs Punjab Warriors [English]",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250531",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 26-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250531_53137_HHL_PBW_FC-Web_1793010710973.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/240p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/360p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/480p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/540p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/720p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C"
-          },
-          "cookie": "hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C",
-          "expires": "1793108273",
           "expire_date": ""
         }
       }
@@ -333,7 +300,7 @@
       "tournament": "Northern Artist Champions League 2026",
       "match_id": "4250532",
       "status": "UPCOMING",
-      "startTime": "09:30:00 AM 27-10-2026",
+      "startTime": "09:00:00 AM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250532_53137_DLD_UTS_FC-Web.png",
       "language": "ENGLISH"
     },
@@ -458,6 +425,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Tennis",
+      "title": "ATP 500 - Erste Bank Open 2026",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249636",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Cricket",
       "title": "Karnali Yaks vs Janakpur Bolts",
       "tournament": "Nepal Premier League Season 3, 2026",
@@ -465,16 +442,6 @@
       "status": "UPCOMING",
       "startTime": "04:45:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250357_53124_KNY_JKB_fc-Web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "UP Thunderbolts vs Rajasthan Royalsmen",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250534",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250534_53137_UPT_RR_FC-Web.png",
       "language": "ENGLISH"
     },
     {
@@ -495,6 +462,16 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248725_53053_RAT_REY_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "UP Thunderbolts vs Rajasthan Royalsmen",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250534",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250534_53137_UPT_RR_FC-Web.png",
       "language": "ENGLISH"
     },
     {
