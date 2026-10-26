@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:45:58 PM 26-10-2026",
+  "last update time": "10:50:58 PM 26-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -458,16 +458,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP 500 - Erste Bank Open 2026",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249636",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Karnali Yaks vs Janakpur Bolts",
       "tournament": "Nepal Premier League Season 3, 2026",
@@ -585,6 +575,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "South Australia vs Western Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249668",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
       "language": "ENGLISH"
     }
   ]
