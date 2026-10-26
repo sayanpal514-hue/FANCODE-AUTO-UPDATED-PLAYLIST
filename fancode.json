@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:55:58 AM 27-10-2026",
+  "last update time": "01:00:58 AM 27-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -236,16 +236,6 @@
     },
     {
       "category": "Football",
-      "title": "Sevilla FC vs CA Osasuna",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247667",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247667_53004_SEV_OSN_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
       "title": "Walsall vs Salford City",
       "tournament": "League Two 2026-27",
       "match_id": "4250000",
@@ -376,26 +366,6 @@
     },
     {
       "category": "Tennis",
-      "title": "ATP 500 - Erste Bank Open 2026",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249629",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 500 - Erste Bank Open 2026",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249636",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
       "title": "ATP 500 - Swiss Indoors Basel 2026",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
       "match_id": "4249643",
@@ -412,6 +382,16 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Glaubandich Court",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249636",
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
@@ -442,6 +422,16 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248725_53053_RAT_REY_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249629",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
