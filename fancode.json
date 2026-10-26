@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:20:58 AM 27-10-2026",
+  "last update time": "12:25:58 AM 27-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "IWB Court 1 [English]",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249642",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 26-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/240p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/360p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/480p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/540p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/720p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K"
-          },
-          "cookie": "hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K",
-          "expires": "1793108276",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 1 - World Feed [English]",
@@ -203,23 +170,69 @@
     },
     {
       "category": "Tennis",
-      "title": "Centre Court",
+      "title": "Centre Court [English]",
       "tournament": "ATP 500 - Erste Bank Open 2026",
       "match_id": "4250545",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/240p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/360p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/480p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/540p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/720p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE"
+          },
+          "cookie": "hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE",
+          "expires": "1793126977",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Tennis",
-      "title": "World Feed 2",
+      "title": "World Feed 2 [English]",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
       "match_id": "4250546",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/240p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/360p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/480p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/540p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/720p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B"
+          },
+          "cookie": "hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B",
+          "expires": "1793126979",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
@@ -529,6 +542,16 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 AM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Himachal Highlenders vs UP Thunderbolts",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250535",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250535_53137_HHL_UPT_FC-Web.png",
       "language": "ENGLISH"
     },
     {
