@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:15:58 PM 26-10-2026",
+  "last update time": "09:20:59 PM 26-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -203,23 +203,69 @@
     },
     {
       "category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al Gharafa",
+      "title": "Al-Ahli Saudi FC vs Al Gharafa [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248713",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 PM 26-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248713_53053_AAS_AGH_fc-web_1792670285275.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/240p.m3u8?hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/360p.m3u8?hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/480p.m3u8?hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/540p.m3u8?hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/720p.m3u8?hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP"
+          },
+          "cookie": "hdntl=Expires=1793116067~_GO=Generated~acl=/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b44_watcho_06196721-7d8e-49~Signature=ATFKiJuUQvPAR9DkFboVAfmARtkFjv6C6kW6-HquYWTvng4JET8IMAYtzODxXBWO8km0r-eAv5_XcS0Fj5Mc2uPuetEP",
+          "expires": "1793116067",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
-      "title": "Al Ain vs Tractor",
+      "title": "Al Ain vs Tractor [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248714",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 PM 26-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248714_53053_AAI_TFC_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/240p.m3u8?hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/360p.m3u8?hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/480p.m3u8?hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/540p.m3u8?hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/720p.m3u8?hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L"
+          },
+          "cookie": "hdntl=Expires=1793116070~_GO=Generated~acl=/mumbai/4248714_english_hls_19b9366d0c38516_1ta-di_h264/*~SessionID=fc-app_sportsguruand_23e_watcho_d3d6b3d4-cff6-43~Signature=ATFKiJuUVHxWue4JL4uW7uwrNzrKx5sHas70pCnoIiDkF222dVEGdrZptl_-WXIKIj7pHQkH6Il7Szs2Kwnj38YTV78L",
+          "expires": "1793116070",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Tennis",
@@ -422,16 +468,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP 500 - Erste Bank Open 2026",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249636",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Karnali Yaks vs Janakpur Bolts",
       "tournament": "Nepal Premier League Season 3, 2026",
@@ -539,6 +575,16 @@
       "status": "UPCOMING",
       "startTime": "01:15:00 AM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Fleetwood Town vs Arsenal",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249711",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg",
       "language": "ENGLISH"
     }
   ]
