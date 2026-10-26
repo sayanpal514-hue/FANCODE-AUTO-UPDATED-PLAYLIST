@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:55:58 PM 26-10-2026",
+  "last update time": "01:00:58 PM 26-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -357,16 +357,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP 500 - Swiss Indoors Basel 2026",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249650",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Karnali Yaks vs Janakpur Bolts",
       "tournament": "Nepal Premier League Season 3, 2026",
@@ -424,6 +414,16 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248718_53053_SAA_ESG_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Seeb Club vs East Bengal FC",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248991",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248991_53057_ALS_EBFC_fc-web_1789025066274.jpg",
       "language": "ENGLISH"
     }
   ]
