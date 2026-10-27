@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:55:58 AM 28-10-2026",
+  "last update time": "01:00:58 AM 28-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
           "expires": "1793191986",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Rot-Weiss Essen vs RB Leipzig [English]",
-      "tournament": "DFB Pokal 2026-27",
-      "match_id": "4249990",
-      "status": "LIVE",
-      "startTime": "10:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249990_53043_ESS_LEP_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/240p.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/360p.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/480p.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/540p.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/720p.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH"
-          },
-          "cookie": "hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH",
-          "expires": "1793206066",
           "expire_date": ""
         }
       }
@@ -552,6 +519,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249489_53078_ARS-W_BEN-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "OL Lyonnes vs Inter Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249490",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249490_53078_OLY-W_INT-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
