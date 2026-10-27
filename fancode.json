@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:50:58 PM 27-10-2026",
+  "last update time": "04:55:58 PM 27-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -440,16 +440,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249643",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Afghanistan vs Zimbabwe",
       "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
@@ -667,6 +657,16 @@
       "status": "UPCOMING",
       "startTime": "07:15:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248985_53057_NAS_KSC_fc-web_1789029543599.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Golgohar Sirjan SC vs FK Arkadag",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248987",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248987_53057_GGS_ARK_fc-web_1789025065552.jpg",
       "language": "ENGLISH"
     },
     {
