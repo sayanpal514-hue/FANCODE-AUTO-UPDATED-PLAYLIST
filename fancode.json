@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:10:58 PM 27-10-2026",
+  "last update time": "06:15:58 PM 27-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -131,39 +131,6 @@
           },
           "cookie": "hdntl=Expires=1793173775~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c4e_watcho_586cba68-53ee-46~Signature=ATFKiJvsjuNKmS39CEGJCbz7ufSXXXjr0NZqjqmaVkTXvB6FG0GniHiyTAobbPIg-DSZad66dtIgRGNswqK1vLHSBo4D",
           "expires": "1793173775",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Kyoto Sanga vs Newcastle Jets [English]",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248723",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248723_53053_KYS_NJ_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/240p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/360p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/480p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/540p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/720p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB"
-          },
-          "cookie": "hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB",
-          "expires": "1793181048",
           "expire_date": ""
         }
       }
@@ -644,6 +611,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Roma Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249486",
+      "status": "UPCOMING",
+      "startTime": "11:15:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249486_53078_CHE-W_ROM-W_fc-web.jpg",
       "language": "ENGLISH"
     }
   ]
