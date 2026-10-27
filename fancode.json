@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:00:58 PM 27-10-2026",
+  "last update time": "08:05:59 PM 27-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -164,72 +164,6 @@
           },
           "cookie": "hdntl=Expires=1793185296~_GO=Generated~acl=/mumbai/4250357_english_hls_0360aac3556241_1ta-di_h264/*~SessionID=fc-app_sportsguruand_19d_watcho_4f4f86a3-1e5b-44~Signature=ATFKiJvp0LsJMIpkxI8Q5aBnnF7P6z7O5J9-7ucMzQEFvj0a2rSZrgDeT-IbMwcHyLoSQS3oQoYwukZX4Ujy1-tBBcQH",
           "expires": "1793185296",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Beijing Guoan vs Jeonbuk Motors [English]",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248724",
-      "status": "LIVE",
-      "startTime": "05:45:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248724_53053_BEI_JNB_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/240p.m3u8?hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/360p.m3u8?hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/480p.m3u8?hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/540p.m3u8?hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/720p.m3u8?hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD"
-          },
-          "cookie": "hdntl=Expires=1793188933~_GO=Generated~acl=/mumbai/4248724_english_hls_5572b29afe77534_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7bd_watcho_2630a1a9-4e8f-40~Signature=ATFKiJu2T7jdl-NcDZG9xWOOJiZZz928kClnxwr8t90SmDqxM6SIE7U0NjQ6AgkILePa68yVSKlq89pLtAE8MWiSXzcD",
-          "expires": "1793188933",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Ratchaburi vs Kashiwa Reysol [English]",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248725",
-      "status": "LIVE",
-      "startTime": "05:45:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248725_53053_RAT_REY_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/240p.m3u8?hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/360p.m3u8?hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/480p.m3u8?hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/540p.m3u8?hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/720p.m3u8?hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ"
-          },
-          "cookie": "hdntl=Expires=1793188934~_GO=Generated~acl=/mumbai/4248725_english_hls_f67d4623c384869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a36_watcho_537d23f9-706f-41~Signature=ATFKiJvDBzqRs5-AdymN4P04H4gLKl_dwhpizFhaIEIi3tz5imjkZMGiq6FbWQJcHrZpo3F_3aupVt1N_8XGPScq_ywJ",
-          "expires": "1793188934",
           "expire_date": ""
         }
       }
@@ -621,6 +555,26 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249488_53078_SVT-W_OHL-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Khaldiya SC vs Al Wahda",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248986",
+      "status": "UPCOMING",
+      "startTime": "11:45:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248986_53057_ALK_ALW_fc-web_1789025065400.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Faisaly vs Al-Taawoun FC",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248990",
+      "status": "UPCOMING",
+      "startTime": "11:45:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248990_53057_ALF_ALTW_fc-web_1789025065473.jpg",
       "language": "ENGLISH"
     }
   ]
