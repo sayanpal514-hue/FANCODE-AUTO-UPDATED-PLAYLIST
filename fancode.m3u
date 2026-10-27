@@ -1,12 +1,12 @@
 #EXTM3U
-#DATE:- 28-10-2026 02:10
+#DATE:- 28-10-2026 02:15
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Fancode-Tennis", IWB Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Martin-Landaluce-Open-web-match-card.png" group-title="Fancode-Tennis", A. Zverev vs M. Landaluce [English]
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode-Tennis", World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793219407~_GO=Generated~acl=/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/*~SessionID=fc-app_sportsguruand_262_watcho_aea5158c-6fbd-42~Signature=ATFKiJtHSiNbn6DnFWg-acHMYTg74JPKrzj1NKYPc0rvJH_aoe65S_z22WeBCDmFydr6NZfzMxyq6VUdgdla3lTsLTYH
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Fancode-Tennis", World Feed [English]
@@ -14,6 +14,9 @@ https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248719_53053_ALS_AHS_fc-web_1792675117387.jpg" group-title="Fancode-Football", Al Shamal vs Al Hilal SFC [English]
 https://in-mc-flive.fancode.com/mumbai/4248719_english_hls_22de867db318134_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793210916~_GO=Generated~acl=/mumbai/4248719_english_hls_22de867db318134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_284_watcho_afd73969-3518-4e~Signature=ATFKiJtzGSip90yybwv3MCWv564fg_uLKiZ4j8SSFsKqxdiUsqZuBLu4c2cvn5RHI953vLsxa_THqjOnHr-Wdiuyv88P
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode-Tennis", Centre Court [English]
+https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249991_53043_DOR_WBN_FC-WEB_1793110060947.jpg" group-title="Fancode-Football", Borussia Dortmund vs SV Werder Bremen [English]
 https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL
