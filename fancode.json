@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:05:58 AM 28-10-2026",
+  "last update time": "01:10:58 AM 28-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -203,13 +203,36 @@
     },
     {
       "category": "Football",
-      "title": "Borussia Dortmund vs SV Werder Bremen",
+      "title": "Borussia Dortmund vs SV Werder Bremen [English]",
       "tournament": "DFB Pokal 2026-27",
       "match_id": "4249991",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:15:00 AM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249991_53043_DOR_WBN_FC-WEB_1793110060947.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/240p.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/360p.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/480p.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/540p.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/720p.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL"
+          },
+          "cookie": "hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL",
+          "expires": "1793216374",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
