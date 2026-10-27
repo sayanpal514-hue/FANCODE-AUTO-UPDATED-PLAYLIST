@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:20:58 PM 27-10-2026",
+  "last update time": "06:25:58 PM 27-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -335,13 +335,36 @@
     },
     {
       "category": "Tennis",
-      "title": "World Feed",
+      "title": "World Feed [English]",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
       "match_id": "4249643",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:30:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/240p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/360p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/480p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/540p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/720p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK"
+          },
+          "cookie": "hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK",
+          "expires": "1793191986",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -380,7 +403,7 @@
       "match_id": "4249990",
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249990_53043_ESS_LEP_FC-WEB.jpg",
       "language": "ENGLISH"
     },
     {
