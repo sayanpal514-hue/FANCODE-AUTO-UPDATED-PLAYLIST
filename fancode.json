@@ -1,17 +1,40 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:45:58 AM 27-10-2026",
+  "last update time": "08:50:58 AM 27-10-2026",
   "matches": [
     {
       "category": "Cricket",
-      "title": "Delhi Dynamites vs Uttrakhand Stars",
+      "title": "Delhi Dynamites vs Uttrakhand Stars [English]",
       "tournament": "Northern Artist Champions League 2026",
       "match_id": "4250532",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:00:00 AM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250532_53137_DLD_UTS_FC-Web.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/240p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/360p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/480p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/540p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/720p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L"
+          },
+          "cookie": "hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L",
+          "expires": "1793157424",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
