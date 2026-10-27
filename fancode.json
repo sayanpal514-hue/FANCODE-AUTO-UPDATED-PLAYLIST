@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:10:58 AM 28-10-2026",
+  "last update time": "03:15:58 AM 28-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "IWB Court 1 [English]",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249650",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/240p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/360p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/480p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/540p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/720p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG"
-          },
-          "cookie": "hdntl=Expires=1793213953~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_391_watcho_7b49462e-20e4-42~Signature=ATFKiJuaIOs49aK6z4eYHLzooWojMemD01WKb94VHTrNVAc3JFm8SBiDF2TfSP-SN3eBcnRhScVNLJorf82t3AKuUSkG",
-          "expires": "1793213953",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -293,6 +260,16 @@
       "title": "World Feed",
       "tournament": "ATP 500 - Erste Bank Open 2026",
       "match_id": "4249630",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Glaubandich Court",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249637",
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
