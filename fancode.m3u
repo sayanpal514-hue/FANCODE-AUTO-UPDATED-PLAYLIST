@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 27-10-2026 12:05
+#DATE:- 27-10-2026 12:10
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -8,3 +8,12 @@ https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Fancode-Cricket", Netherlands vs Oman [English]
 https://in-mc-flive.fancode.com/mumbai/4250517_english_hls_c6aadfde282620_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793164691~_GO=Generated~acl=/mumbai/4250517_english_hls_c6aadfde282620_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2fd_watcho_dfb4ee5c-2026-4a~Signature=ATFKiJsQpElYsVwEsYUdxapFIxqwU9D07IBxfgfZUclJ2vVHKssUyYTjJrBSziwDEkZ0ESbe7uCn9OQo5grCejdbzpoP
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode-Cricket", Papua New Guinea vs Qatar [English]
+https://in-mc-flive.fancode.com/mumbai/4250343_english_hls_72aa7342dc71840_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793169533~_GO=Generated~acl=/mumbai/4250343_english_hls_72aa7342dc71840_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b57_watcho_cac7119f-92be-48~Signature=ATFKiJtRkqZZz_fwYgFxMWlZREshjXukN61AcC1gy2Ocdr7rgibBJzgXqKjf8anVsm3GzXHOUEnQu75HapyL2jstU2oB
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode-Cricket", Jersey vs Kuwait [English]
+https://in-mc-flive.fancode.com/mumbai/4250344_english_hls_de2fcdd6e014877_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793169534~_GO=Generated~acl=/mumbai/4250344_english_hls_de2fcdd6e014877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_364_watcho_7e30247d-cf53-48~Signature=ATFKiJvwMDLREd48lRC_SU2RW80t5I_VUBUS7RGfnwvUipTxFloJYBAzOw9a0BUrtnJ8GSQ04S2N301dNjt6hSvk7HIL
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250356_53124_BK_CWR_fc-Web.jpg" group-title="Fancode-Cricket", Chitwan Rhinos vs Biratnagar Kings [English]
+https://in-mc-flive.fancode.com/mumbai/4250356_english_hls_8953a306e829984_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793169536~_GO=Generated~acl=/mumbai/4250356_english_hls_8953a306e829984_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5a7_watcho_77af8a69-0e6b-40~Signature=ATFKiJuGpTiKdp9dizL5MB0ECR_3VH8uMy4fKvXgNsBMkD_Hp9Bn46vEw642hhgiVLAHzWNaYpypXqdCYKOajsaVIcAE
