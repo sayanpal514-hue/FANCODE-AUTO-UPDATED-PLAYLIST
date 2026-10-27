@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:15:59 AM 28-10-2026",
+  "last update time": "12:20:58 AM 28-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -136,39 +136,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Afghanistan vs Zimbabwe [English]",
-      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-      "match_id": "4249769",
-      "status": "LIVE",
-      "startTime": "08:00:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/240p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/360p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/480p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/540p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/720p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM"
-          },
-          "cookie": "hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM",
-          "expires": "1793196260",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Rot-Weiss Essen vs RB Leipzig [English]",
       "tournament": "DFB Pokal 2026-27",
@@ -269,13 +236,36 @@
     },
     {
       "category": "Tennis",
-      "title": "Centre Court",
+      "title": "Centre Court [English]",
       "tournament": "ATP 500 - Erste Bank Open 2026",
       "match_id": "4250580",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/240p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/360p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/480p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/540p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/720p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD"
+          },
+          "cookie": "hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD",
+          "expires": "1793213347",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
@@ -575,6 +565,16 @@
       "status": "UPCOMING",
       "startTime": "01:15:00 AM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249992_53043_LEV_NUR_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "FC Bayern Munich vs 1. FC Magdeburg",
+      "tournament": "DFB Pokal 2026-27",
+      "match_id": "4249993",
+      "status": "UPCOMING",
+      "startTime": "01:15:00 AM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH"
     },
     {
