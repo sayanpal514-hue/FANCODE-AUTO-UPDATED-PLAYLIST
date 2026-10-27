@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:55:59 AM 27-10-2026",
+  "last update time": "12:00:58 PM 27-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -71,7 +71,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Qatar vs Papua New Guinea",
+      "title": "Papua New Guinea vs Qatar",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250343",
       "status": "UPCOMING",
@@ -81,7 +81,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Kuwait vs Jersey",
+      "title": "Jersey vs Kuwait",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250344",
       "status": "UPCOMING",
@@ -91,7 +91,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Biratnagar Kings vs Chitwan Rhinos",
+      "title": "Chitwan Rhinos vs Biratnagar Kings",
       "tournament": "Nepal Premier League Season 3, 2026",
       "match_id": "4250356",
       "status": "UPCOMING",
