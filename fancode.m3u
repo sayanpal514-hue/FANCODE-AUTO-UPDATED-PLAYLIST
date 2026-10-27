@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 28-10-2026 01:05
+#DATE:- 28-10-2026 01:10
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -20,3 +20,6 @@ https://in-mc-flive.fancode.com/mumbai/4248992_english_hls_384e380f0233032_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode-Tennis", Centre Court [English]
 https://in-mc-flive.fancode.com/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793213347~_GO=Generated~acl=/mumbai/4250580_english_hls_856aefd3ad90775_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f83_watcho_008fb406-4348-4b~Signature=ATFKiJv0g2J2waVhu5msJe4o6b3crgGYZBPNWx44BO6UHtESpjPWnWf0cTxK47QNTX4F_S8NgdKKGMTeyZ3jdEeBYTUD
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249991_53043_DOR_WBN_FC-WEB_1793110060947.jpg" group-title="Fancode-Football", Borussia Dortmund vs SV Werder Bremen [English]
+https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL
