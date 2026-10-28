@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:30:58 AM 29-10-2026",
+  "last update time": "01:35:58 AM 29-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "IWB Court 1 [English]",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249651",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/240p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/360p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/480p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/540p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/720p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF"
-          },
-          "cookie": "hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF",
-          "expires": "1793296904",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -808,6 +775,16 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249491_53078_AW-W_JUV-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Paris FC Women vs BK Häcken Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249492",
+      "status": "UPCOMING",
+      "startTime": "11:15:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249492_53078_PFC-W_BKH-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
