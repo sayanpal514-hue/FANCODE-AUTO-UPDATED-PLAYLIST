@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:00:58 AM 29-10-2026",
+  "last update time": "04:05:58 AM 29-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793307843~_GO=Generated~acl=/mumbai/4249644_english_hls_8d8e73c39974541_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e87_watcho_79816d02-4c5d-47~Signature=ATFKiJun1t__3FvwNvKmIHajQdH6NlzVgH393NQDyX0BNk60X6Gq0HmftixIxHxotYAeibmoDfe6KUAzWLTfTU0wU58G",
           "expires": "1793307843",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "OL Lyonnes vs Inter Women [English]",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249490",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249490_53078_OLY-W_INT-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/240p.m3u8?hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/360p.m3u8?hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/480p.m3u8?hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/540p.m3u8?hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/720p.m3u8?hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK"
-          },
-          "cookie": "hdntl=Expires=1793303587~_GO=Generated~acl=/mumbai/4249490_english_hls_94def54aa747178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_704_watcho_9cc1d8f1-c823-44~Signature=ATFKiJuLQPZ5kbEudIP1_iliBgkC56pt9Kc3pbJ3zUD7B10cJIL80HoBWAXyI6OWxVr-W2WimZE0iJc6to3wroV5-xgK",
-          "expires": "1793303587",
           "expire_date": ""
         }
       }
@@ -240,6 +207,16 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "IWB Court 1",
+      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
+      "match_id": "4249652",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
       "language": "ENGLISH"
     },
     {
