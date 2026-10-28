@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:50:58 PM 28-10-2026",
+  "last update time": "04:55:58 PM 28-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793261354~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780088071_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d93_watcho_031ec486-f210-49~Signature=ATFKiJuWTsdpNPTOBVJn-Wc9CRnMVgTuv1gJC1VtN5Cs6k8se3d6AaDyVjn5A24r_K8pbSKknajIFYd9MvXOCmX_KdwM",
           "expires": "1793261354",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Denmark vs Qatar [English]",
-      "tournament": "ICC CWC Challenge League A 2026",
-      "match_id": "4250345",
-      "status": "LIVE",
-      "startTime": "12:15:00 PM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/240p.m3u8?hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/360p.m3u8?hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/480p.m3u8?hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/540p.m3u8?hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/720p.m3u8?hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L"
-          },
-          "cookie": "hdntl=Expires=1793255874~_GO=Generated~acl=/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/*~SessionID=fc-app_sportsguruand_44e_watcho_f1f29f6a-5c61-40~Signature=ATFKiJvbyixyZWnM0s85iIhy9G_oZmX27gtHu4vwI7sGaZOkbKrEbp86J-1xAVesQYD8HD_5CyzgKMrCwfBRbzaGFD4L",
-          "expires": "1793255874",
           "expire_date": ""
         }
       }
@@ -506,6 +473,16 @@
     },
     {
       "category": "Cricket",
+      "title": "Punjab Warriors vs UP Thunderbolts",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250539",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250539_53137_PBW_UPT_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
       "title": "Melbourne Stars Women vs Hobart Hurricanes Women",
       "tournament": "Women's Big Bash League, 2026",
       "match_id": "4250388",
@@ -542,6 +519,16 @@
       "status": "PAUSED",
       "startTime": "05:30:00 AM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs West Indies",
+      "tournament": "West Indies tour of Bangladesh, 2026",
+      "match_id": "4250526",
+      "status": "PAUSED",
+      "startTime": "09:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
       "language": "ENGLISH"
     }
   ]
