@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:30:58 AM 29-10-2026",
+  "last update time": "03:35:58 AM 29-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793307843~_GO=Generated~acl=/mumbai/4249644_english_hls_8d8e73c39974541_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e87_watcho_79816d02-4c5d-47~Signature=ATFKiJun1t__3FvwNvKmIHajQdH6NlzVgH393NQDyX0BNk60X6Gq0HmftixIxHxotYAeibmoDfe6KUAzWLTfTU0wU58G",
           "expires": "1793307843",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "FC Bayern Munich vs 1. FC Magdeburg [English]",
-      "tournament": "DFB Pokal 2026-27",
-      "match_id": "4249993",
-      "status": "LIVE",
-      "startTime": "01:15:00 AM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/240p.m3u8?hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/360p.m3u8?hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/480p.m3u8?hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/540p.m3u8?hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/720p.m3u8?hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF"
-          },
-          "cookie": "hdntl=Expires=1793302370~_GO=Generated~acl=/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_538_watcho_6ee324de-b338-4d~Signature=ATFKiJtJsrk654RjPbRbkS9ckljez324zRnWOKEOBdmX3Gspj1XbRqWVUuoURwEfqn2yPosI5A-gQqs598o1szDCC7UF",
-          "expires": "1793302370",
           "expire_date": ""
         }
       }
@@ -279,6 +246,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
+      "match_id": "4249645",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Cricket",
       "title": "Karnali Yaks vs Biratnagar Kings",
       "tournament": "Nepal Premier League Season 3, 2026",
@@ -286,6 +263,16 @@
       "status": "UPCOMING",
       "startTime": "04:45:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250360_53124_KNY_BK_fc-Web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Fairplay Court",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4250607",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
