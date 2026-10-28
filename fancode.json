@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:55:58 AM 28-10-2026",
+  "last update time": "12:00:59 PM 28-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -71,7 +71,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Qatar vs Denmark",
+      "title": "Denmark vs Qatar",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250345",
       "status": "UPCOMING",
