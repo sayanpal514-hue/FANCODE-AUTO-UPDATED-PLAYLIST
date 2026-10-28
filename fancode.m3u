@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 28-10-2026 23:40
+#DATE:- 28-10-2026 23:45
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -35,3 +35,6 @@ https://in-mc-flive.fancode.com/mumbai/4249488_english_hls_b2011e3f7918062_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248986_53057_ALK_ALW_fc-web_1789025065400.jpg" group-title="Fancode-Football", Al Khaldiya SC vs Al Wahda [English]
 https://in-mc-flive.fancode.com/mumbai/4248986_english_hls_b2b0c3704776877_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793296889~_GO=Generated~acl=/mumbai/4248986_english_hls_b2b0c3704776877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_12b_watcho_48c6e931-7e36-43~Signature=ATFKiJsNlK4aGgWOEViLJrQY2pEVjH3DVB1UZomZtSN-thDoprBrRF33UWf1-YzccUAGrIQPMd2XrFo1Y9YgwA_wj9cN
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248990_53057_ALF_ALTW_fc-web_1789025065473.jpg" group-title="Fancode-Football", Al Faisaly vs Al-Taawoun FC [English]
+https://in-mc-flive.fancode.com/mumbai/4248990_english_hls_f7920e7d1151984_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793296907~_GO=Generated~acl=/mumbai/4248990_english_hls_f7920e7d1151984_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d65_watcho_08348bf2-2894-43~Signature=ATFKiJuctIEJkkzPyvfSIoNiAuHlCViVwB3yPIv86NSJQXH9YacOO0d-vEppmwAYumH9EWwL4JVeblsEUOsaKmf7im4D
