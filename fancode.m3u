@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 28-10-2026 21:15
+#DATE:- 28-10-2026 21:20
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -18,7 +18,7 @@ https://in-mc-flive.fancode.com/mumbai/4249637_english_hls_dc36a35c8a10890_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250490_53130_SHA_EMR_fc-web_1792412929378.jpg" group-title="Fancode-Cricket", Emirates Red vs Sharjah [English]
 https://in-mc-flive.fancode.com/mumbai/4250490_english_hls_da64db50c736288_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793276693~_GO=Generated~acl=/mumbai/4250490_english_hls_da64db50c736288_1ta-di_h264/*~SessionID=fc-app_sportsguruand_dbf_watcho_6b24c625-d15d-4c~Signature=ATFKiJvQm0df8bHyE3qmH0SDjQbHYkCw-4bZ_bqJLBBcYkAmA5AURAmVA7PwfMBrHvS-XSmEmBiVy3D4wRSLlo_f7uEM
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Fancode-Tennis", World Feed [English]
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Djo_WEB.png" group-title="Fancode-Tennis", N. Djokovic vs U. Humbert [English]
 https://in-mc-flive.fancode.com/mumbai/4249644_english_hls_8d8e73c39974541_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793278545~_GO=Generated~acl=/mumbai/4249644_english_hls_8d8e73c39974541_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b16_watcho_804848cb-1571-46~Signature=ATFKiJsp-qo8Fbg4Q0gfwG1BSUY3gsm-W7qTB01LUIAhoubzdMUppqOxzIgBP2_qJNufgx7nsbup5Xv7pnIsGQqpth8P
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248985_53057_NAS_KSC_fc-web_1789029543599.jpg" group-title="Fancode-Football", PFC Nasaf vs Kuwait SC [English]
@@ -26,3 +26,9 @@ https://in-mc-flive.fancode.com/mumbai/4248985_english_hls_7bd2fe9c4654776_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248987_53057_GGS_ARK_fc-web_1789025065552.jpg" group-title="Fancode-Football", Golgohar Sirjan SC vs FK Arkadag [English]
 https://in-mc-flive.fancode.com/mumbai/4248987_english_hls_1aff23ab079848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793281018~_GO=Generated~acl=/mumbai/4248987_english_hls_1aff23ab079848_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1af_watcho_35bafe6c-5033-4c~Signature=ATFKiJtFnYt3-XAH43PjH_k_NSlREQbSulbi9dMjY06joPSeljEuOtORSaklv9Oqn1_zQbDEWRYQBEGYjsvkwBVgEmYM
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248988_53057_ALJ_ALM_fc-web_1789025065524.jpg" group-title="Fancode-Football", Al Jazira vs Al Muharraq [English]
+https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248989_53057_ALN_RAY_fc-web_1789025066058.jpg" group-title="Fancode-Football", Al-Nahda Club vs Al Rayyan [English]
+https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO
