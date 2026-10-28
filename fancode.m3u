@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 28-10-2026 16:30
+#DATE:- 28-10-2026 16:35
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -23,3 +23,6 @@ https://in-mc-flive.fancode.com/mumbai/4248727_english_hls_7a1c680f9068411_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Fancode-Tennis", IWB Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793267497~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2e8_watcho_1c24cd01-f36d-4d~Signature=ATFKiJsN-V3TRfdBeRfs9Bh4ylE4DU8BvfkIQZF3wVhpa8UDUSnT4Jjwh605YbJv5l-mqGMGOH21CfMPyT0gp1kRDy0M
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250358_53124_PKA_SPR_fc-Web.jpg" group-title="Fancode-Cricket", Pokhara Avengers vs Sudurpaschim Royals [English]
+https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL
