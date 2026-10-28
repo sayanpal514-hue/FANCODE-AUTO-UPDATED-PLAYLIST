@@ -1,10 +1,7 @@
 #EXTM3U
-#DATE:- 28-10-2026 21:45
+#DATE:- 28-10-2026 21:50
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode-Cricket", South Africa vs Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780088071_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793290188~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780088071_1ta-di_h264/*~SessionID=fc-app_sportsguruand_014_watcho_7edea955-54da-44~Signature=ATFKiJu5tcZcE9N9-uj88hjzf8tar1yx7RYBxvXX3jtLrhQs9gta3Ij2FWyEYtFeVc788ASJ25tsofqCW6QOs5G30VUD
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Fancode-Tennis", IWB Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793267497~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2e8_watcho_1c24cd01-f36d-4d~Signature=ATFKiJsN-V3TRfdBeRfs9Bh4ylE4DU8BvfkIQZF3wVhpa8UDUSnT4Jjwh605YbJv5l-mqGMGOH21CfMPyT0gp1kRDy0M
@@ -23,3 +20,6 @@ https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248989_53057_ALN_RAY_fc-web_1789025066058.jpg" group-title="Fancode-Football", Al-Nahda Club vs Al Rayyan [English]
 https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg" group-title="Fancode-Cricket", Emirates Blues vs Abu Dhabi [English]
+https://in-mc-flive.fancode.com/mumbai/4250491_english_hls_ef31c7005664929_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793290803~_GO=Generated~acl=/mumbai/4250491_english_hls_ef31c7005664929_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6f1_watcho_022194a5-b62d-41~Signature=ATFKiJs0muxHU6ZGIaXhnCBuTo-xLC2kvIFmvOixD5bFK9fFhjZN6jVi6s0rvUNh1a4NPFD-oz3h18q2008Fq3WpPdMJ
