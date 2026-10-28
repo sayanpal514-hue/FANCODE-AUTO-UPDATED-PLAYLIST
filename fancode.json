@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:30:58 PM 28-10-2026",
+  "last update time": "04:35:58 PM 28-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -236,13 +236,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Pokhara Avengers vs Sudurpaschim Royals",
+      "title": "Pokhara Avengers vs Sudurpaschim Royals [English]",
       "tournament": "Nepal Premier League Season 3, 2026",
       "match_id": "4250358",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:45:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250358_53124_PKA_SPR_fc-Web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/240p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/360p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/480p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/540p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/720p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL"
+          },
+          "cookie": "hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
+          "expires": "1793271798",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
