@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:15:58 PM 28-10-2026",
+  "last update time": "09:20:58 PM 28-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,12 +170,12 @@
     },
     {
       "category": "Tennis",
-      "title": "World Feed [English]",
+      "title": "N. Djokovic vs U. Humbert [English]",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
       "match_id": "4249644",
       "status": "LIVE",
       "startTime": "06:30:00 PM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Djo_WEB.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4249644_english_hls_8d8e73c39974541_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793278545~_GO=Generated~acl=/mumbai/4249644_english_hls_8d8e73c39974541_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b16_watcho_804848cb-1571-46~Signature=ATFKiJsp-qo8Fbg4Q0gfwG1BSUY3gsm-W7qTB01LUIAhoubzdMUppqOxzIgBP2_qJNufgx7nsbup5Xv7pnIsGQqpth8P",
@@ -269,23 +269,69 @@
     },
     {
       "category": "Football",
-      "title": "Al Jazira vs Al Muharraq",
+      "title": "Al Jazira vs Al Muharraq [English]",
       "tournament": "AFC Champions League Two 2026-27",
       "match_id": "4248988",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248988_53057_ALJ_ALM_fc-web_1789025065524.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/240p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/360p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/480p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/540p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/720p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO"
+          },
+          "cookie": "hdntl=Expires=1793288965~_GO=Generated~acl=/mumbai/4248988_english_hls_8a8cd7e0a181161_1ta-di_h264/*~SessionID=fc-app_sportsguruand_68c_watcho_dc8658fa-eb9b-49~Signature=ATFKiJvfBlqB0o2gBLm0tWZAPmY1eSrhK1Ljcq1su8KOtdhYuHdxJDottFoYS0oKjYTa3jYWo257hAKgxPm09iinqQEO",
+          "expires": "1793288965",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
-      "title": "Al-Nahda Club vs Al Rayyan",
+      "title": "Al-Nahda Club vs Al Rayyan [English]",
       "tournament": "AFC Champions League Two 2026-27",
       "match_id": "4248989",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248989_53057_ALN_RAY_fc-web_1789025066058.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/240p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/360p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/480p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/540p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/720p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO"
+          },
+          "cookie": "hdntl=Expires=1793288968~_GO=Generated~acl=/mumbai/4248989_english_hls_f8e776923b57363_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4e6_watcho_f1a548e9-5dac-4a~Signature=ATFKiJu9YKjTA2_JouJpnB9h4x6w7XnNxnQnkDScG5KrUI5NNEk1s2VhV00q5x2bujRc_GMXuq3lfKyraAa7VlDoQrkO",
+          "expires": "1793288968",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
