@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:05:58 PM 28-10-2026",
+  "last update time": "08:10:58 PM 28-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793271798~_GO=Generated~acl=/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2b3_watcho_0195f9b5-5c5e-47~Signature=ATFKiJvFwhGX9Q5MOOBX6rcSCTgOANXHSYKvTz8QC17fjzgSvVchjHSXO_cFIM0InO2YQPSJ1ed8UHv2IN8zuTKws_kL",
           "expires": "1793271798",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "The Cong - Viettel FC vs Seoul [English]",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4248993",
-      "status": "LIVE",
-      "startTime": "05:45:00 PM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248993_53057_CV_SE_fc-web_1789025065500.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/240p.m3u8?hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/360p.m3u8?hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/480p.m3u8?hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/540p.m3u8?hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/720p.m3u8?hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM"
-          },
-          "cookie": "hdntl=Expires=1793275479~_GO=Generated~acl=/mumbai/4248993_english_hls_2c27ee380839675_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed4_watcho_259df917-a2dc-42~Signature=ATFKiJtqIlWlixkb9F9lbBnjVUyl4NLta0N0yYkm_Uv73zrQhtChVNi9tVKfMAY4FNvfLKj0b-Eg19yyzgbAIFlps4IM",
-          "expires": "1793275479",
           "expire_date": ""
         }
       }
@@ -571,6 +538,16 @@
       "status": "UPCOMING",
       "startTime": "01:40:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250388_53125_MS-W_HB-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248997",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248997_53057_TAM_PRK_fc-web_1789025066174.jpg",
       "language": "ENGLISH"
     },
     {
