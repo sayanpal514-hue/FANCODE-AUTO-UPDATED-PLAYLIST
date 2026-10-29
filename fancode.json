@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:20:58 PM 29-10-2026",
+  "last update time": "01:25:58 PM 29-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -200,16 +200,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Punjab Warriors vs UP Thunderbolts",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250539",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250539_53137_PBW_UPT_FC-Web.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
