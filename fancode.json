@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:50:58 PM 29-10-2026",
+  "last update time": "12:55:58 PM 29-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,6 +32,39 @@
           },
           "cookie": "hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
           "expires": "1793318141",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs West Indies [English]",
+      "tournament": "West Indies tour of Bangladesh, 2026",
+      "match_id": "4250526",
+      "status": "LIVE",
+      "startTime": "09:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/240p.m3u8?hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/360p.m3u8?hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/480p.m3u8?hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/540p.m3u8?hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/720p.m3u8?hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH"
+          },
+          "cookie": "hdntl=Expires=1793330253~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_620_watcho_2056b625-19e5-45~Signature=ATFKiJvxPd3vrFHhu8UaYmf8XOx6yhKSEKezji-PTp9b-LiO3dZUqcmpOMmwFFrXoGMDodvYOOpIrxegjhvvPk-BHaEH",
+          "expires": "1793330253",
           "expire_date": ""
         }
       }
@@ -496,16 +529,6 @@
       "status": "UPCOMING",
       "startTime": "01:35:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250315_53120_ENG_AUS_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Brisbane Heat Women vs Sydney Sixers Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250389",
-      "status": "UPCOMING",
-      "startTime": "01:40:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250389_53125_BH-W_SS-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
