@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 29-10-2026 17:50
+#DATE:- 29-10-2026 17:55
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -11,9 +11,6 @@ https://in-mc-flive.fancode.com/mumbai/4250518_english_hls_923ba3241185095_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Fancode-Badminton", Round of 16 [English]
 https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793350423~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2eb_watcho_84cbe7e7-6086-4e~Signature=ATFKiJuzgQmIH7V0HrbSwSNtf5aIWB7u3tKFwFrvqPJWYG8ITctU7R_tkd_FSgmWIcD4hzfQcPLZs_tQ7F8JjcCcYvcH
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248997_53057_TAM_PRK_fc-web_1789025066174.jpg" group-title="Fancode-Football", Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC [English]
-https://in-mc-flive.fancode.com/mumbai/4248997_english_hls_62d2e0b026340_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793354095~_GO=Generated~acl=/mumbai/4248997_english_hls_62d2e0b026340_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a63_watcho_5abac343-6f7a-4c~Signature=ATFKiJtP14o6BZS7E1quDSSqyU5D8DIj9AIpU-e0t2lOXDAfRfY6y1BV3nlfnk7_xVq3BxbRypVLhL2PhbCAaWDzHn0L
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248999_53057_GW_KIT_fc-web_1789025065982.jpg" group-title="Fancode-Football", Gangwon FC vs Kitchee SC [English]
 https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH
@@ -38,3 +35,12 @@ https://in-mc-flive.fancode.com/mumbai/4248998_english_hls_eb28e88eb57177_1ta-di
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249000_53057_PPC_KFC_fc-web_1789025066672.jpg" group-title="Fancode-Football", Phnom Penh Crown vs Kuching City FC [English]
 https://in-mc-flive.fancode.com/mumbai/4249000_english_hls_ce01b57aa720586_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793362002~_GO=Generated~acl=/mumbai/4249000_english_hls_ce01b57aa720586_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b42_watcho_ba920b9e-f894-48~Signature=ATFKiJtSt0IBeimcWKKD1HnWgpIlRrnYKvYS93quQOQjDWPA55MrVXXGq7pZME-6bk09oWsPJoTN1reHntGF1RfT9bID
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode-Tennis", World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793362615~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9ee_watcho_794c329a-92ee-40~Signature=ATFKiJui7KJBEpLuuRuGVd7MW6evH_LvLLrNG3EiAUBLfuHXTz8lA9U0PBUaZVXZa4D_VryssXYT-cvdqUqQgzBpieUB
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode-Tennis", Glaubandich Court [English]
+https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793362616~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_063_watcho_9c46079d-952f-49~Signature=ATFKiJs4l_v11KASf-ywGma5-M4wi0ml93sp2G_k9TxiglBc5KA_uiVnYxsgNJAmzNyJ8_20benSwSbtUVKQumL7cI0J
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250492_53130_SHA_AJM_fc-web_1792412930146.jpg" group-title="Fancode-Cricket", Sharjah vs Ajman [English]
+https://in-mc-flive.fancode.com/mumbai/4250492_english_hls_e871d9b6f496698_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793362610~_GO=Generated~acl=/mumbai/4250492_english_hls_e871d9b6f496698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_703_watcho_23cc79e2-1d32-48~Signature=ATFKiJu1ZdS21zWubrO0y8G9ROZkPwJU0BZIxeWNWkVcEV2kL-NUxDRMQsvFX1Ln2Zk9Bnl0BzHj28IlWoFDpzzdpJcN
