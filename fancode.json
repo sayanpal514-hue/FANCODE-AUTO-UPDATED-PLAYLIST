@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:00:58 PM 29-10-2026",
+  "last update time": "01:05:58 PM 29-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -76,7 +76,7 @@
       "match_id": "4250387",
       "status": "LIVE",
       "startTime": "10:10:00 AM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250387_53125_MR-W_ST-W_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250387_53125_MR-W_ST-W_fc-web_1793256237766.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793334544~_GO=Generated~acl=/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0cd_watcho_f4d1c836-974f-46~Signature=ATFKiJvyUoqtLWsSThH4_cGcZkpp6uLAk8PShoaEabTfv_H6YGoBFQlxj_vaC2VfJUPUhOSR6dxp_utP3cBu1uiqJ50A",
@@ -203,13 +203,36 @@
     },
     {
       "category": "Football",
-      "title": "Adelaide United vs Lion City Sailors",
+      "title": "Adelaide United vs Lion City Sailors [English]",
       "tournament": "AFC Champions League Two 2026-27",
       "match_id": "4248995",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:15:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248995_53057_ADL_LIO_fc-web_1789025066742.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/240p.m3u8?hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/360p.m3u8?hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/480p.m3u8?hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/540p.m3u8?hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/720p.m3u8?hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE"
+          },
+          "cookie": "hdntl=Expires=1793345524~_GO=Generated~acl=/mumbai/4248995_english_hls_fd248f311529998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c7a_watcho_bb71ec71-fde3-4f~Signature=ATFKiJv6zlx-kRJQBI-0riVFLe_5-U9kc7uuKF4p6rRdcc0jVX1LWrn4QoqRsk3dtCibQiDGnMn0ECn8Lstp0tR_OnIE",
+          "expires": "1793345524",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -228,7 +251,7 @@
       "match_id": "4250388",
       "status": "UPCOMING",
       "startTime": "01:40:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250388_53125_MS-W_HB-W_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250388_53125_MS-W_HB-W_fc-web_1793256237758.jpg",
       "language": "ENGLISH"
     },
     {
