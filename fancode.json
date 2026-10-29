@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:00:58 AM 30-10-2026",
+  "last update time": "01:05:58 AM 30-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Football",
-      "title": "Everton vs Newcastle United",
+      "title": "Everton vs Newcastle United [English]",
       "tournament": "Carabao Cup 2026-27",
       "match_id": "4249717",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:15:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249717_53016_EVE_NEW_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/240p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/360p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/480p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/540p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/720p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN"
+          },
+          "cookie": "hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
+          "expires": "1793388824",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
