@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:05:57 PM 29-10-2026",
+  "last update time": "06:10:58 PM 29-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793350423~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2eb_watcho_84cbe7e7-6086-4e~Signature=ATFKiJuzgQmIH7V0HrbSwSNtf5aIWB7u3tKFwFrvqPJWYG8ITctU7R_tkd_FSgmWIcD4hzfQcPLZs_tQ7F8JjcCcYvcH",
           "expires": "1793350423",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Gangwon FC vs Kitchee SC [English]",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4248999",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248999_53057_GW_KIT_fc-web_1789025065982.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/240p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/360p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/480p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/540p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/720p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH"
-          },
-          "cookie": "hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH",
-          "expires": "1793354096",
           "expire_date": ""
         }
       }
@@ -603,6 +570,16 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250310_53120_SA_OMA_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250541",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
       "language": "ENGLISH"
     },
     {
