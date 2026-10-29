@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:40:59 PM 29-10-2026",
+  "last update time": "10:45:58 PM 29-10-2026",
   "matches": [
-    {
-      "category": "Badminton",
-      "title": "R Pancasari vs PV Sindhu [English]",
-      "tournament": "BWF Super 500 - Hylo Open 2026",
-      "match_id": "4250522",
-      "status": "LIVE",
-      "startTime": "02:30:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rosy-Oktavia-Pancasari-vs-PV-Sindhu_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/240p.m3u8?hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/360p.m3u8?hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/480p.m3u8?hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/540p.m3u8?hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/720p.m3u8?hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO"
-          },
-          "cookie": "hdntl=Expires=1793379725~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_552_watcho_c9b5ba1a-7432-42~Signature=ATFKiJs1gGyluk2F7-uxg1Ei5-i2i2I3VihZE2kGfyJDTX0Vv8_HjYnZ0SaH0Hz1N2rlXMH-Xvy1bu_y9TmtQCge_nQO",
-          "expires": "1793379725",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -555,6 +522,16 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Villarreal CF vs RCD Espanyol",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247674",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247674_53004_VIL_ESL_FC-Web.png",
       "language": "ENGLISH"
     },
     {
