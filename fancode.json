@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:50:58 PM 29-10-2026",
+  "last update time": "03:55:58 PM 29-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793337594~_GO=Generated~acl=/mumbai/4250518_english_hls_923ba3241185095_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0c7_watcho_a03b2693-2ec1-4c~Signature=ATFKiJs1-8tCSQXSHlC6YinSkItnxPapjvNxlVoUkSQ32aD3iMmE0KKO5uX_Y-iQyVdItl6KAIm4uphXmdeZht8MOnYM",
           "expires": "1793337594",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kathmandu Gurkhas vs Janakpur Bolts [English]",
-      "tournament": "Nepal Premier League Season 3, 2026",
-      "match_id": "4250359",
-      "status": "LIVE",
-      "startTime": "12:15:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250359_53124_JKB_KMG_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/240p.m3u8?hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/360p.m3u8?hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/480p.m3u8?hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/540p.m3u8?hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/720p.m3u8?hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK"
-          },
-          "cookie": "hdntl=Expires=1793341883~_GO=Generated~acl=/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f70_watcho_5bfcfd8c-ca97-4c~Signature=ATFKiJtZh8lFjTQ9XpZaqz98ftRuCI7CoaMSITBEM5kKOv0aHVnop6H4HE3NTkfcEIeA6TlMIG_ce7nxq6Wlul3t93EK",
-          "expires": "1793341883",
           "expire_date": ""
         }
       }
@@ -266,6 +233,16 @@
           "expire_date": ""
         }
       }
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
+      "match_id": "4249645",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "language": "ENGLISH"
     },
     {
       "category": "Cricket",
