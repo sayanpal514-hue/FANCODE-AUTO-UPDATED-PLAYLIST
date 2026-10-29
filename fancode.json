@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:20:58 AM 30-10-2026",
+  "last update time": "02:25:58 AM 30-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -65,72 +65,6 @@
           },
           "cookie": "hdntl=Expires=1793390038~_GO=Generated~acl=/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2ff_watcho_49b732fd-dfc7-48~Signature=ATFKiJtB80qvgFG84rrCZhOM3k15Q9mbT9ZW0Bb2-m5J3Ldk71nrrCoynf8UI36ZNj37jYvuelGiu3TeuBuv9N7sYZ8M",
           "expires": "1793390038",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "A. Zverev vs T. Griekspoor [English]",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249631",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Tallon-Griekspoor-web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/240p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/360p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/480p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/540p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/720p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB"
-          },
-          "cookie": "hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB",
-          "expires": "1793391859",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Glaubandich Court [English]",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249638",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/240p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/360p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/480p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/540p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/720p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID"
-          },
-          "cookie": "hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID",
-          "expires": "1793391860",
           "expire_date": ""
         }
       }
@@ -445,6 +379,26 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249846_53101_BRB_AFC_fc-Web_1792223292139.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 500 - Erste Bank Open 2026",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249632",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 500 - Erste Bank Open 2026",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249639",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
