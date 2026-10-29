@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:10:58 PM 29-10-2026",
+  "last update time": "12:15:58 PM 29-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,7 +170,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Janakpur Bolts vs Kathmandu Gurkhas [English]",
+      "title": "Kathmandu Gurkhas vs Janakpur Bolts [English]",
       "tournament": "Nepal Premier League Season 3, 2026",
       "match_id": "4250359",
       "status": "LIVE",
