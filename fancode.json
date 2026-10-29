@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:10:58 AM 30-10-2026",
+  "last update time": "12:15:58 AM 30-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -131,39 +131,6 @@
           },
           "cookie": "hdntl=Expires=1793362616~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_063_watcho_9c46079d-952f-49~Signature=ATFKiJs4l_v11KASf-ywGma5-M4wi0ml93sp2G_k9TxiglBc5KA_uiVnYxsgNJAmzNyJ8_20benSwSbtUVKQumL7cI0J",
           "expires": "1793362616",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs Zimbabwe [English]",
-      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-      "match_id": "4249770",
-      "status": "LIVE",
-      "startTime": "08:00:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/240p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/360p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/480p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/540p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/720p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM"
-          },
-          "cookie": "hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
-          "expires": "1793369970",
           "expire_date": ""
         }
       }
@@ -428,6 +395,16 @@
       "status": "UPCOMING",
       "startTime": "10:50:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250312_53120_BAN_SL_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "Wistron Ladies Open 2026",
+      "match_id": "4250513",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
