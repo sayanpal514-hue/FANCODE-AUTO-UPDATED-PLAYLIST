@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:00:58 PM 29-10-2026",
+  "last update time": "09:05:58 PM 29-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793357148~_GO=Generated~acl=/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a76_watcho_564447f0-3a2a-4f~Signature=ATFKiJtfgxOVF8BvF9Ieijm46BC1Z816f4slSFBYOsgY3LtK9U2qiGuPJLEDhW-s0WFPtkYyJ1y4oIlwN6pgkpv1k4sB",
           "expires": "1793357148",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Biratnagar Kings vs Karnali Yaks [English]",
-      "tournament": "Nepal Premier League Season 3, 2026",
-      "match_id": "4250360",
-      "status": "LIVE",
-      "startTime": "04:45:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250360_53124_KNY_BK_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/240p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/360p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/480p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/540p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/720p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA"
-          },
-          "cookie": "hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA",
-          "expires": "1793358361",
           "expire_date": ""
         }
       }
@@ -611,6 +578,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al-Shabab FC vs Al-Ahli Saudi FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4250272",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png",
       "language": "ENGLISH"
     },
     {
