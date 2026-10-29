@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:25:58 AM 30-10-2026",
+  "last update time": "03:30:58 AM 30-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1793390038~_GO=Generated~acl=/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2ff_watcho_49b732fd-dfc7-48~Signature=ATFKiJtB80qvgFG84rrCZhOM3k15Q9mbT9ZW0Bb2-m5J3Ldk71nrrCoynf8UI36ZNj37jYvuelGiu3TeuBuv9N7sYZ8M",
           "expires": "1793390038",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Everton vs Newcastle United [English]",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249717",
-      "status": "LIVE",
-      "startTime": "01:15:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249717_53016_EVE_NEW_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/240p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/360p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/480p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/540p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/720p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN"
-          },
-          "cookie": "hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN",
-          "expires": "1793388824",
           "expire_date": ""
         }
       }
@@ -263,22 +230,22 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250541",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
       "title": "Hong Kong, China vs England",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250311",
       "status": "UPCOMING",
       "startTime": "09:55:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250311_53120_HK_ENG_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Rajasthan Royalsmen vs Uttrakhand Stars",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250541",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
       "language": "ENGLISH"
     },
     {
@@ -372,6 +339,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Cricket",
+      "title": "Himachal Highlenders vs Chandigarh Chargers",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250542",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Football",
       "title": "Brisbane Roar vs Auckland",
       "tournament": "A-League 2026-27",
@@ -392,6 +369,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Tennis",
+      "title": "Glaubandich Court",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249639",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Football",
       "title": "Abha Club vs Al-Ittihad",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -409,16 +396,6 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250494_53130_ABD_AJM_fc-web_1792412929370.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250542",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
       "language": "ENGLISH"
     },
     {
