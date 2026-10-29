@@ -1,8 +1,41 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:30:58 PM 29-10-2026",
+  "last update time": "01:35:58 PM 29-10-2026",
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "South Africa vs Australia [English]",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249783",
+      "status": "LIVE",
+      "startTime": "02:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/240p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/360p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/480p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/540p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/720p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB"
+          },
+          "cookie": "hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+          "expires": "1793347353",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Bangladesh vs West Indies [English]",
@@ -203,13 +236,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Melbourne Stars Women vs Hobart Hurricanes Women",
+      "title": "Melbourne Stars Women vs Hobart Hurricanes Women [English]",
       "tournament": "Women's Big Bash League, 2026",
       "match_id": "4250388",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:40:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250388_53125_MS-W_HB-W_fc-web_1793256237758.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/240p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/360p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/480p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/540p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/720p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL"
+          },
+          "cookie": "hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL",
+          "expires": "1793347352",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
@@ -509,16 +565,6 @@
       "status": "UPCOMING",
       "startTime": "01:35:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250315_53120_ENG_AUS_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249783",
-      "status": "PAUSED",
-      "startTime": "02:00:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
