@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:30:58 PM 30-10-2026",
+  "last update time": "12:35:58 PM 30-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1793416699~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3081877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_957_watcho_2402325d-b2ae-48~Signature=ATFKiJu8gT3mmfvtCiuMB95UVYEWSbXyhIsmndhybgbSqIGJ4Um76jjuSm3Ap-WaKU6BNuD7SBVGpb4f_-Qevk8b4CsL",
           "expires": "1793416699",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249669",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/240p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/360p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/480p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/540p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/720p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM"
-          },
-          "cookie": "hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM",
-          "expires": "1793402771",
           "expire_date": ""
         }
       }
@@ -269,13 +236,36 @@
     },
     {
       "category": "Cricket",
-      "title": "South Africa vs Afghanistan",
+      "title": "South Africa vs Afghanistan [English]",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250314",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:40:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250314_53120_SA_AFG_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/240p.m3u8?hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/360p.m3u8?hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/480p.m3u8?hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/540p.m3u8?hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/720p.m3u8?hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J"
+          },
+          "cookie": "hdntl=Expires=1793430115~_GO=Generated~acl=/mumbai/4250314_english_hls_20ba98f92e76366_1ta-di_h264/*~SessionID=fc-app_sportsguruand_38d_watcho_247a651f-dcf3-48~Signature=ATFKiJuiK4cIC--cfUNuPW65njnd0hr_1nvNU2WVrOWPh5UleorqDEyfHWuXSiV_vA8Ts39W-O16g9WhwHCPyMmIho8J",
+          "expires": "1793430115",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -575,6 +565,16 @@
       "status": "PAUSED",
       "startTime": "02:00:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249669",
+      "status": "PAUSED",
+      "startTime": "05:00:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
       "language": "ENGLISH"
     }
   ]
