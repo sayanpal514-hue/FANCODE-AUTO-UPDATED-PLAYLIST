@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:55:58 PM 30-10-2026",
+  "last update time": "12:00:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -200,16 +200,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
-      "match_id": "139507",
-      "status": "UPCOMING",
-      "startTime": "12:00:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
