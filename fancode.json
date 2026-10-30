@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:20:58 PM 30-10-2026",
+  "last update time": "01:25:58 PM 30-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Cricket",
-      "title": "England vs Australia",
+      "title": "England vs Australia [English]",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250315",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:35:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250315_53120_ENG_AUS_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/240p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/360p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/480p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/540p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/720p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP"
+          },
+          "cookie": "hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP",
+          "expires": "1793433183",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
