@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:40:59 AM 31-10-2026",
+  "last update time": "01:45:59 AM 31-10-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "World Feed [English]",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249646",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/240p.m3u8?hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/360p.m3u8?hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/480p.m3u8?hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/540p.m3u8?hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/720p.m3u8?hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF"
-          },
-          "cookie": "hdntl=Expires=1793477119~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_de0_watcho_77abd0f6-f9a4-4c~Signature=ATFKiJuf1zoGuksM3aSN0s2JFMVSqkfHSHcWKfLmtbOnsWVPmnv8K66cAoAxNz3zqi1rlAYoOYrbyRv78dkABmrE7cgF",
-          "expires": "1793477119",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -186,6 +153,16 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 AM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "MotoGP",
+      "title": "Day 2",
+      "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "match_id": "139982",
+      "status": "UPCOMING",
+      "startTime": "06:10:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
