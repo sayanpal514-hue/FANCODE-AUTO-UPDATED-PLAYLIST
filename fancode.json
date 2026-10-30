@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:20:58 AM 30-10-2026",
+  "last update time": "10:25:58 AM 30-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -137,39 +137,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Oman vs South Africa [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250310",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250310_53120_SA_OMA_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/240p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/360p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/480p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/540p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/720p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD"
-          },
-          "cookie": "hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD",
-          "expires": "1793416697",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Hong Kong, China vs England [English]",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250311",
@@ -299,6 +266,16 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Brisbane Roar vs Auckland",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249846",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249846_53101_BRB_AFC_fc-Web_1792223292139.jpg",
       "language": "ENGLISH"
     },
     {
