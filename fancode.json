@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:40:58 PM 30-10-2026",
+  "last update time": "01:45:58 PM 30-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793433803~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ba1_watcho_188c2002-784f-4b~Signature=ATFKiJuJww0HwCWt7AnNcoq4_pfAURTjQ75SeRJpD16M-fHFrIfHM5bsLL6lfVgejfReKRknnmrL_Yq8bepj7xHLNyoE",
           "expires": "1793433803",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Western Australia vs South Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249668",
-      "status": "LIVE",
-      "startTime": "05:30:00 AM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/240p.m3u8?hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/360p.m3u8?hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/480p.m3u8?hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/540p.m3u8?hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/720p.m3u8?hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I"
-          },
-          "cookie": "hdntl=Expires=1793433801~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_f7d957d9-75d0-4a~Signature=ATFKiJsy9N-4MHZ45bdu8sTds-qhHnjeJlTo3kSaFIlI5zmpAGlQdCDWQcBIoB7NLJUbrAgke8ZrjbtP6HilhKjSEZ4I",
-          "expires": "1793433801",
           "expire_date": ""
         }
       }
@@ -644,6 +611,16 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250496_53130_ABD_DUB_fc-web_1792412929356.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs South Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249668",
+      "status": "PAUSED",
+      "startTime": "05:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
       "language": "ENGLISH"
     },
     {
