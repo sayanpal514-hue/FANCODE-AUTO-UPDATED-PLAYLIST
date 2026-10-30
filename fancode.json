@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:20:58 AM 30-10-2026",
+  "last update time": "08:25:58 AM 30-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793407617~_GO=Generated~acl=/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/*~SessionID=fc-app_sportsguruand_915_watcho_8cb7816c-8d49-44~Signature=ATFKiJtCpzPKzmpUPNSrjJzQ_BP3GkYM1Abusiarfl41use6mahrGGChsTCyUdao2PANJVTNdJGSmX6p6yfnGhBGjYEN",
           "expires": "1793407617",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh vs Scotland [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250308",
-      "status": "LIVE",
-      "startTime": "07:10:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250308_53120_BAN_SCO_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/240p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/360p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/480p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/540p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/720p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI"
-          },
-          "cookie": "hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI",
-          "expires": "1793410038",
           "expire_date": ""
         }
       }
