@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:25:58 AM 30-10-2026",
+  "last update time": "06:30:58 AM 30-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -287,26 +287,6 @@
     },
     {
       "category": "Football",
-      "title": "Brisbane Roar vs Auckland",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249846",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249846_53101_BRB_AFC_fc-Web_1792223292139.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 500 - Swiss Indoors Basel 2026",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249653",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
       "title": "Abha Club vs Al-Ittihad",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4250271",
@@ -473,6 +453,26 @@
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Qatar vs Jersey",
+      "tournament": "ICC CWC Challenge League A 2026",
+      "match_id": "4250350",
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Lumbini Lions vs Chitwan Rhinos",
+      "tournament": "Nepal Premier League Season 3, 2026",
+      "match_id": "4250361",
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250361_53124_LBL_CWR_fc-Web.jpg",
       "language": "ENGLISH"
     },
     {
