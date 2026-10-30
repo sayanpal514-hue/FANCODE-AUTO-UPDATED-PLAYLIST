@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:05:58 AM 31-10-2026",
+  "last update time": "05:10:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -177,16 +177,6 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Melbourne City vs Sydney FC",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249848",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249848_53101_MLC_SYD_fc-Web_1792223293984.jpg",
       "language": "ENGLISH"
     },
     {
@@ -427,6 +417,16 @@
       "status": "UPCOMING",
       "startTime": "10:10:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250392_53125_ST-W_BH-W_fc-web_1793352701384.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250328",
+      "status": "UPCOMING",
+      "startTime": "10:50:00 AM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     },
     {
