@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:40:58 PM 31-10-2026",
+  "last update time": "08:45:58 PM 31-10-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Jersey vs Qatar [English]",
-      "tournament": "ICC CWC Challenge League A 2026",
-      "match_id": "4250350",
-      "status": "LIVE",
-      "startTime": "12:15:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/240p.m3u8?hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/360p.m3u8?hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/480p.m3u8?hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/540p.m3u8?hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/720p.m3u8?hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI"
-          },
-          "cookie": "hdntl=Expires=1793544213~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c36_watcho_815c86ec-1878-49~Signature=ATFKiJuRfBHid785c_s1T1S3y12gNzX5wveQW9l5-AVeYN4zxmVM0aYnW4EtziMyc5FBY5Isy1dfzNNyYT1FUvkHxHcI",
-          "expires": "1793544213",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Sudurpaschim Royals vs Biratnagar Kings [English]",
@@ -528,6 +495,16 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247669_53004_GEF_SEV_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Birmingham City F.C. Women vs Tottenham Hotspur Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249210",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249210_53038_BIR-W_TOT-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
