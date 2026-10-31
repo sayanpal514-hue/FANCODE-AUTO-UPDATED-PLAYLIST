@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:10:58 PM 31-10-2026",
+  "last update time": "09:15:58 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
           "expires": "1793533790",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi vs Dubai [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250496",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250496_53130_ABD_DUB_fc-web_1792412929356.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/240p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/360p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/480p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/540p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/720p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG"
-          },
-          "cookie": "hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG",
-          "expires": "1793535620",
           "expire_date": ""
         }
       }
@@ -492,6 +459,16 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249212_53038_WHU-W_LIV-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Charlton Athletic F.C Women vs Chelsea F.C. Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249213",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249213_53038_CHL-W_CHE-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
