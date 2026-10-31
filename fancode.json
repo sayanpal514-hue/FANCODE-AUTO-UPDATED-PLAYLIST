@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:25:58 PM 31-10-2026",
+  "last update time": "09:30:58 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -37,46 +37,13 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "Glaubandich Court [English]",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249633",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/240p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/360p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/480p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/540p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/720p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P"
-          },
-          "cookie": "hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P",
-          "expires": "1793533790",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Badminton",
-      "title": "Semi-Finals [English]",
+      "title": "T J Popov vs L Sen [English]",
       "tournament": "BWF Super 500 - Hylo Open 2026",
       "match_id": "4250524",
       "status": "LIVE",
       "startTime": "06:30:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Toma-Junior-Popov-vs-Lakshya-Sen_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793537478~_GO=Generated~acl=/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/*~SessionID=fc-app_sportsguruand_372_watcho_de46c727-146b-49~Signature=ATFKiJuY5pUJl-7rfzVhmIdLv1yB6AaUx5bTpNJfNaaICPrekqPOdtUX3on0dARMrDQJT0pJEQ_ez-NzCQ_Tb8HioNsD",
@@ -479,6 +446,16 @@
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Ho Chi Minh City Women vs East Bengal FC Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250255",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH"
     },
     {
