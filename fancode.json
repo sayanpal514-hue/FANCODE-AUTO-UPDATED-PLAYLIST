@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:55:58 PM 31-10-2026",
+  "last update time": "01:00:58 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -236,39 +236,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Hong Kong, China vs Pakistan [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250322",
-      "status": "LIVE",
-      "startTime": "11:45:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/HK-vs-PAK_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/240p.m3u8?hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/360p.m3u8?hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/480p.m3u8?hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/540p.m3u8?hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/720p.m3u8?hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG"
-          },
-          "cookie": "hdntl=Expires=1793513044~_GO=Generated~acl=/mumbai/4250322_english_hls_3cc2e5813b99483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_389_watcho_a47d1c5b-6eef-41~Signature=ATFKiJvXZTrmbbla05NgwrVArqDI2b2jjflQkzSHJii0FQXRInUkWffxeNBsMjIuD9qNyAMS6wgL4LmIg7xkQ6JNaxkG",
-          "expires": "1793513044",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Kenya vs Papua New Guinea [English]",
       "tournament": "ICC CWC Challenge League A 2026",
       "match_id": "4250349",
@@ -427,6 +394,16 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Macarthur vs Western Sydney Wanderers",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249849",
+      "status": "UPCOMING",
+      "startTime": "02:10:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249849_53101_MAC_SYW_fc-Web_1792223293101.jpg",
       "language": "ENGLISH"
     },
     {
