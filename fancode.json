@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:45:58 PM 31-10-2026",
+  "last update time": "04:50:58 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -169,39 +169,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Macarthur vs Western Sydney Wanderers [English]",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249849",
-      "status": "LIVE",
-      "startTime": "02:10:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249849_53101_MAC_SYW_fc-Web_1792223293101.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/240p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/360p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/480p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/540p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/720p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL"
-          },
-          "cookie": "hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL",
-          "expires": "1793521548",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Sudurpaschim Royals vs Biratnagar Kings [English]",
       "tournament": "Nepal Premier League Season 3, 2026",
@@ -295,6 +262,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249640",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Football",
       "title": "Millwall F.C. vs Derby County Football Club",
       "tournament": "EFL Championship 2026-27",
@@ -361,7 +338,7 @@
       "match_id": "4250325",
       "status": "UPCOMING",
       "startTime": "07:10:00 AM 01-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793443733623/4250325_CASACARDS_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
@@ -371,7 +348,7 @@
       "match_id": "4250326",
       "status": "UPCOMING",
       "startTime": "08:05:00 AM 01-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793443985788/4250326_CASACARDS_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/SL-vs-HK_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
@@ -381,7 +358,7 @@
       "match_id": "4250327",
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 01-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793444041105/4250327_CASACARDS_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-SCO_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
@@ -411,7 +388,7 @@
       "match_id": "4250328",
       "status": "UPCOMING",
       "startTime": "10:50:00 AM 01-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793444077810/4250328_CASACARDS_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-SA_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
