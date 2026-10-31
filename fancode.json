@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:45:58 PM 31-10-2026",
+  "last update time": "10:50:58 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -200,16 +200,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 3",
-      "tournament": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
-      "match_id": "139509",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
@@ -452,16 +442,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Football",
-      "title": "Charlton Athletic F.C Women vs Chelsea F.C. Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249213",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249213_53038_CHL-W_CHE-W_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Afghanistan vs Zimbabwe",
       "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
@@ -499,6 +479,16 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Elche CF vs Valencia CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247672",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247672_53004_ELC_VAL_FC-Web.png",
       "language": "ENGLISH"
     },
     {
