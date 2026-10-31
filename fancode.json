@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:40:58 AM 31-10-2026",
+  "last update time": "09:45:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -175,7 +175,7 @@
       "match_id": "4250319",
       "status": "LIVE",
       "startTime": "09:00:00 AM 31-10-2026",
-      "image": "https://images.fancode.com/aig/match/v1793417141979/4250319_CASACARDS_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4250319_english_hls_577669225565164_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793503346~_GO=Generated~acl=/mumbai/4250319_english_hls_577669225565164_1ta-di_h264/*~SessionID=fc-app_sportsguruand_8ce_watcho_30c83803-9499-4e~Signature=ATFKiJthZfxxwzbnnIsjtbqQqSQmXmggYhXxM0eTXRHpsCsADJusdSdsNyxzzbFiEbphOvDQQ59HR0jVpXKnP2h6Gs8N",
@@ -236,13 +236,36 @@
     },
     {
       "category": "Cricket",
-      "title": "England vs India",
+      "title": "England vs India [English]",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250320",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:55:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH"
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-IND_fc-web_1793419761524.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/240p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/360p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/480p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/540p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/720p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G"
+          },
+          "cookie": "hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
+          "expires": "1793506378",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -331,7 +354,7 @@
       "match_id": "4250324",
       "status": "UPCOMING",
       "startTime": "01:35:00 PM 31-10-2026",
-      "image": "https://images.fancode.com/aig/match/v1793417519722/4250324_CASACARDS_APP.png",
+      "image": "https://images.fancode.com/aig/match/v1793419339063/4250324_CASACARDS_APP.png",
       "language": "ENGLISH"
     },
     {
