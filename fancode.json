@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:10:58 AM 31-10-2026",
+  "last update time": "08:15:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,7 +170,7 @@
     },
     {
       "category": "Cricket",
-      "title": "United Arab Emirates vs India [English]",
+      "title": "India vs United Arab Emirates [English]",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250318",
       "status": "LIVE",
