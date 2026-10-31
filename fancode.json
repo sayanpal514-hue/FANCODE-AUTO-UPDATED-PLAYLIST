@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:20:58 AM 01-11-2026",
+  "last update time": "01:25:58 AM 01-11-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -104,13 +104,36 @@
     },
     {
       "category": "Golf",
-      "title": "Day 3",
+      "title": "Day 3 [English]",
       "tournament": "VidantaWorld Mexico Open 2026",
       "match_id": "4250510",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:30:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/240p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/360p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/480p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/540p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/720p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ"
+          },
+          "cookie": "hdntl=Expires=1793562714~_GO=Generated~acl=/mumbai/4250510_english_hls_369601d34022188_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f37_watcho_5ee009d2-859a-45~Signature=ATFKiJuJVzPxufG55-ErhPL7HzBPCt7ejevo4H9eo3JSDQ6k5vlGyJGR4ggAu5kVwICoffPnPNdQ12h495mRccGw7zMJ",
+          "expires": "1793562714",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Formula 1",
