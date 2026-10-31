@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:10:58 AM 31-10-2026",
+  "last update time": "11:15:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -164,39 +164,6 @@
           },
           "cookie": "hdntl=Expires=1793505165~_GO=Generated~acl=/mumbai/4249847_english_hls_36204caf6f86869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_8bb_watcho_e3b7edf0-51b8-4c~Signature=ATFKiJvuOf_hUHc8qPbqaMue7YVt9TBanUtLduiAOg2-1JKjThvQpqIAiNd10rEqXaeG2JVxh6KG-6l24bk7_miHZLYL",
           "expires": "1793505165",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "England vs India [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250320",
-      "status": "LIVE",
-      "startTime": "09:55:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-IND_fc-web_1793419761524.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/240p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/360p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/480p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/540p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/720p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G"
-          },
-          "cookie": "hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G",
-          "expires": "1793506378",
           "expire_date": ""
         }
       }
@@ -598,6 +565,16 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Sydney Sixers Women vs Hobart Hurricanes Women",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250393",
+      "status": "UPCOMING",
+      "startTime": "01:40:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg",
       "language": "ENGLISH"
     },
     {
