@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:10:58 AM 31-10-2026",
+  "last update time": "09:15:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,39 +170,6 @@
     },
     {
       "category": "Cricket",
-      "title": "India vs United Arab Emirates [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250318",
-      "status": "LIVE",
-      "startTime": "08:05:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/240p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/360p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/480p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/540p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/720p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG"
-          },
-          "cookie": "hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG",
-          "expires": "1793499710",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Bangladesh vs South Africa [English]",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250319",
@@ -341,7 +308,7 @@
       "match_id": "4250324",
       "status": "UPCOMING",
       "startTime": "01:35:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://images.fancode.com/aig/match/v1793417519722/4250324_CASACARDS_APP.png",
       "language": "ENGLISH"
     },
     {
@@ -356,11 +323,11 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC",
+      "title": "Himachal Highlenders vs Uttrakhand Stars",
       "tournament": "Northern Artist Champions League 2026",
       "match_id": "4250543",
       "status": "UPCOMING",
-      "startTime": "03:00:00 PM 31-10-2026",
+      "startTime": "02:00:00 PM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
       "language": "ENGLISH"
     },
