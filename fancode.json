@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:45:58 PM 31-10-2026",
+  "last update time": "09:50:57 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,13 +170,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Sharjah vs Emirates Blues",
+      "title": "Sharjah vs Emirates Blues [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250497",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:00:00 PM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250497_53130_SHA_EMB_fc-web_1792412929424.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/240p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/360p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/480p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/540p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/720p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M"
+          },
+          "cookie": "hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M",
+          "expires": "1793549784",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
