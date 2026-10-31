@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:10:59 AM 31-10-2026",
+  "last update time": "06:15:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -196,16 +196,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Newcastle Jets vs Wellington Phoenix",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249847",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249847_53101_NJ_WEL_fc-Web_1792223294133.jpg",
       "language": "ENGLISH"
     },
     {
@@ -495,6 +485,16 @@
       "match_id": "4250328",
       "status": "UPCOMING",
       "startTime": "10:50:00 AM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250329",
+      "status": "UPCOMING",
+      "startTime": "11:45:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     },
