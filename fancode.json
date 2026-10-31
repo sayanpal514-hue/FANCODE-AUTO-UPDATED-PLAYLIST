@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:25:58 PM 31-10-2026",
+  "last update time": "02:30:58 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -394,16 +394,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Badminton",
-      "title": "Semi-Finals",
-      "tournament": "BWF Super 500 - Hylo Open 2026",
-      "match_id": "4250524",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Football",
       "title": "Millwall F.C. vs Derby County Football Club",
       "tournament": "EFL Championship 2026-27",
@@ -601,6 +591,16 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Afghanistan vs Zimbabwe",
+      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+      "match_id": "4249771",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",
       "language": "ENGLISH"
     },
     {
