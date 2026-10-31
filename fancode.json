@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:15:58 PM 31-10-2026",
+  "last update time": "10:20:58 PM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -38,12 +38,12 @@
     },
     {
       "category": "Badminton",
-      "title": "T J Popov vs L Sen [English]",
+      "title": "Semi-Finals [English]",
       "tournament": "BWF Super 500 - Hylo Open 2026",
       "match_id": "4250524",
       "status": "LIVE",
       "startTime": "06:30:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Toma-Junior-Popov-vs-Lakshya-Sen_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793537478~_GO=Generated~acl=/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/*~SessionID=fc-app_sportsguruand_372_watcho_de46c727-146b-49~Signature=ATFKiJuY5pUJl-7rfzVhmIdLv1yB6AaUx5bTpNJfNaaICPrekqPOdtUX3on0dARMrDQJT0pJEQ_ez-NzCQ_Tb8HioNsD",
