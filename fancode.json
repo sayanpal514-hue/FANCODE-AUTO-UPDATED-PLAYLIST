@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:00:58 AM 31-10-2026",
+  "last update time": "10:05:58 AM 31-10-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Adelaide Strikers Women vs Melbourne Stars Women",
+      "title": "Adelaide Strikers Women vs Melbourne Stars Women [English]",
       "tournament": "Women's Big Bash League, 2026",
       "match_id": "4250390",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:10:00 AM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250390_53125_AS-W_MS-W_fc-web_1793352701243.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/240p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/360p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/480p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/540p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/720p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE"
+          },
+          "cookie": "hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE",
+          "expires": "1793507591",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
