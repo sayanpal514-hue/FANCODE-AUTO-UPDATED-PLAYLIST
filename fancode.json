@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:55:58 AM 01-11-2026",
+  "last update time": "07:00:58 AM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -103,6 +103,39 @@
       }
     },
     {
+      "category": "MotoGP",
+      "title": "Race Day [English]",
+      "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "match_id": "139983",
+      "status": "LIVE",
+      "startTime": "08:10:00 AM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/240p.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/360p.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/480p.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/540p.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/720p.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI"
+          },
+          "cookie": "hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI",
+          "expires": "1793582892",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Sri Lanka vs Hong Kong, China",
       "tournament": "Hong Kong Sixes, 2026",
@@ -110,16 +143,6 @@
       "status": "UPCOMING",
       "startTime": "08:05:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/SL-vs-HK_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "MotoGP",
-      "title": "Race Day",
-      "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
-      "match_id": "139983",
-      "status": "UPCOMING",
-      "startTime": "08:10:00 AM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
