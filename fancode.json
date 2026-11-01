@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:10:58 PM 01-11-2026",
+  "last update time": "06:15:58 PM 01-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Ireland vs Namibia [English]",
-      "tournament": "Ireland tour of Namibia, 2026",
-      "match_id": "4250335",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/240p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/360p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/480p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/540p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/720p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC"
-          },
-          "cookie": "hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
-          "expires": "1793602885",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Doubles Final [English]",
@@ -302,13 +269,36 @@
     },
     {
       "category": "Tennis",
-      "title": "Final: A. de Minaur vs C. Alcaraz",
+      "title": "Final: A. de Minaur vs C. Alcaraz [English]",
       "tournament": "ATP 500 - Erste Bank Open 2026",
       "match_id": "4249634",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:30:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/A.-de-Minaur-vs-C.-Alcaraz-web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/240p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/360p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/480p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/540p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/720p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC"
+          },
+          "cookie": "hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC",
+          "expires": "1793623507",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Badminton",
@@ -495,6 +485,16 @@
       "title": "ATP - Rolex Paris Masters 2026",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
       "match_id": "4250548",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP - Rolex Paris Masters 2026",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250549",
       "status": "UPCOMING",
       "startTime": "12:00:00 PM 02-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
