@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 01-11-2026 13:30
+#DATE:- 01-11-2026 13:35
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -17,3 +17,6 @@ https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249851_53101_PG_ADL_fc-Web_1792223292274.jpg" group-title="Fancode-Football", Perth Glory vs Adelaide United [English]
 https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg" group-title="Fancode-Cricket", Sydney Sixers Women vs Hobart Hurricanes Women [English]
+https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC
