@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:00:58 PM 01-11-2026",
+  "last update time": "05:05:58 PM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -419,36 +419,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Tennis",
-      "title": "ATP - Rolex Paris Masters 2026",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250548",
-      "status": "UPCOMING",
-      "startTime": "12:00:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP - Rolex Paris Masters 2026",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250549",
-      "status": "UPCOMING",
-      "startTime": "12:00:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP - Rolex Paris Masters 2026",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250550",
-      "status": "UPCOMING",
-      "startTime": "12:00:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "Kathmandu Gorkhas vs Karnali Yaks",
       "tournament": "Nepal Premier League Season 3, 2026",
@@ -496,6 +466,36 @@
       "status": "UPCOMING",
       "startTime": "07:15:00 PM 02-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248728_53053_PT_ANF_fc-web_1793182503341.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Tractor vs PFC Neftchi",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248729",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248729_53053_TFC_NB_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Wasl F.C. vs Air Force SC",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248730",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248730_53053_AWS_AFSC_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Al Sadd vs Al-Ahli Saudi FC",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248731",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248731_53053_SDD_AAS_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
