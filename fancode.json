@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:00:59 PM 01-11-2026",
+  "last update time": "06:05:58 PM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -269,7 +269,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Sharjah vs Abu Dhabi [English]",
+      "title": "Abu Dhabi vs Sharjah [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250498",
       "status": "LIVE",
@@ -299,16 +299,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Getafe CF vs Sevilla FC",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247669",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247669_53004_GEF_SEV_FC-Web.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Tennis",
