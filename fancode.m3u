@@ -1,10 +1,7 @@
 #EXTM3U
-#DATE:- 01-11-2026 18:10
+#DATE:- 01-11-2026 18:15
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Fancode-Cricket", Ireland vs Namibia [English]
-https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode-Tennis", Doubles Final [English]
 https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO
@@ -29,3 +26,6 @@ https://in-mc-flive.fancode.com/mumbai/4250249_english_hls_18fcbe65ac20248_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg" group-title="Fancode-Cricket", Abu Dhabi vs Sharjah [English]
 https://in-mc-flive.fancode.com/mumbai/4250498_english_hls_b5e2ad79b155192_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793622276~_GO=Generated~acl=/mumbai/4250498_english_hls_b5e2ad79b155192_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f25_watcho_db921d9d-7870-40~Signature=ATFKiJsRhUgcw0QJ_P2rvXCz2yi8Z405KtWG13kTu78y7NUFgExTq5Uwcxat6akZuBvhW18RfpQwNhBqvcjQ94p6_egP
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/A.-de-Minaur-vs-C.-Alcaraz-web-match-card.png" group-title="Fancode-Tennis", Final: A. de Minaur vs C. Alcaraz [English]
+https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC
