@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:45:58 AM 01-11-2026",
+  "last update time": "09:50:58 AM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -170,23 +170,69 @@
     },
     {
       "category": "Cricket",
-      "title": "Womens \"A\" vs Womens \"B\"",
+      "title": "Womens \"A\" vs Womens \"B\" [English]",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250596",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:55:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Womens-Exhibition-Game_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/240p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/360p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/480p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/540p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/720p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN"
+          },
+          "cookie": "hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
+          "expires": "1793593195",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Golf",
-      "title": "Day 4",
+      "title": "Day 4 [English]",
       "tournament": "Wistron Ladies Open 2026",
       "match_id": "4250515",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:00:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/240p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/360p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/480p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/540p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/720p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP"
+          },
+          "cookie": "hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP",
+          "expires": "1793593196",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
