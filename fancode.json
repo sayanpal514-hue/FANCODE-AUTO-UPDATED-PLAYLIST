@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:40:58 PM 01-11-2026",
+  "last update time": "01:45:58 PM 01-11-2026",
   "matches": [
     {
       "category": "MotoGP",
@@ -203,19 +203,42 @@
     },
     {
       "category": "Football",
-      "title": "INAC Kobe Leonessa Women vs Bam Khatoon FC",
+      "title": "Hwacheon KSPO WFC vs 4.25 SC Women [English]",
       "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250248",
-      "status": "UPCOMING",
+      "match_id": "4250254",
+      "status": "LIVE",
       "startTime": "02:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/240p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/360p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/480p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/540p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/720p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD"
+          },
+          "cookie": "hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD",
+          "expires": "1793607128",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
-      "title": "Hwacheon KSPO WFC vs 4.25 SC Women",
+      "title": "INAC Kobe Leonessa Women vs Bam Khatoon FC",
       "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250254",
+      "match_id": "4250248",
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -318,7 +341,7 @@
       "match_id": "4249634",
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/A.-de-Minaur-vs-C.-Alcaraz-web-match-card.png",
       "language": "ENGLISH"
     },
     {
@@ -373,12 +396,12 @@
     },
     {
       "category": "Tennis",
-      "title": "FInal: J Lehecka vs V Vacherot",
+      "title": "Final: J Lehecka vs V Vacherot",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
       "match_id": "4249655",
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Jiri_Lehecka_vs_Valentin_Vacherot_FC-Web.png",
       "language": "ENGLISH"
     },
     {
