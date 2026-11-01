@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:10:58 PM 01-11-2026",
+  "last update time": "03:15:58 PM 01-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Australia vs Afghanistan [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250330",
-      "status": "LIVE",
-      "startTime": "12:40:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-AFG_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/240p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/360p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/480p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/540p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/720p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N"
-          },
-          "cookie": "hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N",
-          "expires": "1793602884",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Ireland vs Namibia [English]",
@@ -469,6 +436,16 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 02-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP - Rolex Paris Masters 2026",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250547",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
