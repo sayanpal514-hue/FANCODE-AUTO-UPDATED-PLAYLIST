@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:15:58 AM 01-11-2026",
+  "last update time": "08:20:58 AM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1793575018~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5f_watcho_c9b3a075-b664-47~Signature=ATFKiJsFPyv4rHxSGCIuyQdEQRQG4TpiZQN9TQD7seMzXv6QrmKR6IWnUKiVrBqcmOxNG-CS4HIfT8OesueKGgA-03IH",
           "expires": "1793575018",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh vs India [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250325",
-      "status": "LIVE",
-      "startTime": "07:10:00 AM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/240p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/360p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/480p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/540p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/720p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA"
-          },
-          "cookie": "hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA",
-          "expires": "1793582285",
           "expire_date": ""
         }
       }
@@ -296,6 +263,16 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Doubles Final",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249641",
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
