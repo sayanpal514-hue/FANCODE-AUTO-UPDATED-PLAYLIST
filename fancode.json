@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:50:58 PM 01-11-2026",
+  "last update time": "03:55:58 PM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC",
           "expires": "1793602885",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Perth Glory vs Adelaide United [English]",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249851",
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249851_53101_PG_ADL_fc-Web_1792223292274.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/240p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/360p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/480p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/540p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/720p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML"
-          },
-          "cookie": "hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML",
-          "expires": "1793605915",
           "expire_date": ""
         }
       }
@@ -170,23 +137,69 @@
     },
     {
       "category": "Tennis",
-      "title": "Doubles Final",
+      "title": "Doubles Final [English]",
       "tournament": "ATP 500 - Erste Bank Open 2026",
       "match_id": "4249641",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/240p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/360p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/480p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/540p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/720p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO"
+          },
+          "cookie": "hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO",
+          "expires": "1793615008",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
-      "title": "Beijing Jingtan FC Women vs Kaya FC Iloilo Women",
+      "title": "Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]",
       "tournament": "AFC Women's Champions League 2026-27",
       "match_id": "4250260",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/240p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/360p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/480p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/540p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/720p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD"
+          },
+          "cookie": "hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD",
+          "expires": "1793615007",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -443,6 +456,16 @@
       "title": "ATP - Rolex Paris Masters 2026",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
       "match_id": "4250547",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP - Rolex Paris Masters 2026",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250548",
       "status": "UPCOMING",
       "startTime": "12:00:00 PM 02-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
