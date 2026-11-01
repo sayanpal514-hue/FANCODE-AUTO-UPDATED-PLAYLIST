@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:35:58 PM 01-11-2026",
+  "last update time": "08:40:58 PM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793620459~_GO=Generated~acl=/mumbai/4249209_english_hls_921e9e98cf28684_1ta-di_h264/*~SessionID=fc-app_sportsguruand_580_watcho_f5b8fd72-bb31-46~Signature=ATFKiJsWNVsZ8A5iTorxGW2F3KnDQ4HmXCBbqGzoaOvx_77iB1lw_3fO-ogmt1v_Q-fI0vXCfu0Wzc1OdjnU0_gt8-0O",
           "expires": "1793620459",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Doubles Final [English]",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249648",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/240p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/360p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/480p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/540p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/720p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC"
-          },
-          "cookie": "hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC",
-          "expires": "1793620460",
           "expire_date": ""
         }
       }
