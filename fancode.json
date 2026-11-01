@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:20:58 AM 01-11-2026",
+  "last update time": "11:25:58 AM 01-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793591378~_GO=Generated~acl=/mumbai/4249850_english_hls_a46fd6b90643009_1ta-di_h264/*~SessionID=fc-app_sportsguruand_cfd_watcho_3609b875-92ac-4b~Signature=ATFKiJvG6PM2oTHFp7mZ1tbr-B0_iJax5tG0D_5uNLGggLwJPj0jtpsjDkfWclIyXOKsRa1BVBaPeECMxohz4LgKSNIK",
           "expires": "1793591378",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Womens \"A\" vs Womens \"B\" [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250596",
-      "status": "LIVE",
-      "startTime": "09:55:00 AM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Womens-Exhibition-Game_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/240p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/360p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/480p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/540p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/720p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN"
-          },
-          "cookie": "hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN",
-          "expires": "1793593195",
           "expire_date": ""
         }
       }
@@ -402,6 +369,16 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Badminton",
+      "title": "Finals",
+      "tournament": "BWF Super 500 - Hylo Open 2026",
+      "match_id": "4250525",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
