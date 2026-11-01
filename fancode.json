@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:30:58 PM 01-11-2026",
+  "last update time": "01:35:58 PM 01-11-2026",
   "matches": [
     {
       "category": "MotoGP",
@@ -170,13 +170,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Sydney Sixers Women vs Hobart Hurricanes Women",
+      "title": "Sydney Sixers Women vs Hobart Hurricanes Women [English]",
       "tournament": "Women's Big Bash League, 2026",
       "match_id": "4250393",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:40:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/240p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/360p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/480p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/540p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/720p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC"
+          },
+          "cookie": "hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC",
+          "expires": "1793606521",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
