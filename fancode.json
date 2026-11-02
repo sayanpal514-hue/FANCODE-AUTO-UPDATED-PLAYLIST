@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:10:58 PM 02-11-2026",
+  "last update time": "01:15:58 PM 02-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Victoria vs Queensland [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249670",
-      "status": "LIVE",
-      "startTime": "05:30:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/240p.m3u8?hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/360p.m3u8?hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/480p.m3u8?hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/540p.m3u8?hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/720p.m3u8?hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK"
-          },
-          "cookie": "hdntl=Expires=1793691129~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f9_watcho_00448a89-01bd-4d~Signature=ATFKiJuMHztu-Mefg2s-vlGG-HpEm7Fv-hcnsuVhfnveJVSJmxm5vxxoBnnnQFv0PqTQBzPgqs2OlGXp7yln9xsXTWIK",
-          "expires": "1793691129",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Oman vs Netherlands [English]",
@@ -104,12 +71,42 @@
     },
     {
       "category": "Cricket",
-      "title": "Melbourne Stars Women vs Perth Scorchers Women",
+      "title": "Perth Scorchers Women vs Melbourne Stars Women",
       "tournament": "Women's Big Bash League, 2026",
       "match_id": "4250394",
       "status": "UPCOMING",
       "startTime": "01:40:00 PM 02-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250394_53125_MS-W_PS-W_fc-web_1793352701258.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Court 2",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250547",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Court 1",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250548",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250549",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
@@ -190,6 +187,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 02-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250500_53130_EMB_AJM_fc-web_1792412930091.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Court Central",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250550",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
@@ -434,42 +441,12 @@
     },
     {
       "category": "Cricket",
-      "title": "United Arab Emirates vs Oman",
-      "tournament": "ICC CWC League 2 UAE, 2026",
-      "match_id": "4250521",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Melbourne Victory vs Persib Bandung",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249009",
-      "status": "UPCOMING",
-      "startTime": "01:15:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249009_53057_MLV_PER_fc-web_1789025065711.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250395",
-      "status": "UPCOMING",
-      "startTime": "01:40:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Bam Khatoon FC vs Naegohyang Women's FC",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250250",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 04-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793533399050/4250250_CASACARDS_APP.png",
+      "title": "Victoria vs Queensland",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249670",
+      "status": "PAUSED",
+      "startTime": "05:30:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
       "language": "ENGLISH"
     }
   ]
