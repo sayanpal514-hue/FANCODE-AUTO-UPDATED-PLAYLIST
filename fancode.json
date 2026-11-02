@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:15:58 AM 03-11-2026",
+  "last update time": "01:20:58 AM 03-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -203,13 +203,36 @@
     },
     {
       "category": "Football",
-      "title": "RCD Mallorca vs Cadiz",
+      "title": "RCD Mallorca vs Cadiz [English]",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": "4250629",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:30:00 AM 03-11-2026",
       "image": "https://images.fancode.com/aig/match/v1793599298969/4250629_CASACARDS_APP.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/240p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/360p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/480p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/540p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/720p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH"
+          },
+          "cookie": "hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
+          "expires": "1793735366",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
