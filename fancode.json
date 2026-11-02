@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:55:58 PM 02-11-2026",
+  "last update time": "09:00:58 PM 02-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793699612~_GO=Generated~acl=/mumbai/4250549_english_hls_cd610edfc088949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d26_watcho_91b1c823-ab5d-43~Signature=AV7HGj5-L0rYvZZ2IZtJ_42Xhx9YJ2jURt378UHhZ7cAQSe0n1BKUd9FGmWysA3U9Gi6hwJKezsHHtUKVoMzbjvIFucB",
           "expires": "1793699612",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Chitwan Rhinos vs Sudurpaschim Royals [English]",
-      "tournament": "Nepal Premier League Season 3, 2026",
-      "match_id": "4250365",
-      "status": "LIVE",
-      "startTime": "04:45:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250365_53124_SPR_CWR_fc-Web_1793616701602.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/240p.m3u8?hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/360p.m3u8?hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/480p.m3u8?hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/540p.m3u8?hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/720p.m3u8?hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A"
-          },
-          "cookie": "hdntl=Expires=1793703849~_GO=Generated~acl=/mumbai/4250365_english_hls_bb6466746876937_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c0d_watcho_01ff1a1b-f42f-4f~Signature=AV7HGj5gqpzyd2WssPYL8O3FgL9VBrfSF9Bh1bba3nRq21t0sRxGcRZsSFJACDYvqC7uYwZZpQK8Vyucg_SRGZ6XY38A",
-          "expires": "1793703849",
           "expire_date": ""
         }
       }
@@ -542,6 +509,16 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Melbourne Victory vs Persib Bandung",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4249009",
+      "status": "UPCOMING",
+      "startTime": "01:15:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249009_53057_MLV_PER_fc-web_1789025065711.jpg",
       "language": "ENGLISH"
     },
     {
