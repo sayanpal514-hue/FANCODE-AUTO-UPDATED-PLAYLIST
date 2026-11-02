@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:30:58 PM 02-11-2026",
+  "last update time": "05:35:58 PM 02-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Oman vs Netherlands [English]",
-      "tournament": "ICC CWC League 2 UAE, 2026",
-      "match_id": "4250520",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/240p.m3u8?hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/360p.m3u8?hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/480p.m3u8?hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/540p.m3u8?hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/720p.m3u8?hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N"
-          },
-          "cookie": "hdntl=Expires=1793683256~_GO=Generated~acl=/mumbai/4250520_english_hls_59af97507c90476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_950_watcho_735465df-1575-4b~Signature=ATFKiJs6ptUdp0x2pX6froWvbtc0xRD6s4dbUwdXfBJShfgwlZz27WlvINFYTt6mgL1QYNcXH8KbZKVw6tQWmHmlOm0N",
-          "expires": "1793683256",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Court 2 [English]",
@@ -496,6 +463,16 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Melbourne Victory vs Persib Bandung",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4249009",
+      "status": "UPCOMING",
+      "startTime": "01:15:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249009_53057_MLV_PER_fc-web_1789025065711.jpg",
       "language": "ENGLISH"
     },
     {
