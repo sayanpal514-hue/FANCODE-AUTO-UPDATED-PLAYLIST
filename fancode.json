@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:35:58 PM 03-11-2026",
+  "last update time": "09:40:58 PM 03-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -131,39 +131,6 @@
           },
           "cookie": "hdntl=Expires=1793789537~_GO=Generated~acl=/mumbai/4250553_english_hls_e6a17d4feb56039_1ta-di_h264/*~SessionID=fc-app_sportsguruand_654_watcho_b0e6c0e3-bece-44~Signature=AV7HGj7O9efCaeni2PGTwjhGdPhdLw1GrqziAum9Kz-6RMMXGvJZlsG3dQOieSiy5-QPGM6Z4U0L14ZJ0m7OJMBTdAoE",
           "expires": "1793789537",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Live Events",
-      "title": "APL Draft 2026",
-      "tournament": "APL Draft 2026",
-      "match_id": "4250648",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/APL-Draft-2026_Auction_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/240p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/360p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/480p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/540p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/720p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE"
-          },
-          "cookie": "hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-          "expires": "1793787718",
           "expire_date": ""
         }
       }
@@ -631,6 +598,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 05-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250007_52993_BRI_WOL_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs West Indies",
+      "tournament": "West Indies tour of Bangladesh, 2026",
+      "match_id": "4250527",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 05-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
       "language": "ENGLISH"
     }
   ]
