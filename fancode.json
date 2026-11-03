@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:40:57 PM 03-11-2026",
+  "last update time": "12:45:58 PM 03-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -398,22 +398,22 @@
     },
     {
       "category": "Football",
-      "title": "East Bengal FC Women vs Hwacheon KSPO WFC",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250257",
+      "title": "Al Wahda vs Al Khaldiya SC",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4249001",
       "status": "UPCOMING",
-      "startTime": "08:00:00 PM 04-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793533399037/4250257_CASACARDS_APP.png",
+      "startTime": "09:30:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249001_53057_ALW_ALK_fc-web_1789025065744.jpg",
       "language": "ENGLISH"
     },
     {
       "category": "Football",
-      "title": "PFC Nasaf Women vs Beijing Jingtan FC Women",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250263",
+      "title": "Kuwait SC vs PFC Nasaf",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4249002",
       "status": "UPCOMING",
-      "startTime": "08:00:00 PM 04-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793533399052/4250263_CASACARDS_APP.png",
+      "startTime": "09:30:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249002_53057_KSC_NAS_fc-web_1789025065843.jpg",
       "language": "ENGLISH"
     },
     {
