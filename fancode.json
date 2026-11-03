@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:35:58 PM 03-11-2026",
+  "last update time": "05:40:58 PM 03-11-2026",
   "matches": [
     {
       "category": "Football",
@@ -335,23 +335,69 @@
     },
     {
       "category": "Football",
-      "title": "Port FC vs Beijing Guoan",
+      "title": "Port FC vs Beijing Guoan [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248740",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05:45:00 PM 03-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248740_53053_PFC_BEI_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/240p.m3u8?hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/360p.m3u8?hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/480p.m3u8?hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/540p.m3u8?hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/720p.m3u8?hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB"
+          },
+          "cookie": "hdntl=Expires=1793793779~_GO=Generated~acl=/mumbai/4248740_english_hls_b89cbcd2dd56721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c40_watcho_29099e0e-4e08-44~Signature=AV7HGj5leCla8QOzRX5SutNBtN9fMbyZbbpHquqU_1qWWFBqtz2bkPzTyP1FYKqCQHHhmpPVaElemWfCJ2sGUtUfEygB",
+          "expires": "1793793779",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
-      "title": "Cong An Ha Noi vs Kyoto Sanga",
+      "title": "Cong An Ha Noi vs Kyoto Sanga [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248741",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05:45:00 PM 03-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248741_53053_CAH_KYS_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/240p.m3u8?hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/360p.m3u8?hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/480p.m3u8?hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/540p.m3u8?hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/720p.m3u8?hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF"
+          },
+          "cookie": "hdntl=Expires=1793793781~_GO=Generated~acl=/mumbai/4248741_english_hls_786ef3327032229_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a2_watcho_1b1488bf-7bf7-4c~Signature=AV7HGj6vFdulDQJEfUTY4d1nTj_a7wm0kAC_2jelEhoXm-KDGwdw8oCcRad2PvTecQgeTjncS1xtOHPAw_0OPFWoOtkF",
+          "expires": "1793793781",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
