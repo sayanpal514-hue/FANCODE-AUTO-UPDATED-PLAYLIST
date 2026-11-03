@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 03-11-2026 16:30
+#DATE:- 03-11-2026 16:35
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -29,3 +29,6 @@ https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode-Tennis", Court Central [English]
 https://in-mc-flive.fancode.com/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793789538~_GO=Generated~acl=/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_1878a835-58c6-4d~Signature=AV7HGj4dsB3NikKPzADXcEOdz47Vth_YipC9hWm1ln6N_fRx_SG8r6q60hTcmgFQkDaRBiuzalswmOoTtDrrLWTkAQ4H
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250367_53124_LBL_PKA_fc-Web_1793616701725.jpg" group-title="Fancode-Cricket", Pokhara Avengers vs Lumbini Lions [English]
+https://in-mc-flive.fancode.com/mumbai/4250367_english_hls_7df9a62f5588246_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793790144~_GO=Generated~acl=/mumbai/4250367_english_hls_7df9a62f5588246_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6e9_watcho_86e589f0-3800-47~Signature=AV7HGj5d-M506vTOPMaorJBR6eobx6FfP7eerpsakQWThKwQewCX6BppiReszsKjJh2xW6-NSlow-FpFfQ0YmVc4v_UL
