@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:05:58 AM 03-11-2026",
+  "last update time": "06:10:58 AM 03-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793728077~_GO=Generated~acl=/mumbai/4250550_english_hls_af88dc9fb09822_1ta-di_h264/*~SessionID=fc-app_sportsguruand_311_watcho_500e06a2-cbfb-40~Signature=AV7HGj68Q4Uv82BztuuLuGPO7i5tAYVQOnKMiE36P6WjYMd0DeNM3FG9hzK1Skyqu42Gyp49TbJCx9q_iN-TnSziExEP",
           "expires": "1793728077",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "RCD Mallorca vs Cadiz [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4250629",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 03-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793599298969/4250629_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/240p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/360p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/480p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/540p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/720p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH"
-          },
-          "cookie": "hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH",
-          "expires": "1793735366",
           "expire_date": ""
         }
       }
@@ -476,6 +443,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Football",
+      "title": "Ayeyawady FC Women vs INAC Kobe Leonessa Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250251",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 04-11-2026",
+      "image": "https://images.fancode.com/aig/match/v1793533399052/4250251_CASACARDS_APP.png",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Cricket",
       "title": "TBC vs TBC",
       "tournament": "Emirates D20, 2026",
@@ -483,6 +460,16 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "FK Arkadag vs Golgohar Sirjan SC",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4249003",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg",
       "language": "ENGLISH"
     }
   ]
