@@ -1,19 +1,19 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:05:58 PM 03-11-2026",
+  "last update time": "12:10:58 PM 03-11-2026",
   "matches": [
     {
       "category": "Cricket",
-      "title": "Victoria vs Queensland [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249670",
+      "title": "Biratnagar Kings vs Janakpur Bolts [English]",
+      "tournament": "Nepal Premier League Season 3, 2026",
+      "match_id": "4250366",
       "status": "LIVE",
-      "startTime": "05:30:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
+      "startTime": "12:15:00 PM 03-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web_1793616701848.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
@@ -23,28 +23,18 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/240p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/360p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/480p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/540p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/720p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/240p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/360p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/480p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/540p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/720p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI"
           },
-          "cookie": "hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
-          "expires": "1793748884",
+          "cookie": "hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
+          "expires": "1793774390",
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Biratnagar Kings vs Janakpur Bolts",
-      "tournament": "Nepal Premier League Season 3, 2026",
-      "match_id": "4250366",
-      "status": "UPCOMING",
-      "startTime": "12:15:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web_1793616701848.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
@@ -414,6 +404,16 @@
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 04-11-2026",
       "image": "https://images.fancode.com/aig/match/v1793533399037/4250257_CASACARDS_APP.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "PFC Nasaf Women vs Beijing Jingtan FC Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250263",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 04-11-2026",
+      "image": "https://images.fancode.com/aig/match/v1793533399052/4250263_CASACARDS_APP.png",
       "language": "ENGLISH"
     },
     {
