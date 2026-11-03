@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:10:58 PM 03-11-2026",
+  "last update time": "06:15:59 PM 03-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Vissel Kobe vs Ratchaburi [English]",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248738",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248738_53053_VIS_RAT_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/240p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/360p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/480p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/540p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/720p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C"
-          },
-          "cookie": "hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C",
-          "expires": "1793785894",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Court 1 [English]",
@@ -335,7 +302,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Emirates Blues vs Emirates Red [English]",
+      "title": "Emirates Red vs Emirates Blues [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250502",
       "status": "LIVE",
@@ -654,6 +621,16 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies A vs England Lions",
+      "tournament": "England Lions tour of West Indies, 2026",
+      "match_id": "4250205",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
       "language": "ENGLISH"
     }
   ]
