@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:15:58 AM 04-11-2026",
+  "last update time": "02:20:59 AM 04-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1793818661~_GO=Generated~acl=/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/*~SessionID=fc-app_sportsguruand_119_watcho_9a7d9803-fd1d-4e~Signature=AV7HGj6SV0xkK1M5wcD0nj77gSLsVSfYZ61H7tIYuT56QbqRCs-049iNrltb07k8kO4k0gbGwgkZ_OuuUz5BduwjzPYL",
           "expires": "1793818661",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "England Lions vs West Indies A [English]",
-      "tournament": "England Lions tour of West Indies, 2026",
-      "match_id": "4250204",
-      "status": "LIVE",
-      "startTime": "10:30:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/240p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/360p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/480p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/540p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/720p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO"
-          },
-          "cookie": "hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO",
-          "expires": "1793810776",
           "expire_date": ""
         }
       }
@@ -433,6 +400,16 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 AM 05-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "Aramco China Championship 2026",
+      "match_id": "4250608",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 05-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
