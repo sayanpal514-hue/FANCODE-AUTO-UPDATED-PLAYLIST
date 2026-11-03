@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 03-11-2026 21:15
+#DATE:- 03-11-2026 21:20
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -26,3 +26,9 @@ https://in-mc-flive.fancode.com/mumbai/4250502_english_hls_8f3b8db56d55181_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249007_53057_EBFC_ALS_fc-web_1789025066061.jpg" group-title="Fancode-Football", East Bengal FC vs Al Seeb Club [English]
 https://in-mc-flive.fancode.com/mumbai/4249007_english_hls_714b7bf86f61255_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793799261~_GO=Generated~acl=/mumbai/4249007_english_hls_714b7bf86f61255_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e06_watcho_6db853c8-511b-4b~Signature=AV7HGj5jROfjUWhciJKlSx5wemJK4CrlUx1hCqZ1nWhl1fx_wyMOmnyazzfSpeYQFcoBggzwVwuv68MXPUXccXVLDtMK
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg" group-title="Fancode-Football", Esteghlal FC vs Al Shamal [English]
+https://in-mc-flive.fancode.com/mumbai/4248734_english_hls_265e50076317332_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793807138~_GO=Generated~acl=/mumbai/4248734_english_hls_265e50076317332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_799_watcho_bce6664e-cc01-49~Signature=AV7HGj7SH91eclb-6hHsAXr6r8Zi9hCkQYPTwJMnG5nYWblO8EYkMRYj-s_fFtg4QzyGCSs5Y7enLlJL3tFu3u1uunQK
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg" group-title="Fancode-Football", Al Hussein vs Al Shorta [English]
+https://in-mc-flive.fancode.com/mumbai/4249008_english_hls_aac996ce7227954_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793807139~_GO=Generated~acl=/mumbai/4249008_english_hls_aac996ce7227954_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ef_watcho_e60b905c-be7e-42~Signature=AV7HGj6XufIs3Yf9Ql_ZRCshCXSmBT9OISk17fhmgr8Vr1_OEEbV3gsKWlw3y-_5nl_0DkgFzVC6W1ii7RF1a44hIHQA
