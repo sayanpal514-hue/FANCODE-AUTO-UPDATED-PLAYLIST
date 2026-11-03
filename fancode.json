@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:40:58 PM 03-11-2026",
+  "last update time": "03:45:58 PM 03-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI",
           "expires": "1793774390",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Newcastle Jets vs Shanghai Port [English]",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248736",
-      "status": "LIVE",
-      "startTime": "01:15:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248736_53053_NJ_SHG_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/240p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/360p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/480p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/540p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/720p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD"
-          },
-          "cookie": "hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD",
-          "expires": "1793777417",
           "expire_date": ""
         }
       }
@@ -575,6 +542,16 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 PM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249001_53057_ALW_ALK_fc-web_1789025065744.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Kuwait SC vs PFC Nasaf",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4249002",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249002_53057_KSC_NAS_fc-web_1789025065843.jpg",
       "language": "ENGLISH"
     },
     {
