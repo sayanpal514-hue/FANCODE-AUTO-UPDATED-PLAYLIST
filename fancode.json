@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:40:58 PM 04-11-2026",
+  "last update time": "09:45:58 PM 04-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -164,39 +164,6 @@
           },
           "cookie": "hdntl=Expires=1793881242~_GO=Generated~acl=/mumbai/4250504_english_hls_c3f36ea13013606_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f95_watcho_914a65ab-f6f4-41~Signature=AV7HGj4BNWLaDtzqFjTTiERptGaf_3lEFuGci_8r_5AnU11czLOwpRWvuOphOAqJYDJDh1lyt7C-NwQLredWKM7Nus8A",
           "expires": "1793881242",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "FK Arkadag vs Golgohar Sirjan SC [English]",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249003",
-      "status": "LIVE",
-      "startTime": "07:15:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/240p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/360p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/480p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/540p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/720p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE"
-          },
-          "cookie": "hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE",
-          "expires": "1793885488",
           "expire_date": ""
         }
       }
@@ -624,6 +591,16 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 AM 06-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "Aramco China Championship 2026",
+      "match_id": "4250609",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 06-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png",
       "language": "ENGLISH"
     },
     {
