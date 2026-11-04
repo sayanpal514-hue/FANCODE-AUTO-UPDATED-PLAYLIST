@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:25:58 PM 04-11-2026",
+  "last update time": "05:30:58 PM 04-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -269,13 +269,36 @@
     },
     {
       "category": "Football",
-      "title": "Buriram United vs Kashima Antlers",
+      "title": "Buriram United vs Kashima Antlers [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248743",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05:45:00 PM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/240p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/360p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/480p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/540p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/720p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG"
+          },
+          "cookie": "hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG",
+          "expires": "1793880027",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
