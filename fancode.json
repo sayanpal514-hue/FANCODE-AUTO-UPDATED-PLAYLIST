@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:35:59 AM 05-11-2026",
+  "last update time": "02:40:58 AM 05-11-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Court 2 [English]",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250555",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/240p.m3u8?hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/360p.m3u8?hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/480p.m3u8?hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/540p.m3u8?hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/720p.m3u8?hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG"
-          },
-          "cookie": "hdntl=Expires=1793890341~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=7814838588_watcho_3753ea02-76f6-4d~Signature=AV7HGj4fb6RJvRVOdVPdlqNPDb5Qcvr6qPaN1MTuFyxDk8aD5DQ_l00UsrZNOyRHIIyNOYIAZGe2VTkfG5sv5WZCJhQG",
-          "expires": "1793890341",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -470,6 +437,16 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 AM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Melbourne Renegades Women vs Adelaide Strikers Women",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250399",
+      "status": "UPCOMING",
+      "startTime": "10:10:00 AM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250399_53125_MR-W_AS-W_fc-web_1793352702176.jpg",
       "language": "ENGLISH"
     }
   ]
