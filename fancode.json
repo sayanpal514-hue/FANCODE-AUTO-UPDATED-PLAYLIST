@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:50:58 PM 04-11-2026",
+  "last update time": "11:55:59 PM 04-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1793890344~_GO=Generated~acl=/mumbai/4250557_english_hls_f271ef0bfa17291_1ta-di_h264/*~SessionID=7814838588_watcho_58e171fd-73c4-47~Signature=AV7HGj6crCA3AUHXEQD3hKDW_eXF60Vj0AwbysjHhNKQBjHbnsQqM2z3lEmrBdcf6LabDMqx1uaK_C8XTfGS9nmsOPUL",
           "expires": "1793890344",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Court 3 [English]",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250558",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/240p.m3u8?hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/360p.m3u8?hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/480p.m3u8?hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/540p.m3u8?hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/720p.m3u8?hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO"
-          },
-          "cookie": "hdntl=Expires=1793890346~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=7814838588_watcho_fed4fa9b-7a8a-43~Signature=AV7HGj4ZxfGBPRS8KVXBKWvyczMnrmtSomEqELAoZ7Y8USkFoChQ2zeZG-b-upsBBDwWHRzKLxC6zMX2Mv9K0SYsOkkO",
-          "expires": "1793890346",
           "expire_date": ""
         }
       }
@@ -585,6 +552,16 @@
       "status": "UPCOMING",
       "startTime": "04:45:00 PM 06-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250371_53124_CWR_PKA_fc-Web_1793616701620.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2026",
+      "match_id": "139512",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 06-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Sao-Paulo_web_1793258815657.jpg",
       "language": "ENGLISH"
     }
   ]
