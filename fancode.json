@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:45:58 PM 04-11-2026",
+  "last update time": "01:50:58 PM 04-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,6 +98,72 @@
           },
           "cookie": "hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
           "expires": "1793865367",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Bam Khatoon FC vs Naegohyang Women's FC [English]",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250250",
+      "status": "LIVE",
+      "startTime": "02:00:00 PM 04-11-2026",
+      "image": "https://images.fancode.com/aig/match/v1793533399050/4250250_CASACARDS_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/240p.m3u8?hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/360p.m3u8?hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/480p.m3u8?hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/540p.m3u8?hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/720p.m3u8?hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG"
+          },
+          "cookie": "hdntl=Expires=1793866580~_GO=Generated~acl=/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d5_watcho_0f5c762c-0939-40~Signature=AV7HGj4nn2cZ0-PMSA0hPAxotpl9vqaYypudqoGYIAGub7TI4a0qDn1AgVvEmX9_RZo5t5j_-MzyKpekW0C6i1TspyEG",
+          "expires": "1793866580",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "4.25 SC Women vs Ho Chi Minh City Women [English]",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250256",
+      "status": "LIVE",
+      "startTime": "02:00:00 PM 04-11-2026",
+      "image": "https://images.fancode.com/aig/match/v1793533399050/4250256_CASACARDS_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/240p.m3u8?hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/360p.m3u8?hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/480p.m3u8?hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/540p.m3u8?hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/720p.m3u8?hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H"
+          },
+          "cookie": "hdntl=Expires=1793866579~_GO=Generated~acl=/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e93_watcho_dfa36740-7cc6-4e~Signature=AV7HGj6o3DVBNR1-U-bDre755NmlFCZEK05ssV2lb2w-D-kODri3qKyVxLdsD3pcvdSOBr9QkHZJ8SGaK6nzvZyXFQ0H",
+          "expires": "1793866579",
           "expire_date": ""
         }
       }
@@ -233,26 +299,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Bam Khatoon FC vs Naegohyang Women's FC",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250250",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 04-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793533399050/4250250_CASACARDS_APP.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "4.25 SC Women vs Ho Chi Minh City Women",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250256",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 04-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793533399050/4250256_CASACARDS_APP.png",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
