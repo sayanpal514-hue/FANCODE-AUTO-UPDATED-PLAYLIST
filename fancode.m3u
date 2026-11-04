@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 04-11-2026 19:50
+#DATE:- 04-11-2026 19:55
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -26,3 +26,9 @@ https://in-mc-flive.fancode.com/mumbai/4250504_english_hls_c3f36ea13013606_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg" group-title="Fancode-Football", FK Arkadag vs Golgohar Sirjan SC [English]
 https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode-Football", East Bengal FC Women vs Hwacheon KSPO WFC [English]
+https://in-mc-flive.fancode.com/mumbai/4250257_english_hls_a733d3a99685482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793888521~_GO=Generated~acl=/mumbai/4250257_english_hls_a733d3a99685482_1ta-di_h264/*~SessionID=7814838588_watcho_2fb78289-34f6-46~Signature=AV7HGj5f6j_gm_XSjpAiWPNuQEG73COr0yXqu3jxr4UAMyJ9GXl2S2ELWWHQbbHWHQPzDSjHYNA3rmZvGc0T3K00UKQE
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode-Football", PFC Nasaf Women vs Beijing Jingtan FC Women [English]
+https://in-mc-flive.fancode.com/mumbai/4250263_english_hls_400a8b61b855272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793888523~_GO=Generated~acl=/mumbai/4250263_english_hls_400a8b61b855272_1ta-di_h264/*~SessionID=7814838588_watcho_48c0de5e-744e-4c~Signature=AV7HGj5KIRpEqIOcMrYs99h1FzdyjYCwdr7E9aetTvJYcudjDz82frRuC3hOi_61oHIkNLh114EVQjHU3ecKOxh0GpMO
