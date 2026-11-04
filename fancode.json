@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:35:58 AM 05-11-2026",
+  "last update time": "01:40:58 AM 05-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -65,39 +65,6 @@
           },
           "cookie": "hdntl=Expires=1793890344~_GO=Generated~acl=/mumbai/4250557_english_hls_f271ef0bfa17291_1ta-di_h264/*~SessionID=7814838588_watcho_58e171fd-73c4-47~Signature=AV7HGj6crCA3AUHXEQD3hKDW_eXF60Vj0AwbysjHhNKQBjHbnsQqM2z3lEmrBdcf6LabDMqx1uaK_C8XTfGS9nmsOPUL",
           "expires": "1793890344",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Dubai [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250505",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web_1792412930104.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/240p.m3u8?hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/360p.m3u8?hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/480p.m3u8?hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/540p.m3u8?hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/720p.m3u8?hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA"
-          },
-          "cookie": "hdntl=Expires=1793895799~_GO=Generated~acl=/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/*~SessionID=7814838588_watcho_f539d048-8874-41~Signature=AV7HGj731Y3jeTIT824vTrXKhKPMGvCvN0XOH-dTAKyCoILfEcepdGjVWPsjhcQkO9LxR7JV5ymGmCGwmfOYs8HbjDYA",
-          "expires": "1793895799",
           "expire_date": ""
         }
       }
@@ -562,6 +529,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247687_53004_SEV_ALA_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Derby County Football Club vs Bolton Wanderers",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4250008",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250008_52993_DER_BOL_fc-web.jpg",
       "language": "ENGLISH"
     }
   ]
