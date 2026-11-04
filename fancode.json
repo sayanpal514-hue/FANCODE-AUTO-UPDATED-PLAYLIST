@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:20:58 PM 04-11-2026",
+  "last update time": "06:25:58 PM 04-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -575,6 +575,16 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 AM 06-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Sudurpaschim Royals vs Karnali Yaks",
+      "tournament": "Nepal Premier League Season 3, 2026",
+      "match_id": "4250370",
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 06-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250370_53124_SPR_KNY_fc-Web_1793616701745.jpg",
       "language": "ENGLISH"
     }
   ]
