@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:25:58 PM 04-11-2026",
+  "last update time": "01:30:58 PM 04-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -65,6 +65,39 @@
           },
           "cookie": "hdntl=Expires=1793864155~_GO=Generated~acl=/mumbai/4249009_english_hls_3cee20df9032217_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7cf_watcho_bfc4298c-f11d-4e~Signature=AV7HGj7Zfn2UzeyDTo09Nq-E1PaeiN7QlEEAANHGo8tSLUkO3I4-vCSlNHWmfzXPaYucATPxIYb_1rvhdCmvT8mWfEIP",
           "expires": "1793864155",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Hobart Hurricanes Women vs Melbourne Renegades Women [English]",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250395",
+      "status": "LIVE",
+      "startTime": "01:40:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/240p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/360p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/480p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/540p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/720p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME"
+          },
+          "cookie": "hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME",
+          "expires": "1793865367",
           "expire_date": ""
         }
       }
@@ -200,16 +233,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250395",
-      "status": "UPCOMING",
-      "startTime": "01:40:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Football",
