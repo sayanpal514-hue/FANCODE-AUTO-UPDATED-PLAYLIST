@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:05:59 PM 05-11-2026",
+  "last update time": "05:10:58 PM 05-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793943745~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83410465_1ta-di_h264/*~SessionID=7814838588_watcho_57482304-972f-42~Signature=AV7HGj7emgFYnpJpEDybA63j2vErJVu2RqHTEnWtKAhIeT1ch66iddJqZIwMGmbgxQiF-TkMgDNOJkEjBShZ1rkHZQoK",
           "expires": "1793943745",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Perth Scorchers Women vs Sydney Thunder Women [English]",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250397",
-      "status": "LIVE",
-      "startTime": "01:40:00 PM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250397_53125_ST-W_PS-W_fc-web_1793352702086.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/240p.m3u8?hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/360p.m3u8?hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/480p.m3u8?hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/540p.m3u8?hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/720p.m3u8?hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF"
-          },
-          "cookie": "hdntl=Expires=1793955902~_GO=Generated~acl=/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/*~SessionID=7814838588_watcho_4ac3832e-9568-4f~Signature=AV7HGj4LWbksZzZnbFJkxPGGEBgQ3dcsRZ9_hTtTqVRDQpBM0SCNP_iuoCrdGj63WVbTJIGoPAN9mjw6knFqXWg-oPMF",
-          "expires": "1793955902",
           "expire_date": ""
         }
       }
@@ -575,6 +542,16 @@
       "title": "Naegohyang Women's FC vs INAC Kobe Leonessa Women",
       "tournament": "AFC Women's Champions League 2026-27",
       "match_id": "4250252",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Hwacheon KSPO WFC vs Ho Chi Minh City Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250258",
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png",
