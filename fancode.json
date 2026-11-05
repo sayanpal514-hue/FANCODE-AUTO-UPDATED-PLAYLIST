@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:00:58 PM 05-11-2026",
+  "last update time": "08:05:58 PM 05-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -363,6 +363,16 @@
       "language": "ENGLISH"
     },
     {
+      "category": "Football",
+      "title": "Melbourne City vs Western Sydney Wanderers",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249854",
+      "status": "UPCOMING",
+      "startTime": "02:10:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249854_53101_MLC_SYW_fc-Web_1792223294363.jpg",
+      "language": "ENGLISH"
+    },
+    {
       "category": "Cricket",
       "title": "Rimuka Cricket Club vs Mbizo Cricket Club",
       "tournament": "Mashwest T10 2026",
@@ -410,6 +420,26 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250009_52993_WRX_WOL_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Malaga vs Racing Club de Santander",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247686",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247686_53004_MAG_RAC_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Tabatana vs Nortonians",
+      "tournament": "Mashwest T10 2026",
+      "match_id": "4250692",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     },
     {
