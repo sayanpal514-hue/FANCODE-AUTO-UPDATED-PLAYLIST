@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:20:59 PM 05-11-2026",
+  "last update time": "07:25:58 PM 05-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Lion City Sailors vs Adelaide United [English]",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249011",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249011_53057_LIO_ADL_fc-web_1789025066009.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/240p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/360p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/480p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/540p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/720p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD"
-          },
-          "cookie": "hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD",
-          "expires": "1793958330",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed [English]",
@@ -446,6 +413,16 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Melbourne City Women vs Beijing Jingtan FC Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250264",
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png",
       "language": "ENGLISH"
     },
     {
