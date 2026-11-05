@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:00:58 PM 05-11-2026",
+  "last update time": "03:05:58 PM 05-11-2026",
   "matches": [
-    {
-      "category": "Badminton",
-      "title": "Round of 16 [English]",
-      "tournament": "BWF Super 500 -  Korea Open 2026",
-      "match_id": "4250603",
-      "status": "LIVE",
-      "startTime": "06:30:00 AM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/240p.m3u8?hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/360p.m3u8?hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/480p.m3u8?hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/540p.m3u8?hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/720p.m3u8?hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM"
-          },
-          "cookie": "hdntl=Expires=1793955903~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_a643eb1a-7cfa-43~Signature=AV7HGj5RtSecFR7LxJNp_3VynIeu4XM9O17-fHGX4Nz4kx1ZmrZYTVIEO6QDA5y8OblTWVTcPgb-V2_SjBJtFrb3QJsM",
-          "expires": "1793955903",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "West Indies vs Bangladesh [English]",
@@ -65,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1793935213~_GO=Generated~acl=/mumbai/4250527_english_hls_370c6945842186_1ta-di_h264/*~SessionID=7814838588_watcho_58780f57-bab1-44~Signature=AV7HGj71ARxIQesQ5Wka-l2yk_FD-yAjgHpJeFmWzOd8nm0_W4RvBZrd7p6jizaNVZqOinQJqV3SxG9Js1_ySIBhbfEI",
           "expires": "1793935213",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1 [English]",
-      "tournament": "Aramco China Championship 2026",
-      "match_id": "4250608",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/240p.m3u8?hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/360p.m3u8?hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/480p.m3u8?hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/540p.m3u8?hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/720p.m3u8?hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B"
-          },
-          "cookie": "hdntl=Expires=1793943169~_GO=Generated~acl=/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/*~SessionID=7814838588_watcho_34565424-0b96-4d~Signature=AV7HGj73rQa3hM8C21PbopcoknUkwB5df4w0QAchE-145SY7vyljkHUjLZ-u8B3cYqKGnTNbREhv86P1LgGBK-0U_04B",
-          "expires": "1793943169",
           "expire_date": ""
         }
       }
@@ -539,6 +473,26 @@
       "status": "UPCOMING",
       "startTime": "01:40:00 PM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250400_53125_BH-W_HB-W_fc-web_1793352701367.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Rimuka Cricket Club vs Mbizo Cricket Club",
+      "tournament": "Mashwest T10 2026",
+      "match_id": "4250690",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Kathmandu Gorkhas vs Lumbini Lions",
+      "tournament": "Nepal Premier League Season 3, 2026",
+      "match_id": "4250372",
+      "status": "UPCOMING",
+      "startTime": "04:45:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250372_53124_KMG_LBL_fc-Web_1793616701587.jpg",
       "language": "ENGLISH"
     }
   ]
