@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:20:58 PM 05-11-2026",
+  "last update time": "01:25:58 PM 05-11-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -21,16 +21,6 @@
       "status": "LIVE",
       "startTime": "09:00:00 AM 05-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Brisbane Heat Women vs Adelaide Strikers Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250396",
-      "status": "LIVE",
-      "startTime": "10:10:00 AM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250396_53125_AS-W_BH-W_fc-web_1793352701997.jpg",
       "language": "ENGLISH"
     },
     {
@@ -175,7 +165,7 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC",
+      "title": "Abu Dhabi vs Emirates Blues",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250506",
       "status": "UPCOMING",
@@ -189,7 +179,7 @@
       "tournament": "World Wide Technology Championship 2026",
       "match_id": "4250597",
       "status": "UPCOMING",
-      "startTime": "03:30:00 AM 06-11-2026",
+      "startTime": "01:30:00 AM 06-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
       "language": "ENGLISH"
     },
@@ -359,7 +349,7 @@
       "tournament": "World Wide Technology Championship 2026",
       "match_id": "4250598",
       "status": "UPCOMING",
-      "startTime": "03:30:00 AM 07-11-2026",
+      "startTime": "01:30:00 AM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
       "language": "ENGLISH"
     },
@@ -371,6 +361,16 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Auckland vs Wellington Phoenix",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249853",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249853_53101_AFC_WEL_fc-Web_1792223292106.jpg",
       "language": "ENGLISH"
     },
     {
