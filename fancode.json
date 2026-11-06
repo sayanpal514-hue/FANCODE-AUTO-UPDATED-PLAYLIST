@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:15:58 AM 06-11-2026",
+  "last update time": "07:20:58 AM 06-11-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -385,7 +385,7 @@
     },
     {
       "category": "Cricket",
-      "title": "West Indies vs Bangladesh",
+      "title": "Bangladesh vs West Indies",
       "tournament": "West Indies tour of Bangladesh, 2026",
       "match_id": "4250527",
       "status": "PAUSED",
@@ -395,7 +395,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Zimbabwe vs Afghanistan",
+      "title": "Afghanistan vs Zimbabwe",
       "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
       "match_id": "4249772",
       "status": "PAUSED",
