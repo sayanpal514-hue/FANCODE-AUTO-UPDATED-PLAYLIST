@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:15:58 PM 06-11-2026",
+  "last update time": "02:20:58 PM 06-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Sydney Sixers Women vs Melbourne Stars Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250398",
-      "status": "UPCOMING",
-      "startTime": "01:40:00 PM 06-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250398_53125_MS-W_SS-W_fc-web_1793352701994.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Sydney FC vs Central Coast Mariners",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249852",
-      "status": "UPCOMING",
-      "startTime": "02:10:00 PM 06-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249852_53101_SYD_CCM_fc-Web_1792223292100.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "MotoGP",
       "title": "Day 1",
