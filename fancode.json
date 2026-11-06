@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:05:58 PM 06-11-2026",
+  "last update time": "07:10:59 PM 06-11-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Court 1",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250564",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 06-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250565",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 06-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Formula 1",
       "title": "Practice 1",
@@ -81,6 +61,16 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs England",
+      "tournament": "Western Australia vs England One-Day 2026",
+      "match_id": "4250750",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH"
     },
     {
@@ -159,7 +149,7 @@
       "tournament": "A-League 2026-27",
       "match_id": "4249854",
       "status": "UPCOMING",
-      "startTime": "02:10:00 PM 07-11-2026",
+      "startTime": "02:15:00 PM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249854_53101_MLC_SYW_fc-Web_1792223294363.jpg",
       "language": "ENGLISH"
     },
@@ -344,16 +334,6 @@
       "language": "ENGLISH"
     },
     {
-      "category": "Football",
-      "title": "Valencia CF vs Real Madrid",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247682",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 08-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247682_53004_VAL_RM_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Cricket",
       "title": "West Indies vs Bangladesh",
       "tournament": "West Indies tour of Bangladesh, 2026",
@@ -361,6 +341,16 @@
       "status": "PAUSED",
       "startTime": "09:00:00 AM 05-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe vs Afghanistan",
+      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+      "match_id": "4249772",
+      "status": "PAUSED",
+      "startTime": "11:30:00 AM 05-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
       "language": "ENGLISH"
     }
   ]
