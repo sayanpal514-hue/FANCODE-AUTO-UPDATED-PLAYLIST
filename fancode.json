@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:50:58 AM 07-11-2026",
+  "last update time": "01:55:58 AM 07-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Derby County Football Club vs Bolton Wanderers",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4250008",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250008_52993_DER_BOL_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "World Wide Technology Championship 2026",
-      "match_id": "4250598",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Badminton",
       "title": "Semi-Final",
@@ -351,6 +331,16 @@
       "status": "UPCOMING",
       "startTime": "08:10:00 AM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250401_53125_SS-W_ST-W_fc-web_1793352701343.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Perth Scorchers Women vs Melbourne Stars Women",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250402",
+      "status": "UPCOMING",
+      "startTime": "11:40:00 AM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250402_53125_PS-W_MS-W_fc-web_1793352702019.jpg",
       "language": "ENGLISH"
     },
     {
