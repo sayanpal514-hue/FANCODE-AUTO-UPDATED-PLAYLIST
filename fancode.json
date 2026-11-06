@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:55:58 AM 07-11-2026",
+  "last update time": "05:00:58 AM 07-11-2026",
   "matches": [
     {
       "category": "Badminton",
@@ -341,6 +341,16 @@
       "status": "UPCOMING",
       "startTime": "08:10:00 AM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250401_53125_SS-W_ST-W_fc-web_1793352701343.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Macarthur vs Brisbane Roar",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249856",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249856_53101_MAC_BRB_fc-Web_1792223292092.jpg",
       "language": "ENGLISH"
     },
     {
