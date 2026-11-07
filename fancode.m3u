@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 07-11-2026 17:45
+#DATE:- 07-11-2026 17:50
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -29,3 +29,9 @@ https://in-mc-flive.fancode.com/mumbai/4249855_english_hls_62f97a03e897115_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250372_53124_KMG_LBL_fc-Web_1793616701587.jpg" group-title="Fancode-Cricket", Kathmandu Gorkhas vs Lumbini Lions [English]
 https://in-mc-flive.fancode.com/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794136174~_GO=Generated~acl=/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_cd2b4837-8613-4f~Signature=AV7HGj6jPnb8XY6jyg_yUcLGrblfsPjdj4rTyRX_edA26-m8j4B9YSeQRURKlyDUwhm6D493EDVifBhN4UkXQ9v-fAEO
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250009_52993_WRX_WOL_fc-web.jpg" group-title="Fancode-Football", Wrexham A.F.C. vs Wolverhampton Wanderers F.C. [English]
+https://in-mc-flive.fancode.com/mumbai/4250009_english_hls_7a1ac51fff62815_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794140411~_GO=Generated~acl=/mumbai/4250009_english_hls_7a1ac51fff62815_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74d538e8-84db-43~Signature=AV7HGj5-dA01Rmua6MoID7nkQ5zTI44BE0kSxwFwVi9bGFV5W_SWU0aEAsLwvY98L-eNpfFJY7TOvrTUzNPwX9Av9IwH
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode-Football", Bam Khatoon FC vs Ayeyawady FC Women [English]
+https://in-mc-flive.fancode.com/mumbai/4250253_english_hls_4d70f931d633537_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794140412~_GO=Generated~acl=/mumbai/4250253_english_hls_4d70f931d633537_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_91784d33-082c-40~Signature=AV7HGj5QYciIemnZXmsEd_gtgW_yh163JFpxKq9JJXmdfZN6_9jCH1wCsfCFWpwdp7BFS2LsgeZfJJrNl9Vp7X3BGuQA
