@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:05:58 PM 07-11-2026",
+  "last update time": "03:10:58 PM 07-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1794113572~_GO=Generated~acl=/mumbai/4250605_english_hls_263bfd45b59969_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_83b94f65-d77f-4d~Signature=AV7HGj4RmL3L4EesH4K5oGiQQuSa9ckyMyKF5Sa_BxuRRXj3luJaYsqi-zq-aGqF8odctw0ZIlNfX23SVxkWhatXyGoO",
           "expires": "1794113572",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 [English]",
-      "tournament": "Aramco China Championship 2026",
-      "match_id": "4250610",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/240p.m3u8?hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/360p.m3u8?hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/480p.m3u8?hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/540p.m3u8?hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/720p.m3u8?hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN"
-          },
-          "cookie": "hdntl=Expires=1794115110~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_08410b54-6318-44~Signature=AV7HGj7GPV344zK8crUTKbOem9zPrIE1_wQM5diHJRrl0GXmh4QeoVwZ6A8bj42fIklA_XcwT9tLOD1HduhGQRorvnQN",
-          "expires": "1794115110",
           "expire_date": ""
         }
       }
@@ -601,6 +568,16 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 08-11-2026",
       "image": "https://images.fancode.com/aig/match/v1793949984312/4250746_CASACARDS_APP.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP - Rolex Paris Masters 2026",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250571",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
