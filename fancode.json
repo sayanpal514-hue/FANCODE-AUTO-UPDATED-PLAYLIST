@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:15:58 PM 07-11-2026",
+  "last update time": "07:20:58 PM 07-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -334,6 +334,70 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Manchester City Women vs West Ham United Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4250755",
+      "status": "LIVE",
+      "startTime": "06:45:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index_1080p.m3u8?hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "216p": "https://in-mc-flive.fancode.com/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index_216p.m3u8?hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA",
+            "360p": "https://in-mc-flive.fancode.com/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index_360p.m3u8?hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA",
+            "540p": "https://in-mc-flive.fancode.com/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index_540p.m3u8?hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA",
+            "720p": "https://in-mc-flive.fancode.com/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index_720p.m3u8?hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA",
+            "1080p": "https://in-mc-flive.fancode.com/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index_1080p.m3u8?hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA"
+          },
+          "cookie": "hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA",
+          "expires": "1794145392",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Everton Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4250756",
+      "status": "LIVE",
+      "startTime": "06:50:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index_1080p.m3u8?hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "216p": "https://in-mc-flive.fancode.com/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index_216p.m3u8?hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF",
+            "360p": "https://in-mc-flive.fancode.com/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index_360p.m3u8?hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF",
+            "540p": "https://in-mc-flive.fancode.com/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index_540p.m3u8?hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF",
+            "720p": "https://in-mc-flive.fancode.com/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index_720p.m3u8?hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF",
+            "1080p": "https://in-mc-flive.fancode.com/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index_1080p.m3u8?hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF"
+          },
+          "cookie": "hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF",
+          "expires": "1794145394",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Tennis",
       "title": "World Feed [English]",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
@@ -365,26 +429,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Manchester City Women vs West Ham United Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4250755",
-      "status": "UPCOMING",
-      "startTime": "06:45:00 PM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea F.C. Women vs Everton Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4250756",
-      "status": "UPCOMING",
-      "startTime": "06:50:00 PM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": "ENGLISH"
     },
     {
       "category": "Formula 1",
