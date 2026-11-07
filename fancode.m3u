@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 07-11-2026 19:15
+#DATE:- 07-11-2026 19:20
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -32,6 +32,12 @@ https://in-mc-flive.fancode.com/mumbai/4250009_english_hls_7a1ac51fff62815_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png" group-title="Fancode-Football", Bam Khatoon FC vs Ayeyawady FC Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250253_english_hls_4d70f931d633537_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794140412~_GO=Generated~acl=/mumbai/4250253_english_hls_4d70f931d633537_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_91784d33-082c-40~Signature=AV7HGj5QYciIemnZXmsEd_gtgW_yh163JFpxKq9JJXmdfZN6_9jCH1wCsfCFWpwdp7BFS2LsgeZfJJrNl9Vp7X3BGuQA
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode-Football", Manchester City Women vs West Ham United Women
+https://in-mc-flive.fancode.com/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index_1080p.m3u8?hdntl=Expires=1794145392~_GO=Generated~acl=/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/*~Signature=AV7HGj6Jl0WsbcoEapJXMT0PoQhg48yiIrPyX11c0WrcZJrGXrgyOLD7P1wI_RGuns6m67GFSmNMp1tWYP_CihnL2toA
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode-Football", Chelsea F.C. Women vs Everton Women [English]
+https://in-mc-flive.fancode.com/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index_1080p.m3u8?hdntl=Expires=1794145394~_GO=Generated~acl=/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/*~Signature=AV7HGj6qq8ETI9vXGfWflhyLIUrNBlZZyBp7Kvbxsk82CSpSH8ESnK3Zd1UAPFpxbM8v1xPqQ0BIz6Yrqe6siNWlX3AF
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode-Tennis", World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4250569_english_hls_a212cda0e532405_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794144141~_GO=Generated~acl=/mumbai/4250569_english_hls_a212cda0e532405_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_ef54619d-f799-4f~Signature=AV7HGj5HGfivC7xvguFChOnC7MstgdX6T8_qFUfQ5EfymV3vagNfHP3n_wYVr3khzLwQ_1QnubpMJrIzLtr-BeLAzwUJ
