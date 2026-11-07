@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:15:57 PM 07-11-2026",
+  "last update time": "04:20:58 PM 07-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -164,72 +164,6 @@
           },
           "cookie": "hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
           "expires": "1794124973",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Naegohyang Women's FC vs INAC Kobe Leonessa Women [English]",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250252",
-      "status": "LIVE",
-      "startTime": "02:00:00 PM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/240p.m3u8?hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/360p.m3u8?hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/480p.m3u8?hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/540p.m3u8?hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/720p.m3u8?hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC"
-          },
-          "cookie": "hdntl=Expires=1794126236~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_69a3859e-0068-48~Signature=AV7HGj4f55iag3Hd8tP6ib2KVTFXohMDwbX8wDeAV6Hl920PtS7M26W06nqPi7MRxDbQt48iTx1KsL7-t52NB_LQ5VAC",
-          "expires": "1794126236",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Hwacheon KSPO WFC vs Ho Chi Minh City Women [English]",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250258",
-      "status": "LIVE",
-      "startTime": "02:00:00 PM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/240p.m3u8?hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/360p.m3u8?hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/480p.m3u8?hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/540p.m3u8?hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/720p.m3u8?hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK"
-          },
-          "cookie": "hdntl=Expires=1794126237~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6f602d6b-2878-4d~Signature=AV7HGj5V6fIFgwXKrcr6s9zGZXWhblfn0zqlqo1SyGwCF01mk2Tb8temAcVYsD69nzaBz_ZwK8RZxvaPy8jCXBicOGgK",
-          "expires": "1794126237",
           "expire_date": ""
         }
       }
@@ -654,6 +588,26 @@
       "title": "ATP - Rolex Paris Masters 2026",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
       "match_id": "4250572",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP - Rolex Paris Masters 2026",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250573",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP - Rolex Paris Masters 2026",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250574",
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
