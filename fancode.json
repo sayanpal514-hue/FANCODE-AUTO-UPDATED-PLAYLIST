@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:35:58 PM 07-11-2026",
+  "last update time": "02:40:58 PM 07-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -588,16 +588,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247678_53004_ELC_RB_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "FC Andorra vs RCD Mallorca",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4250590",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 08-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH"
     }
   ]
