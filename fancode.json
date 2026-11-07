@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:00:58 PM 07-11-2026",
+  "last update time": "05:05:58 PM 07-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -131,39 +131,6 @@
           },
           "cookie": "hdntl=Expires=1794122529~_GO=Generated~acl=/mumbai/4250745_english_hls_b417730c511101_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_31a01179-7fc2-49~Signature=AV7HGj6_wJOgWOlaqWGGO-bkn7tkhD-WylrQI5vDq1k15hpS1z1fNPlel54T6QS9_Fia_udTPjlfcL-s07KLB9hpk3YO",
           "expires": "1794122529",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Brisbane Heat Women [English]",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250400",
-      "status": "LIVE",
-      "startTime": "01:40:00 PM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250400_53125_BH-W_HB-W_fc-web_1793352701367.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/240p.m3u8?hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/360p.m3u8?hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/480p.m3u8?hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/540p.m3u8?hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/720p.m3u8?hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL"
-          },
-          "cookie": "hdntl=Expires=1794124973~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_46f140ce-4fc9-40~Signature=AV7HGj78rb3aOuX2syYM-pBOvtM2-BrJcd0-ekSsgNO7UfC21QXTCju7grJLDg0zv7xWSCDsvrxbA8CXeHYwLh6CMQgL",
-          "expires": "1794124973",
           "expire_date": ""
         }
       }
@@ -631,6 +598,16 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 PM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247683_53004_VIL_GEF_FC-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "RC Celta vs Levante",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247685",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247685_53004_CEV_LET_FC-Web_1792660540027.png",
       "language": "ENGLISH"
     }
   ]
