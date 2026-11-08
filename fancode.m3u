@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 08-11-2026 11:30
+#DATE:- 08-11-2026 11:35
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -20,3 +20,6 @@ https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249857_53101_ADL_MLV_fc-Web_1792223292214.jpg" group-title="Fancode-Football", Adelaide United vs Melbourne Victory [English]
 https://in-mc-flive.fancode.com/mumbai/4249857_english_hls_1454cf2a3667224_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794203638~_GO=Generated~acl=/mumbai/4249857_english_hls_1454cf2a3667224_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_a5ce8273-0216-46~Signature=AV7HGj6TJkbaxMZIc1mW-NqCuU6dccXtjs8u7pSTKtXpz7MUVozFo170uS4pMEfKE0cNPHdLtLZewctRo0GOahg80HcC
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250402_53125_PS-W_MS-W_fc-web_1793352702019.jpg" group-title="Fancode-Cricket", Melbourne Stars Women vs Perth Scorchers Women [English]
+https://in-mc-flive.fancode.com/mumbai/4250402_english_hls_09a0b26ff683723_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794204246~_GO=Generated~acl=/mumbai/4250402_english_hls_09a0b26ff683723_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_7878d5ec-50d2-43~Signature=AV7HGj7p27ElRVvBg-GYECpM9M4lukX3AGkt628X4PvwFSynbgNVLa7F0-MASR8J3RpvnBolx-yHCbcDTUmoyoQJKwMK
