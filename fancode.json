@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:20:58 AM 08-11-2026",
+  "last update time": "10:25:58 AM 08-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -137,13 +137,36 @@
     },
     {
       "category": "Golf",
-      "title": "Day 4",
+      "title": "Day 4 [English]",
       "tournament": "Aramco China Championship 2026",
       "match_id": "4250611",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:30:00 AM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/240p.m3u8?hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/360p.m3u8?hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/480p.m3u8?hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/540p.m3u8?hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/720p.m3u8?hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F"
+          },
+          "cookie": "hdntl=Expires=1794200003~_GO=Generated~acl=/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_74b4decb-e35e-47~Signature=AV7HGj7znkLAs_CyI2JebDkQFGdAE8sUqCii4kIvpzLqhVIz5wQUFEHmsquUrBMcZB-wGk2y7-tkmx4JZjykcD4auP0F",
+          "expires": "1794200003",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
