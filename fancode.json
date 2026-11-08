@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:20:58 AM 08-11-2026",
+  "last update time": "09:25:58 AM 08-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -104,13 +104,36 @@
     },
     {
       "category": "Football",
-      "title": "Macarthur vs Brisbane Roar",
+      "title": "Macarthur vs Brisbane Roar [English]",
       "tournament": "A-League 2026-27",
       "match_id": "4249856",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 AM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249856_53101_MAC_BRB_fc-Web_1792223292092.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/240p.m3u8?hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/360p.m3u8?hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/480p.m3u8?hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/540p.m3u8?hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/720p.m3u8?hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B"
+          },
+          "cookie": "hdntl=Expires=1794196370~_GO=Generated~acl=/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_324770ec-8521-45~Signature=AV7HGj7m6_pwa-EeyWvqujz2BYjKAD50-LZCvqcqykD5u4Le6tVNagbEWFEbQzYgl2yAwozPhBMSDROdF6wqQm4el50B",
+          "expires": "1794196370",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Golf",
@@ -167,16 +190,6 @@
       "title": "Court Central",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
       "match_id": "4250571",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 08-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Tennis",
-      "title": "Final: A Hewett vs G Fernandez",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250572",
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
@@ -460,6 +473,16 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 11-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249498_53078_INT-W_MCI-W_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Paris Saint-Germain Women vs Bayern Munich Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249499",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 11-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249499_53078_PSG-W_BAY-W_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
