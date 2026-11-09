@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:00:58 PM 09-11-2026",
+  "last update time": "12:05:59 PM 09-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -71,13 +71,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Pokhara Avengers vs Karnali Yaks",
+      "title": "Pokhara Avengers vs Karnali Yaks [English]",
       "tournament": "Nepal Premier League Season 3, 2026",
       "match_id": "4250373",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:15:00 PM 09-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/240p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/360p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/480p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/540p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/720p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK"
+          },
+          "cookie": "hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+          "expires": "1794292218",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
