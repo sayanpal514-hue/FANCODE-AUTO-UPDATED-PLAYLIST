@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:20:58 PM 09-11-2026",
+  "last update time": "04:25:58 PM 09-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -71,7 +71,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Chitwan Rhinos vs Kathmandu Gorkhas",
+      "title": "Kathmandu Gorkhas vs Chitwan Rhinos",
       "tournament": "Nepal Premier League Season 3, 2026",
       "match_id": "4250374",
       "status": "UPCOMING",
