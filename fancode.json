@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:10:58 PM 09-11-2026",
+  "last update time": "04:15:58 PM 09-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "West Indies vs Bangladesh [English]",
-      "tournament": "West Indies tour of Bangladesh, 2026",
-      "match_id": "4250527",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/240p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/360p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/480p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/540p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/720p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC"
-          },
-          "cookie": "hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
-          "expires": "1794280710",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Zimbabwe vs Afghanistan [English]",
@@ -470,6 +437,16 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 AM 14-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Hobart Hurricanes Women vs Brisbane Heat Women",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250407",
+      "status": "UPCOMING",
+      "startTime": "10:10:00 AM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250407_53125_HB-W_BH-W_fc-web_1793352701279.jpg",
       "language": "ENGLISH"
     }
   ]
