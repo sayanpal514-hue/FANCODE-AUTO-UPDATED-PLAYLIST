@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:35:59 PM 10-11-2026",
+  "last update time": "04:40:58 PM 10-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -38,13 +38,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Sudurpaschim Royals vs Janakpur Bolts",
+      "title": "Sudurpaschim Royals vs Janakpur Bolts [English]",
       "tournament": "Nepal Premier League Season 3, 2026",
       "match_id": "4250375",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:45:00 PM 10-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/240p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/360p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/480p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/540p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/720p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO"
+          },
+          "cookie": "hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+          "expires": "1794395227",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Tennis",
