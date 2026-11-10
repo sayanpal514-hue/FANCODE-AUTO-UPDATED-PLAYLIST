@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:00:58 PM 10-11-2026",
+  "last update time": "11:05:58 PM 10-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -38,23 +38,69 @@
     },
     {
       "category": "Football",
-      "title": "BK Häcken Women vs Chelsea F.C. Women",
+      "title": "BK Häcken Women vs Chelsea F.C. Women [English]",
       "tournament": "UEFA Women's Champions League 2026-27",
       "match_id": "4249495",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:15:00 PM 10-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249495_53078_BKH-W_CHE-W_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/240p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/360p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/480p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/540p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/720p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G"
+          },
+          "cookie": "hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
+          "expires": "1794418255",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
-      "title": "Real Madrid Women vs Paris FC Women",
+      "title": "Real Madrid Women vs Paris FC Women [English]",
       "tournament": "UEFA Women's Champions League 2026-27",
       "match_id": "4249496",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:15:00 PM 10-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249496_53078_RM-W_PFC-W_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/240p.m3u8?hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/360p.m3u8?hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/480p.m3u8?hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/540p.m3u8?hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/720p.m3u8?hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB"
+          },
+          "cookie": "hdntl=Expires=1794418253~_GO=Generated~acl=/mumbai/4249496_english_hls_c239c8487a55903_1ta-di_h264/*~SessionID=d6c1de5f7d69cdd5af31a19f43a44bc8_playbox_e8ecb9a2-9270-45~Signature=AbO9BjiFzB0hVqMW_iXUVRU4-_Zx0fjpxNRMo_M5WfMyVVckfim1SAzymcQfWxlPeU8ErfvzyYF-dP-Z9ZtOSFkUguEB",
+          "expires": "1794418253",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
