@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:40:58 AM 11-11-2026",
+  "last update time": "01:45:58 AM 11-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -32,39 +32,6 @@
           },
           "cookie": "hdntl=Expires=1794426758~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=1852f29eca54b6626f8a9bb71e62ec0c_playbox_79366fd4-20a9-4c~Signature=AbO9BjilrMbzyYxrqZ-0IfxqaZFu8XwHPEoWatV3pqE4S_gVWIFOOjjLQrQXCYaujWItjVpkNEbolu_esoFTHIT182oL",
           "expires": "1794426758",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "BK Häcken Women vs Chelsea F.C. Women [English]",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249495",
-      "status": "LIVE",
-      "startTime": "11:15:00 PM 10-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249495_53078_BKH-W_CHE-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/240p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/360p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/480p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/540p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/720p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G"
-          },
-          "cookie": "hdntl=Expires=1794418255~_GO=Generated~acl=/mumbai/4249495_english_hls_f7203d79eb1013_1ta-di_h264/*~SessionID=ee710a0bb98d10615387c94197ddb7a6_playbox_545af38d-386c-4c~Signature=AbO9BjhO1D2HIyuCm46_WBIHqlxEwEbe46-LOhJlWX-0gz8B84sUlHEy4xAyNdRGzMhNZjfmWws5eeWTLNHU6wGRNs4G",
-          "expires": "1794418255",
           "expire_date": ""
         }
       }
@@ -539,6 +506,16 @@
       "status": "UPCOMING",
       "startTime": "04:45:00 PM 14-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250380_53124_BK_LBL_fc-Web_1793616701807.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Exeter City vs Cheltenham Town",
+      "tournament": "League Two 2026-27",
+      "match_id": "4250001",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
       "language": "ENGLISH"
     }
   ]
