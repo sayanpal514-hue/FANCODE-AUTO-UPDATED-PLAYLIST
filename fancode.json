@@ -1,107 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:10:58 AM 11-11-2026",
+  "last update time": "04:15:58 AM 11-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Roma Women vs Servette Women [English]",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249497",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249497_53078_ROM-W_SVT-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/240p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/360p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/480p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/540p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/720p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF"
-          },
-          "cookie": "hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF",
-          "expires": "1794426739",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Inter Women vs Manchester City Women [English]",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249498",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249498_53078_INT-W_MCI-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/240p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/360p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/480p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/540p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/720p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP"
-          },
-          "cookie": "hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP",
-          "expires": "1794426740",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Paris Saint-Germain Women vs Bayern Munich Women [English]",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249499",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249499_53078_PSG-W_BAY-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/240p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/360p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/480p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/540p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/720p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN"
-          },
-          "cookie": "hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN",
-          "expires": "1794426742",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "New South Wales vs South Australia",
@@ -470,6 +371,36 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 14-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Manchester City Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4250763",
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Tottenham Hotspur Women vs Everton Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4250764",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies A vs England Lions",
+      "tournament": "England Lions tour of West Indies, 2026",
+      "match_id": "4250209",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
       "language": "ENGLISH"
     }
   ]
