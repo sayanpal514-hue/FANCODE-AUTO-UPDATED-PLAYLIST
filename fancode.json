@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:50:58 PM 11-11-2026",
+  "last update time": "06:55:58 PM 11-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -38,13 +38,36 @@
     },
     {
       "category": "Cricket",
-      "title": "West Indies A vs England Lions",
+      "title": "West Indies A vs England Lions [English]",
       "tournament": "England Lions tour of West Indies, 2026",
       "match_id": "4250208",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:00:00 PM 11-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/240p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/360p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/480p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/540p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/720p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ"
+          },
+          "cookie": "hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+          "expires": "1794489787",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
