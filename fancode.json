@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:50:58 AM 11-11-2026",
+  "last update time": "08:55:58 AM 11-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -98,39 +98,6 @@
           },
           "cookie": "hdntl=Expires=1794441292~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa29270_1ta-di_h264/*~SessionID=67d179ce3a51ec681a210437a480ae56_playbox_22d338fe-53e7-47~Signature=AbO9Bji-M6FCycA1f3qYQjJ6GugplRsIggPF4_cJsMt4EvAaX5R6qiw3YcmEOdLgZ0aEtt1cS740aLOjOpfECfs4B6oM",
           "expires": "1794441292",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "DET vs LAGC [English]",
-      "tournament": "WTGL 2026",
-      "match_id": "4250613",
-      "status": "LIVE",
-      "startTime": "06:30:00 AM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/2_web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/240p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/360p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/480p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/540p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/720p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE"
-          },
-          "cookie": "hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE",
-          "expires": "1794444323",
           "expire_date": ""
         }
       }
@@ -483,6 +450,16 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 14-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Fleetwood Town vs Tranmere Rovers",
+      "tournament": "League Two 2026-27",
+      "match_id": "4250002",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
       "language": "ENGLISH"
     },
     {
