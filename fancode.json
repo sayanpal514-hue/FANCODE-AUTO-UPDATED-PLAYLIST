@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:05:58 PM 11-11-2026",
+  "last update time": "11:11:00 PM 11-11-2026",
   "matches": [
     {
       "category": "Tennis",
@@ -71,13 +71,36 @@
     },
     {
       "category": "Football",
-      "title": "Oud-Heverlee Leuven Women vs HB Køge Women",
+      "title": "Oud-Heverlee Leuven Women vs HB Køge Women [English]",
       "tournament": "UEFA Women's Champions League 2026-27",
       "match_id": "4249501",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:15:00 PM 11-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249501_53078_OHL-W_KOG-W_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/240p.m3u8?hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/360p.m3u8?hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/480p.m3u8?hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/540p.m3u8?hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/720p.m3u8?hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID"
+          },
+          "cookie": "hdntl=Expires=1794504939~_GO=Generated~acl=/mumbai/4249501_english_hls_93fe97371910787_1ta-di_h264/*~SessionID=344537e65433520d7df8e7cf5af39079_playbox_0a3adad1-f222-4b~Signature=AbO9BjjEPhc6hSWmof0Y39suEphRRDFajGTkIPvnLcGIv_XK67P5gtZqn4fV5sf2bnBA5-D7eLsiRN7mxf-UAUgQfnID",
+          "expires": "1794504939",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
