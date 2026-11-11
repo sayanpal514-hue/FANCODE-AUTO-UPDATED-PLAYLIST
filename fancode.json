@@ -1,41 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:35:58 AM 12-11-2026",
+  "last update time": "03:40:58 AM 12-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Juventus Women vs OL Lyonnes [English]",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249502",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 12-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249502_53078_JUV-W_OLY-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/240p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/360p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/480p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/540p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/720p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK"
-          },
-          "cookie": "hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK",
-          "expires": "1794512810",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Badminton",
       "title": "Round of 16",
@@ -384,6 +351,16 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 14-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Manchester United Women vs Crystal Palace Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4250762",
+      "status": "UPCOMING",
+      "startTime": "06:15:00 PM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH"
     },
     {
