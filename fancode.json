@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:20:58 PM 12-11-2026",
+  "last update time": "06:25:58 PM 12-11-2026",
   "matches": [
-    {
-      "category": "Golf",
-      "title": "Featured Group - Day 1",
-      "tournament": "Austin Championship 2026",
-      "match_id": "4250881",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 12-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Football",
       "title": "Barcelona Women vs Arsenal Women",
