@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:45:58 AM 14-11-2026",
+  "last update time": "12:50:59 AM 14-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Leganes vs Burgos CF",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4250592",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 AM 14-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1794380803687/4250592_CASACARDS_APP.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Golf",
       "title": "World Feed - Day 2",
