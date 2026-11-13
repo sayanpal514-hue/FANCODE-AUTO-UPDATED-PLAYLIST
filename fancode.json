@@ -1,48 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:55:58 AM 14-11-2026",
+  "last update time": "05:00:58 AM 14-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "New South Wales vs South Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249671",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria vs Western Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249672",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Queensland vs Tasmania",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249673",
-      "status": "LIVE",
-      "startTime": "05:30:00 AM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Golf",
-      "title": "Featured Groups - Day 2",
-      "tournament": "Austin Championship 2026",
-      "match_id": "4250882",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 13-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Badminton",
       "title": "Semi-Final",
