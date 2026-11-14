@@ -1,27 +1,40 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:00:58 PM 14-11-2026",
+  "last update time": "11:05:58 PM 14-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Brighton and Hove Albion Women vs Liverpool Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4250765",
-      "status": "UPCOMING",
-      "startTime": "10:45:00 PM 14-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250765_53038_BHA-W_LIV-W_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Football",
       "title": "Fleetwood Town vs Tranmere Rovers",
       "tournament": "League Two 2026-27",
       "match_id": "4250002",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:00:00 PM 14-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/240p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/360p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/480p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/540p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/720p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM"
+          },
+          "cookie": "hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM",
+          "expires": "1794763491",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -371,6 +384,26 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 16-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Tiafoe_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Tennis",
+      "title": "Men's Doubles",
+      "tournament": "Nitto ATP Finals 2026",
+      "match_id": "4250931",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 16-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies A vs England Lions",
+      "tournament": "England Lions tour of West Indies, 2026",
+      "match_id": "4250210",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 16-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
       "language": "ENGLISH"
     },
     {
