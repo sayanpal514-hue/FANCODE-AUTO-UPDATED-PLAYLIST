@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:45:58 PM 18-11-2026",
+  "last update time": "11:50:58 PM 18-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "BK Häcken Women vs Manchester City Women",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249504",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 18-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249504_53078_BKH-W_MCI-W_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Real Madrid Women vs Inter Women",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249505",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 18-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249505_53078_RM-W_INT-W_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Tennis",
       "title": "F. Cobolli vs F. Tiafoe",
