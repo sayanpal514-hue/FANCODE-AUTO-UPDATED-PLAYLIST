@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:45:58 PM 19-11-2026",
+  "last update time": "04:50:58 PM 19-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Sudurpaschim Royals vs Chitwan Rhinos",
-      "tournament": "Nepal Premier League Season 3, 2026",
-      "match_id": "4250385",
-      "status": "UPCOMING",
-      "startTime": "04:45:00 PM 19-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250365_53124_SPR_CWR_fc-Web_1793616701602.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Motorsports",
       "title": "Race 1 - Trofeo Pirelli",
