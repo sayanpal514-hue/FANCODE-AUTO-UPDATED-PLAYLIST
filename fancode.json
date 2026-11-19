@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:05:58 PM 19-11-2026",
+  "last update time": "09:10:59 PM 19-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "OCA Strikers Women vs Danube Titans  Women",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": "4250899",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 19-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Golf",
       "title": "Day 1 - World Feed",
