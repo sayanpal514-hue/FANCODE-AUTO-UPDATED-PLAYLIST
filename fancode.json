@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:45:58 AM 19-11-2026",
+  "last update time": "06:50:58 AM 19-11-2026",
   "matches": [
-    {
-      "category": "Badminton",
-      "title": "Round of 16",
-      "tournament": "BWF Super 500 - LI-NING Hong Kong Open 2026",
-      "match_id": "4250634",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 AM 19-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Hobart Hurricanes Women vs Perth Scorchers Women",
