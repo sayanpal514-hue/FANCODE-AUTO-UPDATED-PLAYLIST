@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:05:58 PM 19-11-2026",
+  "last update time": "01:10:58 PM 19-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -371,16 +371,6 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 PM 20-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250964_53025_AAS_ANF_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh vs South Africa",
-      "tournament": "Bangladesh tour of South Africa, 2026",
-      "match_id": "4250650",
-      "status": "PAUSED",
-      "startTime": "01:30:00 PM 15-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_Test_fc-web_1794644019035.jpg",
       "language": "ENGLISH"
     }
   ]
