@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "02:20:58 PM 20-11-2026",
+  "last update time": "02:25:58 PM 20-11-2026",
   "matches": [
-    {
-      "category": "MotoGP",
-      "title": "Day 1",
-      "tournament": "REPSOL GRAND PRIX OF PORTUGAL 2026",
-      "match_id": "139984",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/REPSOL-GRAND-PRIX-OF-PORTUGAL_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race 2 - Coppa Shell",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": "4251123",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old_1794390200647.-psd.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Pakistan Women vs Ireland Women",
