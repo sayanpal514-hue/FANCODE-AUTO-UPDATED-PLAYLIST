@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:20:58 AM 20-11-2026",
+  "last update time": "09:25:58 AM 20-11-2026",
   "matches": [
-    {
-      "category": "Formula 1",
-      "title": "Practice 2",
-      "tournament": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
-      "match_id": "139518",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794537926.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Scotland Women vs Netherlands Women",
