@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "01:15:58 AM 21-11-2026",
+  "last update time": "01:20:58 AM 21-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Barnsley FC vs Sheffield Wednesday F.C.",
-      "tournament": "League One 2026-27",
-      "match_id": "4249806",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 21-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1795191525288/4249806_CASACARDS_APP.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Formula 1",
       "title": "Practice 3",
