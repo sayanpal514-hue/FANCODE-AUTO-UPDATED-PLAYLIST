@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:20:58 PM 20-11-2026",
+  "last update time": "06:25:58 PM 20-11-2026",
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "C. Alcaraz vs F. Cobolli",
-      "tournament": "Nitto ATP Finals 2026",
-      "match_id": "4250942",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/C.-Alcaraz-vs-F.-Cobolli-web.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Rome Gladiators vs Napoli Knights",
