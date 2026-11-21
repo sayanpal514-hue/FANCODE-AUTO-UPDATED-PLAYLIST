@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:55:58 AM 21-11-2026",
+  "last update time": "06:00:58 AM 21-11-2026",
   "matches": [
-    {
-      "category": "Formula 1",
-      "title": "Practice 3",
-      "tournament": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
-      "match_id": "139519",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 AM 21-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794537926.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Hobart Hurricanes Women vs Sydney Thunder Women",
