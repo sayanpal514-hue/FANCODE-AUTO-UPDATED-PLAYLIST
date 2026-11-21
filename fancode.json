@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:50:58 AM 22-11-2026",
+  "last update time": "04:55:58 AM 22-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Queensland vs New South Wales",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249674",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 AM 22-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249674_53087_NSW_QUN_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Motorsports",
       "title": "Feature Race",
