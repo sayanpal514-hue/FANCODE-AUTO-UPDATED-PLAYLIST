@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:30:58 AM 21-11-2026",
+  "last update time": "07:35:58 AM 21-11-2026",
   "matches": [
-    {
-      "category": "Motorsports",
-      "title": "Reverse Race",
-      "tournament": "F1 ACADEMY LAS VEGAS 2026",
-      "match_id": "139702",
-      "status": "UPCOMING",
-      "startTime": "07:45:00 AM 21-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-LAS-VEGAS-2026_web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Formula 1",
       "title": "Qualifying",
