@@ -1,28 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "11:20:58 AM 21-11-2026",
+  "last update time": "11:25:58 AM 21-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Central Coast Mariners vs Perth Glory",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249860",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 21-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249860_53101_CCM_PG_fc-Web_1792223292229.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Muscat Shaheens  Women vs Sohar Smashers Women",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": "4250903",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 21-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Australia vs England",
@@ -49,7 +29,7 @@
       "tournament": "A-League 2026-27",
       "match_id": "4249861",
       "status": "UPCOMING",
-      "startTime": "02:15:00 PM 21-11-2026",
+      "startTime": "02:10:00 PM 21-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249861_53101_BRB_SYD_fc-Web_1792223292262.jpg",
       "language": "ENGLISH"
     },
