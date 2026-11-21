@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:20:58 AM 21-11-2026",
+  "last update time": "06:25:58 AM 21-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Sydney Thunder Women vs Hobart Hurricanes Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250415",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 AM 21-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250415_53125_HB-W_ST-W_fc-web_1793352702023.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Badminton",
       "title": "Semi-Final 1",
