@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:50:59 PM 23-11-2026",
+  "last update time": "04:55:58 PM 23-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Rome Gladiators vs Venice Livewires",
-      "tournament": "Italia T10 2026",
-      "match_id": "4251140",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 23-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251140_53165_RG_VL_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Milan Icons vs Napoli Knights",
