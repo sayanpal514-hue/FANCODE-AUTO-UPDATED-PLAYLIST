@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:45:58 AM 24-11-2026",
+  "last update time": "12:50:58 AM 24-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Ceuta vs Almería",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4250754",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 AM 24-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1794380803724/4250754_CASACARDS_APP.png",
-      "language": "ENGLISH"
-    },
     {
       "category": "Football",
       "title": "Levante vs Elche CF",
