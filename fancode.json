@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "04:10:58 PM 23-11-2026",
+  "last update time": "04:15:58 PM 23-11-2026",
   "matches": [
-    {
-      "category": "Live Events",
-      "title": "Auction",
-      "tournament": "Haridwar T20 Auction 2026",
-      "match_id": "4251173",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 23-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Haridwar-T20-League-Auction_WEB.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Rome Gladiators vs Venice Livewires",
@@ -361,6 +351,16 @@
       "status": "PAUSED",
       "startTime": "05:00:00 AM 22-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249674_53087_NSW_QUN_FC-WEB.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Tasmania vs Western Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249675",
+      "status": "PAUSED",
+      "startTime": "08:00:00 AM 23-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
       "language": "ENGLISH"
     }
   ]
