@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:45:58 PM 24-11-2026",
+  "last update time": "06:50:58 PM 24-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Brescia Lions vs Venice Livewires",
-      "tournament": "Italia T10 2026",
-      "match_id": "4251143",
-      "status": "UPCOMING",
-      "startTime": "06:45:00 PM 24-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251143_53165_BL_VL_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Football",
       "title": "East Bengal FC vs Al Hussein",
