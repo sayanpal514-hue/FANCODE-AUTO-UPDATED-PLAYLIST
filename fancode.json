@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:10:57 AM 26-11-2026",
+  "last update time": "05:15:57 AM 26-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -391,16 +391,6 @@
       "status": "PAUSED",
       "startTime": "08:00:00 AM 23-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "South Australia vs Victoria",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249676",
-      "status": "PAUSED",
-      "startTime": "05:30:00 AM 24-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg",
       "language": "ENGLISH"
     }
   ]
