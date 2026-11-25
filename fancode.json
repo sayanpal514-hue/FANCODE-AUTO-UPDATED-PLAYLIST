@@ -1,48 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "10:00:57 PM 25-11-2026",
+  "last update time": "10:05:57 PM 25-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Kuwait SC vs Al Wahda",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249018",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 25-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249018_53057_KSC_ALW_fc-web_1789025066666.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Al Jazira vs Golgohar Sirjan SC",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249019",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 25-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249019_53057_ALJ_GGS_fc-web_1789025065901.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Al Muharraq vs FK Arkadag",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249020",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 25-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249020_53057_ALM_ARK_fc-web_1789025065762.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Al Faisaly vs Al Rayyan",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249021",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 25-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249021_53057_ALF_RAY_fc-web_1789025065904.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Football",
       "title": "Al-Taawoun FC vs Al-Nahda Club",
@@ -301,6 +261,16 @@
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 27-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "F2 QATAR 2026",
+      "match_id": "139658",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 27-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
