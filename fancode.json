@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:55:58 PM 25-11-2026",
+  "last update time": "09:00:59 PM 25-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "OCA Invincibles Women vs Muscat Shaheens  Women",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": "4250909",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 25-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Football",
       "title": "Kuwait SC vs Al Wahda",
