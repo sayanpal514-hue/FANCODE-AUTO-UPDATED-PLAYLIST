@@ -1,38 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "05:50:57 PM 26-11-2026",
+  "last update time": "05:55:57 PM 26-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "BG Pathum United vs Lion City Sailors",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249027",
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 26-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249027_53057_PNU_LIO_fc-web_1789025065671.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Tai Po FC vs Adelaide United",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249028",
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 26-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249028_53057_WTP_ADL_fc-web_1789025066041.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Preah Khan Reach Svay Rieng FC vs Machida Zelvia",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249030",
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 26-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249030_53057_PRK_MZ_fc-web_1789025065494.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Golf",
       "title": "Day 1",
