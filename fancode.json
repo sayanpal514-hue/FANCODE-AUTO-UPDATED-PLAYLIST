@@ -1,48 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:50:57 PM 26-11-2026",
+  "last update time": "03:55:57 PM 26-11-2026",
   "matches": [
-    {
-      "category": "Football",
-      "title": "Tampines Rovers FC vs Shanghai Shenhua",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249029",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 26-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249029_53057_TAM_SHN_fc-web_1789025066882.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Gangwon FC vs Kitchee SC",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249031",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 26-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249031_53057_GW_KIT_fc-web_1789025066245.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Kuching City FC vs Phnom Penh Crown",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4249032",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 26-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249032_53057_KFC_PPC_fc-web_1789025065868.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Royal Oman Stallions vs Mustafa Fragrance House Strikers",
-      "tournament": "Oman D20 2026",
-      "match_id": "4251086",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 26-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251086_53163_ROS_MFR_fc-web.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Rome Gladiators vs Napoli Knights",
@@ -351,6 +311,36 @@
       "status": "UPCOMING",
       "startTime": "10:10:00 AM 28-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250423_53125_MR-W_MS-W_fc-web_1793352702065.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Majees Titans vs Mustafa Fragrance House Strikers",
+      "tournament": "Oman D20 2026",
+      "match_id": "4251088",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 28-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251104_53163_MAT_MFR_fc-web.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "Sydney Thunder Women vs Sydney Sixers Women",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250424",
+      "status": "UPCOMING",
+      "startTime": "01:40:00 PM 28-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250424_53125_ST-W_SS-W_fc-web_1793352702043.jpg",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Cricket",
+      "title": "South Australia vs Victoria",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249676",
+      "status": "PAUSED",
+      "startTime": "05:30:00 AM 24-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg",
       "language": "ENGLISH"
     }
   ]
