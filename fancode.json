@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "08:05:57 AM 26-11-2026",
+  "last update time": "08:10:57 AM 26-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -381,16 +381,6 @@
       "status": "UPCOMING",
       "startTime": "10:10:00 AM 28-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250423_53125_MR-W_MS-W_fc-web_1793352702065.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs Western Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249675",
-      "status": "PAUSED",
-      "startTime": "08:00:00 AM 23-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
       "language": "ENGLISH"
     }
   ]
