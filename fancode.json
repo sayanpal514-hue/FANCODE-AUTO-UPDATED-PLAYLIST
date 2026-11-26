@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "06:55:57 PM 26-11-2026",
+  "last update time": "07:00:57 PM 26-11-2026",
   "matches": [
     {
       "category": "Cricket",
@@ -95,7 +95,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Ghubra Giants Women vs OCA Invincibles Women",
+      "title": "Ghubra Giants Women vs OCA Strikers Women",
       "tournament": "Oman Women's D20, 2026",
       "match_id": "4250911",
       "status": "UPCOMING",
@@ -305,7 +305,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Sohar Smashers Women vs OCA Invincibles Women",
+      "title": "Sohar Smashers Women vs Ghubra Giants Women",
       "tournament": "Oman Women's D20, 2026",
       "match_id": "4250913",
       "status": "UPCOMING",
@@ -321,6 +321,16 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 28-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250971_53025_HAZ_ANF_FC-Web_1795077036196.png",
+      "language": "ENGLISH"
+    },
+    {
+      "category": "Football",
+      "title": "Preston North End F.C. vs Norwich City F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4250017",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 28-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg",
       "language": "ENGLISH"
     },
     {
