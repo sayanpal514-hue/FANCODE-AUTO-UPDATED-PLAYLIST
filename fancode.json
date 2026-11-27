@@ -1,9 +1,9 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:40:57 PM 27-11-2026",
-  "total_matches": 38,
-  "live_matches": 4,
+  "last update time": "07:45:57 PM 27-11-2026",
+  "total_matches": 39,
+  "live_matches": 5,
   "upcoming_matches": 34,
   "matches": [
     {
@@ -541,6 +541,32 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Adelaide Strikers Women vs Hobart Hurricanes Women (Women's Big Bash League, 2026)",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250426",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 AM 29-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250426_53125_AS-W_HB-W_fc-web_1793352701264.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
       "category": "Golf",
       "title": "Day 2",
       "tournament": null,
@@ -679,16 +705,16 @@
     },
     {
       "category": "Football",
-      "title": "Al-Qadsiah FC vs Al-Fayha FC (Roshn Saudi League 2026-2027)",
-      "tournament": "Roshn Saudi League 2026-2027",
+      "title": "Al Qadsiah Fc Vs Al Fayha Fc",
+      "tournament": null,
       "match_id": "4250969",
-      "status": "UPCOMING",
-      "startTime": "07:50:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250969_53025_ALQ_ALF_FC-Web_1795077036138.png",
+      "status": "LIVE",
+      "startTime": null,
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250969_53025_ALQ_ALF_FC-App_1795077050712.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
+        "primary": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": null,
         "fancode_np_cdn": null,
         "fancode_lk_cdn": null,
@@ -696,7 +722,14 @@
       },
       "auto_streams": {
         "ENGLISH": {
-          "streams": {},
+          "streams": {
+            "240p": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/1080p.m3u8"
+          },
           "cookie": null,
           "expires": null,
           "expire_date": null
