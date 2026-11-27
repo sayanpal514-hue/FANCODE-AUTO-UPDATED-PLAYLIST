@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:35:57 PM 27-11-2026",
+  "last update time": "03:40:57 PM 27-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Perth Scorchers Women vs Hobart Hurricanes Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250422",
-      "status": "UPCOMING",
-      "startTime": "03:40:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Cricket",
       "title": "Ghubra Giants Women vs OCA Strikers Women",
