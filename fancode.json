@@ -1,357 +1,142 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:20:57 PM 27-11-2026",
+  "last update time": "07:25:57 PM 27-11-2026",
+  "total_matches": 4,
+  "live_matches": 4,
+  "upcoming_matches": 0,
   "matches": [
     {
-      "category": "Football",
-      "title": "Al-Qadsiah FC vs Al-Fayha FC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250969",
-      "status": "UPCOMING",
-      "startTime": "07:50:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250969_53025_ALQ_ALF_FC-Web_1795077036138.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Sharjah Warriorz vs Dubai Capitals",
-      "tournament": "DP World ILT20 2026",
-      "match_id": "4251056",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251056_53162_SW_DC_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F2 QATAR 2026",
-      "match_id": "139659",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Wadi Kabir Royals Women vs Muscat Shaheens  Women",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": "4250912",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH"
-    },
-    {
       "category": "Formula 1",
-      "title": "Practice 2",
-      "tournament": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
-      "match_id": "139523",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 27-11-2026",
+      "title": "Practice 1",
+      "tournament": null,
+      "match_id": "139522",
+      "status": "LIVE",
+      "startTime": null,
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ittihad vs Neom SC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250970",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250970_53025_ITT_NEOM_FC-Web_1795077036094.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Leganes vs CE Sabadell",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4251117",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 AM 28-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1795678540541/4251117_CASACARDS_APP.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Levante vs Racing Club de Santander",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247705",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247705_53004_LET_RAC_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Southampton F.C. vs Middlesbrough F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4250016",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250016_52993_SOU_MIDD_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/1080p.m3u8"
+          },
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
     },
     {
       "category": "Cricket",
-      "title": "Melbourne Renegades Women vs Melbourne Stars Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250423",
-      "status": "UPCOMING",
-      "startTime": "10:10:00 AM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250423_53125_MR-W_MS-W_fc-web_1793352702065.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Majees Titans vs Mustafa Fragrance House Strikers",
-      "tournament": "Oman D20 2026",
-      "match_id": "4251088",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251104_53163_MAT_MFR_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "MotoGP",
-      "title": "Day 2",
-      "tournament": "MOTUL GRAND PRIX OF VALENCIA 2026",
-      "match_id": "139988",
-      "status": "UPCOMING",
-      "startTime": "01:10:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Sydney Thunder Women vs Sydney Sixers Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250424",
-      "status": "UPCOMING",
-      "startTime": "01:40:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250424_53125_ST-W_SS-W_fc-web_1793352702043.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Central Coast Mariners vs Auckland",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249864",
-      "status": "UPCOMING",
-      "startTime": "02:10:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249864_53101_CCM_AFC_fc-Web_1792223292223.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "MI Emirates vs Desert Vipers",
-      "tournament": "DP World ILT20 2026",
-      "match_id": "4251057",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Italia T10 2026",
-      "match_id": "4251150",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Sohar Smashers Women vs Ghubra Giants Women",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": "4250913",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Al-Hazem FC vs Al-Nassr FC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250971",
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250971_53025_HAZ_ANF_FC-Web_1795077036196.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Preston North End F.C. vs Norwich City F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4250017",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Italia T10 2026",
-      "match_id": "4251151",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Real Betis vs Rayo Vallecano",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247698",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247698_53004_RB_RVL_FC-Web.png",
-      "language": "ENGLISH"
+      "title": "Perth Scorchers Women Vs Hobart Hurricanes Women",
+      "tournament": null,
+      "match_id": "4250422",
+      "status": "LIVE",
+      "startTime": null,
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
     },
     {
       "category": "Golf",
-      "title": "Day 3",
-      "tournament": "Andalucia Costa Del Sol Open De Espana 2026",
-      "match_id": "4250888",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 28-11-2026",
+      "title": "Day 2",
+      "tournament": null,
+      "match_id": "4250887",
+      "status": "LIVE",
+      "startTime": null,
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ettifaq vs Al Hilal SFC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250972",
-      "status": "UPCOMING",
-      "startTime": "07:50:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250972_53025_ETT_AHS_FC-Web_1795077036853.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 3",
-      "tournament": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
-      "match_id": "139524",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Gulf Giants vs Dubai Capitals",
-      "tournament": "DP World ILT20 2026",
-      "match_id": "4251058",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251058_53162_GG_DC_FC-WEB.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "West Bromwich Albion F.C. vs Bristol City F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4250018",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250018_52993_WBA_BRI_fc-web.jpg",
-      "language": "ENGLISH"
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
     },
     {
       "category": "Cricket",
-      "title": "Muscat Thunders Women vs OCA Invincibles Women",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": "4250914",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Malaga vs Athletic Club",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247707",
-      "status": "UPCOMING",
-      "startTime": "08:45:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247707_53004_MAG_ATH_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F2 QATAR 2026",
-      "match_id": "139660",
-      "status": "UPCOMING",
-      "startTime": "09:45:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Elche CF vs Atletico de Madrid",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247703",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247703_53004_ELC_ATM_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al-Taawoun FC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250973",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250973_53025_AAS_ALTW_FC-Web_1795077037132.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Eibar vs Burgos CF",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4251118",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 28-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1795678540540/4251118_CASACARDS_APP.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
-      "match_id": "139525",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Football",
-      "title": "Real Madrid vs Deportivo Alaves",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247704",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 29-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247704_53004_RM_ALA_FC-Web.png",
-      "language": "ENGLISH"
-    },
-    {
-      "category": "Cricket",
-      "title": "Brisbane Heat Women vs Perth Scorchers Women",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": "4250425",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 AM 29-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250425_53125_BH-W_PS-W_fc-web_1793352701220.jpg",
-      "language": "ENGLISH"
+      "title": "Sharjah Warriorz Vs Dubai Capitals",
+      "tournament": null,
+      "match_id": "4251056",
+      "status": "LIVE",
+      "startTime": null,
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4251056_53162_SW_DC_FC-APP.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
     }
   ]
 }
