@@ -1,18 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "03:45:57 PM 27-11-2026",
+  "last update time": "03:50:57 PM 27-11-2026",
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Ghubra Giants Women vs OCA Strikers Women",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": "4250911",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH"
-    },
     {
       "category": "Motorsports",
       "title": "Practice Session",
