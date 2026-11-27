@@ -1,10 +1,10 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "07:25:57 PM 27-11-2026",
-  "total_matches": 4,
+  "last update time": "07:30:50 PM 27-11-2026",
+  "total_matches": 38,
   "live_matches": 4,
-  "upcoming_matches": 0,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Formula 1",
@@ -15,6 +15,16 @@
       "startTime": null,
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg",
       "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#KODIPROP:inputstream=inputstream.adaptive",
+        "#KODIPROP:inputstream.adaptive.manifest_type=mpd",
+        "#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha",
+        "#KODIPROP:inputstream.adaptive.license_key={\"keys\":[{\"k\":\"2P32m1lxDopZS0mCGTFiVg\",\"kid\":\"qytBljj_QH2iERJQz9-yhg\",\"kty\":\"oct\"}],\"type\":\"temporary\"}",
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/index.mpd",
         "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139522_english_dash_74118_1drmta-di_h264/index.mpd",
@@ -40,6 +50,486 @@
       }
     },
     {
+      "category": "Upcoming Matches",
+      "title": "Practice 2 vs Lusail International Circuit (F1 QATAR AIRWAYS QATAR GRAND PRIX 2026)",
+      "tournament": null,
+      "match_id": "139523",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 27-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Practice 3 vs Lusail International Circuit (F1 QATAR AIRWAYS QATAR GRAND PRIX 2026)",
+      "tournament": null,
+      "match_id": "139524",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Qualifying vs Lusail International Circuit (F1 QATAR AIRWAYS QATAR GRAND PRIX 2026)",
+      "tournament": null,
+      "match_id": "139525",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Qualifying Session vs Lusail International Circuit (F2 QATAR 2026)",
+      "tournament": null,
+      "match_id": "139659",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 27-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Sprint Race vs Lusail International Circuit (F2 QATAR 2026)",
+      "tournament": null,
+      "match_id": "139660",
+      "status": "UPCOMING",
+      "startTime": "09:45:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Day 2 vs Cheste (MOTUL GRAND PRIX OF VALENCIA 2026)",
+      "tournament": null,
+      "match_id": "139988",
+      "status": "UPCOMING",
+      "startTime": "01:10:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Real Betis vs Rayo Vallecano (LALIGA 2026-27)",
+      "tournament": null,
+      "match_id": "4247698",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Elche CF vs Atletico de Madrid (LALIGA 2026-27)",
+      "tournament": null,
+      "match_id": "4247703",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Real Madrid vs Deportivo Alaves (LALIGA 2026-27)",
+      "tournament": null,
+      "match_id": "4247704",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 29-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Levante vs Racing Club de Santander (LALIGA 2026-27)",
+      "tournament": null,
+      "match_id": "4247705",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Malaga vs Athletic Club (LALIGA 2026-27)",
+      "tournament": null,
+      "match_id": "4247707",
+      "status": "UPCOMING",
+      "startTime": "08:45:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Central Coast Mariners vs Auckland (A-League 2026-27)",
+      "tournament": null,
+      "match_id": "4249864",
+      "status": "UPCOMING",
+      "startTime": "02:10:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Southampton F.C. vs Middlesbrough F.C. (EFL Championship 2026-27)",
+      "tournament": null,
+      "match_id": "4250016",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Preston North End F.C. vs Norwich City F.C. (EFL Championship 2026-27)",
+      "tournament": null,
+      "match_id": "4250017",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "West Bromwich Albion F.C. vs Bristol City F.C. (EFL Championship 2026-27)",
+      "tournament": null,
+      "match_id": "4250018",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Perth Scorchers Women Vs Hobart Hurricanes Women",
       "tournament": null,
@@ -48,6 +538,8 @@
       "startTime": null,
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg",
       "language": "ENGLISH",
+      "type": "hls",
+      "props": [],
       "streams": {
         "primary": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8",
@@ -73,6 +565,102 @@
       }
     },
     {
+      "category": "Upcoming Matches",
+      "title": "Melbourne Renegades Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
+      "tournament": null,
+      "match_id": "4250423",
+      "status": "UPCOMING",
+      "startTime": "10:10:00 AM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Sydney Thunder Women vs Sydney Sixers Women (Women's Big Bash League, 2026)",
+      "tournament": null,
+      "match_id": "4250424",
+      "status": "UPCOMING",
+      "startTime": "01:40:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Brisbane Heat Women vs Perth Scorchers Women (Women's Big Bash League, 2026)",
+      "tournament": null,
+      "match_id": "4250425",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 AM 29-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
       "category": "Golf",
       "title": "Day 2",
       "tournament": null,
@@ -81,6 +669,8 @@
       "startTime": null,
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
       "language": "ENGLISH",
+      "type": "hls",
+      "props": [],
       "streams": {
         "primary": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8",
@@ -106,6 +696,294 @@
       }
     },
     {
+      "category": "Upcoming Matches",
+      "title": "Day 3 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
+      "tournament": null,
+      "match_id": "4250888",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Wadi Kabir Royals Women vs Muscat Shaheens  Women (Oman Women's D20, 2026)",
+      "tournament": null,
+      "match_id": "4250912",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 27-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Sohar Smashers Women vs Ghubra Giants Women (Oman Women's D20, 2026)",
+      "tournament": null,
+      "match_id": "4250913",
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Muscat Thunders Women vs OCA Invincibles Women (Oman Women's D20, 2026)",
+      "tournament": null,
+      "match_id": "4250914",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Al-Qadsiah FC vs Al-Fayha FC (Roshn Saudi League 2026-2027)",
+      "tournament": null,
+      "match_id": "4250969",
+      "status": "UPCOMING",
+      "startTime": "07:50:00 PM 27-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Al-Ittihad vs Neom SC (Roshn Saudi League 2026-2027)",
+      "tournament": null,
+      "match_id": "4250970",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 27-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Al-Hazem FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+      "tournament": null,
+      "match_id": "4250971",
+      "status": "UPCOMING",
+      "startTime": "05:45:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Al-Ettifaq vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
+      "tournament": null,
+      "match_id": "4250972",
+      "status": "UPCOMING",
+      "startTime": "07:50:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Al-Ahli Saudi FC vs Al-Taawoun FC (Roshn Saudi League 2026-2027)",
+      "tournament": null,
+      "match_id": "4250973",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Sharjah Warriorz Vs Dubai Capitals",
       "tournament": null,
@@ -114,6 +992,12 @@
       "startTime": null,
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4251056_53162_SW_DC_FC-APP.jpg",
       "language": "ENGLISH",
+      "type": "hls",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
       "streams": {
         "primary": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8",
@@ -124,14 +1008,231 @@
       },
       "auto_streams": {
         "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/1080p.m3u8"
-          },
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "MI Emirates vs Desert Vipers (DP World ILT20 2026)",
+      "tournament": null,
+      "match_id": "4251057",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Gulf Giants vs Dubai Capitals (DP World ILT20 2026)",
+      "tournament": null,
+      "match_id": "4251058",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Majees Titans vs Mustafa Fragrance House Strikers (Oman D20 2026)",
+      "tournament": null,
+      "match_id": "4251088",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Leganes vs CE Sabadell (LALIGA Hypermotion 2026-27)",
+      "tournament": null,
+      "match_id": "4251117",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 AM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "Eibar vs Burgos CF (LALIGA Hypermotion 2026-27)",
+      "tournament": null,
+      "match_id": "4251118",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "TBC vs TBC (Italia T10 2026)",
+      "tournament": null,
+      "match_id": "4251150",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
+          "cookie": null,
+          "expires": null,
+          "expire_date": null
+        }
+      }
+    },
+    {
+      "category": "Upcoming Matches",
+      "title": "TBC vs TBC (Italia T10 2026)",
+      "tournament": null,
+      "match_id": "4251151",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 28-11-2026",
+      "image": "",
+      "language": "ENGLISH",
+      "type": "mpd",
+      "props": [
+        "#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
+        "#EXTVLCOPT:http-referrer=https://fancode.com/",
+        "#EXTHTTP:{\"user-agent\":\"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1\",\"referer\":\"https://fancode.com/\"}"
+      ],
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": null,
+        "fancode_np_cdn": null,
+        "fancode_lk_cdn": null,
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {},
           "cookie": null,
           "expires": null,
           "expire_date": null
