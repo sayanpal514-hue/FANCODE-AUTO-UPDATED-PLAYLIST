@@ -1,13 +1,10 @@
 #EXTM3U
-#DATE:- 27-11-2026 20:40
+#DATE:- 27-11-2026 20:45
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1 tvg-id="139659" tvg-name="Qualifying Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" tvg-language="English" group-title="Motorsports",ENG | Qualifying Session
 https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250422" tvg-name="Perth Scorchers Women Vs Hobart Hurricanes Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg" tvg-language="English" group-title="Cricket",ENG | Perth Scorchers Women Vs Hobart Hurricanes Women
-https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250887" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Golf",ENG | Day 2
 https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
