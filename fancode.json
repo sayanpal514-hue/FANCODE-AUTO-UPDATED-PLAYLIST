@@ -1,44 +1,11 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "09:20:57 PM 27-11-2026",
-  "total_matches": 5,
-  "live_matches": 5,
+  "last update time": "09:25:57 PM 27-11-2026",
+  "total_matches": 4,
+  "live_matches": 4,
   "upcoming_matches": 0,
   "matches": [
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": null,
-      "match_id": "139659",
-      "status": "LIVE",
-      "startTime": null,
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": null,
-        "fancode_np_cdn": null,
-        "fancode_lk_cdn": null,
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/1080p.m3u8"
-          },
-          "cookie": null,
-          "expires": null,
-          "expire_date": null
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Day 2",
