@@ -1,10 +1,7 @@
 #EXTM3U
-#DATE:- 27-11-2026 21:35
+#DATE:- 27-11-2026 21:40
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1 tvg-id="4250887" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Golf",ENG | Day 2
-https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250912" tvg-name="Wadi Kabir Royals Women Vs Muscat Shaheens  Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="Cricket",ENG | Wadi Kabir Royals Women Vs Muscat Shaheens  Women
 https://in-mc-vod.fancode.com/mumbai/4250912_english_hls_ec5b6fa4b856063_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
