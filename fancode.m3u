@@ -1,10 +1,7 @@
 #EXTM3U
-#DATE:- 29-11-2026 00:55
+#DATE:- 29-11-2026 01:00
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1 tvg-id="139525" tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg" tvg-language="English" group-title="Formula 1",ENG | Qualifying
-https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250973" tvg-name="Al Ahli Saudi Fc Vs Al Taawoun Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250973_53025_AAS_ALTW_FC-App_1795077051519.png" tvg-language="English" group-title="Football",ENG | Al Ahli Saudi Fc Vs Al Taawoun Fc
 https://in-mc-vod.fancode.com/mumbai/4250973_english_hls_357cacc57522237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
