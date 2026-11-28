@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 28-11-2026 20:25
+#DATE:- 28-11-2026 20:30
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -15,8 +15,14 @@ https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247707_english_390345/ad-drm-
 #EXTINF:-1 tvg-id="4250017" tvg-name="Preston North End F.c. Vs Norwich City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Preston North End F.c. Vs Norwich City F.c.
 https://in-mc-vod.fancode.com/mumbai/4250017_english_hls_0f3078357e4413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250018" tvg-name="West Bromwich Albion F.c. Vs Bristol City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250018_52993_WBA_BRI_fc-web.jpg" tvg-language="English" group-title="Football",ENG | West Bromwich Albion F.c. Vs Bristol City F.c.
+https://in-mc-vod.fancode.com/mumbai/4250018_english_hls_063cc6e05f15313_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="4250888" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Golf",ENG | Day 3
 https://in-mc-vod.fancode.com/mumbai/4250888_english_hls_2b8e33f44e79993_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250914" tvg-name="Muscat Thunders Women Vs Oca Invincibles Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="Cricket",ENG | Muscat Thunders Women Vs Oca Invincibles Women
+https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250971" tvg-name="Al Hazem Fc Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250971_53025_HAZ_ANF_FC-App_1795077051519.png" tvg-language="English" group-title="Football",ENG | Al Hazem Fc Vs Al Nassr Fc
 https://in-mc-vod.fancode.com/mumbai/4250971_english_hls_3f6d3e461972940_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
