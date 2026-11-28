@@ -1,16 +1,10 @@
 #EXTM3U
-#DATE:- 28-11-2026 22:55
+#DATE:- 28-11-2026 23:00
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
-#EXTINF:-1 tvg-id="139660" tvg-name="Sprint Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" tvg-language="English" group-title="Motorsports",ENG | Sprint Race
-https://in-mc-flive.fancode.com/mumbai/139660_english_dash_23323_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #EXTINF:-1 tvg-id="4247707" tvg-name="Malaga Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247707_53004_MAG_ATH_FC-Web.png" tvg-language="English" group-title="Football",ENG | Malaga Vs Athletic Club
 https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247707_english_390345/ad-drm-h264/master.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250017" tvg-name="Preston North End F.c. Vs Norwich City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Preston North End F.c. Vs Norwich City F.c.
-https://in-mc-vod.fancode.com/mumbai/4250017_english_hls_0f3078357e4413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250888" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Golf",ENG | Day 3
 https://in-mc-vod.fancode.com/mumbai/4250888_english_hls_2b8e33f44e79993_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -26,6 +20,3 @@ https://in-mc-vod.fancode.com/mumbai/4251058_english_hls_eefd7de0ee19658_1ta-di_
 
 #EXTINF:-1 tvg-id="4251118" tvg-name="Eibar Vs Burgos Cf" tvg-logo="https://images.fancode.com/aig/match/v1795678540540/4251118_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Football",ENG | Eibar Vs Burgos Cf
 https://in-mc-vod.fancode.com/mumbai/4251118_english_hls_b52a318e9f33808_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4251151" tvg-name="Brescia Lions Vs Rome Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brescia-Lions-vs-Rome-Gladiators_web.png" tvg-language="English" group-title="Cricket",ENG | Brescia Lions Vs Rome Gladiators
-https://in-mc-vod.fancode.com/mumbai/4251151_english_hls_acdf23ee4415372_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
