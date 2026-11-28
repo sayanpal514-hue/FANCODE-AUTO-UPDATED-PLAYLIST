@@ -1,7 +1,10 @@
 #EXTM3U
-#DATE:- 28-11-2026 19:50
+#DATE:- 28-11-2026 19:55
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
+
+#EXTINF:-1 tvg-id="139524" tvg-name="Practice 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg" tvg-language="English" group-title="Formula 1",ENG | Practice 3
+https://in-mc-flive.fancode.com/mumbai/139524_english_dash_87060_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4247698" tvg-name="Real Betis Vs Rayo Vallecano" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247698_53004_RB_RVL_FC-Web.png" tvg-language="English" group-title="Football",ENG | Real Betis Vs Rayo Vallecano
 https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247698_english_924643/ad-drm-h264/master.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
