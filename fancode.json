@@ -1,44 +1,11 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:55:57 AM 29-11-2026",
-  "total_matches": 3,
-  "live_matches": 3,
+  "last update time": "01:00:57 AM 29-11-2026",
+  "total_matches": 2,
+  "live_matches": 2,
   "upcoming_matches": 0,
   "matches": [
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": null,
-      "match_id": "139525",
-      "status": "LIVE",
-      "startTime": null,
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": null,
-        "fancode_np_cdn": null,
-        "fancode_lk_cdn": null,
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/1080p.m3u8"
-          },
-          "cookie": null,
-          "expires": null,
-          "expire_date": null
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Al Ahli Saudi Fc Vs Al Taawoun Fc",
