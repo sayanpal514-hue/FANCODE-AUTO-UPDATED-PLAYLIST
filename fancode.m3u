@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 28-11-2026 20:00
+#DATE:- 28-11-2026 20:05
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -23,9 +23,6 @@ https://in-mc-vod.fancode.com/mumbai/4250971_english_hls_3f6d3e461972940_1ta-di_
 
 #EXTINF:-1 tvg-id="4250972" tvg-name="Al Ettifaq Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250972_53025_ETT_AHS_FC-App_1795077051526.png" tvg-language="English" group-title="Football",ENG | Al Ettifaq Vs Al Hilal Sfc
 https://in-mc-vod.fancode.com/mumbai/4250972_english_hls_c2c855bfe850786_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4251057" tvg-name="Mi Emirates Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Mi Emirates Vs Desert Vipers
-https://in-mc-vod.fancode.com/mumbai/4251057_english_hls_532c94c02873604_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4251058" tvg-name="Gulf Giants Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251058_53162_GG_DC_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Gulf Giants Vs Dubai Capitals
 https://in-mc-vod.fancode.com/mumbai/4251058_english_hls_eefd7de0ee19658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
