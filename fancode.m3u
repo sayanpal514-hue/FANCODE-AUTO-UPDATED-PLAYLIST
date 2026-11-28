@@ -1,7 +1,10 @@
 #EXTM3U
-#DATE:- 28-11-2026 21:35
+#DATE:- 28-11-2026 21:40
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
+
+#EXTINF:-1 tvg-id="139660" tvg-name="Sprint Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" tvg-language="English" group-title="Motorsports",ENG | Sprint Race
+https://in-mc-flive.fancode.com/mumbai/139660_english_dash_23323_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4247707" tvg-name="Malaga Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247707_53004_MAG_ATH_FC-Web.png" tvg-language="English" group-title="Football",ENG | Malaga Vs Athletic Club
 https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247707_english_390345/ad-drm-h264/master.mpd|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
