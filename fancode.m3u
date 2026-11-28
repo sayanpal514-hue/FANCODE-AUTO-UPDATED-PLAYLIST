@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 29-11-2026 00:40
+#DATE:- 29-11-2026 00:45
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 
@@ -8,9 +8,6 @@ https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/
 
 #EXTINF:-1 tvg-id="4250973" tvg-name="Al Ahli Saudi Fc Vs Al Taawoun Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250973_53025_AAS_ALTW_FC-App_1795077051519.png" tvg-language="English" group-title="Football",ENG | Al Ahli Saudi Fc Vs Al Taawoun Fc
 https://in-mc-vod.fancode.com/mumbai/4250973_english_hls_357cacc57522237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4251058" tvg-name="Gulf Giants Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251058_53162_GG_DC_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Gulf Giants Vs Dubai Capitals
-https://in-mc-vod.fancode.com/mumbai/4251058_english_hls_eefd7de0ee19658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4251118" tvg-name="Eibar Vs Burgos Cf" tvg-logo="https://images.fancode.com/aig/match/v1795678540540/4251118_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Football",ENG | Eibar Vs Burgos Cf
 https://in-mc-vod.fancode.com/mumbai/4251118_english_hls_b52a318e9f33808_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
