@@ -1,9 +1,9 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "t.me/sportlink10",
-  "last update time": "12:10:57 AM 29-11-2026",
-  "total_matches": 5,
-  "live_matches": 5,
+  "last update time": "12:15:57 AM 29-11-2026",
+  "total_matches": 4,
+  "live_matches": 4,
   "upcoming_matches": 0,
   "matches": [
     {
@@ -32,39 +32,6 @@
             "540p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/540p.m3u8",
             "720p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/720p.m3u8",
             "1080p": "https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/1080p.m3u8"
-          },
-          "cookie": null,
-          "expires": null,
-          "expire_date": null
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Muscat Thunders Women Vs Oca Invincibles Women",
-      "tournament": null,
-      "match_id": "4250914",
-      "status": "LIVE",
-      "startTime": null,
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": null,
-        "fancode_np_cdn": null,
-        "fancode_lk_cdn": null,
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/1080p.m3u8"
           },
           "cookie": null,
           "expires": null,
